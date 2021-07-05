@@ -1,2 +1,0 @@
-# Bangerpk
-Business card.
