@@ -33,7 +33,7 @@
 </div>
 
 <div align="center">
-    <img src="https://komarev.com/ghpvc/?username=Bangerok&color=42a75b&label=PROFILE+VIEWS" height="25" alt="sonar-cloud-bugs" />
+    <img src="https://komarev.com/ghpvc/?username=Bangerok&color=1A4730&label=PROFILE+VIEWS" height="25" alt="sonar-cloud-bugs" />
 </div>
 
 <div align="center">
@@ -56,6 +56,7 @@
 ### ⭐️ Говоря о личном:
 - 🛠 &nbsp; Я сейчас работаю с Java, Spring Boot, микросервисами и т.д.
 - 🚀 &nbsp; Я сейчас изучаю Backend разработку.
+- 🚀 &nbsp; Ты можешь посмотреть мое резюме **[здесь](https://raw.githubusercontent.com/Bangerok/Bangerok/master/docs/resume/%5BRUS%5D%20Kuznetsov%20V.A.%20Java%20Developer.pdf)**.
 - 💬 &nbsp; Спроси меня о чем угодно **[здесь](https://github.com/Bangerok/Bangerok/issues/1)**! Я буду рад помочь.
 
 ### 🌌 Мои хобби (не все):
@@ -80,7 +81,7 @@
 
 ### ⚙️ Еще про разработку:
 <details style="margin-left: 40px">	
-  <summary><b>⚡ Streaks Stats</b></summary>
+  <summary><b>⚡ Github Stats</b></summary>
 
   <br />
   <img alt="stats" src="https://github-readme-stats.vercel.app/api?username=Bangerok&theme=dark&show_icons=true&hide_border=true&hide_title=true" />
@@ -102,4 +103,21 @@
 	    <li><b>IDE:</b> Intellij Idea - the best editor out there;</li>
 	    <li><b>Изучаю, чтобы оставаться в курсе:</b> Google поиск, Books, Habr, Baeldung и Youtube.</li>
 	</ul>	
+
+<pre>
+<code>
+    System Information
+    ------------------------------------------
+    OS: Windows 10
+    Kernel: 1909, Build ver. 18363.418
+    WM: Windows Explorer
+    Shell: powershell
+    Terminal: alacritty 0.7.2
+    Resolution: 1920x1080
+    Theme: Dark
+    CPU: Intel Core i5 2400 @ 2.4GHz
+    GPU: Nvidia GeForce GTX 1050
+    Memory:  3072MB / 12288MB
+</code>
+</pre>
 </details>

@@ -33,7 +33,7 @@
 </div>
 
 <div align="center">
-    <img src="https://komarev.com/ghpvc/?username=Bangerok&color=42a75b&label=PROFILE+VIEWS" height="25" alt="sonar-cloud-bugs" />
+    <img src="https://komarev.com/ghpvc/?username=Bangerok&color=1A4730&label=PROFILE+VIEWS" height="25" alt="sonar-cloud-bugs" />
 </div>
 
 <div align="center">
@@ -56,6 +56,7 @@ represents.
 ### ⭐️ Talking about personal:
 - 🛠 &nbsp; I’m now working with Java, Spring Boot, Microservices, etc.
 - 🚀 &nbsp; I’m now learning Backend Development.
+- 🚀 &nbsp; You can see my resume **[here](https://raw.githubusercontent.com/Bangerok/Bangerok/master/docs/resume/%5BENG%5D%20Kuznetsov%20V.A.%20Java%20Developer.pdf)**.
 - 💬 &nbsp; Ask me about anything **[here](https://github.com/Bangerok/Bangerok/issues/1)**! I’m happy to help.
 
 ### 🌌 My hobbies (not all):
