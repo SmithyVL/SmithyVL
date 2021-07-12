@@ -1,14 +1,14 @@
 <!--suppress HtmlDeprecatedAttribute -->
 <div align="center">
     <h1>
-        Hi there, I'm <a href="https://github.com/Bangerok">Vlad</a>!
+        Привет, я <a href="https://github.com/Bangerok">Влад</a>!
         <img alt="Hi!" src="https://raw.githubusercontent.com/Bangerok/Bangerok/master/assets/hand.gif" width="25px">
     </h1>
 </div>
 
 <div align="center">
-    <a href="https://github.com/Bangerok/Bangerok/blob/master/docs/translations/README_RU.md">
-        <img alt="russian-version" src="https://raw.githubusercontent.com/Bangerok/Bangerok/master/assets/languages/russian.png"/>
+    <a href="https://github.com/Bangerok/Bangerok/blob/master/docs/README.md">
+        <img alt="english-version" src="https://raw.githubusercontent.com/Bangerok/Bangerok/master/assets/languages/english.png"/>
     </a>
 </div>
 
@@ -38,37 +38,37 @@
 
 <div align="center">
     <h3>
-        ⚡ Vladislav Kuznetsov | 💻 Backend [JAVA] Developer | Russia, Kirov 🏰 
+        ⚡ Владислав Кузнецов | 💻 Backend [JAVA] Разработчик | Россия, Киров 🏰 
     </h3>
 </div>
 
 <div align="center" style="margin-bottom: -10px">
-    <i>"I don’t trust people who write SQL queries in uppercase"</i>
+    <i>"Я не доверяю людям, которые пишут SQL-запросы в верхнем регистре"</i>
 </div>
 
-### Glad to see you here! &nbsp;
-I really love programming. This is one of the few activities that gives me peace and the ability to structure and 
-algorithm many aspects of my life so as not to get lost in it. Not in terms of code, but the very approach that it 
-represents.
+### Рад видеть тебя здесь! &nbsp;
+Я очень люблю программировать. Это одно из немногих занятий, которое дает мне умиротворение и способность 
+структурировать и систематизировать многие аспекты моей жизни, чтобы не потеряться в ней. Не с точки зрения кода, 
+а самого подхода, который оно представляет.
 
 <img align="right" alt="profile-gif" src="https://raw.githubusercontent.com/Bangerok/Bangerok/master/assets/profile.gif" />
 
-### ⭐️ Talking about personal:
-- 🛠 &nbsp; I’m now working with Java, Spring Boot, Microservices, etc.
-- 🚀 &nbsp; I’m now learning Backend Development.
-- 💬 &nbsp; Ask me about anything **[here](https://github.com/Bangerok/Bangerok/issues/1)**! I’m happy to help.
+### ⭐️ Говоря о личном:
+- 🛠 &nbsp; Я сейчас работаю с Java, Spring Boot, микросервисами и т.д.
+- 🚀 &nbsp; Я сейчас изучаю Backend разработку.
+- 💬 &nbsp; Спроси меня о чем угодно **[здесь](https://github.com/Bangerok/Bangerok/issues/1)**! Я буду рад помочь.
 
-### 🌌 My hobbies (not all):
-- 💻 &nbsp; I love exploring new tech stack and building cool stuffs.
-- 📰 &nbsp; Reading tech blogs whenever possible.
+### 🌌 Мои хобби (не все):
+- 💻 &nbsp; Я люблю изучать новые технологии и создавать крутые штуки.
+- 📰 &nbsp; По возможности читаю технические блоги, статьи и т.д.
 
-### 🔨 Programming languages & Frameworks:
+### 🔨 Языки программирования & фреймворки:
 <a href="https://adoptopenjdk.net/" target="_blank"><img src="https://raw.githubusercontent.com/Bangerok/Bangerok/master/assets/technologies/java.svg" alt="java" height="48px"/></a> &nbsp; &nbsp;
 <a href="http://hibernate.org/orm/documentation/getting-started/" target="_blank"><img src="https://raw.githubusercontent.com/Bangerok/Bangerok/master/assets/technologies/hibernate.svg" alt="hibernate" height="48px"/></a> &nbsp; &nbsp; &nbsp;
 <a href="https://spring.io/guides/gs/spring-boot/" target="_blank"><img src="https://raw.githubusercontent.com/Bangerok/Bangerok/master/assets/technologies/spring.svg" alt="spring" height="48px"/></a> &nbsp; &nbsp; &nbsp;
 <a href="https://vuejs.org/v2/guide/" target="_blank"><img src="https://raw.githubusercontent.com/Bangerok/Bangerok/master/assets/technologies/vuejs.svg" alt="vue" height="48px"/></a> &nbsp; &nbsp; &nbsp;
 
-### 🔨 Tools:
+### 🔨 Инструменты:
 <a href="https://www.microsoft.com/ru-ru/software-download/windows10" target="_blank"><img src="https://raw.githubusercontent.com/Bangerok/Bangerok/master/assets/tools/windows-10.svg" alt="windows" height="48px"/></a>  &nbsp; &nbsp;
 <a href="https://www.postgresqltutorial.com/postgresql-getting-started/" target="_blank"><img src="https://raw.githubusercontent.com/Bangerok/Bangerok/master/assets/tools/postgres.svg" alt="postgres" height="48px"/></a>  &nbsp;
 <a href="https://maven.apache.org/guides/getting-started/" target="_blank"><img src="https://raw.githubusercontent.com/Bangerok/Bangerok/master/assets/tools/maven.svg" alt="maven" height="48px"/></a> &nbsp;
@@ -78,9 +78,9 @@ represents.
 <a href="https://www.jetbrains.com/ru-ru/idea/download/#section=windows" target="_blank"><img src="https://raw.githubusercontent.com/Bangerok/Bangerok/master/assets/tools/jetbrains.svg" alt="jetbrains" height="48px"/></a>
 
 
-### ⚙️ More about development:
+### ⚙️ Еще про разработку:
 <details style="margin-left: 40px">	
-  <summary><b>⚡ Github Stats</b></summary>
+  <summary><b>⚡ Streaks Stats</b></summary>
 
   <br />
   <img alt="stats" src="https://github-readme-stats.vercel.app/api?username=Bangerok&theme=dark&show_icons=true&hide_border=true&hide_title=true" />
@@ -94,12 +94,12 @@ represents.
 </details>
 
 <details style="margin-left: 40px">	
-  <summary><b>📋 My work environment</b></summary>
+  <summary><b>📋 Мое рабочее окружение</b></summary>
     <br />
   	<ul>
 	    <li><b>PC:</b> CPU - R5 3600; RAM - 16GB; ROM - SSD 256GB;</li>
-  	    <li><b>Browser:</b> Google Chrome;</li>
+  	    <li><b>Браузер:</b> Google Chrome;</li>
 	    <li><b>IDE:</b> Intellij Idea - the best editor out there;</li>
-	    <li><b>Studying to stay informed:</b> Google search, Books, Habr, Baeldung and Youtube.</li>
+	    <li><b>Изучаю, чтобы оставаться в курсе:</b> Google поиск, Books, Habr, Baeldung и Youtube.</li>
 	</ul>	
 </details>
