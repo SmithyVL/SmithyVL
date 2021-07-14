@@ -1,10 +1,8 @@
 <!--suppress HtmlDeprecatedAttribute -->
-<div align="center">
-    <h1>
-        Hi there, I'm <a href="https://github.com/Bangerok">Vlad</a>!
-        <img alt="Hi!" src="https://raw.githubusercontent.com/Bangerok/Bangerok/master/assets/hand.gif" width="25px">
-    </h1>
-</div>
+<h1 align="center">
+    Hi there, I'm <a href="https://github.com/Bangerok">Vlad</a>!
+    <img alt="Hi!" src="https://raw.githubusercontent.com/Bangerok/Bangerok/master/assets/hand.gif" width="25px">
+</h1>
 
 <div align="center">
     <a href="https://github.com/Bangerok/Bangerok/blob/master/docs/translations/README_RU.md">
@@ -65,7 +63,10 @@ represents.
 
 <a href="https://spotify-github-profile.vercel.app/api/view?uid=knao876cqdze6lu78as93r3gz&redirect=true">
     <img alt="spotify-gif" src="https://spotify-github-profile.vercel.app/api/view?uid=knao876cqdze6lu78as93r3gz&cover_image=true&theme=novatorem" />
-</a>
+</a> <br />
+
+<img alt="spotify-history" style="margin-left: 10px" src="https://spotify-recently-played-readme.vercel.app/api?user=knao876cqdze6lu78as93r3gz&width=300&count=3" />
+
 
 
 ### 🔨 Programming languages & Frameworks:
