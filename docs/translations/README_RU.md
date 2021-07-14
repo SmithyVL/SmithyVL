@@ -63,6 +63,10 @@
 - 💻 &nbsp; Я люблю изучать новые технологии и создавать крутые штуки.
 - 📰 &nbsp; По возможности читаю технические блоги, статьи и т.д.
 
+<a href="https://spotify-github-profile.vercel.app/api/view?uid=knao876cqdze6lu78as93r3gz&redirect=true">
+    <img alt="spotify-gif" src="https://spotify-github-profile.vercel.app/api/view?uid=knao876cqdze6lu78as93r3gz&cover_image=true&theme=novatorem" />
+</a>
+
 ### 🔨 Языки программирования & фреймворки:
 <a href="https://adoptopenjdk.net/" target="_blank"><img src="https://raw.githubusercontent.com/Bangerok/Bangerok/master/assets/technologies/java.svg" alt="java" height="48px"/></a> &nbsp; &nbsp;
 <a href="http://hibernate.org/orm/documentation/getting-started/" target="_blank"><img src="https://raw.githubusercontent.com/Bangerok/Bangerok/master/assets/technologies/hibernate.svg" alt="hibernate" height="48px"/></a> &nbsp; &nbsp; &nbsp;
