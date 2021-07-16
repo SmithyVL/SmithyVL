@@ -86,6 +86,68 @@ represents.
 
 
 ### ⚙️ More about development:
+<details style="margin-left: 40px">
+  <summary><b>💼 My Work Experience </b></summary>
+  <br />
+  <table>
+    <thead>
+      <tr>
+        <th>Job Name</th>
+        <th>Responsibilities</th>
+        <th>Duration</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><b>Backend Java Developer at <a href="https://docshouse.ru/">"Lanit"</a></b></td>
+        <td>
+          <ol>
+            <li>Participation in the support and improvement of customer applications;</li>
+            <li>Exchange of experience with other developers of the company;</li>
+            <li>Timely logging of completed tasks;</li>
+            <li>Testing of the developed code, correction of emerging errors;</li>
+            <li>One of the developers - <b>“DocsHouse”</b> platform.</li>
+          </ol>
+        <td>June 2021 - Present Time</td>
+      </tr>
+      <tr>
+        <td><b>FullStack Java Developer at "SmartLight"</b></td>
+        <td>
+          <ol>
+            <li>Participation in the support and improvement of customer applications;</li>
+            <li>Communication with customers;</li>
+            <li>Exchange of experience with other developers of the company;</li>
+            <li>Timely logging of completed tasks;</li>
+            <li>Testing of the developed code, correction of emerging errors.</li>
+          </ol>
+        <td>November 2018 - May 2021</td>
+      </tr>
+      <tr>
+        <td><b>FullStack Java Developer at <!--suppress HttpUrlsUsage--><a href="http://www.kn-k.ru/">"Nahodka AIS"</a></b></td>
+        <td>
+          <ol>
+            <li>Development and support of the <b>"AIS Upravlenie"</b> (Guardianship) project;</li>
+            <li>Communication with customers;</li>
+            <li>Testing of the developed code, correction of emerging errors;</li>
+            <li> Installing, configuring and updating the application at the local stand and at the customer's.</li>
+          </ol>
+        <td>May 2017 - November 2018</td>
+      </tr>
+      <tr>
+        <td><b>FullStack Java Developer at <a href="https://www.eurekabpo.ru/en/">"Eureka BPO"</a></b></td>
+        <td>
+          <ol>
+            <li>Performing various tasks for development in large projects;</li>
+            <li>Passage of courses on java, javascript, css, html;</li>
+            <li>Speech as a Carrier of Knowledge;</li>
+            <li>One of the developers - <b>“Phardo”</b>.</li>
+          </ol>
+        <td>October 2016 - May 2017</td>
+      </tr>
+    </tbody>
+  </table>
+</details>
+
 <details style="margin-left: 40px">	
   <summary><b>⚡ Github Stats</b></summary>
 
@@ -110,3 +172,5 @@ represents.
 	    <li><b>Studying to stay informed:</b> Google search, Books, Habr, Baeldung and Youtube.</li>
 	</ul>	
 </details>
+
+<embed src="https://wakatime.com/share/@Bangerok/76c64f09-5c4c-4e3a-8bf3-5123c08898d0.svg"></embed>
