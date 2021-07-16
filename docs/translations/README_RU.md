@@ -87,7 +87,6 @@
 
 ### ⚙️ Еще про разработку:
 <details style="margin-left: 40px">
-  <br />
   <summary><b>💼 Мой рабочий опыт</b></summary>
   <table>
     <thead>
@@ -150,11 +149,45 @@
   </table>
 </details>
 
+<details style="margin-left: 40px">
+  <summary><b>🌌 Мои проекты </b></summary>
+
+  <br />
+  <a href="https://github.com/NinjaEnterprise/Ninja">
+    <img alt="ninja-repo" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NinjaEnterprise&repo=Ninja&theme=dark&hide_border=true" />
+  </a>
+
+  <a href="https://github.com/NinjaEnterprise/NinjaClient">
+    <img alt="ninja-client-repo" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NinjaEnterprise&repo=NinjaClient&theme=dark&hide_border=true" />
+  </a><br />
+
+  <a href="https://github.com/NinjaEnterprise/NinjaConfiguration">
+    <img alt="ninja-configuration-repo" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NinjaEnterprise&repo=NinjaConfiguration&theme=dark&hide_border=true" />
+  </a>
+
+  <a href="https://github.com/NinjaEnterprise/NinjaTemplate">
+    <img alt="ninja-template-repo" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NinjaEnterprise&repo=NinjaTemplate&theme=dark&hide_border=true" />
+  </a><br />
+
+  <a href="https://github.com/FunProjectsForSoul/FunTemplate">
+    <img alt="ninja-template-repo" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=FunProjectsForSoul&repo=FunTemplate&theme=dark&hide_border=true" />
+  </a>
+
+  <a href="https://github.com/FunProjectsForSoul/Vertex">
+    <img alt="ninja-client-repo" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=FunProjectsForSoul&repo=Vertex&theme=dark&hide_border=true" />
+  </a><br />
+
+  <a href="https://github.com/FunProjectsForSoul/TractorMoving">
+    <img alt="ninja-configuration-repo" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=FunProjectsForSoul&repo=TractorMoving&theme=dark&hide_border=true" />
+  </a><br /><br />
+</details>
+
 <details style="margin-left: 40px">	
   <summary><b>⚡ Github Stats</b></summary>
 
   <br />
-  <img alt="stats" src="https://github-readme-stats.vercel.app/api?username=Bangerok&theme=dark&show_icons=true&hide_border=true&hide_title=true" />
+  <img alt="stats" src="https://github-readme-stats.vercel.app/api?username=Bangerok&theme=dark&show_icons=true&hide_border=true&hide_title=true" /><br />
+  <img alt="waka-time" src="https://github-readme-stats.vercel.app/api/wakatime?username=Bangerok&theme=dark&hide_border=true&hide_title=true" />
 </details>
 
 <details style="margin-left: 40px">	
@@ -166,7 +199,6 @@
 
 <details style="margin-left: 40px">	
   <summary><b>📋 Мое рабочее окружение</b></summary>
-  <br />
   <ul>
     <li><b>PC:</b> CPU - R5 3600; RAM - 16GB; ROM - SSD 256GB;</li>
     <li><b>Браузер:</b> Google Chrome;</li>
