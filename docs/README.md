@@ -31,7 +31,7 @@
 </div>
 
 <div align="center">
-    <img src="https://komarev.com/ghpvc/?username=Bangerok&color=1A4730&label=PROFILE+VIEWS" height="25" alt="sonar-cloud-bugs" />
+    <img src="https://komarev.com/ghpvc/?username=Bangerok&color=1A4730&label=PROFILE+VIEWS" height="25" alt="profile-views" />
 </div>
 
 <div align="center">
@@ -107,6 +107,7 @@ represents.
             <li>Testing of the developed code, correction of emerging errors;</li>
             <li>One of the developers - <b>“DocsHouse”</b> platform.</li>
           </ol>
+        </td>
         <td>June 2021 - Present Time</td>
       </tr>
       <tr>
@@ -119,6 +120,7 @@ represents.
             <li>Timely logging of completed tasks;</li>
             <li>Testing of the developed code, correction of emerging errors.</li>
           </ol>
+        </td>
         <td>November 2018 - May 2021</td>
       </tr>
       <tr>
@@ -130,6 +132,7 @@ represents.
             <li>Testing of the developed code, correction of emerging errors;</li>
             <li> Installing, configuring and updating the application at the local stand and at the customer's.</li>
           </ol>
+        </td>
         <td>May 2017 - November 2018</td>
       </tr>
       <tr>
@@ -141,6 +144,7 @@ represents.
             <li>Speech as a Carrier of Knowledge;</li>
             <li>One of the developers - <b>“Phardo”</b>.</li>
           </ol>
+        </td>
         <td>October 2016 - May 2017</td>
       </tr>
     </tbody>
@@ -180,6 +184,59 @@ represents.
   </a><br /><br />
 </details>
 
+<details style="margin-left: 40px">
+  <summary><b>🍻 My Coding Stats </b></summary>
+  <br />
+
+<!--START_SECTION:waka-->
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-16415%20lines%20of%20code-blue)
+
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning    6 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.51% 
+🌆 Daytime    12 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.02% 
+🌃 Evening    2 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.5% 
+🌙 Night      113 commits    █████████████████████░░░░   84.96%
+
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday       3 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.26% 
+Tuesday      1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.75% 
+Wednesday    3 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.26% 
+Thursday     0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
+Friday       120 commits    ██████████████████████░░░   90.23% 
+Saturday     4 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   3.01% 
+Sunday       2 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.5%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Markdown                 5 hrs 1 min         ████████████░░░░░░░░░░░░░   48.69% 
+Java                     2 hrs 30 mins       ██████░░░░░░░░░░░░░░░░░░░   24.2% 
+XML                      1 hr 14 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.01% 
+YAML                     1 hr 12 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.62% 
+Properties               11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.87%
+
+🔥 Editors: 
+IntelliJ                 10 hrs 20 mins      █████████████████████████   100.0%
+
+💻 Operating System: 
+Windows                  10 hrs 20 mins      █████████████████████████   100.0%
+
+```
+
+
+ Last Updated on 17/07/2021
+<!--END_SECTION:waka-->
+</details>
+
 <details style="margin-left: 40px">	
   <summary><b>⚡ Github Stats</b></summary>
 
@@ -204,5 +261,3 @@ represents.
 	    <li><b>Studying to stay informed:</b> Google search, Books, Habr, Baeldung and Youtube.</li>
 	</ul>	
 </details>
-
-<embed src="https://wakatime.com/share/@Bangerok/76c64f09-5c4c-4e3a-8bf3-5123c08898d0.svg"></embed>
