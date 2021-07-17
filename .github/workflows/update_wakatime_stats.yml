@@ -5,8 +5,8 @@ on:
     - cron: "0 0 * * 0"
 
 jobs:
-  update-readme:
-    name: Profile Readme Development Stats
+  build:
+    name: Profile Readme with Wakatime Stats
     runs-on: ubuntu-latest
     steps:
       - uses: anmol098/waka-readme-stats@master

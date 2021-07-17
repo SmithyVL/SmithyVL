@@ -1,0 +1,18 @@
+name: Productive
+on:
+  repository_dispatch:
+    types: [build-event]
+  schedule:
+    - cron: "0 0 * * *"
+jobs:
+  build:
+    name: Profile Gist with Productive Stats
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Update gist
+        uses: maxam2017/productive-box@master
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          GIST_ID: 48656ced75943ada1de0a79702345d6a
+          TIMEZONE: Russian/Moskow
