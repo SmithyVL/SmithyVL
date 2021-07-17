@@ -223,12 +223,3 @@
     </code>
   </pre>
 </details>
-
-<details style="margin-left: 40px">	
-  <summary><b>⚡ Статистика Github</b></summary>
-
-  <br />
-  <img alt="streaks" src="https://github-readme-streak-stats.herokuapp.com/?user=Bangerok&hide_border=true&theme=dark" />
-  <img alt="stats" src="https://github-readme-stats.vercel.app/api?username=Bangerok&theme=dark&show_icons=true&hide_border=true&hide_title=true" />
-  <img alt="waka-time" src="https://github-readme-stats.vercel.app/api/wakatime?username=Bangerok&theme=dark&hide_border=true&hide_title=true" /><br />
-</details>
