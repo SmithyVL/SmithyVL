@@ -194,21 +194,6 @@
 </details>
 
 <details style="margin-left: 40px">	
-  <summary><b>⚡ Github Stats</b></summary>
-
-  <br />
-  <img alt="stats" src="https://github-readme-stats.vercel.app/api?username=Bangerok&theme=dark&show_icons=true&hide_border=true&hide_title=true" /><br />
-  <img alt="waka-time" src="https://github-readme-stats.vercel.app/api/wakatime?username=Bangerok&theme=dark&hide_border=true&hide_title=true" />
-</details>
-
-<details style="margin-left: 40px">	
-  <summary><b>☄️ Github Streaks</b></summary>
-
-  <br />
-  <img alt="streaks" src="https://github-readme-streak-stats.herokuapp.com/?user=Bangerok&hide_border=true&theme=dark" />
-</details>
-
-<details style="margin-left: 40px">	
   <summary><b>📋 Мое рабочее окружение</b></summary>
   <ul>
     <li><b>PC:</b> CPU - R5 3600; RAM - 16GB; ROM - SSD 256GB;</li>
@@ -233,4 +218,13 @@
         Memory:  3072MB / 12288MB
     </code>
   </pre>
+</details>
+
+<details style="margin-left: 40px">	
+  <summary><b>⚡ Статистика Github</b></summary>
+
+  <br />
+  <img alt="streaks" src="https://github-readme-streak-stats.herokuapp.com/?user=Bangerok&hide_border=true&theme=dark" />
+  <img alt="stats" src="https://github-readme-stats.vercel.app/api?username=Bangerok&theme=dark&show_icons=true&hide_border=true&hide_title=true" />
+  <img alt="waka-time" src="https://github-readme-stats.vercel.app/api/wakatime?username=Bangerok&theme=dark&hide_border=true&hide_title=true" /><br />
 </details>
