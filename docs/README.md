@@ -35,11 +35,11 @@
 </div>
 
 <div align="center">
-    <h3>
-        ⚡ Vladislav Kuznetsov | 💻 Backend [JAVA] Developer | Russia, Kirov 🏰 
-    </h3>
+  <h3>
+    ⚡ Vladislav Kuznetsov | 💻 Backend [JAVA] Developer | Russia, Kirov 🏰 
+  </h3>
 
-<img alt="streaks" src="https://github-readme-streak-stats.herokuapp.com/?user=Bangerok&hide_border=true&theme=dark" /><br />
+  <img alt="streaks" src="https://github-readme-streak-stats.herokuapp.com/?user=Bangerok&hide_border=true&theme=dark" /><br />
 </div>
 
 <div align="center" style="margin-bottom: -10px">

@@ -35,9 +35,11 @@
 </div>
 
 <div align="center">
-    <h3>
-        ⚡ Владислав Кузнецов | 💻 Backend [JAVA] Разработчик | Россия, Киров 🏰 
-    </h3>
+  <h3>
+    ⚡ Владислав Кузнецов | 💻 Backend [JAVA] Разработчик | Россия, Киров 🏰 
+  </h3>
+
+  <img alt="streaks" src="https://github-readme-streak-stats.herokuapp.com/?user=Bangerok&hide_border=true&theme=dark" />
 </div>
 
 <div align="center" style="margin-bottom: -10px">
@@ -189,6 +191,8 @@
 <details style="margin-left: 40px">
   <summary><b>🍻 Моя статистика написания кода </b></summary>
 
+  <img alt="stats" src="https://github-readme-stats.vercel.app/api?username=Bangerok&theme=dark&show_icons=true&hide_border=true&hide_title=true" /><br />
+  <img alt="waka-time" src="https://github-readme-stats.vercel.app/api/wakatime?username=Bangerok&theme=dark&hide_border=true&hide_title=true" /><br />
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 </details>
