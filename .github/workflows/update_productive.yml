@@ -1,9 +1,9 @@
 name: Productive
+
 on:
-  repository_dispatch:
-    types: [build-event]
   schedule:
-    - cron: "*/20 * * * *"
+    - cron: "40 0 * * *"
+
 jobs:
   build:
     name: Profile Gist with Productive Stats
@@ -15,4 +15,4 @@ jobs:
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           GIST_ID: 48656ced75943ada1de0a79702345d6a
-          TIMEZONE: Russian/Moskow
+          TIMEZONE: Europe/Kirov

@@ -31,7 +31,8 @@
 </div>
 
 <div align="center">
-    <img src="https://komarev.com/ghpvc/?username=Bangerok&color=1A4730&label=PROFILE+VIEWS" height="25" alt="profile-views" />
+    <img src="https://komarev.com/ghpvc/?username=Bangerok&color=1A4730&label=PROFILE+VIEWS" height="25" alt="profile-views" /><br />
+    <img src="https://wakatime.com/badge/github/Bangerok/Bangerok.svg" height="25" alt="time-with-code" />
 </div>
 
 <div align="center">
@@ -90,6 +91,8 @@ represents.
 ### ⚙️ More about development:
 <details style="margin-left: 40px">
   <summary><b>💼 My Work Experience </b></summary>
+
+  <br />
   <table>
     <thead>
       <tr>
@@ -188,65 +191,23 @@ represents.
 
 <details style="margin-left: 40px">	
   <summary><b>📋 My Work Environment</b></summary>
-  	<ul>
-	    <li><b>PC:</b> CPU - R5 3600; RAM - 16GB; ROM - SSD 256GB;</li>
-  	    <li><b>Browser:</b> Google Chrome;</li>
-	    <li><b>IDE:</b> Intellij Idea - the best editor out there;</li>
-	    <li><b>Studying to stay informed:</b> Google search, Books, Habr, Baeldung and Youtube.</li>
-	</ul>	
+
+  <br />
+  <ul>
+    <li><b>PC:</b> CPU - R5 3600; RAM - 16GB; ROM - SSD 256GB;</li>
+    <li><b>Browser:</b> Google Chrome;</li>
+    <li><b>IDE:</b> Intellij Idea - the best editor out there;</li>
+    <li><b>Studying to stay informed:</b> Google search, Books, Habr, Baeldung and Youtube.</li>
+  </ul>	
 </details>
 
 <details style="margin-left: 40px">
   <summary><b>🍻 My Coding Stats </b></summary>
 
-  <img alt="stats" src="https://github-readme-stats.vercel.app/api?username=Bangerok&theme=dark&show_icons=true&hide_border=true&hide_title=true" /><br />
+  <br />
   <img alt="waka-time" src="https://github-readme-stats.vercel.app/api/wakatime?username=Bangerok&theme=dark&hide_border=true&hide_title=true" /><br />
 
-<!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-16415%20lines%20of%20code-blue)
-
-**I'm a Night 🦉**
-
-```text
-🌞 Morning    6 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.51% 
-🌆 Daytime    12 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.02% 
-🌃 Evening    2 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.5% 
-🌙 Night      113 commits    █████████████████████░░░░   84.96%
-
-```
-📅 **I'm Most Productive on Friday**
-
-```text
-Monday       3 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.26% 
-Tuesday      1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.75% 
-Wednesday    3 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.26% 
-Thursday     0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-Friday       120 commits    ██████████████████████░░░   90.23% 
-Saturday     4 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   3.01% 
-Sunday       2 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.5%
-
-```
-
-
-📊 **This Week I Spent My Time On**
-
-```text
-💬 Programming Languages: 
-Markdown                 5 hrs 1 min         ████████████░░░░░░░░░░░░░   48.69% 
-Java                     2 hrs 30 mins       ██████░░░░░░░░░░░░░░░░░░░   24.2% 
-XML                      1 hr 14 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.01% 
-YAML                     1 hr 12 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.62% 
-Properties               11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.87%
-
-🔥 Editors: 
-IntelliJ                 10 hrs 20 mins      █████████████████████████   100.0%
-
-💻 Operating System: 
-Windows                  10 hrs 20 mins      █████████████████████████   100.0%
-
-```
-
-
-Last Updated on 17/07/2021
-<!--END_SECTION:waka-->
+  <i>
+    The rest of the statistics in the pinned gist repositories of the profile description.
+  </i>
 </details>

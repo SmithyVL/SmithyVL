@@ -31,7 +31,8 @@
 </div>
 
 <div align="center">
-    <img src="https://komarev.com/ghpvc/?username=Bangerok&color=1A4730&label=PROFILE+VIEWS" height="25" alt="sonar-cloud-bugs" />
+    <img src="https://komarev.com/ghpvc/?username=Bangerok&color=1A4730&label=PROFILE+VIEWS" height="25" alt="sonar-cloud-bugs" /><br />
+    <img src="https://wakatime.com/badge/github/Bangerok/Bangerok.svg" height="25" alt="time-with-code" />
 </div>
 
 <div align="center">
@@ -90,6 +91,8 @@
 ### ⚙️ Еще про разработку:
 <details style="margin-left: 40px">
   <summary><b>💼 Мой рабочий опыт</b></summary>
+
+  <br />
   <table>
     <thead>
       <tr>
@@ -188,17 +191,10 @@
   </a><br /><br />
 </details>
 
-<details style="margin-left: 40px">
-  <summary><b>🍻 Моя статистика написания кода </b></summary>
-
-  <img alt="stats" src="https://github-readme-stats.vercel.app/api?username=Bangerok&theme=dark&show_icons=true&hide_border=true&hide_title=true" /><br />
-  <img alt="waka-time" src="https://github-readme-stats.vercel.app/api/wakatime?username=Bangerok&theme=dark&hide_border=true&hide_title=true" /><br />
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-</details>
-
 <details style="margin-left: 40px">	
   <summary><b>📋 Мое рабочее окружение</b></summary>
+
+  <br />
   <ul>
     <li><b>PC:</b> CPU - R5 3600; RAM - 16GB; ROM - SSD 256GB;</li>
     <li><b>Браузер:</b> Google Chrome;</li>
@@ -222,4 +218,15 @@
         Memory:  3072MB / 12288MB
     </code>
   </pre>
+</details>
+
+<details style="margin-left: 40px">
+  <summary><b>🍻 Моя статистика написания кода </b></summary>
+
+  <br />
+  <img alt="waka-time" src="https://github-readme-stats.vercel.app/api/wakatime?username=Bangerok&theme=dark&hide_border=true&hide_title=true" /><br />
+
+  <i>
+    Остальная статистика в закрепленных gist репозиториях описания профиля.
+  </i>
 </details>

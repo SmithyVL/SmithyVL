@@ -1,13 +1,12 @@
 name: Github Stats
 
 on:
-  push:
-    branches:
-      - master
   schedule:
-    - cron: "*/10 * * * *"
+    - cron: "10 0 * * *"
+
 jobs:
-  run:
+  build:
+    name: Profile Gist with Github Stats
     runs-on: ubuntu-latest
     steps:
       - uses: actions/setup-node@v1
@@ -17,5 +16,5 @@ jobs:
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           GIST_ID: c59f2e715f3b894a3c44bee22731234c
-          ALL_COMMITS: true # If `true` it will count all commits, if `false` it will count your last year commits
+          ALL_COMMITS: false
           K_FORMAT: false # If `true`, large numbers will be formatted with a "k", for example "1.5k"
