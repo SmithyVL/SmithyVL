@@ -2,7 +2,7 @@ name: Covid Russia Stats
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "10 * * * *"
 
 jobs:
   build:
@@ -14,5 +14,5 @@ jobs:
         env:
           GH_PAT: ${{ secrets.GH_PAT }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          COUNTRY: ${{ secrets.COUNTRY }}
-          GIST_ID: ${{ secrets.GIST_ID }}
+          COUNTRY: Russia
+          GIST_ID: d8f8fbbbeb108dc19ceae1e3dec3d3c3

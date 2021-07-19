@@ -2,7 +2,7 @@ name: Github Stats
 
 on:
   schedule:
-    - cron: "10 0 * * *"
+    - cron: "0 1 * * *"
 
 jobs:
   build:
@@ -17,4 +17,4 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           GIST_ID: c59f2e715f3b894a3c44bee22731234c
           ALL_COMMITS: false
-          K_FORMAT: false # If `true`, large numbers will be formatted with a "k", for example "1.5k"
+          K_FORMAT: false

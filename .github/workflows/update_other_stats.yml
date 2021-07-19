@@ -1,0 +1,22 @@
+name: Other Metrics
+
+on:
+  push:
+    branches:
+      - master
+  schedule:
+    - cron: "20 3 * * *"
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Markdown template
+        if: ${{ success() || failure() }}
+        uses: lowlighter/metrics@latest
+        with:
+          template: markdown
+          filename: metrics.markdown.md
+          markdown: metrics.markdown.template.md
+          config_output: markdown
+          token: ${{ secrets.METRICS_TOKEN }}

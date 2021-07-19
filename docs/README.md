@@ -205,7 +205,10 @@ represents.
   <summary><b>🍻 My Coding Stats </b></summary>
 
   <br />
-  <img alt="waka-time" src="https://github-readme-stats.vercel.app/api/wakatime?username=Bangerok&theme=dark&hide_border=true&hide_title=true" /><br />
+  <img alt="waka-time" src="https://github-readme-stats.vercel.app/api/wakatime?username=Bangerok&theme=dark&hide_border=true&hide_title=true" />
+
+  <br />
+  <img alt="languages-all-time" src="https://wakatime.com/share/@Bangerok/5ff3d1e4-d81b-4a8c-b9a6-0651b41f38a0.svg" />
 
   <i>
     The rest of the statistics in the pinned gist repositories of the profile description.
