@@ -1,0 +1,38 @@
+name: RSS and Activity [RU]
+
+on:
+  push:
+    branches:
+      - master
+  schedule:
+    - cron: "40 0 * * *"
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Markdown template
+        uses: lowlighter/metrics@latest
+        with:
+          # GitHub token
+          token: ${{ secrets.METRICS_TOKEN }}
+
+          # Configure template type
+          template: markdown
+          filename: docs/translations/README_RU.md
+          markdown: docs/template/README_TEMPLATE_RU.md
+
+          # Options
+          user: Bangerok
+          base: ""
+          config_timezone: Europe/Kirov
+          plugin_activity: yes
+          plugin_activity_days: 14
+          plugin_activity_filter: all
+          plugin_activity_limit: 5
+          plugin_activity_load: 300
+          plugin_activity_visibility: all
+          plugin_activity_timestamps: yes
+          plugin_rss: yes
+          plugin_rss_source: https://feeds.feedblitz.com/baeldung
+          plugin_rss_limit: 5

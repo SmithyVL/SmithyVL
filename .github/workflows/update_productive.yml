@@ -1,8 +1,8 @@
-name: Productive
+name: Productivity
 
 on:
   schedule:
-    - cron: "0 2 * * *"
+    - cron: "50 0 * * *"
 
 jobs:
   build:

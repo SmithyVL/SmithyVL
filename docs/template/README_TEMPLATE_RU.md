@@ -215,36 +215,9 @@
 </details>
 
 ### 📰 Новостная лента
-**[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
-* [Setting Up a Jenkins Slave Node](https://feeds.feedblitz.com/~/660366766/0/baeldung~Setting-Up-a-Jenkins-Slave-Node)
-  * *Published on 30/07/2021*
-* [Default Values for Maven Properties](https://feeds.feedblitz.com/~/660321438/0/baeldung~Default-Values-for-Maven-Properties)
-  * *Published on 30/07/2021*
-* [Calling a SOAP Web Service from the Command Line](https://feeds.feedblitz.com/~/660161622/0/baeldung~Calling-a-SOAP-Web-Service-from-the-Command-Line)
-  * *Published on 29/07/2021*
-* [Comments in a Jenkinsfile](https://feeds.feedblitz.com/~/660161624/0/baeldung~Comments-in-a-Jenkinsfile)
-  * *Published on 29/07/2021*
-* [Linking to an External URL in Javadoc](https://feeds.feedblitz.com/~/659882238/0/baeldung~Linking-to-an-External-URL-in-Javadoc)
-  * *Published on 27/07/2021*
-
+<%- await include(`partials/rss.ejs`) %>
 
 ### 📆 Недавняя активность
-**[📰 Recent activity](https://github.com/Bangerok)**
-* ➡️ Pushed 1 commit in [Bangerok/Bangerok](https://github.com/Bangerok/Bangerok) on branch `master`
-  * [#3734b7c](https://github.com/Bangerok/Bangerok/commit/3734b7c) 1.7.11. Adding more stats with markdown template: RSS, Recent activity and Contributors 3D calendar.
-  * *On 31/07/2021, 23:08*
-* ➡️ Pushed 1 commit in [Bangerok/Bangerok](https://github.com/Bangerok/Bangerok) on branch `master`
-  * [#dd9a22f](https://github.com/Bangerok/Bangerok/commit/dd9a22f) 1.7.10. Adding more stats with markdown template: RSS, Recent activity and Contributors 3D calendar.
-  * *On 31/07/2021, 22:55*
-* ➡️ Pushed 1 commit in [Bangerok/Bangerok](https://github.com/Bangerok/Bangerok) on branch `master`
-  * [#86e6cfa](https://github.com/Bangerok/Bangerok/commit/86e6cfa) 1.7.10. Adding more stats with markdown template: RSS, Recent activity and Contributors 3D calendar.
-  * *On 31/07/2021, 22:54*
-* ➡️ Pushed 1 commit in [Bangerok/Bangerok](https://github.com/Bangerok/Bangerok) on branch `master`
-  * [#a6e5a57](https://github.com/Bangerok/Bangerok/commit/a6e5a57) 1.7.10. Adding more stats with markdown template: RSS, Recent activity and Contributors 3D calendar.
-  * *On 31/07/2021, 22:51*
-* ➡️ Pushed 1 commit in [Bangerok/Bangerok](https://github.com/Bangerok/Bangerok) on branch `master`
-  * [#be01d89](https://github.com/Bangerok/Bangerok/commit/be01d89) 1.7.9. Adding more stats with markdown template: RSS, Recent activity and Contributors 3D calendar.
-  * *On 30/07/2021, 23:28*
-
+<%- await include(`partials/activity.ejs`) %>
 
 <img alt="discord-url" src="https://raw.githubusercontent.com/Bangerok/Bangerok/master/docs/template/.cache/iso-calendar.svg"/>

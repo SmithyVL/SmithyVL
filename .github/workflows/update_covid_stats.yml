@@ -1,8 +1,8 @@
-name: Covid Russia Stats
+name: Covid Stats
 
 on:
   schedule:
-    - cron: "10 * * * *"
+    - cron: "0 * * * *"
 
 jobs:
   build:
