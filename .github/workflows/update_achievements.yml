@@ -1,6 +1,9 @@
-name: Commits calendar
+name: Achievements
 
 on:
+  push:
+    branches:
+      - master
   schedule:
     - cron: "0 0 * * *"
 
@@ -16,9 +19,8 @@ jobs:
 
           # Options
           user: Bangerok
-          filename: assets/metrics/iso-calendar.*
-          config_timezone: Europe/Kirov
-          config_display: large
+          filename: assets/metrics/achievements.*
           base: ""
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
+          plugin_achievements: yes
+          plugin_achievements_threshold: C
+          plugin_achievements_secrets: yes

@@ -52,9 +52,9 @@
 структурировать и систематизировать многие аспекты моей жизни, чтобы не потеряться в ней. Не с точки зрения кода,
 а самого подхода, который оно представляет.
 
-<img align="right" alt="profile-gif" src="https://raw.githubusercontent.com/Bangerok/Bangerok/master/assets/profile.gif" />
+<img style="margin-top: 12px; margin-left: 25px" align="right" alt="profile-gif" src="https://raw.githubusercontent.com/Bangerok/Bangerok/master/assets/profile.gif" />
 
-### ⭐️ Говоря о личном:
+### ⭐️Говоря о личном:
 - 🛠 &nbsp; Я сейчас работаю с Java, Spring Boot, микросервисами и т.д.
 - 🚀 &nbsp; Я сейчас изучаю Backend разработку.
 - 🚀 &nbsp; Ты можешь посмотреть мое резюме **[здесь](https://raw.githubusercontent.com/Bangerok/Bangerok/master/docs/resume/%5BRUS%5D%20Kuznetsov%20V.A.%20Java%20Developer.pdf)**.
@@ -70,7 +70,10 @@
 
 <a href="https://open.spotify.com/user/knao876cqdze6lu78as93r3gz">
     <img alt="spotify-history" style="margin-left: 10px" src="https://spotify-recently-played-readme.vercel.app/api?user=knao876cqdze6lu78as93r3gz&width=300&count=3" />
-</a>
+</a><br />
+
+### 🏆 Achievements
+<img alt="achievements-url" src="https://raw.githubusercontent.com/Bangerok/Bangerok/master/assets/metrics/achievements.svg"/>
 
 ### 🔨 Языки программирования & фреймворки:
 <a href="https://adoptopenjdk.net/" target="_blank"><img src="https://raw.githubusercontent.com/Bangerok/Bangerok/master/assets/technologies/java.svg" alt="java" height="48px"/></a> &nbsp; &nbsp;
@@ -86,7 +89,6 @@
 <a href="https://www.docker.com/get-started" target="_blank"><img src="https://raw.githubusercontent.com/Bangerok/Bangerok/master/assets/tools/docker.svg" alt="docker" height="48px"/></a> &nbsp; &nbsp; &nbsp;
 <a href="https://www.postman.com/downloads/" target="_blank"><img src="https://raw.githubusercontent.com/Bangerok/Bangerok/master/assets/tools/postman.svg" alt="postman" height="48px"/></a> &nbsp; &nbsp; &nbsp;
 <a href="https://www.jetbrains.com/ru-ru/idea/download/#section=windows" target="_blank"><img src="https://raw.githubusercontent.com/Bangerok/Bangerok/master/assets/tools/jetbrains.svg" alt="jetbrains" height="48px"/></a>
-
 
 ### ⚙️ Еще про разработку:
 <details style="margin-left: 40px">
@@ -214,10 +216,11 @@
   </i>
 </details>
 
-### 📰 Новостная лента
-<%- await include(`partials/rss.ejs`) %>
-
-### 📆 Недавняя активность
+### 📋 Недавняя активность
 <%- await include(`partials/activity.ejs`) %>
 
-<img alt="discord-url" src="https://raw.githubusercontent.com/Bangerok/Bangerok/master/docs/template/.cache/iso-calendar.svg"/>
+### 📆 Календарь коммитов за год
+<img alt="calendar-url" src="https://raw.githubusercontent.com/Bangerok/Bangerok/master/assets/metrics/iso-calendar.svg"/>
+
+### 📰 Новостная лента
+<%- await include(`partials/rss.ejs`) %>

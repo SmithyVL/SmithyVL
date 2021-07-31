@@ -2,7 +2,7 @@ name: Covid Stats
 
 on:
   schedule:
-    - cron: "0 * * * *"
+    - cron: "0 0 * * *"
 
 jobs:
   build:

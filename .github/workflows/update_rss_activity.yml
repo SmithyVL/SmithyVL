@@ -1,11 +1,8 @@
 name: RSS and Activity [EN]
 
 on:
-  push:
-    branches:
-      - master
   schedule:
-    - cron: "30 0 * * *"
+    - cron: "0 0 * * *"
 
 jobs:
   github-metrics:

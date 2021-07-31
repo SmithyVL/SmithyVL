@@ -52,9 +52,9 @@ I really love programming. This is one of the few activities that gives me peace
 algorithm many aspects of my life so as not to get lost in it. Not in terms of code, but the very approach that it
 represents.
 
-<img align="right" alt="profile-gif" src="https://raw.githubusercontent.com/Bangerok/Bangerok/master/assets/profile.gif" />
+<img style="margin-top: 12px; margin-left: 25px" align="right" alt="profile-gif" src="https://raw.githubusercontent.com/Bangerok/Bangerok/master/assets/profile.gif" />
 
-### ⭐️ Talking about personal:
+### ⭐️Talking about personal:
 - 🛠 &nbsp; I’m now working with Java, Spring Boot, Microservices, etc.
 - 🚀 &nbsp; I’m now learning Backend Development.
 - 🚀 &nbsp; You can see my resume **[here](https://raw.githubusercontent.com/Bangerok/Bangerok/master/docs/resume/%5BENG%5D%20Kuznetsov%20V.A.%20Java%20Developer.pdf)**.
@@ -66,9 +66,14 @@ represents.
 
 <a href="https://spotify-github-profile.vercel.app/api/view?uid=knao876cqdze6lu78as93r3gz&redirect=true">
     <img alt="spotify-gif" src="https://spotify-github-profile.vercel.app/api/view?uid=knao876cqdze6lu78as93r3gz&cover_image=true&theme=novatorem" />
-</a> <br />
+</a><br />
 
-<img alt="spotify-history" style="margin-left: 10px" src="https://spotify-recently-played-readme.vercel.app/api?user=knao876cqdze6lu78as93r3gz&width=300&count=3" />
+<a href="https://open.spotify.com/user/knao876cqdze6lu78as93r3gz">
+    <img alt="spotify-history" style="margin-left: 10px" src="https://spotify-recently-played-readme.vercel.app/api?user=knao876cqdze6lu78as93r3gz&width=300&count=3" />
+</a><br />
+
+### 🏆 Achievements
+<img alt="achievements-url" src="https://raw.githubusercontent.com/Bangerok/Bangerok/master/assets/metrics/achievements.svg"/>
 
 ### 🔨 Programming languages & Frameworks:
 <a href="https://adoptopenjdk.net/" target="_blank"><img src="https://raw.githubusercontent.com/Bangerok/Bangerok/master/assets/technologies/java.svg" alt="java" height="48px"/></a> &nbsp; &nbsp;
@@ -84,7 +89,6 @@ represents.
 <a href="https://www.docker.com/get-started" target="_blank"><img src="https://raw.githubusercontent.com/Bangerok/Bangerok/master/assets/tools/docker.svg" alt="docker" height="48px"/></a> &nbsp; &nbsp; &nbsp;
 <a href="https://www.postman.com/downloads/" target="_blank"><img src="https://raw.githubusercontent.com/Bangerok/Bangerok/master/assets/tools/postman.svg" alt="postman" height="48px"/></a> &nbsp; &nbsp; &nbsp;
 <a href="https://www.jetbrains.com/ru-ru/idea/download/#section=windows" target="_blank"><img src="https://raw.githubusercontent.com/Bangerok/Bangerok/master/assets/tools/jetbrains.svg" alt="jetbrains" height="48px"/></a>
-
 
 ### ⚙️ More about development:
 <details style="margin-left: 40px">
@@ -211,6 +215,30 @@ represents.
   </i>
 </details>
 
+### 📋 Recent activity
+**[📰 Recent activity](https://github.com/Bangerok)**
+* ➡️ Pushed 1 commit in [Bangerok/Bangerok](https://github.com/Bangerok/Bangerok) on branch `master`
+  * [#a566b14](https://github.com/Bangerok/Bangerok/commit/a566b14) 1.8.1. Adding more stats: achievements.
+  * *On 01/08/2021, 00:11*
+* ➡️ Pushed 2 commits in [Bangerok/Bangerok](https://github.com/Bangerok/Bangerok) on branch `master`
+  * [#12fb72a](https://github.com/Bangerok/Bangerok/commit/12fb72a) Merge remote-tracking branch &#39;origin/master&#39;
+  * [#4f7f9e0](https://github.com/Bangerok/Bangerok/commit/4f7f9e0) 1.8.0. Adding more stats: achievements.
+  * *On 31/07/2021, 23:59*
+* ➡️ Pushed 2 commits in [Bangerok/Bangerok](https://github.com/Bangerok/Bangerok) on branch `master`
+  * [#7e718ba](https://github.com/Bangerok/Bangerok/commit/7e718ba) 1.7.0. Adding more stats with markdown template: RSS, recent activity and commits calendar.
+  * [#75dea77](https://github.com/Bangerok/Bangerok/commit/75dea77) 1.6.0. Adding more stats: Achievements, Recent activity and other.
+  * *On 31/07/2021, 23:47*
+* ➡️ Pushed 1 commit in [Bangerok/Bangerok](https://github.com/Bangerok/Bangerok) on branch `master`
+  * [#3734b7c](https://github.com/Bangerok/Bangerok/commit/3734b7c) 1.7.11. Adding more stats with markdown template: RSS, Recent activity and Contributors 3D calendar.
+  * *On 31/07/2021, 23:08*
+* ➡️ Pushed 1 commit in [Bangerok/Bangerok](https://github.com/Bangerok/Bangerok) on branch `master`
+  * [#dd9a22f](https://github.com/Bangerok/Bangerok/commit/dd9a22f) 1.7.10. Adding more stats with markdown template: RSS, Recent activity and Contributors 3D calendar.
+  * *On 31/07/2021, 22:55*
+
+
+### 📆 Commit calendar for the year
+<img alt="calendar-url" src="https://raw.githubusercontent.com/Bangerok/Bangerok/master/assets/metrics/iso-calendar.svg"/>
+
 ### 📰 RSS
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
 * [Setting Up a Jenkins Slave Node](https://feeds.feedblitz.com/~/660366766/0/baeldung~Setting-Up-a-Jenkins-Slave-Node)
@@ -223,25 +251,3 @@ represents.
   * *Published on 29/07/2021*
 * [Linking to an External URL in Javadoc](https://feeds.feedblitz.com/~/659882238/0/baeldung~Linking-to-an-External-URL-in-Javadoc)
   * *Published on 27/07/2021*
-
-
-### 📆 Recent activity
-**[📰 Recent activity](https://github.com/Bangerok)**
-* ➡️ Pushed 1 commit in [Bangerok/Bangerok](https://github.com/Bangerok/Bangerok) on branch `master`
-  * [#3734b7c](https://github.com/Bangerok/Bangerok/commit/3734b7c) 1.7.11. Adding more stats with markdown template: RSS, Recent activity and Contributors 3D calendar.
-  * *On 31/07/2021, 23:08*
-* ➡️ Pushed 1 commit in [Bangerok/Bangerok](https://github.com/Bangerok/Bangerok) on branch `master`
-  * [#dd9a22f](https://github.com/Bangerok/Bangerok/commit/dd9a22f) 1.7.10. Adding more stats with markdown template: RSS, Recent activity and Contributors 3D calendar.
-  * *On 31/07/2021, 22:55*
-* ➡️ Pushed 1 commit in [Bangerok/Bangerok](https://github.com/Bangerok/Bangerok) on branch `master`
-  * [#86e6cfa](https://github.com/Bangerok/Bangerok/commit/86e6cfa) 1.7.10. Adding more stats with markdown template: RSS, Recent activity and Contributors 3D calendar.
-  * *On 31/07/2021, 22:54*
-* ➡️ Pushed 1 commit in [Bangerok/Bangerok](https://github.com/Bangerok/Bangerok) on branch `master`
-  * [#a6e5a57](https://github.com/Bangerok/Bangerok/commit/a6e5a57) 1.7.10. Adding more stats with markdown template: RSS, Recent activity and Contributors 3D calendar.
-  * *On 31/07/2021, 22:51*
-* ➡️ Pushed 1 commit in [Bangerok/Bangerok](https://github.com/Bangerok/Bangerok) on branch `master`
-  * [#be01d89](https://github.com/Bangerok/Bangerok/commit/be01d89) 1.7.9. Adding more stats with markdown template: RSS, Recent activity and Contributors 3D calendar.
-  * *On 30/07/2021, 23:28*
-
-
-<img alt="discord-url" src="https://raw.githubusercontent.com/Bangerok/Bangerok/master/docs/template/.cache/iso-calendar.svg"/>

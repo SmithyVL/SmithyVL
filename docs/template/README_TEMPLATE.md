@@ -52,9 +52,9 @@ I really love programming. This is one of the few activities that gives me peace
 algorithm many aspects of my life so as not to get lost in it. Not in terms of code, but the very approach that it
 represents.
 
-<img align="right" alt="profile-gif" src="https://raw.githubusercontent.com/Bangerok/Bangerok/master/assets/profile.gif" />
+<img style="margin-top: 12px; margin-left: 25px" align="right" alt="profile-gif" src="https://raw.githubusercontent.com/Bangerok/Bangerok/master/assets/profile.gif" />
 
-### ⭐️ Talking about personal:
+### ⭐️Talking about personal:
 - 🛠 &nbsp; I’m now working with Java, Spring Boot, Microservices, etc.
 - 🚀 &nbsp; I’m now learning Backend Development.
 - 🚀 &nbsp; You can see my resume **[here](https://raw.githubusercontent.com/Bangerok/Bangerok/master/docs/resume/%5BENG%5D%20Kuznetsov%20V.A.%20Java%20Developer.pdf)**.
@@ -66,9 +66,14 @@ represents.
 
 <a href="https://spotify-github-profile.vercel.app/api/view?uid=knao876cqdze6lu78as93r3gz&redirect=true">
     <img alt="spotify-gif" src="https://spotify-github-profile.vercel.app/api/view?uid=knao876cqdze6lu78as93r3gz&cover_image=true&theme=novatorem" />
-</a> <br />
+</a><br />
 
-<img alt="spotify-history" style="margin-left: 10px" src="https://spotify-recently-played-readme.vercel.app/api?user=knao876cqdze6lu78as93r3gz&width=300&count=3" />
+<a href="https://open.spotify.com/user/knao876cqdze6lu78as93r3gz">
+    <img alt="spotify-history" style="margin-left: 10px" src="https://spotify-recently-played-readme.vercel.app/api?user=knao876cqdze6lu78as93r3gz&width=300&count=3" />
+</a><br />
+
+### 🏆 Achievements
+<img alt="achievements-url" src="https://raw.githubusercontent.com/Bangerok/Bangerok/master/assets/metrics/achievements.svg"/>
 
 ### 🔨 Programming languages & Frameworks:
 <a href="https://adoptopenjdk.net/" target="_blank"><img src="https://raw.githubusercontent.com/Bangerok/Bangerok/master/assets/technologies/java.svg" alt="java" height="48px"/></a> &nbsp; &nbsp;
@@ -84,7 +89,6 @@ represents.
 <a href="https://www.docker.com/get-started" target="_blank"><img src="https://raw.githubusercontent.com/Bangerok/Bangerok/master/assets/tools/docker.svg" alt="docker" height="48px"/></a> &nbsp; &nbsp; &nbsp;
 <a href="https://www.postman.com/downloads/" target="_blank"><img src="https://raw.githubusercontent.com/Bangerok/Bangerok/master/assets/tools/postman.svg" alt="postman" height="48px"/></a> &nbsp; &nbsp; &nbsp;
 <a href="https://www.jetbrains.com/ru-ru/idea/download/#section=windows" target="_blank"><img src="https://raw.githubusercontent.com/Bangerok/Bangerok/master/assets/tools/jetbrains.svg" alt="jetbrains" height="48px"/></a>
-
 
 ### ⚙️ More about development:
 <details style="margin-left: 40px">
@@ -211,10 +215,11 @@ represents.
   </i>
 </details>
 
-### 📰 RSS
-<%- await include(`partials/rss.ejs`) %>
-
-### 📆 Recent activity
+### 📋 Recent activity
 <%- await include(`partials/activity.ejs`) %>
 
-<img alt="discord-url" src="https://raw.githubusercontent.com/Bangerok/Bangerok/master/docs/template/.cache/iso-calendar.svg"/>
+### 📆 Commit calendar for the year
+<img alt="calendar-url" src="https://raw.githubusercontent.com/Bangerok/Bangerok/master/assets/metrics/iso-calendar.svg"/>
+
+### 📰 RSS
+<%- await include(`partials/rss.ejs`) %>
