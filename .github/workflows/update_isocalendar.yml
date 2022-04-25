@@ -2,7 +2,7 @@ name: Commits calendar
 
 on:
   schedule:
-    - cron: "30 3 * * *"
+    - cron: "45 3 * * *"
 
 jobs:
   github-metrics:
@@ -15,7 +15,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
 
           # Options
-          user: Bangerok
+          user: SmithyVL
           filename: assets/metrics/iso-calendar.*
           config_timezone: Europe/Kirov
           config_display: large

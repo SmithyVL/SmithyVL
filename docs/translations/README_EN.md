@@ -1,21 +1,21 @@
 <!--suppress HtmlDeprecatedAttribute -->
 <div align="center">
   <h1>
-    Привет, я <a href="https://github.com/SmithyVL">Влад</a>!
+    Hi there, I'm <a href="https://github.com/SmithyVL">Vlad</a>!
     <img alt="Hi!" src="https://raw.githubusercontent.com/SmithyVL/SmithyVL/master/assets/hand.gif" width="25px">
   </h1>
 
-  <a href="https://github.com/SmithyVL/SmithyVL/blob/master/docs/translations/README_EN.md">
-    <img alt="english-version" src="https://raw.githubusercontent.com/SmithyVL/SmithyVL/master/assets/languages/english.png"/>
+  <a href="https://github.com/SmithyVL/SmithyVL/blob/master/docs/README.md">
+    <img alt="russian-version" src="https://raw.githubusercontent.com/SmithyVL/SmithyVL/master/assets/languages/russian.png"/>
   </a><br />
 
   <div>
     <a href="https://t.me/smithy_vl">
         <img alt="telegram-url" src="https://raw.githubusercontent.com/SmithyVL/SmithyVL/master/assets/contacts/telegram.svg"/>
-    </a>
+    </a>&nbsp;&nbsp;
     <a href="https://vk.com/vladislav_kuznetsov">
         <img alt="vk-url" src="https://raw.githubusercontent.com/SmithyVL/SmithyVL/master/assets/contacts/vk.svg"/>
-    </a>
+    </a>&nbsp;&nbsp;
     <a href="https://github.com/SmithyVL">
         <img alt="github-url" src="https://raw.githubusercontent.com/SmithyVL/SmithyVL/master/assets/contacts/github.svg"/>
     </a>
@@ -27,7 +27,7 @@
       </a>
   </div>
 
-<img width="361" alt="streaks" src="https://github-readme-streak-stats.herokuapp.com/?user=SmithyVL&hide_border=true&theme=dark" /><br />
+  <img width="361" alt="streaks" src="https://github-readme-streak-stats.herokuapp.com/?user=SmithyVL&hide_border=true&theme=dark" /><br />
 
   <div align="center">
       <img src="https://komarev.com/ghpvc/?username=SmithyVL&color=1A4730&label=PROFILE+VIEWS" height="25" alt="profile-views" />
@@ -35,45 +35,44 @@
   </div>
 
   <h3>
-    ⚡ Владислав Кузнецов | 💻 Back-end [JAVA] Разработчик | Россия, Киров 🏰 
+    ⚡ Vladislav Kuznetsov | 💻 Back-end [JAVA] Developer | Russia, Kirov 🏰 
   </h3>
 
-<i>"Я не доверяю людям, которые пишут SQL-запросы в верхнем регистре"</i>
+  <i>”I don’t trust people who write SQL queries in uppercase”</i>
 </div>
 
-## Рад видеть тебя здесь!
-Привет! Меня зовут Влад. Мне 29 лет и я из города Кирова.
+## Glad to see you here!
+Hi! My name is Vlad. I am 29 years old. I from Kirov.
 
-В 2015 году закончил высшее учебное учреждение по специальности "Информационные технологии".
+I graduated from the university with a specialty in Information Technology.
 
-Я Java разработчик middle уровня. Так же я постоянно читаю статьи, смотрю видео на YouTube и читаю книги о различных
-технологиях, которые использую в разработке на работе и не только. Последние несколько лет я совершенствовал свои
-навыки программирования, получил несколько повышений на предыдущих местах работы. Сейчас работаю в компании "Ланит",
-которая занимает второе место в рейтинге компаний на HabrCareer. В текущем проекте используется примерно такой стэк
-технологий: Java 11, Spring Boot (микросервисная архитектура), Spring Cloud, LiquiBase, Kafka, Postgres, Maven,
-ElasticSearch, MongoDB. В этом же русле я хочу развиваться дольше с добавлением и других актуальных и современных
-технологий.
+I have spent the last couple of years developing my skills as a Java developer and now i'm a developer of the middle
+level. I regulary read professional articles, watch YouTube videos and read books about various technologies that I use
+in development at work and not only.
 
-В свободное время я так же люблю изучать программирование. Есть свой небольшой проект, здесь, на Github.
+Over the past few years, I have been improving my programming skills, received several promotions at previous jobs. Now
+I'm working in the "Lanit" company. In my work i use the following stack of technologies: Java 11, Spring Boot
+(microservice architecture), Spring Cloud, LiquiBase, Kafka, Postgres, Maven, ElasticSearch, MongoDB. I want to
+continue working with these technologies, as well as other relevant and modern technologies.
 
 <img style="margin-top: 27px; margin-left: 25px; margin-bottom: 12px" align="right" alt="profile-gif" src="https://raw.githubusercontent.com/SmithyVL/SmithyVL/master/assets/profile.gif" />
 
-## ⭐️ Говоря о личном
-- 📔 &nbsp; Я сейчас работаю с Java, Spring Boot, микросервисами и т.д;
-- 🔌 &nbsp; Я сейчас изучаю Back-end разработку;
-- 💡 &nbsp; Ты можешь посмотреть мое резюме **[здесь](https://raw.githubusercontent.com/SmithyVL/SmithyVL/master/docs/resume/%5BRUS%5D%20Kuznetsov%20V.A.%20Java%20Developer.pdf)**;
-- 💬 &nbsp; Спроси меня о чем угодно **[здесь](https://github.com/SmithyVL/SmithyVL/issues/1)**! Я буду рад помочь.
+## ⭐️ Talking about personal
+- 📔 &nbsp; I’m now working with Java, Spring Boot, Microservices, etc;
+- 🔌 &nbsp; I’m now learning Back-end Development;
+- 💡 &nbsp; You can see my resume **[here](https://raw.githubusercontent.com/SmithyVL/SmithyVL/master/docs/resume/%5BENG%5D%20Kuznetsov%20V.A.%20Java%20Developer.pdf)**;
+- 💬 &nbsp; Ask me about anything **[here](https://github.com/SmithyVL/SmithyVL/issues/1)**! I’m happy to help.
 
-## 🌌 Мои хобби
-- 💻 &nbsp; Я люблю изучать новые технологии и создавать крутые штуки;
-- 📰 &nbsp; По возможности читаю технические блоги, статьи и т.д;
-- 🏐 &nbsp; Волейбол;
-- 📚 &nbsp; Чтение книг.
+## 🌌 My hobbies
+- 💻 &nbsp; I love exploring new tech stack and building cool stuffs;
+- 📰 &nbsp; Reading tech blogs whenever possible;
+- 🏐 &nbsp; Volleyball;
+- 📚 &nbsp; Reading books.
 
-## 🏆 Достижения
+## 🏆 Achievements
 <img alt="achievements-url" src="https://raw.githubusercontent.com/SmithyVL/SmithyVL/master/assets/metrics/achievements.svg"/>
 
-## 🔨 Языки программирования & фреймворки
+## 🔨 Programming languages & Frameworks
 <a href="https://adoptopenjdk.net/" target="_blank"><img src="https://raw.githubusercontent.com/SmithyVL/SmithyVL/master/assets/technologies/java.svg" alt="java" height="48px"/></a> &nbsp; &nbsp;
 <a href="http://hibernate.org/orm/documentation/getting-started/" target="_blank"><img src="https://raw.githubusercontent.com/SmithyVL/SmithyVL/master/assets/technologies/hibernate.svg" alt="hibernate" height="48px"/></a> &nbsp; &nbsp; &nbsp;
 <a href="https://spring.io/guides/gs/spring-boot/" target="_blank"><img src="https://raw.githubusercontent.com/SmithyVL/SmithyVL/master/assets/technologies/spring.svg" alt="spring" height="48px"/></a> &nbsp; &nbsp; &nbsp;
@@ -82,7 +81,7 @@ ElasticSearch, MongoDB. В этом же русле я хочу развиват
 <a href="https://www.elastic.co/guide/en/elasticsearch/reference/current/getting-started.html" target="_blank"><img src="https://raw.githubusercontent.com/SmithyVL/SmithyVL/master/assets/technologies/elastic.svg" alt="elasticsearch" height="48px"/></a> &nbsp; &nbsp; &nbsp;
 <a href="https://www.mongodb.com/basics/get-started" target="_blank"><img src="https://raw.githubusercontent.com/SmithyVL/SmithyVL/master/assets/technologies/mongodb.svg" alt="mongo-db" height="48px"/></a> &nbsp; &nbsp; &nbsp;
 
-## 🧰 Инструменты
+## 🧰 Tools
 <a href="https://www.microsoft.com/ru-ru/software-download/windows10" target="_blank"><img src="https://raw.githubusercontent.com/SmithyVL/SmithyVL/master/assets/tools/windows-10.svg" alt="windows" height="48px"/></a>  &nbsp; &nbsp;
 <a href="https://www.postgresqltutorial.com/postgresql-getting-started/" target="_blank"><img src="https://raw.githubusercontent.com/SmithyVL/SmithyVL/master/assets/tools/postgres.svg" alt="postgres" height="48px"/></a>  &nbsp;
 <a href="https://maven.apache.org/guides/getting-started/" target="_blank"><img src="https://raw.githubusercontent.com/SmithyVL/SmithyVL/master/assets/tools/maven.svg" alt="maven" height="48px"/></a> &nbsp;
@@ -91,78 +90,76 @@ ElasticSearch, MongoDB. В этом же русле я хочу развиват
 <a href="https://www.postman.com/downloads/" target="_blank"><img src="https://raw.githubusercontent.com/SmithyVL/SmithyVL/master/assets/tools/postman.svg" alt="postman" height="48px"/></a> &nbsp; &nbsp; &nbsp;
 <a href="https://www.jetbrains.com/ru-ru/idea/download/#section=windows" target="_blank"><img src="https://raw.githubusercontent.com/SmithyVL/SmithyVL/master/assets/tools/jetbrains.svg" alt="jetbrains" height="48px"/></a>
 
-## ⚙️ Еще про разработку
+## ⚙️ More about development
 <details style="margin-left: 40px">
-  <summary><b>💼 Мой рабочий опыт</b></summary>
+  <summary><b>💼 My Work Experience </b></summary>
 
   <br />
   <table>
     <thead>
       <tr>
-        <th>Название</th>
-        <th>Обязанности</th>
-        <th>Длительность</th>
+        <th>Job Name</th>
+        <th>Responsibilities</th>
+        <th>Duration</th>
       </tr>
     </thead>
     <tbody>
       <tr>
-        <td><b>Back-end Java разработчик в <a href="https://docshouse.ru/">"Ланит"</a></b></td>
+        <td><b>Back-end Java Developer at <a href="https://docshouse.ru/">"Lanit"</a></b></td>
         <td>
           <ol>
-            <li>Участие в разработке, поддержке и тестировании продукта компании - <b>DocsHouse</b>;</li>
-            <li>Обмен опытом с другими разработчиками компании;</li>
-            <li>Своевременное логирование выполненных задач;</li>
-            <li>Тестирование разработанного кода, исправление возникающих ошибок.</li>
+            <li>Participation in the support and improvement of customer applications;</li>
+            <li>Exchange of experience with other developers of the company;</li>
+            <li>Timely logging of completed tasks;</li>
+            <li>Testing of the developed code, correction of emerging errors;</li>
+            <li>One of the developers - <b>“DocsHouse”</b> platform.</li>
           </ol>
         </td>
-        <td>Июнь 2021 - Настоящее время</td>
+        <td>June 2021 - Present Time</td>
       </tr>
       <tr>
-        <td><b>FullStack Java разработчик в "СмартЛайт"</b></td>
+        <td><b>FullStack Java Developer at "SmartLight"</b></td>
         <td>
           <ol>
-            <li>Участие в поддержке и доработке приложений заказчиков;</li>
-            <li>Общение с заказчиками;</li>
-            <li>Обмен опытом с другими разработчиками компании;</li>
-            <li>Своевременное логирование выполненных задач;</li>
-            <li>Тестирование разработанного кода, исправление возникающих ошибок.</li>
+            <li>Participation in the support and improvement of customer applications;</li>
+            <li>Communication with customers;</li>
+            <li>Exchange of experience with other developers of the company;</li>
+            <li>Timely logging of completed tasks;</li>
+            <li>Testing of the developed code, correction of emerging errors.</li>
           </ol>
         </td>
-        <td>Ноябрь 2018 - Май 2021</td>
+        <td>November 2018 - May 2021</td>
       </tr>
       <tr>
-        <td><b>FullStack Java разработчик в <!--suppress HttpUrlsUsage--><a href="http://www.kn-k.ru/">"Находка АИС"</a></b></td>
+        <td><b>FullStack Java Developer at <!--suppress HttpUrlsUsage--><a href="http://www.kn-k.ru/">"Nahodka AIS"</a></b></td>
         <td>
           <ol>
-            <li>Разработка и поддержка проекта <b>“АИС Управление”</b> (Опека);</li>
-            <li>Общение с заказчиками;</li>
-            <li>Тестирование разработанного кода, исправление возникающих ошибок;</li>
-            <li>Установка, настройка и обновление приложения на локальном стенде и у заказчика.</li>
+            <li>Development and support of the <b>"AIS Upravlenie"</b> (Guardianship) project;</li>
+            <li>Communication with customers;</li>
+            <li>Testing of the developed code, correction of emerging errors;</li>
+            <li> Installing, configuring and updating the application at the local stand and at the customer's.</li>
           </ol>
         </td>
-        <td>Май 2017 - Ноябрь 2018</td>
+        <td>May 2017 - November 2018</td>
       </tr>
       <tr>
-        <td><b>FullStack Java разработчик в <a href="https://www.eurekabpo.ru/en/">"Эврика Би Пи O"</a></b></td>
+        <td><b>FullStack Java Developer at <a href="https://www.eurekabpo.ru/en/">"Eureka BPO"</a></b></td>
         <td>
           <ol>
-            <li>Участие в разработке крупных российских и зарубежных проектов компании на платформе Alfresco, 
-                таких как <b>"ФАРДО"</b>, <b>"PROJECTFUSION"</b>;</li>
-            <li>Общение с заказчиками;</li>
-            <li>Обмен опытом с другими разработчиками компании;</li>
-            <li>Своевременное логирование выполненных задач в Jira;</li>
-            <li>Тестирование разработанного кода, исправление возникающих ошибок;</li>
-            <li>Установка и настройка приложений на тестовых стендах.</li>
+            <li>Performing various tasks for development in large projects;</li>
+            <li>Passage of courses on java, javascript, css, html;</li>
+            <li>Speech as a Carrier of Knowledge;</li>
+            <li>One of the developers - <b>“Phardo”</b>.</li>
           </ol>
         </td>
-        <td>Октябрь 2016 - Май 2017</td>
+        <td>October 2016 - May 2017</td>
       </tr>
     </tbody>
   </table>
 </details>
 
 <details style="margin-left: 40px">
-  <summary><b>🌌 Мои проекты </b></summary>
+  <summary><b>🌌 My Projects </b></summary>
 
   <br />
   <a href="https://github.com/NinjaEnterprise/Ninja">
@@ -179,32 +176,33 @@ ElasticSearch, MongoDB. В этом же русле я хочу развиват
 </details>
 
 <details style="margin-left: 40px">	
-  <summary><b>📜 Мое рабочее окружение</b></summary>
+  <summary><b>📜 My Work Environment</b></summary>
 
   <br />
   <ul>
     <li><b>PC:</b> CPU - Intel Core i7 10870H; RAM - 32GB; ROM - SSD 1TB;</li>
-    <li><b>Браузер:</b> Яндекс;</li>
+    <li><b>Browser:</b> Yandex;</li>
     <li><b>IDE:</b> Intellij Idea;</li>
-    <li><b>Изучаю, чтобы оставаться в курсе:</b> поиск решений проблем через поисковик, книги, Habr, Baeldung и Youtube.</li>
-  </ul>
+    <li><b>Studying to stay informed:</b> yandex search, books, Habr, Baeldung and Youtube.</li>
+  </ul>	
 </details>
 
 <details style="margin-left: 40px">
-  <summary><b>🍻 Моя статистика написания кода </b></summary>
+  <summary><b>🍻 My Coding Stats </b></summary>
 
   <br />
-  <img alt="waka-time" src="https://github-readme-stats.vercel.app/api/wakatime?username=SmithyVL&theme=dark&hide_border=true&hide_title=true" /><br />
+  <img alt="waka-time" src="https://github-readme-stats.vercel.app/api/wakatime?username=SmithyVL&theme=dark&hide_border=true&hide_title=true" />
 
+  <br />
   <i>
-    Остальная статистика в закрепленных gist репозиториях описания профиля.
+    The rest of the statistics in the pinned gist repositories of the profile description.
   </i>
 </details>
 
-## 📆 Календарь коммитов за год
+## 📆 Commit calendar for the year
 <img alt="calendar-url" src="https://raw.githubusercontent.com/SmithyVL/SmithyVL/master/assets/metrics/iso-calendar.svg"/>
 
-## 📋 Недавняя активность
+## 📋 Recent activity
 **[📰 Recent activity](https://github.com/SmithyVL)**
 * 🌟 Starred [bdougie/invite-based-on-comment](https://github.com/bdougie/invite-based-on-comment)
   * *On 9 Jun 2022, 22:32:53*
@@ -220,7 +218,7 @@ ElasticSearch, MongoDB. В этом же русле я хочу развиват
   * *On 7 Jun 2022, 18:07:23*
 
 
-## 📰 Новостная лента
+## 📰 RSS
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
 * [Introduction to Lightrun with Java](https://feeds.feedblitz.com/~/698749166/0/baeldung~Introduction-to-Lightrun-with-Java)
   * *Published on 8 Jun 2022*

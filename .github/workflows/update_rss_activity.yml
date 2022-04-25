@@ -1,4 +1,4 @@
-name: RSS and Activity [EN]
+name: RSS and Activity [RU]
 
 on:
   schedule:
@@ -20,15 +20,11 @@ jobs:
           markdown: docs/template/README_TEMPLATE.md
 
           # Options
-          user: Bangerok
+          user: SmithyVL
           base: ""
           config_timezone: Europe/Kirov
           plugin_activity: yes
-          plugin_activity_days: 14
           plugin_activity_filter: all
-          plugin_activity_limit: 5
-          plugin_activity_load: 300
-          plugin_activity_visibility: all
           plugin_activity_timestamps: yes
           plugin_rss: yes
           plugin_rss_source: https://feeds.feedblitz.com/baeldung

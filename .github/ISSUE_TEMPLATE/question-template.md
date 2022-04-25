@@ -1,14 +1,14 @@
 ---
-name: Question Template
-about: Ask your question
-title: '[QUESTION] Short description of the question.'
+name: Шаблон вопроса
+about: Задай мне вопрос
+title: '[QUESTION] Краткое описание вопроса'
 labels: 'question'
-assignees: 'Bangerok'
+assignees: 'SmithyVL'
 
 ---
 
-**Question description**
-A clear and concise description of the question.
+**Описание вопроса**
+Четкое и краткое описание вопроса.
 
-**Additional context**
-Add any other context here.
+**Дополнительная информация**
+Добавьте сюда любой другой контекст.
