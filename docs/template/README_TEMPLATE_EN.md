@@ -61,7 +61,7 @@ continue working with these technologies, as well as other relevant and modern t
 - 📔 &nbsp; I’m now working with Java, Spring Boot, Microservices, etc;
 - 🔌 &nbsp; I’m now learning Back-end Development;
 - 💡 &nbsp; You can see my resume **[here](https://raw.githubusercontent.com/SmithyVL/SmithyVL/master/docs/resume/%5BENG%5D%20Kuznetsov%20V.A.%20Java%20Developer.pdf)**;
-- 💬 &nbsp; Ask me about anything **[here](https://github.com/SmithyVL/SmithyVL/issues/1)**! I’m happy to help.
+- 💬 &nbsp; Ask me about anything **[here](https://github.com/SmithyVL/SmithyVL/discussions/6)**! I’m happy to help.
 
 ## 🌌 My hobbies
 - 💻 &nbsp; I love exploring new tech stack and building cool stuffs;
@@ -105,7 +105,7 @@ continue working with these technologies, as well as other relevant and modern t
     </thead>
     <tbody>
       <tr>
-        <td><b>Back-end Java Developer at <a href="https://docshouse.ru/">"Lanit"</a></b></td>
+        <td><b>[Middle+] Back-end Java Developer at <a href="https://docshouse.ru/">"Lanit"</a></b></td>
         <td>
           <ol>
             <li>Participation in the support and improvement of customer applications;</li>
@@ -118,7 +118,7 @@ continue working with these technologies, as well as other relevant and modern t
         <td>June 2021 - Present Time</td>
       </tr>
       <tr>
-        <td><b>FullStack Java Developer at "SmartLight"</b></td>
+        <td><b>[Middle] FullStack Java Developer at "SmartLight"</b></td>
         <td>
           <ol>
             <li>Participation in the support and improvement of customer applications;</li>
@@ -131,7 +131,7 @@ continue working with these technologies, as well as other relevant and modern t
         <td>November 2018 - May 2021</td>
       </tr>
       <tr>
-        <td><b>FullStack Java Developer at <!--suppress HttpUrlsUsage--><a href="http://www.kn-k.ru/">"Nahodka AIS"</a></b></td>
+        <td><b>[Junior+] FullStack Java Developer at <!--suppress HttpUrlsUsage--><a href="http://www.kn-k.ru/">"Nahodka AIS"</a></b></td>
         <td>
           <ol>
             <li>Development and support of the <b>"AIS Upravlenie"</b> (Guardianship) project;</li>
@@ -143,7 +143,7 @@ continue working with these technologies, as well as other relevant and modern t
         <td>May 2017 - November 2018</td>
       </tr>
       <tr>
-        <td><b>FullStack Java Developer at <a href="https://www.eurekabpo.ru/en/">"Eureka BPO"</a></b></td>
+        <td><b>[Junior] FullStack Java Developer at <a href="https://www.eurekabpo.ru/en/">"Eureka BPO"</a></b></td>
         <td>
           <ol>
             <li>Performing various tasks for development in large projects;</li>
@@ -180,9 +180,9 @@ continue working with these technologies, as well as other relevant and modern t
 
   <br />
   <ul>
-    <li><b>PC:</b> CPU - Intel Core i7 10870H; RAM - 32GB; ROM - SSD 1TB;</li>
+    <li><b>PC [HP OMEN 16]:</b> CPU - Intel Core i7 10870H; RAM - 32GB; ROM - SSD 1TB;</li>
     <li><b>Browser:</b> Yandex;</li>
-    <li><b>IDE:</b> Intellij Idea;</li>
+    <li><b>IDE:</b> Intellij Idea Ultimate;</li>
     <li><b>Studying to stay informed:</b> yandex search, books, Habr, Baeldung and Youtube.</li>
   </ul>	
 </details>

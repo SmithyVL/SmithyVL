@@ -61,7 +61,7 @@ continue working with these technologies, as well as other relevant and modern t
 - 📔 &nbsp; I’m now working with Java, Spring Boot, Microservices, etc;
 - 🔌 &nbsp; I’m now learning Back-end Development;
 - 💡 &nbsp; You can see my resume **[here](https://raw.githubusercontent.com/SmithyVL/SmithyVL/master/docs/resume/%5BENG%5D%20Kuznetsov%20V.A.%20Java%20Developer.pdf)**;
-- 💬 &nbsp; Ask me about anything **[here](https://github.com/SmithyVL/SmithyVL/issues/1)**! I’m happy to help.
+- 💬 &nbsp; Ask me about anything **[here](https://github.com/SmithyVL/SmithyVL/discussions/6)**! I’m happy to help.
 
 ## 🌌 My hobbies
 - 💻 &nbsp; I love exploring new tech stack and building cool stuffs;
@@ -105,7 +105,7 @@ continue working with these technologies, as well as other relevant and modern t
     </thead>
     <tbody>
       <tr>
-        <td><b>Back-end Java Developer at <a href="https://docshouse.ru/">"Lanit"</a></b></td>
+        <td><b>[Middle+] Back-end Java Developer at <a href="https://docshouse.ru/">"Lanit"</a></b></td>
         <td>
           <ol>
             <li>Participation in the support and improvement of customer applications;</li>
@@ -118,7 +118,7 @@ continue working with these technologies, as well as other relevant and modern t
         <td>June 2021 - Present Time</td>
       </tr>
       <tr>
-        <td><b>FullStack Java Developer at "SmartLight"</b></td>
+        <td><b>[Middle] FullStack Java Developer at "SmartLight"</b></td>
         <td>
           <ol>
             <li>Participation in the support and improvement of customer applications;</li>
@@ -131,7 +131,7 @@ continue working with these technologies, as well as other relevant and modern t
         <td>November 2018 - May 2021</td>
       </tr>
       <tr>
-        <td><b>FullStack Java Developer at <!--suppress HttpUrlsUsage--><a href="http://www.kn-k.ru/">"Nahodka AIS"</a></b></td>
+        <td><b>[Junior+] FullStack Java Developer at <!--suppress HttpUrlsUsage--><a href="http://www.kn-k.ru/">"Nahodka AIS"</a></b></td>
         <td>
           <ol>
             <li>Development and support of the <b>"AIS Upravlenie"</b> (Guardianship) project;</li>
@@ -143,7 +143,7 @@ continue working with these technologies, as well as other relevant and modern t
         <td>May 2017 - November 2018</td>
       </tr>
       <tr>
-        <td><b>FullStack Java Developer at <a href="https://www.eurekabpo.ru/en/">"Eureka BPO"</a></b></td>
+        <td><b>[Junior] FullStack Java Developer at <a href="https://www.eurekabpo.ru/en/">"Eureka BPO"</a></b></td>
         <td>
           <ol>
             <li>Performing various tasks for development in large projects;</li>
@@ -180,9 +180,9 @@ continue working with these technologies, as well as other relevant and modern t
 
   <br />
   <ul>
-    <li><b>PC:</b> CPU - Intel Core i7 10870H; RAM - 32GB; ROM - SSD 1TB;</li>
+    <li><b>PC [HP OMEN 16]:</b> CPU - Intel Core i7 10870H; RAM - 32GB; ROM - SSD 1TB;</li>
     <li><b>Browser:</b> Yandex;</li>
-    <li><b>IDE:</b> Intellij Idea;</li>
+    <li><b>IDE:</b> Intellij Idea Ultimate;</li>
     <li><b>Studying to stay informed:</b> yandex search, books, Habr, Baeldung and Youtube.</li>
   </ul>	
 </details>
@@ -204,29 +204,29 @@ continue working with these technologies, as well as other relevant and modern t
 
 ## 📋 Recent activity
 **[📰 Recent activity](https://github.com/SmithyVL)**
-* 🌟 Starred [bdougie/invite-based-on-comment](https://github.com/bdougie/invite-based-on-comment)
-  * *On 9 Jun 2022, 22:32:53*
-* 🌟 Starred [actions/first-interaction](https://github.com/actions/first-interaction)
-  * *On 9 Jun 2022, 22:32:27*
-* 🌟 Starred [bdougie/take-action](https://github.com/bdougie/take-action)
-  * *On 9 Jun 2022, 22:32:03*
-* ➡️ Pushed 1 commit in [NinjaEnterprise/Ninja](https://github.com/NinjaEnterprise/Ninja) on branch `#79_transfer_all_services_libraries`
-  * [#db8204f](https://github.com/NinjaEnterprise/Ninja/commit/db8204f) 0.6.5. Added submodules.
-  * *On 8 Jun 2022, 17:27:49*
-* ➡️ Pushed 1 commit in [NinjaEnterprise/Ninja](https://github.com/NinjaEnterprise/Ninja) on branch `#79_transfer_all_services_libraries`
-  * [#fd0c1b3](https://github.com/NinjaEnterprise/Ninja/commit/fd0c1b3) 0.6.5. Added submodules.
-  * *On 7 Jun 2022, 18:07:23*
+* ➡️ Pushed 1 commit in [HogwartsSchoolOfMagic/MagicMultiRepo](https://github.com/HogwartsSchoolOfMagic/MagicMultiRepo) on branch `master`
+  * [#566c9dc](https://github.com/HogwartsSchoolOfMagic/MagicMultiRepo/commit/566c9dc) 0.6.7. Проверка создания релизов после инициализации github действия.
+  * *On 20 Jun 2022, 10:04:58*
+  * *On 20 Jun 2022, 10:04:57*
+* 🔃 Merged [#82 0.6.7. Проверка создания релизов после инициализации github действия.](https://github.com/HogwartsSchoolOfMagic/MagicMultiRepo/pull/82) in [HogwartsSchoolOfMagic/MagicMultiRepo](https://github.com/HogwartsSchoolOfMagic/MagicMultiRepo)
+  * 1 file changed `++1 --1`
+  * *On 20 Jun 2022, 10:04:57*
+* 🔃 Opened [#82 0.6.7. Проверка создания релизов после инициализации github действия.](https://github.com/HogwartsSchoolOfMagic/MagicMultiRepo/pull/82) in [HogwartsSchoolOfMagic/MagicMultiRepo](https://github.com/HogwartsSchoolOfMagic/MagicMultiRepo)
+  * 1 file changed `++1 --1`
+  * *On 20 Jun 2022, 10:01:19*
+* ⏺️ Created new branch TEST_NEW_RELEASE_AFTER_INIT in [HogwartsSchoolOfMagic/MagicMultiRepo](https://github.com/HogwartsSchoolOfMagic/MagicMultiRepo)
+  * *On 20 Jun 2022, 10:00:22*
 
 
 ## 📰 RSS
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
-* [Introduction to Lightrun with Java](https://feeds.feedblitz.com/~/698749166/0/baeldung~Introduction-to-Lightrun-with-Java)
-  * *Published on 8 Jun 2022*
-* [Running Cron Jobs in Kubernetes](https://feeds.feedblitz.com/~/698746634/0/baeldung~Running-Cron-Jobs-in-Kubernetes)
-  * *Published on 8 Jun 2022*
-* [Custom HTTP Header With the Java HttpClient](https://feeds.feedblitz.com/~/698746636/0/baeldung~Custom-HTTP-Header-With-the-Java-HttpClient)
-  * *Published on 8 Jun 2022*
-* [Adding Parameters to Java HttpClient Requests](https://feeds.feedblitz.com/~/698708358/0/baeldung~Adding-Parameters-to-Java-HttpClient-Requests)
-  * *Published on 7 Jun 2022*
-* [Disabling Keycloak Security in Spring Boot](https://feeds.feedblitz.com/~/698679718/0/baeldung~Disabling-Keycloak-Security-in-Spring-Boot)
-  * *Published on 7 Jun 2022*
+* [Difference Between Flux.create and Flux.generate](https://feeds.feedblitz.com/~/699883384/0/baeldung~Difference-Between-Fluxcreate-and-Fluxgenerate)
+  * *Published on 20 Jun 2022*
+* [Handle Spring Security Exceptions With @ExceptionHandler](https://feeds.feedblitz.com/~/699736092/0/baeldung~Handle-Spring-Security-Exceptions-With-ExceptionHandler)
+  * *Published on 19 Jun 2022*
+* [MongoDB Composite Key With Spring Data](https://feeds.feedblitz.com/~/699680972/0/baeldung~MongoDB-Composite-Key-With-Spring-Data)
+  * *Published on 18 Jun 2022*
+* [What are the Spring Boot Default Memory Settings?](https://feeds.feedblitz.com/~/699680974/0/baeldung~What-are-the-Spring-Boot-Default-Memory-Settings)
+  * *Published on 18 Jun 2022*
+* [A Guide to Docker Private Registry](https://feeds.feedblitz.com/~/699573478/0/baeldung~A-Guide-to-Docker-Private-Registry)
+  * *Published on 17 Jun 2022*

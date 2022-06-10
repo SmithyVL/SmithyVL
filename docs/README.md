@@ -62,7 +62,7 @@ ElasticSearch, MongoDB. В этом же русле я хочу развиват
 - 📔 &nbsp; Я сейчас работаю с Java, Spring Boot, микросервисами и т.д;
 - 🔌 &nbsp; Я сейчас изучаю Back-end разработку;
 - 💡 &nbsp; Ты можешь посмотреть мое резюме **[здесь](https://raw.githubusercontent.com/SmithyVL/SmithyVL/master/docs/resume/%5BRUS%5D%20Kuznetsov%20V.A.%20Java%20Developer.pdf)**;
-- 💬 &nbsp; Спроси меня о чем угодно **[здесь](https://github.com/SmithyVL/SmithyVL/issues/1)**! Я буду рад помочь.
+- 💬 &nbsp; Спроси меня о чем угодно **[здесь](https://github.com/SmithyVL/SmithyVL/discussions/6)**! Я буду рад помочь.
 
 ## 🌌 Мои хобби
 - 💻 &nbsp; Я люблю изучать новые технологии и создавать крутые штуки;
@@ -106,7 +106,7 @@ ElasticSearch, MongoDB. В этом же русле я хочу развиват
     </thead>
     <tbody>
       <tr>
-        <td><b>Back-end Java разработчик в <a href="https://docshouse.ru/">"Ланит"</a></b></td>
+        <td><b>[Middle+] Back-end Java разработчик в <a href="https://docshouse.ru/">"Ланит"</a></b></td>
         <td>
           <ol>
             <li>Участие в разработке, поддержке и тестировании продукта компании - <b>DocsHouse</b>;</li>
@@ -118,7 +118,7 @@ ElasticSearch, MongoDB. В этом же русле я хочу развиват
         <td>Июнь 2021 - Настоящее время</td>
       </tr>
       <tr>
-        <td><b>FullStack Java разработчик в "СмартЛайт"</b></td>
+        <td><b>[Middle] FullStack Java разработчик в "СмартЛайт"</b></td>
         <td>
           <ol>
             <li>Участие в поддержке и доработке приложений заказчиков;</li>
@@ -131,7 +131,7 @@ ElasticSearch, MongoDB. В этом же русле я хочу развиват
         <td>Ноябрь 2018 - Май 2021</td>
       </tr>
       <tr>
-        <td><b>FullStack Java разработчик в <!--suppress HttpUrlsUsage--><a href="http://www.kn-k.ru/">"Находка АИС"</a></b></td>
+        <td><b>[Junior+] FullStack Java разработчик в <!--suppress HttpUrlsUsage--><a href="http://www.kn-k.ru/">"Находка АИС"</a></b></td>
         <td>
           <ol>
             <li>Разработка и поддержка проекта <b>“АИС Управление”</b> (Опека);</li>
@@ -143,7 +143,7 @@ ElasticSearch, MongoDB. В этом же русле я хочу развиват
         <td>Май 2017 - Ноябрь 2018</td>
       </tr>
       <tr>
-        <td><b>FullStack Java разработчик в <a href="https://www.eurekabpo.ru/en/">"Эврика Би Пи O"</a></b></td>
+        <td><b>[Junior] FullStack Java разработчик в <a href="https://www.eurekabpo.ru/en/">"Эврика Би Пи O"</a></b></td>
         <td>
           <ol>
             <li>Участие в разработке крупных российских и зарубежных проектов компании на платформе Alfresco, 
@@ -183,9 +183,9 @@ ElasticSearch, MongoDB. В этом же русле я хочу развиват
 
   <br />
   <ul>
-    <li><b>PC:</b> CPU - Intel Core i7 10870H; RAM - 32GB; ROM - SSD 1TB;</li>
+    <li><b>PC [HP OMEN 16]:</b> CPU - Intel Core i7 10870H; RAM - 32GB; ROM - SSD 1TB;</li>
     <li><b>Браузер:</b> Яндекс;</li>
-    <li><b>IDE:</b> Intellij Idea;</li>
+    <li><b>IDE:</b> Intellij Idea Ultimate;</li>
     <li><b>Изучаю, чтобы оставаться в курсе:</b> поиск решений проблем через поисковик, книги, Habr, Baeldung и Youtube.</li>
   </ul>
 </details>
@@ -206,29 +206,29 @@ ElasticSearch, MongoDB. В этом же русле я хочу развиват
 
 ## 📋 Недавняя активность
 **[📰 Recent activity](https://github.com/SmithyVL)**
-* 🌟 Starred [bdougie/invite-based-on-comment](https://github.com/bdougie/invite-based-on-comment)
-  * *On 9 Jun 2022, 22:32:53*
-* 🌟 Starred [actions/first-interaction](https://github.com/actions/first-interaction)
-  * *On 9 Jun 2022, 22:32:27*
-* 🌟 Starred [bdougie/take-action](https://github.com/bdougie/take-action)
-  * *On 9 Jun 2022, 22:32:03*
-* ➡️ Pushed 1 commit in [NinjaEnterprise/Ninja](https://github.com/NinjaEnterprise/Ninja) on branch `#79_transfer_all_services_libraries`
-  * [#db8204f](https://github.com/NinjaEnterprise/Ninja/commit/db8204f) 0.6.5. Added submodules.
-  * *On 8 Jun 2022, 17:27:49*
-* ➡️ Pushed 1 commit in [NinjaEnterprise/Ninja](https://github.com/NinjaEnterprise/Ninja) on branch `#79_transfer_all_services_libraries`
-  * [#fd0c1b3](https://github.com/NinjaEnterprise/Ninja/commit/fd0c1b3) 0.6.5. Added submodules.
-  * *On 7 Jun 2022, 18:07:23*
+* ➡️ Pushed 1 commit in [HogwartsSchoolOfMagic/MagicMultiRepo](https://github.com/HogwartsSchoolOfMagic/MagicMultiRepo) on branch `master`
+  * [#566c9dc](https://github.com/HogwartsSchoolOfMagic/MagicMultiRepo/commit/566c9dc) 0.6.7. Проверка создания релизов после инициализации github действия.
+  * *On 20 Jun 2022, 10:04:58*
+  * *On 20 Jun 2022, 10:04:57*
+* 🔃 Merged [#82 0.6.7. Проверка создания релизов после инициализации github действия.](https://github.com/HogwartsSchoolOfMagic/MagicMultiRepo/pull/82) in [HogwartsSchoolOfMagic/MagicMultiRepo](https://github.com/HogwartsSchoolOfMagic/MagicMultiRepo)
+  * 1 file changed `++1 --1`
+  * *On 20 Jun 2022, 10:04:57*
+* 🔃 Opened [#82 0.6.7. Проверка создания релизов после инициализации github действия.](https://github.com/HogwartsSchoolOfMagic/MagicMultiRepo/pull/82) in [HogwartsSchoolOfMagic/MagicMultiRepo](https://github.com/HogwartsSchoolOfMagic/MagicMultiRepo)
+  * 1 file changed `++1 --1`
+  * *On 20 Jun 2022, 10:01:19*
+* ⏺️ Created new branch TEST_NEW_RELEASE_AFTER_INIT in [HogwartsSchoolOfMagic/MagicMultiRepo](https://github.com/HogwartsSchoolOfMagic/MagicMultiRepo)
+  * *On 20 Jun 2022, 10:00:22*
 
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
-* [Introduction to Lightrun with Java](https://feeds.feedblitz.com/~/698749166/0/baeldung~Introduction-to-Lightrun-with-Java)
-  * *Published on 8 Jun 2022*
-* [Running Cron Jobs in Kubernetes](https://feeds.feedblitz.com/~/698746634/0/baeldung~Running-Cron-Jobs-in-Kubernetes)
-  * *Published on 8 Jun 2022*
-* [Custom HTTP Header With the Java HttpClient](https://feeds.feedblitz.com/~/698746636/0/baeldung~Custom-HTTP-Header-With-the-Java-HttpClient)
-  * *Published on 8 Jun 2022*
-* [Adding Parameters to Java HttpClient Requests](https://feeds.feedblitz.com/~/698708358/0/baeldung~Adding-Parameters-to-Java-HttpClient-Requests)
-  * *Published on 7 Jun 2022*
-* [Disabling Keycloak Security in Spring Boot](https://feeds.feedblitz.com/~/698679718/0/baeldung~Disabling-Keycloak-Security-in-Spring-Boot)
-  * *Published on 7 Jun 2022*
+* [Difference Between Flux.create and Flux.generate](https://feeds.feedblitz.com/~/699883384/0/baeldung~Difference-Between-Fluxcreate-and-Fluxgenerate)
+  * *Published on 20 Jun 2022*
+* [Handle Spring Security Exceptions With @ExceptionHandler](https://feeds.feedblitz.com/~/699736092/0/baeldung~Handle-Spring-Security-Exceptions-With-ExceptionHandler)
+  * *Published on 19 Jun 2022*
+* [MongoDB Composite Key With Spring Data](https://feeds.feedblitz.com/~/699680972/0/baeldung~MongoDB-Composite-Key-With-Spring-Data)
+  * *Published on 18 Jun 2022*
+* [What are the Spring Boot Default Memory Settings?](https://feeds.feedblitz.com/~/699680974/0/baeldung~What-are-the-Spring-Boot-Default-Memory-Settings)
+  * *Published on 18 Jun 2022*
+* [A Guide to Docker Private Registry](https://feeds.feedblitz.com/~/699573478/0/baeldung~A-Guide-to-Docker-Private-Registry)
+  * *Published on 17 Jun 2022*
