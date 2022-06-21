@@ -162,16 +162,16 @@ continue working with these technologies, as well as other relevant and modern t
   <summary><b>🌌 My Projects </b></summary>
 
   <br />
-  <a href="https://github.com/NinjaEnterprise/Ninja">
-    <img alt="ninja-repo" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NinjaEnterprise&repo=Ninja&theme=dark&hide_border=true" />
+  <a href="https://github.com/HogwartsSchoolOfMagic/MagicMultiRepo">
+    <img alt="ninja-repo" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HogwartsSchoolOfMagic&repo=MagicMultiRepo&theme=dark&hide_border=true" />
   </a>
 
-  <a href="https://github.com/FunProjectsForSoul/Vertex">
-    <img alt="ninja-client-repo" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=FunProjectsForSoul&repo=Vertex&theme=dark&hide_border=true" />
+  <a href="https://github.com/HogwartsSchoolOfMagic/Vertex">
+    <img alt="ninja-client-repo" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HogwartsSchoolOfMagic&repo=Vertex&theme=dark&hide_border=true" />
   </a><br />
 
-  <a href="https://github.com/FunProjectsForSoul/TractorMoving">
-    <img alt="ninja-configuration-repo" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=FunProjectsForSoul&repo=TractorMoving&theme=dark&hide_border=true" />
+  <a href="https://github.com/HogwartsSchoolOfMagic/TractorMoving">
+    <img alt="ninja-configuration-repo" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HogwartsSchoolOfMagic&repo=TractorMoving&theme=dark&hide_border=true" />
   </a><br /><br />
 </details>
 
@@ -197,6 +197,15 @@ continue working with these technologies, as well as other relevant and modern t
   <i>
     The rest of the statistics in the pinned gist repositories of the profile description.
   </i>
+</details>
+
+<details style="margin-left: 40px">
+  <summary><b>🎫 Participation in conferences </b></summary>
+
+  <br />
+  <a href="https://ohmyduck.jugru.org/badges/5kQL5K">
+    <img width="25%" alt="jpoint-2022" src="https://raw.githubusercontent.com/SmithyVL/SmithyVL/master/assets/conferences/2022/jpoint/jpoint-2022.png"/>
+  </a><br />
 </details>
 
 ## 📆 Commit calendar for the year
