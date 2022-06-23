@@ -213,6 +213,8 @@ continue working with these technologies, as well as other relevant and modern t
 
 ## 📋 Recent activity
 **[📰 Recent activity](https://github.com/SmithyVL)**
+* 🌟 Starred [SmithyVL/SmithyVL](https://github.com/SmithyVL/SmithyVL)
+  * *On 22 Jun 2022, 20:58:58*
 * 🌟 Starred [sindresorhus/awesome](https://github.com/sindresorhus/awesome)
   * *On 21 Jun 2022, 21:52:18*
 * 🌟 Starred [dereknguyen269/dereknguyen269](https://github.com/dereknguyen269/dereknguyen269)
@@ -221,8 +223,6 @@ continue working with these technologies, as well as other relevant and modern t
   * *On 21 Jun 2022, 21:45:51*
 * ⏺️ Created new branch develop in [HogwartsSchoolOfMagic/MainFront](https://github.com/HogwartsSchoolOfMagic/MainFront)
   * *On 21 Jun 2022, 21:07:46*
-* ⏺️ Created new branch develop in [HogwartsSchoolOfMagic/AdminService](https://github.com/HogwartsSchoolOfMagic/AdminService)
-  * *On 21 Jun 2022, 21:07:38*
 
 
 ## 📰 RSS
