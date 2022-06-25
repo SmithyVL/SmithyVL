@@ -227,13 +227,13 @@ continue working with these technologies, as well as other relevant and modern t
 
 ## 📰 RSS
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [Java Weekly, Issue 443](https://feeds.feedblitz.com/~/700344156/0/baeldung~Java-Weekly-Issue)
+  * *Published on 24 Jun 2022*
+* [Creating JAR Files Programmatically](https://feeds.feedblitz.com/~/700332840/0/baeldung~Creating-JAR-Files-Programmatically)
+  * *Published on 24 Jun 2022*
 * [How to Modify Git Commit Messages](https://feeds.feedblitz.com/~/700209774/0/baeldung~How-to-Modify-Git-Commit-Messages)
   * *Published on 23 Jun 2022*
 * [Share Volume Between Multiple Containers in Docker Compose](https://feeds.feedblitz.com/~/700209776/0/baeldung~Share-Volume-Between-Multiple-Containers-in-Docker-Compose)
   * *Published on 23 Jun 2022*
 * [Difference Between Flux.create and Flux.generate](https://feeds.feedblitz.com/~/699883384/0/baeldung~Difference-Between-Fluxcreate-and-Fluxgenerate)
   * *Published on 20 Jun 2022*
-* [Handle Spring Security Exceptions With @ExceptionHandler](https://feeds.feedblitz.com/~/699736092/0/baeldung~Handle-Spring-Security-Exceptions-With-ExceptionHandler)
-  * *Published on 19 Jun 2022*
-* [MongoDB Composite Key With Spring Data](https://feeds.feedblitz.com/~/699680972/0/baeldung~MongoDB-Composite-Key-With-Spring-Data)
-  * *Published on 18 Jun 2022*
