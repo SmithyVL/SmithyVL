@@ -229,13 +229,13 @@ ElasticSearch, MongoDB. В этом же русле я хочу развиват
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [Check if a Number Is Odd or Even](https://feeds.feedblitz.com/~/700501232/0/baeldung~Check-if-a-Number-Is-Odd-or-Even)
+  * *Published on 25 Jun 2022*
+* [JavaScript Function Call with Thymeleaf](https://feeds.feedblitz.com/~/700501234/0/baeldung~JavaScript-Function-Call-with-Thymeleaf)
+  * *Published on 25 Jun 2022*
 * [Java Weekly, Issue 443](https://feeds.feedblitz.com/~/700344156/0/baeldung~Java-Weekly-Issue)
   * *Published on 24 Jun 2022*
 * [Creating JAR Files Programmatically](https://feeds.feedblitz.com/~/700332840/0/baeldung~Creating-JAR-Files-Programmatically)
   * *Published on 24 Jun 2022*
 * [How to Modify Git Commit Messages](https://feeds.feedblitz.com/~/700209774/0/baeldung~How-to-Modify-Git-Commit-Messages)
   * *Published on 23 Jun 2022*
-* [Share Volume Between Multiple Containers in Docker Compose](https://feeds.feedblitz.com/~/700209776/0/baeldung~Share-Volume-Between-Multiple-Containers-in-Docker-Compose)
-  * *Published on 23 Jun 2022*
-* [Difference Between Flux.create and Flux.generate](https://feeds.feedblitz.com/~/699883384/0/baeldung~Difference-Between-Fluxcreate-and-Fluxgenerate)
-  * *Published on 20 Jun 2022*
