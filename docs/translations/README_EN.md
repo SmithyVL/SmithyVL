@@ -227,13 +227,13 @@ continue working with these technologies, as well as other relevant and modern t
 
 ## 📰 RSS
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [Guide to Find in MongoDB](https://feeds.feedblitz.com/~/700634180/0/baeldung~Guide-to-Find-in-MongoDB)
+  * *Published on 26 Jun 2022*
+* [Hibernate’s “Detached Entity Passed to Persist” Error](https://feeds.feedblitz.com/~/700634182/0/baeldung~Hibernates-Detached-Entity-Passed-to-Persist-Error)
+  * *Published on 26 Jun 2022*
+* [Root User and Password Inside a Docker Container](https://feeds.feedblitz.com/~/700634184/0/baeldung~Root-User-and-Password-Inside-a-Docker-Container)
+  * *Published on 26 Jun 2022*
 * [Check if a Number Is Odd or Even](https://feeds.feedblitz.com/~/700501232/0/baeldung~Check-if-a-Number-Is-Odd-or-Even)
   * *Published on 25 Jun 2022*
 * [JavaScript Function Call with Thymeleaf](https://feeds.feedblitz.com/~/700501234/0/baeldung~JavaScript-Function-Call-with-Thymeleaf)
   * *Published on 25 Jun 2022*
-* [Java Weekly, Issue 443](https://feeds.feedblitz.com/~/700344156/0/baeldung~Java-Weekly-Issue)
-  * *Published on 24 Jun 2022*
-* [Creating JAR Files Programmatically](https://feeds.feedblitz.com/~/700332840/0/baeldung~Creating-JAR-Files-Programmatically)
-  * *Published on 24 Jun 2022*
-* [How to Modify Git Commit Messages](https://feeds.feedblitz.com/~/700209774/0/baeldung~How-to-Modify-Git-Commit-Messages)
-  * *Published on 23 Jun 2022*
