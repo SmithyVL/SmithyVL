@@ -215,6 +215,8 @@ ElasticSearch, MongoDB. В этом же русле я хочу развиват
 
 ## 📋 Недавняя активность
 **[📰 Recent activity](https://github.com/SmithyVL)**
+* 🌟 Starred [obsidiandynamics/kafdrop](https://github.com/obsidiandynamics/kafdrop)
+  * *On 27 Jun 2022, 12:35:30*
 * 🌟 Starred [SmithyVL/SmithyVL](https://github.com/SmithyVL/SmithyVL)
   * *On 22 Jun 2022, 20:58:58*
 * 🌟 Starred [sindresorhus/awesome](https://github.com/sindresorhus/awesome)
@@ -223,12 +225,12 @@ ElasticSearch, MongoDB. В этом же русле я хочу развиват
   * *On 21 Jun 2022, 21:52:13*
 * 🌟 Starred [processtech/runawfe-free-server](https://github.com/processtech/runawfe-free-server)
   * *On 21 Jun 2022, 21:45:51*
-* ⏺️ Created new branch develop in [HogwartsSchoolOfMagic/MainFront](https://github.com/HogwartsSchoolOfMagic/MainFront)
-  * *On 21 Jun 2022, 21:07:46*
 
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [Unique Field in MongoDB Document in Spring Data](https://feeds.feedblitz.com/~/700699868/0/baeldung~Unique-Field-in-MongoDB-Document-in-Spring-Data)
+  * *Published on 27 Jun 2022*
 * [Guide to Find in MongoDB](https://feeds.feedblitz.com/~/700634180/0/baeldung~Guide-to-Find-in-MongoDB)
   * *Published on 26 Jun 2022*
 * [Hibernate’s “Detached Entity Passed to Persist” Error](https://feeds.feedblitz.com/~/700634182/0/baeldung~Hibernates-Detached-Entity-Passed-to-Persist-Error)
@@ -236,6 +238,4 @@ ElasticSearch, MongoDB. В этом же русле я хочу развиват
 * [Root User and Password Inside a Docker Container](https://feeds.feedblitz.com/~/700634184/0/baeldung~Root-User-and-Password-Inside-a-Docker-Container)
   * *Published on 26 Jun 2022*
 * [Check if a Number Is Odd or Even](https://feeds.feedblitz.com/~/700501232/0/baeldung~Check-if-a-Number-Is-Odd-or-Even)
-  * *Published on 25 Jun 2022*
-* [JavaScript Function Call with Thymeleaf](https://feeds.feedblitz.com/~/700501234/0/baeldung~JavaScript-Function-Call-with-Thymeleaf)
   * *Published on 25 Jun 2022*
