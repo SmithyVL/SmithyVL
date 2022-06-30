@@ -227,6 +227,8 @@ continue working with these technologies, as well as other relevant and modern t
 
 ## 📰 RSS
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [Processing the Response Body in Spring Cloud Gateway](https://feeds.feedblitz.com/~/700971812/0/baeldung~Processing-the-Response-Body-in-Spring-Cloud-Gateway)
+  * *Published on 29 Jun 2022*
 * [Unique Field in MongoDB Document in Spring Data](https://feeds.feedblitz.com/~/700699868/0/baeldung~Unique-Field-in-MongoDB-Document-in-Spring-Data)
   * *Published on 27 Jun 2022*
 * [Guide to Find in MongoDB](https://feeds.feedblitz.com/~/700634180/0/baeldung~Guide-to-Find-in-MongoDB)
@@ -235,5 +237,3 @@ continue working with these technologies, as well as other relevant and modern t
   * *Published on 26 Jun 2022*
 * [Root User and Password Inside a Docker Container](https://feeds.feedblitz.com/~/700634184/0/baeldung~Root-User-and-Password-Inside-a-Docker-Container)
   * *Published on 26 Jun 2022*
-* [Check if a Number Is Odd or Even](https://feeds.feedblitz.com/~/700501232/0/baeldung~Check-if-a-Number-Is-Odd-or-Even)
-  * *Published on 25 Jun 2022*
