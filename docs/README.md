@@ -229,13 +229,13 @@ ElasticSearch, MongoDB. В этом же русле я хочу развиват
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [How to Split a Stream into Multiple Streams](https://feeds.feedblitz.com/~/701138666/0/baeldung~How-to-Split-a-Stream-into-Multiple-Streams)
+  * *Published on 30 Jun 2022*
+* [How to Convert InputStream to Base64 String](https://feeds.feedblitz.com/~/701096640/0/baeldung~How-to-Convert-InputStream-to-Base-String)
+  * *Published on 30 Jun 2022*
+* [Java Weekly, Issue 444](https://feeds.feedblitz.com/~/701134568/0/baeldung~Java-Weekly-Issue)
+  * *Published on 30 Jun 2022*
 * [Processing the Response Body in Spring Cloud Gateway](https://feeds.feedblitz.com/~/700971812/0/baeldung~Processing-the-Response-Body-in-Spring-Cloud-Gateway)
   * *Published on 29 Jun 2022*
 * [Unique Field in MongoDB Document in Spring Data](https://feeds.feedblitz.com/~/700699868/0/baeldung~Unique-Field-in-MongoDB-Document-in-Spring-Data)
   * *Published on 27 Jun 2022*
-* [Guide to Find in MongoDB](https://feeds.feedblitz.com/~/700634180/0/baeldung~Guide-to-Find-in-MongoDB)
-  * *Published on 26 Jun 2022*
-* [Hibernate’s “Detached Entity Passed to Persist” Error](https://feeds.feedblitz.com/~/700634182/0/baeldung~Hibernates-Detached-Entity-Passed-to-Persist-Error)
-  * *Published on 26 Jun 2022*
-* [Root User and Password Inside a Docker Container](https://feeds.feedblitz.com/~/700634184/0/baeldung~Root-User-and-Password-Inside-a-Docker-Container)
-  * *Published on 26 Jun 2022*
