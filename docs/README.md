@@ -215,20 +215,31 @@ ElasticSearch, MongoDB. В этом же русле я хочу развиват
 
 ## 📋 Недавняя активность
 **[📰 Recent activity](https://github.com/SmithyVL)**
-* 🌟 Starred [obsidiandynamics/kafdrop](https://github.com/obsidiandynamics/kafdrop)
-  * *On 27 Jun 2022, 12:35:30*
-* 🌟 Starred [SmithyVL/SmithyVL](https://github.com/SmithyVL/SmithyVL)
-  * *On 22 Jun 2022, 20:58:58*
-* 🌟 Starred [sindresorhus/awesome](https://github.com/sindresorhus/awesome)
-  * *On 21 Jun 2022, 21:52:18*
-* 🌟 Starred [dereknguyen269/dereknguyen269](https://github.com/dereknguyen269/dereknguyen269)
-  * *On 21 Jun 2022, 21:52:13*
-* 🌟 Starred [processtech/runawfe-free-server](https://github.com/processtech/runawfe-free-server)
-  * *On 21 Jun 2022, 21:45:51*
+* ➡️ Pushed 1 commit in [HogwartsSchoolOfMagic/SearchLibrary](https://github.com/HogwartsSchoolOfMagic/SearchLibrary) on branch `master`
+  * [#08518b5](https://github.com/HogwartsSchoolOfMagic/SearchLibrary/commit/08518b5) 1.0.2. Update sign for repo.
+  * *On 1 Jul 2022, 18:26:19*
+* ➡️ Pushed 1 commit in [HogwartsSchoolOfMagic/SearchLibrary](https://github.com/HogwartsSchoolOfMagic/SearchLibrary) on branch `master`
+  * [#6691e2a](https://github.com/HogwartsSchoolOfMagic/SearchLibrary/commit/6691e2a) 1.0.2. Update sign for repo.
+  * *On 1 Jul 2022, 18:06:42*
+* ➡️ Pushed 1 commit in [HogwartsSchoolOfMagic/MagicMultiRepo](https://github.com/HogwartsSchoolOfMagic/MagicMultiRepo) on branch `master`
+  * [#dcc65be](https://github.com/HogwartsSchoolOfMagic/MagicMultiRepo/commit/dcc65be) 0.6.5. Transfer all libraries, fronts, services into general multi-repo project (#79).
+  * *On 1 Jul 2022, 17:36:11*
+* ➡️ Pushed 1 commit in [HogwartsSchoolOfMagic/MagicMultiRepo](https://github.com/HogwartsSchoolOfMagic/MagicMultiRepo) on branch `master`
+  * [#2f100b0](https://github.com/HogwartsSchoolOfMagic/MagicMultiRepo/commit/2f100b0) 0.6.5. Transfer all libraries, fronts, services into general multi-repo project (#79).
+
+Signed-off-by: Vladislav Kuznetsov &lt;smithy-vl@yandex.ru&gt;
+  * *On 1 Jul 2022, 17:23:36*
+* ➡️ Pushed 1 commit in [HogwartsSchoolOfMagic/MagicMultiRepo](https://github.com/HogwartsSchoolOfMagic/MagicMultiRepo) on branch `master`
+  * [#1739a28](https://github.com/HogwartsSchoolOfMagic/MagicMultiRepo/commit/1739a28) 0.6.5. Transfer all libraries, fronts, services into general multi-repo project (#79).
+
+Signed-off-by: Vladislav Kuznetsov &lt;smithy-vl@yandex.ru&gt;
+  * *On 1 Jul 2022, 17:22:39*
 
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [Difference Between form-data, x-www-form-urlencoded and raw in Postman](https://feeds.feedblitz.com/~/701229666/0/baeldung~Difference-Between-formdata-xwwwformurlencoded-and-raw-in-Postman)
+  * *Published on 1 Jul 2022*
 * [How to Split a Stream into Multiple Streams](https://feeds.feedblitz.com/~/701138666/0/baeldung~How-to-Split-a-Stream-into-Multiple-Streams)
   * *Published on 30 Jun 2022*
 * [How to Convert InputStream to Base64 String](https://feeds.feedblitz.com/~/701096640/0/baeldung~How-to-Convert-InputStream-to-Base-String)
@@ -237,5 +248,3 @@ ElasticSearch, MongoDB. В этом же русле я хочу развиват
   * *Published on 30 Jun 2022*
 * [Processing the Response Body in Spring Cloud Gateway](https://feeds.feedblitz.com/~/700971812/0/baeldung~Processing-the-Response-Body-in-Spring-Cloud-Gateway)
   * *Published on 29 Jun 2022*
-* [Unique Field in MongoDB Document in Spring Data](https://feeds.feedblitz.com/~/700699868/0/baeldung~Unique-Field-in-MongoDB-Document-in-Spring-Data)
-  * *Published on 27 Jun 2022*
