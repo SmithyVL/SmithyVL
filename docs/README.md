@@ -238,6 +238,8 @@ Signed-off-by: Vladislav Kuznetsov &lt;smithy-vl@yandex.ru&gt;
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [UUID as Entity ID in MongoDB](https://feeds.feedblitz.com/~/701498588/0/baeldung~UUID-as-Entity-ID-in-MongoDB)
+  * *Published on 3 Jul 2022*
 * [Difference Between form-data, x-www-form-urlencoded and raw in Postman](https://feeds.feedblitz.com/~/701229666/0/baeldung~Difference-Between-formdata-xwwwformurlencoded-and-raw-in-Postman)
   * *Published on 1 Jul 2022*
 * [How to Split a Stream into Multiple Streams](https://feeds.feedblitz.com/~/701138666/0/baeldung~How-to-Split-a-Stream-into-Multiple-Streams)
@@ -246,5 +248,3 @@ Signed-off-by: Vladislav Kuznetsov &lt;smithy-vl@yandex.ru&gt;
   * *Published on 30 Jun 2022*
 * [Java Weekly, Issue 444](https://feeds.feedblitz.com/~/701134568/0/baeldung~Java-Weekly-Issue)
   * *Published on 30 Jun 2022*
-* [Processing the Response Body in Spring Cloud Gateway](https://feeds.feedblitz.com/~/700971812/0/baeldung~Processing-the-Response-Body-in-Spring-Cloud-Gateway)
-  * *Published on 29 Jun 2022*
