@@ -215,25 +215,17 @@ ElasticSearch, MongoDB. В этом же русле я хочу развиват
 
 ## 📋 Недавняя активность
 **[📰 Recent activity](https://github.com/SmithyVL)**
+* 🌟 Starred [Aditi3/git-best-practices](https://github.com/Aditi3/git-best-practices)
+  * *On 4 Jul 2022, 18:00:39*
+* 🌟 Starred [softprops/action-gh-release](https://github.com/softprops/action-gh-release)
+  * *On 4 Jul 2022, 18:00:30*
+* 🌟 Starred [diverso-lab/core](https://github.com/diverso-lab/core)
+  * *On 4 Jul 2022, 16:58:04*
+* 🌟 Starred [gookit/validate](https://github.com/gookit/validate)
+  * *On 4 Jul 2022, 16:49:45*
 * ➡️ Pushed 1 commit in [HogwartsSchoolOfMagic/SearchLibrary](https://github.com/HogwartsSchoolOfMagic/SearchLibrary) on branch `master`
   * [#08518b5](https://github.com/HogwartsSchoolOfMagic/SearchLibrary/commit/08518b5) 1.0.2. Update sign for repo.
   * *On 1 Jul 2022, 18:26:19*
-* ➡️ Pushed 1 commit in [HogwartsSchoolOfMagic/SearchLibrary](https://github.com/HogwartsSchoolOfMagic/SearchLibrary) on branch `master`
-  * [#6691e2a](https://github.com/HogwartsSchoolOfMagic/SearchLibrary/commit/6691e2a) 1.0.2. Update sign for repo.
-  * *On 1 Jul 2022, 18:06:42*
-* ➡️ Pushed 1 commit in [HogwartsSchoolOfMagic/MagicMultiRepo](https://github.com/HogwartsSchoolOfMagic/MagicMultiRepo) on branch `master`
-  * [#dcc65be](https://github.com/HogwartsSchoolOfMagic/MagicMultiRepo/commit/dcc65be) 0.6.5. Transfer all libraries, fronts, services into general multi-repo project (#79).
-  * *On 1 Jul 2022, 17:36:11*
-* ➡️ Pushed 1 commit in [HogwartsSchoolOfMagic/MagicMultiRepo](https://github.com/HogwartsSchoolOfMagic/MagicMultiRepo) on branch `master`
-  * [#2f100b0](https://github.com/HogwartsSchoolOfMagic/MagicMultiRepo/commit/2f100b0) 0.6.5. Transfer all libraries, fronts, services into general multi-repo project (#79).
-
-Signed-off-by: Vladislav Kuznetsov &lt;smithy-vl@yandex.ru&gt;
-  * *On 1 Jul 2022, 17:23:36*
-* ➡️ Pushed 1 commit in [HogwartsSchoolOfMagic/MagicMultiRepo](https://github.com/HogwartsSchoolOfMagic/MagicMultiRepo) on branch `master`
-  * [#1739a28](https://github.com/HogwartsSchoolOfMagic/MagicMultiRepo/commit/1739a28) 0.6.5. Transfer all libraries, fronts, services into general multi-repo project (#79).
-
-Signed-off-by: Vladislav Kuznetsov &lt;smithy-vl@yandex.ru&gt;
-  * *On 1 Jul 2022, 17:22:39*
 
 
 ## 📰 Новостная лента
