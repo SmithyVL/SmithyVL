@@ -230,6 +230,8 @@ ElasticSearch, MongoDB. В этом же русле я хочу развиват
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [Ingress vs. Load Balancer in Kubernetes](https://feeds.feedblitz.com/~/701779764/0/baeldung~Ingress-vs-Load-Balancer-in-Kubernetes)
+  * *Published on 6 Jul 2022*
 * [How to Pass Environment Variable Value into Dockerfile](https://feeds.feedblitz.com/~/701663250/0/baeldung~How-to-Pass-Environment-Variable-Value-into-Dockerfile)
   * *Published on 5 Jul 2022*
 * [Use Cases for Static Methods in Java](https://feeds.feedblitz.com/~/701663252/0/baeldung~Use-Cases-for-Static-Methods-in-Java)
@@ -238,5 +240,3 @@ ElasticSearch, MongoDB. В этом же русле я хочу развиват
   * *Published on 3 Jul 2022*
 * [Difference Between form-data, x-www-form-urlencoded and raw in Postman](https://feeds.feedblitz.com/~/701229666/0/baeldung~Difference-Between-formdata-xwwwformurlencoded-and-raw-in-Postman)
   * *Published on 1 Jul 2022*
-* [How to Split a Stream into Multiple Streams](https://feeds.feedblitz.com/~/701138666/0/baeldung~How-to-Split-a-Stream-into-Multiple-Streams)
-  * *Published on 30 Jun 2022*
