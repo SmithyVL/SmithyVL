@@ -230,6 +230,8 @@ ElasticSearch, MongoDB. В этом же русле я хочу развиват
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [Java Weekly, Issue 445](https://feeds.feedblitz.com/~/701956556/0/baeldung~Java-Weekly-Issue)
+  * *Published on 7 Jul 2022*
 * [Ingress vs. Load Balancer in Kubernetes](https://feeds.feedblitz.com/~/701779764/0/baeldung~Ingress-vs-Load-Balancer-in-Kubernetes)
   * *Published on 6 Jul 2022*
 * [How to Pass Environment Variable Value into Dockerfile](https://feeds.feedblitz.com/~/701663250/0/baeldung~How-to-Pass-Environment-Variable-Value-into-Dockerfile)
@@ -238,5 +240,3 @@ ElasticSearch, MongoDB. В этом же русле я хочу развиват
   * *Published on 5 Jul 2022*
 * [UUID as Entity ID in MongoDB](https://feeds.feedblitz.com/~/701498588/0/baeldung~UUID-as-Entity-ID-in-MongoDB)
   * *Published on 3 Jul 2022*
-* [Difference Between form-data, x-www-form-urlencoded and raw in Postman](https://feeds.feedblitz.com/~/701229666/0/baeldung~Difference-Between-formdata-xwwwformurlencoded-and-raw-in-Postman)
-  * *Published on 1 Jul 2022*
