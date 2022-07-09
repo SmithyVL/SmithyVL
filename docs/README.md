@@ -230,13 +230,13 @@ ElasticSearch, MongoDB. В этом же русле я хочу развиват
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [Difference Between WAR and EAR Files](https://feeds.feedblitz.com/~/702064376/0/baeldung~Difference-Between-WAR-and-EAR-Files)
+  * *Published on 8 Jul 2022*
+* [Using Dates in CRUD Operations in MongoDB](https://feeds.feedblitz.com/~/702046986/0/baeldung~Using-Dates-in-CRUD-Operations-in-MongoDB)
+  * *Published on 8 Jul 2022*
+* [Instantiating Multiple Beans of the Same Class with Spring Annotations](https://feeds.feedblitz.com/~/702046988/0/baeldung~Instantiating-Multiple-Beans-of-the-Same-Class-with-Spring-Annotations)
+  * *Published on 8 Jul 2022*
 * [Java Weekly, Issue 445](https://feeds.feedblitz.com/~/701956556/0/baeldung~Java-Weekly-Issue)
   * *Published on 7 Jul 2022*
 * [Ingress vs. Load Balancer in Kubernetes](https://feeds.feedblitz.com/~/701779764/0/baeldung~Ingress-vs-Load-Balancer-in-Kubernetes)
   * *Published on 6 Jul 2022*
-* [How to Pass Environment Variable Value into Dockerfile](https://feeds.feedblitz.com/~/701663250/0/baeldung~How-to-Pass-Environment-Variable-Value-into-Dockerfile)
-  * *Published on 5 Jul 2022*
-* [Use Cases for Static Methods in Java](https://feeds.feedblitz.com/~/701663252/0/baeldung~Use-Cases-for-Static-Methods-in-Java)
-  * *Published on 5 Jul 2022*
-* [UUID as Entity ID in MongoDB](https://feeds.feedblitz.com/~/701498588/0/baeldung~UUID-as-Entity-ID-in-MongoDB)
-  * *Published on 3 Jul 2022*
