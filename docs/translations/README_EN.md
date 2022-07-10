@@ -228,13 +228,13 @@ continue working with these technologies, as well as other relevant and modern t
 
 ## 📰 RSS
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [Pushing a Docker Image to a Self-Hosted Registry](https://feeds.feedblitz.com/~/702188110/0/baeldung~Pushing-a-Docker-Image-to-a-SelfHosted-Registry)
+  * *Published on 9 Jul 2022*
+* [Guide to Creating Jar Executables and Windows Executables from Java](https://feeds.feedblitz.com/~/702186892/0/baeldung~Guide-to-Creating-Jar-Executables-and-Windows-Executables-from-Java)
+  * *Published on 9 Jul 2022*
+* [Java 14 Record vs. Lombok](https://feeds.feedblitz.com/~/702186894/0/baeldung~Java-Record-vs-Lombok)
+  * *Published on 9 Jul 2022*
 * [Difference Between WAR and EAR Files](https://feeds.feedblitz.com/~/702064376/0/baeldung~Difference-Between-WAR-and-EAR-Files)
   * *Published on 8 Jul 2022*
 * [Using Dates in CRUD Operations in MongoDB](https://feeds.feedblitz.com/~/702046986/0/baeldung~Using-Dates-in-CRUD-Operations-in-MongoDB)
   * *Published on 8 Jul 2022*
-* [Instantiating Multiple Beans of the Same Class with Spring Annotations](https://feeds.feedblitz.com/~/702046988/0/baeldung~Instantiating-Multiple-Beans-of-the-Same-Class-with-Spring-Annotations)
-  * *Published on 8 Jul 2022*
-* [Java Weekly, Issue 445](https://feeds.feedblitz.com/~/701956556/0/baeldung~Java-Weekly-Issue)
-  * *Published on 7 Jul 2022*
-* [Ingress vs. Load Balancer in Kubernetes](https://feeds.feedblitz.com/~/701779764/0/baeldung~Ingress-vs-Load-Balancer-in-Kubernetes)
-  * *Published on 6 Jul 2022*
