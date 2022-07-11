@@ -228,6 +228,8 @@ continue working with these technologies, as well as other relevant and modern t
 
 ## 📰 RSS
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [Clearing a StringBuilder or StringBuffer](https://feeds.feedblitz.com/~/702289126/0/baeldung~Clearing-a-StringBuilder-or-StringBuffer)
+  * *Published on 10 Jul 2022*
 * [Pushing a Docker Image to a Self-Hosted Registry](https://feeds.feedblitz.com/~/702188110/0/baeldung~Pushing-a-Docker-Image-to-a-SelfHosted-Registry)
   * *Published on 9 Jul 2022*
 * [Guide to Creating Jar Executables and Windows Executables from Java](https://feeds.feedblitz.com/~/702186892/0/baeldung~Guide-to-Creating-Jar-Executables-and-Windows-Executables-from-Java)
@@ -235,6 +237,4 @@ continue working with these technologies, as well as other relevant and modern t
 * [Java 14 Record vs. Lombok](https://feeds.feedblitz.com/~/702186894/0/baeldung~Java-Record-vs-Lombok)
   * *Published on 9 Jul 2022*
 * [Difference Between WAR and EAR Files](https://feeds.feedblitz.com/~/702064376/0/baeldung~Difference-Between-WAR-and-EAR-Files)
-  * *Published on 8 Jul 2022*
-* [Using Dates in CRUD Operations in MongoDB](https://feeds.feedblitz.com/~/702046986/0/baeldung~Using-Dates-in-CRUD-Operations-in-MongoDB)
   * *Published on 8 Jul 2022*
