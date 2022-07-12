@@ -215,28 +215,29 @@ ElasticSearch, MongoDB. В этом же русле я хочу развиват
 
 ## 📋 Недавняя активность
 **[📰 Recent activity](https://github.com/SmithyVL)**
-* 🌟 Starred [Aditi3/git-best-practices](https://github.com/Aditi3/git-best-practices)
-  * *On 4 Jul 2022, 18:00:39*
-* 🌟 Starred [softprops/action-gh-release](https://github.com/softprops/action-gh-release)
-  * *On 4 Jul 2022, 18:00:30*
-* 🌟 Starred [diverso-lab/core](https://github.com/diverso-lab/core)
-  * *On 4 Jul 2022, 16:58:04*
-* 🌟 Starred [gookit/validate](https://github.com/gookit/validate)
-  * *On 4 Jul 2022, 16:49:45*
-* ➡️ Pushed 1 commit in [HogwartsSchoolOfMagic/SearchLibrary](https://github.com/HogwartsSchoolOfMagic/SearchLibrary) on branch `master`
-  * [#08518b5](https://github.com/HogwartsSchoolOfMagic/SearchLibrary/commit/08518b5) 1.0.2. Update sign for repo.
-  * *On 1 Jul 2022, 18:26:19*
+* 🌟 Starred [webiny/action-conventional-commits](https://github.com/webiny/action-conventional-commits)
+  * *On 11 Jul 2022, 18:04:46*
+* ⏺️ Created new tag v0.0.3 in [HogwartsSchoolOfMagic/TestReleaseAction](https://github.com/HogwartsSchoolOfMagic/TestReleaseAction)
+  * *On 11 Jul 2022, 17:17:11*
+* 📦 Released **v0.0.3** of [HogwartsSchoolOfMagic/TestReleaseAction](https://github.com/HogwartsSchoolOfMagic/TestReleaseAction)
+  * *On 11 Jul 2022, 17:17:11*
+* ➡️ Pushed 1 commit in [HogwartsSchoolOfMagic/TestReleaseAction](https://github.com/HogwartsSchoolOfMagic/TestReleaseAction) on branch `master`
+  * [#25fc671](https://github.com/HogwartsSchoolOfMagic/TestReleaseAction/commit/25fc671) ci: update on push action.
+  * *On 11 Jul 2022, 17:16:21*
+* ➡️ Pushed 1 commit in [HogwartsSchoolOfMagic/TestReleaseAction](https://github.com/HogwartsSchoolOfMagic/TestReleaseAction) on branch `master`
+  * [#9544d38](https://github.com/HogwartsSchoolOfMagic/TestReleaseAction/commit/9544d38) ci: update gh token source.
+  * *On 11 Jul 2022, 17:14:12*
 
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [Advantages and Disadvantages of Using Java Wildcard Imports](https://feeds.feedblitz.com/~/702369288/0/baeldung~Advantages-and-Disadvantages-of-Using-Java-Wildcard-Imports)
+  * *Published on 11 Jul 2022*
+* [Get the Full Path of a JAR File From a Class](https://feeds.feedblitz.com/~/702369290/0/baeldung~Get-the-Full-Path-of-a-JAR-File-From-a-Class)
+  * *Published on 11 Jul 2022*
 * [Clearing a StringBuilder or StringBuffer](https://feeds.feedblitz.com/~/702289126/0/baeldung~Clearing-a-StringBuilder-or-StringBuffer)
   * *Published on 10 Jul 2022*
 * [Pushing a Docker Image to a Self-Hosted Registry](https://feeds.feedblitz.com/~/702188110/0/baeldung~Pushing-a-Docker-Image-to-a-SelfHosted-Registry)
   * *Published on 9 Jul 2022*
 * [Guide to Creating Jar Executables and Windows Executables from Java](https://feeds.feedblitz.com/~/702186892/0/baeldung~Guide-to-Creating-Jar-Executables-and-Windows-Executables-from-Java)
   * *Published on 9 Jul 2022*
-* [Java 14 Record vs. Lombok](https://feeds.feedblitz.com/~/702186894/0/baeldung~Java-Record-vs-Lombok)
-  * *Published on 9 Jul 2022*
-* [Difference Between WAR and EAR Files](https://feeds.feedblitz.com/~/702064376/0/baeldung~Difference-Between-WAR-and-EAR-Files)
-  * *Published on 8 Jul 2022*
