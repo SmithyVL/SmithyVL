@@ -213,18 +213,21 @@ continue working with these technologies, as well as other relevant and modern t
 
 ## 📋 Recent activity
 **[📰 Recent activity](https://github.com/SmithyVL)**
-* 🌟 Starred [webiny/action-conventional-commits](https://github.com/webiny/action-conventional-commits)
-  * *On 11 Jul 2022, 18:04:46*
-* ⏺️ Created new tag v0.0.3 in [HogwartsSchoolOfMagic/TestReleaseAction](https://github.com/HogwartsSchoolOfMagic/TestReleaseAction)
-  * *On 11 Jul 2022, 17:17:11*
-* 📦 Released **v0.0.3** of [HogwartsSchoolOfMagic/TestReleaseAction](https://github.com/HogwartsSchoolOfMagic/TestReleaseAction)
-  * *On 11 Jul 2022, 17:17:11*
 * ➡️ Pushed 1 commit in [HogwartsSchoolOfMagic/TestReleaseAction](https://github.com/HogwartsSchoolOfMagic/TestReleaseAction) on branch `master`
-  * [#25fc671](https://github.com/HogwartsSchoolOfMagic/TestReleaseAction/commit/25fc671) ci: update on push action.
-  * *On 11 Jul 2022, 17:16:21*
+  * [#dc7c1ad](https://github.com/HogwartsSchoolOfMagic/TestReleaseAction/commit/dc7c1ad) feat: превращение репозитория в github action.
+  * *On 12 Jul 2022, 18:09:50*
 * ➡️ Pushed 1 commit in [HogwartsSchoolOfMagic/TestReleaseAction](https://github.com/HogwartsSchoolOfMagic/TestReleaseAction) on branch `master`
-  * [#9544d38](https://github.com/HogwartsSchoolOfMagic/TestReleaseAction/commit/9544d38) ci: update gh token source.
-  * *On 11 Jul 2022, 17:14:12*
+  * [#561a8ec](https://github.com/HogwartsSchoolOfMagic/TestReleaseAction/commit/561a8ec) feat: превращение репозитория в github action.
+  * *On 12 Jul 2022, 18:07:25*
+* ➡️ Pushed 1 commit in [HogwartsSchoolOfMagic/TestReleaseAction](https://github.com/HogwartsSchoolOfMagic/TestReleaseAction) on branch `master`
+  * [#4beacc6](https://github.com/HogwartsSchoolOfMagic/TestReleaseAction/commit/4beacc6) feat: превращение репозитория в github action.
+  * *On 12 Jul 2022, 17:56:52*
+* ➡️ Pushed 1 commit in [HogwartsSchoolOfMagic/TestReleaseAction](https://github.com/HogwartsSchoolOfMagic/TestReleaseAction) on branch `master`
+  * [#fda68d2](https://github.com/HogwartsSchoolOfMagic/TestReleaseAction/commit/fda68d2) feat: превращение репозитория в github action.
+  * *On 12 Jul 2022, 17:55:32*
+* ➡️ Pushed 1 commit in [HogwartsSchoolOfMagic/TestReleaseAction](https://github.com/HogwartsSchoolOfMagic/TestReleaseAction) on branch `master`
+  * [#78eaaf9](https://github.com/HogwartsSchoolOfMagic/TestReleaseAction/commit/78eaaf9) feat: превращение репозитория в github action.
+  * *On 12 Jul 2022, 17:54:20*
 
 
 ## 📰 RSS
