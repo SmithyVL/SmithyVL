@@ -215,25 +215,27 @@ ElasticSearch, MongoDB. В этом же русле я хочу развиват
 
 ## 📋 Недавняя активность
 **[📰 Recent activity](https://github.com/SmithyVL)**
+* ⏺️ Created new branch master in [HogwartsSchoolOfMagic/GenerateChangelog](https://github.com/HogwartsSchoolOfMagic/GenerateChangelog)
+  * *On 14 Jul 2022, 18:01:59*
+* ⏺️ Created new repository  [HogwartsSchoolOfMagic/GenerateChangelog](https://github.com/HogwartsSchoolOfMagic/GenerateChangelog)
+  * *On 14 Jul 2022, 18:01:59*
 * ➡️ Pushed 1 commit in [HogwartsSchoolOfMagic/TestReleaseAction](https://github.com/HogwartsSchoolOfMagic/TestReleaseAction) on branch `master`
-  * [#9bfc6d6](https://github.com/HogwartsSchoolOfMagic/TestReleaseAction/commit/9bfc6d6) feat: превращение репозитория в github action.
-  * *On 13 Jul 2022, 13:56:14*
+  * [#64f8a32](https://github.com/HogwartsSchoolOfMagic/TestReleaseAction/commit/64f8a32) feat: превращение репозитория в github action.
+  * *On 14 Jul 2022, 18:00:58*
 * ➡️ Pushed 1 commit in [HogwartsSchoolOfMagic/TestReleaseAction](https://github.com/HogwartsSchoolOfMagic/TestReleaseAction) on branch `master`
-  * [#b7da527](https://github.com/HogwartsSchoolOfMagic/TestReleaseAction/commit/b7da527) feat: превращение репозитория в github action.
-  * *On 13 Jul 2022, 12:35:37*
+  * [#00dd03a](https://github.com/HogwartsSchoolOfMagic/TestReleaseAction/commit/00dd03a) feat: превращение репозитория в github action.
+  * *On 14 Jul 2022, 17:40:21*
 * ➡️ Pushed 1 commit in [HogwartsSchoolOfMagic/TestReleaseAction](https://github.com/HogwartsSchoolOfMagic/TestReleaseAction) on branch `master`
-  * [#7c53ed4](https://github.com/HogwartsSchoolOfMagic/TestReleaseAction/commit/7c53ed4) feat: превращение репозитория в github action.
-  * *On 13 Jul 2022, 12:20:15*
-* ➡️ Pushed 1 commit in [HogwartsSchoolOfMagic/TestReleaseAction](https://github.com/HogwartsSchoolOfMagic/TestReleaseAction) on branch `master`
-  * [#428672c](https://github.com/HogwartsSchoolOfMagic/TestReleaseAction/commit/428672c) feat: превращение репозитория в github action.
-  * *On 13 Jul 2022, 11:44:00*
-* ➡️ Pushed 1 commit in [HogwartsSchoolOfMagic/TestReleaseAction](https://github.com/HogwartsSchoolOfMagic/TestReleaseAction) on branch `master`
-  * [#9dad87d](https://github.com/HogwartsSchoolOfMagic/TestReleaseAction/commit/9dad87d) feat: превращение репозитория в github action.
-  * *On 13 Jul 2022, 11:42:47*
+  * [#10fd2c1](https://github.com/HogwartsSchoolOfMagic/TestReleaseAction/commit/10fd2c1) feat: превращение репозитория в github action.
+
+Test body.
+  * *On 14 Jul 2022, 17:18:30*
 
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [Spring Boot – Testing Redis With Testcontainers](https://feeds.feedblitz.com/~/702736446/0/baeldung~Spring-Boot-Testing-Redis-With-Testcontainers)
+  * *Published on 14 Jul 2022*
 * [How to Truncate a String in Java](https://feeds.feedblitz.com/~/702623731/0/baeldung~How-to-Truncate-a-String-in-Java)
   * *Published on 13 Jul 2022*
 * [Advantages and Disadvantages of Using Java Wildcard Imports](https://feeds.feedblitz.com/~/702369288/0/baeldung~Advantages-and-Disadvantages-of-Using-Java-Wildcard-Imports)
@@ -242,5 +244,3 @@ ElasticSearch, MongoDB. В этом же русле я хочу развиват
   * *Published on 11 Jul 2022*
 * [Clearing a StringBuilder or StringBuffer](https://feeds.feedblitz.com/~/702289126/0/baeldung~Clearing-a-StringBuilder-or-StringBuffer)
   * *Published on 10 Jul 2022*
-* [Pushing a Docker Image to a Self-Hosted Registry](https://feeds.feedblitz.com/~/702188110/0/baeldung~Pushing-a-Docker-Image-to-a-SelfHosted-Registry)
-  * *Published on 9 Jul 2022*
