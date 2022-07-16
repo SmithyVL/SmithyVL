@@ -215,25 +215,27 @@ ElasticSearch, MongoDB. В этом же русле я хочу развиват
 
 ## 📋 Недавняя активность
 **[📰 Recent activity](https://github.com/SmithyVL)**
-* ⏺️ Created new branch master in [HogwartsSchoolOfMagic/GenerateChangelog](https://github.com/HogwartsSchoolOfMagic/GenerateChangelog)
-  * *On 14 Jul 2022, 18:01:59*
-* ⏺️ Created new repository  [HogwartsSchoolOfMagic/GenerateChangelog](https://github.com/HogwartsSchoolOfMagic/GenerateChangelog)
-  * *On 14 Jul 2022, 18:01:59*
-* ➡️ Pushed 1 commit in [HogwartsSchoolOfMagic/TestReleaseAction](https://github.com/HogwartsSchoolOfMagic/TestReleaseAction) on branch `master`
-  * [#64f8a32](https://github.com/HogwartsSchoolOfMagic/TestReleaseAction/commit/64f8a32) feat: превращение репозитория в github action.
-  * *On 14 Jul 2022, 18:00:58*
-* ➡️ Pushed 1 commit in [HogwartsSchoolOfMagic/TestReleaseAction](https://github.com/HogwartsSchoolOfMagic/TestReleaseAction) on branch `master`
-  * [#00dd03a](https://github.com/HogwartsSchoolOfMagic/TestReleaseAction/commit/00dd03a) feat: превращение репозитория в github action.
-  * *On 14 Jul 2022, 17:40:21*
-* ➡️ Pushed 1 commit in [HogwartsSchoolOfMagic/TestReleaseAction](https://github.com/HogwartsSchoolOfMagic/TestReleaseAction) on branch `master`
-  * [#10fd2c1](https://github.com/HogwartsSchoolOfMagic/TestReleaseAction/commit/10fd2c1) feat: превращение репозитория в github action.
-
-Test body.
-  * *On 14 Jul 2022, 17:18:30*
+* ➡️ Pushed 1 commit in [HogwartsSchoolOfMagic/GithubReleaseAction](https://github.com/HogwartsSchoolOfMagic/GithubReleaseAction) on branch `master`
+  * [#de5fea6](https://github.com/HogwartsSchoolOfMagic/GithubReleaseAction/commit/de5fea6) feat: добавление встроенного стандартного файла конфигураций github действия и рабочего примера для его переопределения
+  * *On 15 Jul 2022, 22:34:26*
+* ➡️ Pushed 1 commit in [HogwartsSchoolOfMagic/GithubReleaseAction](https://github.com/HogwartsSchoolOfMagic/GithubReleaseAction) on branch `master`
+  * [#f4a7234](https://github.com/HogwartsSchoolOfMagic/GithubReleaseAction/commit/f4a7234) feat: добавление встроенного стандартного файла конфигураций github действия рабочего примера для его переопределения
+  * *On 15 Jul 2022, 22:33:12*
+* ➡️ Pushed 1 commit in [HogwartsSchoolOfMagic/GithubReleaseAction](https://github.com/HogwartsSchoolOfMagic/GithubReleaseAction) on branch `master`
+  * [#73c29d0](https://github.com/HogwartsSchoolOfMagic/GithubReleaseAction/commit/73c29d0) feat: добавление встроенного стандартного файла конфигураций github действия
+  * *On 15 Jul 2022, 22:30:26*
+* ➡️ Pushed 1 commit in [HogwartsSchoolOfMagic/GithubReleaseAction](https://github.com/HogwartsSchoolOfMagic/GithubReleaseAction) on branch `master`
+  * [#1a227fe](https://github.com/HogwartsSchoolOfMagic/GithubReleaseAction/commit/1a227fe) feat: добавление встроенного стандартного файла конфигураций github действия
+  * *On 15 Jul 2022, 22:28:21*
+* ➡️ Pushed 1 commit in [HogwartsSchoolOfMagic/GithubReleaseAction](https://github.com/HogwartsSchoolOfMagic/GithubReleaseAction) on branch `master`
+  * [#1ba8cd5](https://github.com/HogwartsSchoolOfMagic/GithubReleaseAction/commit/1ba8cd5) feat: добавление встроенного стандартного файла конфигураций github действия
+  * *On 15 Jul 2022, 22:27:11*
 
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [Java Weekly, Issue 446](https://feeds.feedblitz.com/~/702367808/0/baeldung~Java-Weekly-Issue)
+  * *Published on 15 Jul 2022*
 * [Spring Boot – Testing Redis With Testcontainers](https://feeds.feedblitz.com/~/702736446/0/baeldung~Spring-Boot-Testing-Redis-With-Testcontainers)
   * *Published on 14 Jul 2022*
 * [How to Truncate a String in Java](https://feeds.feedblitz.com/~/702623731/0/baeldung~How-to-Truncate-a-String-in-Java)
@@ -242,5 +244,3 @@ Test body.
   * *Published on 11 Jul 2022*
 * [Get the Full Path of a JAR File From a Class](https://feeds.feedblitz.com/~/702369290/0/baeldung~Get-the-Full-Path-of-a-JAR-File-From-a-Class)
   * *Published on 11 Jul 2022*
-* [Clearing a StringBuilder or StringBuffer](https://feeds.feedblitz.com/~/702289126/0/baeldung~Clearing-a-StringBuilder-or-StringBuffer)
-  * *Published on 10 Jul 2022*
