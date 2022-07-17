@@ -216,31 +216,31 @@ ElasticSearch, MongoDB. В этом же русле я хочу развиват
 ## 📋 Недавняя активность
 **[📰 Recent activity](https://github.com/SmithyVL)**
 * ➡️ Pushed 1 commit in [HogwartsSchoolOfMagic/GithubReleaseAction](https://github.com/HogwartsSchoolOfMagic/GithubReleaseAction) on branch `master`
-  * [#de5fea6](https://github.com/HogwartsSchoolOfMagic/GithubReleaseAction/commit/de5fea6) feat: добавление встроенного стандартного файла конфигураций github действия и рабочего примера для его переопределения
-  * *On 15 Jul 2022, 22:34:26*
+  * [#ceb53ce](https://github.com/HogwartsSchoolOfMagic/GithubReleaseAction/commit/ceb53ce) feat: добавление шаблона вокруг списка изменений
+  * *On 16 Jul 2022, 20:22:10*
 * ➡️ Pushed 1 commit in [HogwartsSchoolOfMagic/GithubReleaseAction](https://github.com/HogwartsSchoolOfMagic/GithubReleaseAction) on branch `master`
-  * [#f4a7234](https://github.com/HogwartsSchoolOfMagic/GithubReleaseAction/commit/f4a7234) feat: добавление встроенного стандартного файла конфигураций github действия рабочего примера для его переопределения
-  * *On 15 Jul 2022, 22:33:12*
+  * [#a751276](https://github.com/HogwartsSchoolOfMagic/GithubReleaseAction/commit/a751276) feat: добавление шаблона вокруг списка изменений
+  * *On 16 Jul 2022, 20:18:01*
 * ➡️ Pushed 1 commit in [HogwartsSchoolOfMagic/GithubReleaseAction](https://github.com/HogwartsSchoolOfMagic/GithubReleaseAction) on branch `master`
-  * [#73c29d0](https://github.com/HogwartsSchoolOfMagic/GithubReleaseAction/commit/73c29d0) feat: добавление встроенного стандартного файла конфигураций github действия
-  * *On 15 Jul 2022, 22:30:26*
+  * [#e01e95b](https://github.com/HogwartsSchoolOfMagic/GithubReleaseAction/commit/e01e95b) feat: добавление шаблона вокруг списка изменений
+  * *On 16 Jul 2022, 20:15:34*
 * ➡️ Pushed 1 commit in [HogwartsSchoolOfMagic/GithubReleaseAction](https://github.com/HogwartsSchoolOfMagic/GithubReleaseAction) on branch `master`
-  * [#1a227fe](https://github.com/HogwartsSchoolOfMagic/GithubReleaseAction/commit/1a227fe) feat: добавление встроенного стандартного файла конфигураций github действия
-  * *On 15 Jul 2022, 22:28:21*
+  * [#2d59d50](https://github.com/HogwartsSchoolOfMagic/GithubReleaseAction/commit/2d59d50) feat: добавление шаблона вокруг списка изменений
+  * *On 16 Jul 2022, 17:56:24*
 * ➡️ Pushed 1 commit in [HogwartsSchoolOfMagic/GithubReleaseAction](https://github.com/HogwartsSchoolOfMagic/GithubReleaseAction) on branch `master`
-  * [#1ba8cd5](https://github.com/HogwartsSchoolOfMagic/GithubReleaseAction/commit/1ba8cd5) feat: добавление встроенного стандартного файла конфигураций github действия
-  * *On 15 Jul 2022, 22:27:11*
+  * [#ff80885](https://github.com/HogwartsSchoolOfMagic/GithubReleaseAction/commit/ff80885) refactor: изменение формирования результирующей версии релиза - skip
+  * *On 16 Jul 2022, 17:56:02*
 
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [Spring Data Rest – Serializing the Entity ID](https://feeds.feedblitz.com/~/702999532/0/baeldung~Spring-Data-Rest-Serializing-the-Entity-ID)
+  * *Published on 16 Jul 2022*
+* [Validate an XML File against an XSD File](https://feeds.feedblitz.com/~/702999534/0/baeldung~Validate-an-XML-File-against-an-XSD-File)
+  * *Published on 16 Jul 2022*
+* [Spring Boot – Keycloak Integration Testing with Testcontainers](https://feeds.feedblitz.com/~/702999536/0/baeldung~Spring-Boot-Keycloak-Integration-Testing-with-Testcontainers)
+  * *Published on 16 Jul 2022*
 * [Java Weekly, Issue 446](https://feeds.feedblitz.com/~/702367808/0/baeldung~Java-Weekly-Issue)
   * *Published on 15 Jul 2022*
 * [Spring Boot – Testing Redis With Testcontainers](https://feeds.feedblitz.com/~/702736446/0/baeldung~Spring-Boot-Testing-Redis-With-Testcontainers)
   * *Published on 14 Jul 2022*
-* [How to Truncate a String in Java](https://feeds.feedblitz.com/~/702623731/0/baeldung~How-to-Truncate-a-String-in-Java)
-  * *Published on 13 Jul 2022*
-* [Advantages and Disadvantages of Using Java Wildcard Imports](https://feeds.feedblitz.com/~/702369288/0/baeldung~Advantages-and-Disadvantages-of-Using-Java-Wildcard-Imports)
-  * *Published on 11 Jul 2022*
-* [Get the Full Path of a JAR File From a Class](https://feeds.feedblitz.com/~/702369290/0/baeldung~Get-the-Full-Path-of-a-JAR-File-From-a-Class)
-  * *Published on 11 Jul 2022*
