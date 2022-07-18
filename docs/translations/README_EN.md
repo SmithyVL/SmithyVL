@@ -232,13 +232,13 @@ continue working with these technologies, as well as other relevant and modern t
 
 ## 📰 RSS
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [Modify a Specified Commit in Git](https://feeds.feedblitz.com/~/703074352/0/baeldung~Modify-a-Specified-Commit-in-Git)
+  * *Published on 17 Jul 2022*
+* [Difference Between links and depends_on in Docker Compose](https://feeds.feedblitz.com/~/703074354/0/baeldung~Difference-Between-links-and-dependson-in-Docker-Compose)
+  * *Published on 17 Jul 2022*
 * [Spring Data Rest – Serializing the Entity ID](https://feeds.feedblitz.com/~/702999532/0/baeldung~Spring-Data-Rest-Serializing-the-Entity-ID)
   * *Published on 16 Jul 2022*
 * [Validate an XML File against an XSD File](https://feeds.feedblitz.com/~/702999534/0/baeldung~Validate-an-XML-File-against-an-XSD-File)
   * *Published on 16 Jul 2022*
 * [Spring Boot – Keycloak Integration Testing with Testcontainers](https://feeds.feedblitz.com/~/702999536/0/baeldung~Spring-Boot-Keycloak-Integration-Testing-with-Testcontainers)
   * *Published on 16 Jul 2022*
-* [Java Weekly, Issue 446](https://feeds.feedblitz.com/~/702367808/0/baeldung~Java-Weekly-Issue)
-  * *Published on 15 Jul 2022*
-* [Spring Boot – Testing Redis With Testcontainers](https://feeds.feedblitz.com/~/702736446/0/baeldung~Spring-Boot-Testing-Redis-With-Testcontainers)
-  * *Published on 14 Jul 2022*
