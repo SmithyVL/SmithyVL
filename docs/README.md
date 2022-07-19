@@ -215,6 +215,8 @@ ElasticSearch, MongoDB. В этом же русле я хочу развиват
 
 ## 📋 Недавняя активность
 **[📰 Recent activity](https://github.com/SmithyVL)**
+* 🌟 Starred [runelite/runelite](https://github.com/runelite/runelite)
+  * *On 19 Jul 2022, 00:32:20*
 * ➡️ Pushed 1 commit in [HogwartsSchoolOfMagic/GithubReleaseAction](https://github.com/HogwartsSchoolOfMagic/GithubReleaseAction) on branch `master`
   * [#ceb53ce](https://github.com/HogwartsSchoolOfMagic/GithubReleaseAction/commit/ceb53ce) feat: добавление шаблона вокруг списка изменений
   * *On 16 Jul 2022, 20:22:10*
@@ -227,20 +229,17 @@ ElasticSearch, MongoDB. В этом же русле я хочу развиват
 * ➡️ Pushed 1 commit in [HogwartsSchoolOfMagic/GithubReleaseAction](https://github.com/HogwartsSchoolOfMagic/GithubReleaseAction) on branch `master`
   * [#2d59d50](https://github.com/HogwartsSchoolOfMagic/GithubReleaseAction/commit/2d59d50) feat: добавление шаблона вокруг списка изменений
   * *On 16 Jul 2022, 17:56:24*
-* ➡️ Pushed 1 commit in [HogwartsSchoolOfMagic/GithubReleaseAction](https://github.com/HogwartsSchoolOfMagic/GithubReleaseAction) on branch `master`
-  * [#ff80885](https://github.com/HogwartsSchoolOfMagic/GithubReleaseAction/commit/ff80885) refactor: изменение формирования результирующей версии релиза - skip
-  * *On 16 Jul 2022, 17:56:02*
 
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [Using @NotNull on a Method Parameter](https://feeds.feedblitz.com/~/703173968/0/baeldung~Using-NotNull-on-a-Method-Parameter)
+  * *Published on 18 Jul 2022*
+* [Query Documents using Document ID in MongoDB](https://feeds.feedblitz.com/~/703173970/0/baeldung~Query-Documents-using-Document-ID-in-MongoDB)
+  * *Published on 18 Jul 2022*
 * [Modify a Specified Commit in Git](https://feeds.feedblitz.com/~/703074352/0/baeldung~Modify-a-Specified-Commit-in-Git)
   * *Published on 17 Jul 2022*
 * [Difference Between links and depends_on in Docker Compose](https://feeds.feedblitz.com/~/703074354/0/baeldung~Difference-Between-links-and-dependson-in-Docker-Compose)
   * *Published on 17 Jul 2022*
 * [Spring Data Rest – Serializing the Entity ID](https://feeds.feedblitz.com/~/702999532/0/baeldung~Spring-Data-Rest-Serializing-the-Entity-ID)
-  * *Published on 16 Jul 2022*
-* [Validate an XML File against an XSD File](https://feeds.feedblitz.com/~/702999534/0/baeldung~Validate-an-XML-File-against-an-XSD-File)
-  * *Published on 16 Jul 2022*
-* [Spring Boot – Keycloak Integration Testing with Testcontainers](https://feeds.feedblitz.com/~/702999536/0/baeldung~Spring-Boot-Keycloak-Integration-Testing-with-Testcontainers)
   * *Published on 16 Jul 2022*
