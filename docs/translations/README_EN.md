@@ -213,20 +213,18 @@ continue working with these technologies, as well as other relevant and modern t
 
 ## 📋 Recent activity
 **[📰 Recent activity](https://github.com/SmithyVL)**
-* 🌟 Starred [runelite/runelite](https://github.com/runelite/runelite)
-  * *On 19 Jul 2022, 00:32:20*
 * ➡️ Pushed 1 commit in [HogwartsSchoolOfMagic/GithubReleaseAction](https://github.com/HogwartsSchoolOfMagic/GithubReleaseAction) on branch `master`
-  * [#ceb53ce](https://github.com/HogwartsSchoolOfMagic/GithubReleaseAction/commit/ceb53ce) feat: добавление шаблона вокруг списка изменений
-  * *On 16 Jul 2022, 20:22:10*
-* ➡️ Pushed 1 commit in [HogwartsSchoolOfMagic/GithubReleaseAction](https://github.com/HogwartsSchoolOfMagic/GithubReleaseAction) on branch `master`
-  * [#a751276](https://github.com/HogwartsSchoolOfMagic/GithubReleaseAction/commit/a751276) feat: добавление шаблона вокруг списка изменений
-  * *On 16 Jul 2022, 20:18:01*
-* ➡️ Pushed 1 commit in [HogwartsSchoolOfMagic/GithubReleaseAction](https://github.com/HogwartsSchoolOfMagic/GithubReleaseAction) on branch `master`
-  * [#e01e95b](https://github.com/HogwartsSchoolOfMagic/GithubReleaseAction/commit/e01e95b) feat: добавление шаблона вокруг списка изменений
-  * *On 16 Jul 2022, 20:15:34*
-* ➡️ Pushed 1 commit in [HogwartsSchoolOfMagic/GithubReleaseAction](https://github.com/HogwartsSchoolOfMagic/GithubReleaseAction) on branch `master`
-  * [#2d59d50](https://github.com/HogwartsSchoolOfMagic/GithubReleaseAction/commit/2d59d50) feat: добавление шаблона вокруг списка изменений
-  * *On 16 Jul 2022, 17:56:24*
+  * [#7f2e7c0](https://github.com/HogwartsSchoolOfMagic/GithubReleaseAction/commit/7f2e7c0) bug: исправление имени github действия на валидное и не дублирующее
+  * *On 19 Jul 2022, 12:04:58*
+  * *On 19 Jul 2022, 12:04:57*
+* 🔃 Merged [#2 bug: исправление имени github действия на валидное и не дублирующее](https://github.com/HogwartsSchoolOfMagic/GithubReleaseAction/pull/2) in [HogwartsSchoolOfMagic/GithubReleaseAction](https://github.com/HogwartsSchoolOfMagic/GithubReleaseAction)
+  * 2 files changed `++2 --2`
+  * *On 19 Jul 2022, 12:04:56*
+* #️⃣ Closed [#1 [BUG] Изменить официальное название действия.](https://github.com/HogwartsSchoolOfMagic/GithubReleaseAction/issues/1) in [HogwartsSchoolOfMagic/GithubReleaseAction](https://github.com/HogwartsSchoolOfMagic/GithubReleaseAction)
+  * *On 19 Jul 2022, 12:04:56*
+* 🔃 Opened [#2 bug: исправление имени github действия на валидное и не дублирующее](https://github.com/HogwartsSchoolOfMagic/GithubReleaseAction/pull/2) in [HogwartsSchoolOfMagic/GithubReleaseAction](https://github.com/HogwartsSchoolOfMagic/GithubReleaseAction)
+  * 2 files changed `++2 --2`
+  * *On 19 Jul 2022, 12:04:14*
 
 
 ## 📰 RSS
