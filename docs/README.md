@@ -215,29 +215,29 @@ ElasticSearch, MongoDB. В этом же русле я хочу развиват
 
 ## 📋 Недавняя активность
 **[📰 Recent activity](https://github.com/SmithyVL)**
-* ➡️ Pushed 1 commit in [HogwartsSchoolOfMagic/GithubReleaseAction](https://github.com/HogwartsSchoolOfMagic/GithubReleaseAction) on branch `master`
-  * [#7f2e7c0](https://github.com/HogwartsSchoolOfMagic/GithubReleaseAction/commit/7f2e7c0) bug: исправление имени github действия на валидное и не дублирующее
-  * *On 19 Jul 2022, 12:04:58*
-  * *On 19 Jul 2022, 12:04:57*
-* 🔃 Merged [#2 bug: исправление имени github действия на валидное и не дублирующее](https://github.com/HogwartsSchoolOfMagic/GithubReleaseAction/pull/2) in [HogwartsSchoolOfMagic/GithubReleaseAction](https://github.com/HogwartsSchoolOfMagic/GithubReleaseAction)
-  * 2 files changed `++2 --2`
-  * *On 19 Jul 2022, 12:04:56*
-* #️⃣ Closed [#1 [BUG] Изменить официальное название действия.](https://github.com/HogwartsSchoolOfMagic/GithubReleaseAction/issues/1) in [HogwartsSchoolOfMagic/GithubReleaseAction](https://github.com/HogwartsSchoolOfMagic/GithubReleaseAction)
-  * *On 19 Jul 2022, 12:04:56*
-* 🔃 Opened [#2 bug: исправление имени github действия на валидное и не дублирующее](https://github.com/HogwartsSchoolOfMagic/GithubReleaseAction/pull/2) in [HogwartsSchoolOfMagic/GithubReleaseAction](https://github.com/HogwartsSchoolOfMagic/GithubReleaseAction)
-  * 2 files changed `++2 --2`
-  * *On 19 Jul 2022, 12:04:14*
+* #️⃣ Opened [#8 [FEATURE] Switching the client module to TypeScript.](https://github.com/HogwartsSchoolOfMagic/MainFront/issues/8) in [HogwartsSchoolOfMagic/MainFront](https://github.com/HogwartsSchoolOfMagic/MainFront)
+  * *On 21 Jul 2022, 17:55:45*
+* #️⃣ Opened [#7 [REFACTORING] Переход на новую версию фреймворка `Vue`.](https://github.com/HogwartsSchoolOfMagic/MainFront/issues/7) in [HogwartsSchoolOfMagic/MainFront](https://github.com/HogwartsSchoolOfMagic/MainFront)
+  * *On 21 Jul 2022, 17:55:00*
+* #️⃣ Opened [#1 [BUG] Нет ошибки истекшего JWT токена](https://github.com/HogwartsSchoolOfMagic/UserService/issues/1) in [HogwartsSchoolOfMagic/UserService](https://github.com/HogwartsSchoolOfMagic/UserService)
+  * *On 21 Jul 2022, 17:16:29*
+* ➡️ Pushed 1 commit in [HogwartsSchoolOfMagic/MagicMultiRepo](https://github.com/HogwartsSchoolOfMagic/MagicMultiRepo) on branch `master`
+  * [#df8d1ed](https://github.com/HogwartsSchoolOfMagic/MagicMultiRepo/commit/df8d1ed) 0.6.5. Transfer all libraries, fronts, services into general multi-repo project (#79).
+  * *On 21 Jul 2022, 15:38:54*
+* ➡️ Pushed 1 commit in [HogwartsSchoolOfMagic/MainFront](https://github.com/HogwartsSchoolOfMagic/MainFront) on branch `master`
+  * [#f523483](https://github.com/HogwartsSchoolOfMagic/MainFront/commit/f523483) 0.6.5. Refactoring pom file and update organization and developers.
+  * *On 21 Jul 2022, 15:38:13*
 
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [Communication Between Multiple Docker Compose Projects](https://feeds.feedblitz.com/~/703386106/0/baeldung~Communication-Between-Multiple-Docker-Compose-Projects)
+  * *Published on 21 Jul 2022*
+* [Count Documents Using Spring Data MongoDB Repository](https://feeds.feedblitz.com/~/703386108/0/baeldung~Count-Documents-Using-Spring-Data-MongoDB-Repository)
+  * *Published on 21 Jul 2022*
 * [Using @NotNull on a Method Parameter](https://feeds.feedblitz.com/~/703173968/0/baeldung~Using-NotNull-on-a-Method-Parameter)
   * *Published on 18 Jul 2022*
 * [Query Documents using Document ID in MongoDB](https://feeds.feedblitz.com/~/703173970/0/baeldung~Query-Documents-using-Document-ID-in-MongoDB)
   * *Published on 18 Jul 2022*
 * [Modify a Specified Commit in Git](https://feeds.feedblitz.com/~/703074352/0/baeldung~Modify-a-Specified-Commit-in-Git)
   * *Published on 17 Jul 2022*
-* [Difference Between links and depends_on in Docker Compose](https://feeds.feedblitz.com/~/703074354/0/baeldung~Difference-Between-links-and-dependson-in-Docker-Compose)
-  * *Published on 17 Jul 2022*
-* [Spring Data Rest – Serializing the Entity ID](https://feeds.feedblitz.com/~/702999532/0/baeldung~Spring-Data-Rest-Serializing-the-Entity-ID)
-  * *Published on 16 Jul 2022*
