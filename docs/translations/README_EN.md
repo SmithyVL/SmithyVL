@@ -229,13 +229,13 @@ continue working with these technologies, as well as other relevant and modern t
 
 ## 📰 RSS
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [Mounting a Single File in a Volume Using Docker](https://feeds.feedblitz.com/~/703716476/0/baeldung~Mounting-a-Single-File-in-a-Volume-Using-Docker)
+  * *Published on 25 Jul 2022*
+* [Apply Default Global SecurityScheme in springdoc-openapi](https://feeds.feedblitz.com/~/703715588/0/baeldung~Apply-Default-Global-SecurityScheme-in-springdocopenapi)
+  * *Published on 25 Jul 2022*
 * [Why Maven Doesn’t Find JUnit Tests to Run](https://feeds.feedblitz.com/~/703497548/0/baeldung~Why-Maven-Doesnt-Find-JUnit-Tests-to-Run)
   * *Published on 22 Jul 2022*
 * [Java Weekly, Issue 447](https://feeds.feedblitz.com/~/703478078/0/baeldung~Java-Weekly-Issue)
   * *Published on 22 Jul 2022*
 * [Showing Differences Between Two Docker Images](https://feeds.feedblitz.com/~/703462852/0/baeldung~Showing-Differences-Between-Two-Docker-Images)
-  * *Published on 22 Jul 2022*
-* [Remove Whitespace From a String in Java](https://feeds.feedblitz.com/~/703462854/0/baeldung~Remove-Whitespace-From-a-String-in-Java)
-  * *Published on 22 Jul 2022*
-* [A Guide to Java Source and Target Options](https://feeds.feedblitz.com/~/703462856/0/baeldung~A-Guide-to-Java-Source-and-Target-Options)
   * *Published on 22 Jul 2022*
