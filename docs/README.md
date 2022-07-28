@@ -231,13 +231,13 @@ ElasticSearch, MongoDB. В этом же русле я хочу развиват
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [Testing Spring JMS](https://feeds.feedblitz.com/~/703920308/0/baeldung~Testing-Spring-JMS)
+  * *Published on 27 Jul 2022*
+* [Reading Flux Into a Single InputStream Using Spring Reactive WebClient](https://feeds.feedblitz.com/~/703920310/0/baeldung~Reading-Flux-Into-a-Single-InputStream-Using-Spring-Reactive-WebClient)
+  * *Published on 27 Jul 2022*
 * [Maven Snapshot Repository vs Release Repository](https://feeds.feedblitz.com/~/703854172/0/baeldung~Maven-Snapshot-Repository-vs-Release-Repository)
   * *Published on 26 Jul 2022*
 * [Mounting a Single File in a Volume Using Docker](https://feeds.feedblitz.com/~/703716476/0/baeldung~Mounting-a-Single-File-in-a-Volume-Using-Docker)
   * *Published on 25 Jul 2022*
 * [Apply Default Global SecurityScheme in springdoc-openapi](https://feeds.feedblitz.com/~/703715588/0/baeldung~Apply-Default-Global-SecurityScheme-in-springdocopenapi)
   * *Published on 25 Jul 2022*
-* [Why Maven Doesn’t Find JUnit Tests to Run](https://feeds.feedblitz.com/~/703497548/0/baeldung~Why-Maven-Doesnt-Find-JUnit-Tests-to-Run)
-  * *Published on 22 Jul 2022*
-* [Java Weekly, Issue 447](https://feeds.feedblitz.com/~/703478078/0/baeldung~Java-Weekly-Issue)
-  * *Published on 22 Jul 2022*
