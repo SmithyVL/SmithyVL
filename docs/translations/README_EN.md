@@ -229,6 +229,8 @@ continue working with these technologies, as well as other relevant and modern t
 
 ## 📰 RSS
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [Find the Differences Between Two Git Branches](https://feeds.feedblitz.com/~/704036418/0/baeldung~Find-the-Differences-Between-Two-Git-Branches)
+  * *Published on 28 Jul 2022*
 * [Testing Spring JMS](https://feeds.feedblitz.com/~/703920308/0/baeldung~Testing-Spring-JMS)
   * *Published on 27 Jul 2022*
 * [Reading Flux Into a Single InputStream Using Spring Reactive WebClient](https://feeds.feedblitz.com/~/703920310/0/baeldung~Reading-Flux-Into-a-Single-InputStream-Using-Spring-Reactive-WebClient)
@@ -236,6 +238,4 @@ continue working with these technologies, as well as other relevant and modern t
 * [Maven Snapshot Repository vs Release Repository](https://feeds.feedblitz.com/~/703854172/0/baeldung~Maven-Snapshot-Repository-vs-Release-Repository)
   * *Published on 26 Jul 2022*
 * [Mounting a Single File in a Volume Using Docker](https://feeds.feedblitz.com/~/703716476/0/baeldung~Mounting-a-Single-File-in-a-Volume-Using-Docker)
-  * *Published on 25 Jul 2022*
-* [Apply Default Global SecurityScheme in springdoc-openapi](https://feeds.feedblitz.com/~/703715588/0/baeldung~Apply-Default-Global-SecurityScheme-in-springdocopenapi)
   * *Published on 25 Jul 2022*
