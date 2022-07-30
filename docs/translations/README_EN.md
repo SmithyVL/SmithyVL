@@ -229,13 +229,13 @@ continue working with these technologies, as well as other relevant and modern t
 
 ## 📰 RSS
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [Filter Java Stream to 1 and Only 1 Element](https://feeds.feedblitz.com/~/704130672/0/baeldung~Filter-Java-Stream-to-and-Only-Element)
+  * *Published on 29 Jul 2022*
+* [Java Weekly, Issue 448](https://feeds.feedblitz.com/~/703703580/0/baeldung~Java-Weekly-Issue)
+  * *Published on 29 Jul 2022*
 * [Find the Differences Between Two Git Branches](https://feeds.feedblitz.com/~/704036418/0/baeldung~Find-the-Differences-Between-Two-Git-Branches)
   * *Published on 28 Jul 2022*
 * [Testing Spring JMS](https://feeds.feedblitz.com/~/703920308/0/baeldung~Testing-Spring-JMS)
   * *Published on 27 Jul 2022*
 * [Reading Flux Into a Single InputStream Using Spring Reactive WebClient](https://feeds.feedblitz.com/~/703920310/0/baeldung~Reading-Flux-Into-a-Single-InputStream-Using-Spring-Reactive-WebClient)
   * *Published on 27 Jul 2022*
-* [Maven Snapshot Repository vs Release Repository](https://feeds.feedblitz.com/~/703854172/0/baeldung~Maven-Snapshot-Repository-vs-Release-Repository)
-  * *Published on 26 Jul 2022*
-* [Mounting a Single File in a Volume Using Docker](https://feeds.feedblitz.com/~/703716476/0/baeldung~Mounting-a-Single-File-in-a-Volume-Using-Docker)
-  * *Published on 25 Jul 2022*
