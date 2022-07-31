@@ -231,13 +231,13 @@ ElasticSearch, MongoDB. В этом же русле я хочу развиват
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [Implementing a Map with Multiple Keys in Java](https://feeds.feedblitz.com/~/704333406/0/baeldung~Implementing-a-Map-with-Multiple-Keys-in-Java)
+  * *Published on 30 Jul 2022*
+* [Static vs. Instance Initializer Block in Java](https://feeds.feedblitz.com/~/704333408/0/baeldung~Static-vs-Instance-Initializer-Block-in-Java)
+  * *Published on 30 Jul 2022*
 * [Filter Java Stream to 1 and Only 1 Element](https://feeds.feedblitz.com/~/704130672/0/baeldung~Filter-Java-Stream-to-and-Only-Element)
   * *Published on 29 Jul 2022*
 * [Java Weekly, Issue 448](https://feeds.feedblitz.com/~/703703580/0/baeldung~Java-Weekly-Issue)
   * *Published on 29 Jul 2022*
 * [Find the Differences Between Two Git Branches](https://feeds.feedblitz.com/~/704036418/0/baeldung~Find-the-Differences-Between-Two-Git-Branches)
   * *Published on 28 Jul 2022*
-* [Testing Spring JMS](https://feeds.feedblitz.com/~/703920308/0/baeldung~Testing-Spring-JMS)
-  * *Published on 27 Jul 2022*
-* [Reading Flux Into a Single InputStream Using Spring Reactive WebClient](https://feeds.feedblitz.com/~/703920310/0/baeldung~Reading-Flux-Into-a-Single-InputStream-Using-Spring-Reactive-WebClient)
-  * *Published on 27 Jul 2022*
