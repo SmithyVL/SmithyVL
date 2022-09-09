@@ -215,11 +215,25 @@ ElasticSearch, MongoDB. В этом же русле я хочу развиват
 
 ## 📋 Недавняя активность
 **[📰 Recent activity](https://github.com/SmithyVL)**
-No recent activity
+* ⏺️ Created new branch master in [SmithyVL/JavaDeveloperInterview](https://github.com/SmithyVL/JavaDeveloperInterview)
+  * *On 8 Sept 2022, 22:01:50*
+* ⏺️ Created new repository  [SmithyVL/JavaDeveloperInterview](https://github.com/SmithyVL/JavaDeveloperInterview)
+  * *On 8 Sept 2022, 22:01:49*
+* ➡️ Pushed 1 commit in [SmithyVL/SmithyVL](https://github.com/SmithyVL/SmithyVL) on branch `master`
+  * [#1ece4b5](https://github.com/SmithyVL/SmithyVL/commit/1ece4b5) 2.1.0. Update license type.
+  * *On 8 Sept 2022, 21:59:25*
+* ➡️ Pushed 1 commit in [SmithyVL/SmithyVL](https://github.com/SmithyVL/SmithyVL) on branch `master`
+  * [#ef9e433](https://github.com/SmithyVL/SmithyVL/commit/ef9e433) 2.0.4. Remove question issue template.
+  * *On 8 Sept 2022, 21:44:27*
+* ➡️ Pushed 1 commit in [SmithyVL/SmithyVL](https://github.com/SmithyVL/SmithyVL) on branch `master`
+  * [#c8d6ebe](https://github.com/SmithyVL/SmithyVL/commit/c8d6ebe) 2.0.3. Added &#34;Participation in conferences&#34;.
+  * *On 8 Sept 2022, 14:46:52*
 
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [Guide to Find the Java .class Version](https://feeds.feedblitz.com/~/710253652/0/baeldung~Guide-to-Find-the-Java-class-Version)
+  * *Published on 9 Sept 2022*
 * [Static Fields and Garbage Collection](https://feeds.feedblitz.com/~/710091964/0/baeldung~Static-Fields-and-Garbage-Collection)
   * *Published on 7 Sept 2022*
 * [Dispatching Queries in Axon Framework](https://feeds.feedblitz.com/~/710091966/0/baeldung~Dispatching-Queries-in-Axon-Framework/)
@@ -227,6 +241,4 @@ No recent activity
 * [Generate the MD5 Checksum for a File in Java](https://feeds.feedblitz.com/~/709899804/0/baeldung~Generate-the-MD-Checksum-for-a-File-in-Java)
   * *Published on 6 Sept 2022*
 * [Finding the Layers and Layer Sizes for a Docker Image](https://feeds.feedblitz.com/~/709895018/0/baeldung~Finding-the-Layers-and-Layer-Sizes-for-a-Docker-Image)
-  * *Published on 6 Sept 2022*
-* [Java Program to Find the Roots of a Quadratic Equation](https://feeds.feedblitz.com/~/709895020/0/baeldung~Java-Program-to-Find-the-Roots-of-a-Quadratic-Equation/)
   * *Published on 6 Sept 2022*
