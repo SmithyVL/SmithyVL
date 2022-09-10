@@ -232,13 +232,13 @@ ElasticSearch, MongoDB. В этом же русле я хочу развиват
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [Diving Deeper with Lightrun](https://feeds.feedblitz.com/~/710300414/0/baeldung~Diving-Deeper-with-Lightrun)
+  * *Published on 9 Sept 2022*
+* [Java Weekly, Issue 454](https://feeds.feedblitz.com/~/710304400/0/baeldung~Java-Weekly-Issue)
+  * *Published on 9 Sept 2022*
 * [Guide to Find the Java .class Version](https://feeds.feedblitz.com/~/710253652/0/baeldung~Guide-to-Find-the-Java-class-Version)
   * *Published on 9 Sept 2022*
 * [Static Fields and Garbage Collection](https://feeds.feedblitz.com/~/710091964/0/baeldung~Static-Fields-and-Garbage-Collection)
   * *Published on 7 Sept 2022*
 * [Dispatching Queries in Axon Framework](https://feeds.feedblitz.com/~/710091966/0/baeldung~Dispatching-Queries-in-Axon-Framework/)
   * *Published on 7 Sept 2022*
-* [Generate the MD5 Checksum for a File in Java](https://feeds.feedblitz.com/~/709899804/0/baeldung~Generate-the-MD-Checksum-for-a-File-in-Java)
-  * *Published on 6 Sept 2022*
-* [Finding the Layers and Layer Sizes for a Docker Image](https://feeds.feedblitz.com/~/709895018/0/baeldung~Finding-the-Layers-and-Layer-Sizes-for-a-Docker-Image)
-  * *Published on 6 Sept 2022*
