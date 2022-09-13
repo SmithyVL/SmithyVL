@@ -230,13 +230,13 @@ continue working with these technologies, as well as other relevant and modern t
 
 ## 📰 RSS
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [Basic Authentication With Postman](https://feeds.feedblitz.com/~/711129656/0/baeldung~Basic-Authentication-With-Postman/)
+  * *Published on 13 Sept 2022*
+* [Convert between JSON and Protobuf](https://feeds.feedblitz.com/~/711105702/0/baeldung~Convert-between-JSON-and-Protobuf)
+  * *Published on 13 Sept 2022*
 * [Diving Deeper with Lightrun](https://feeds.feedblitz.com/~/710300414/0/baeldung~Diving-Deeper-with-Lightrun)
   * *Published on 9 Sept 2022*
 * [Java Weekly, Issue 454](https://feeds.feedblitz.com/~/710304400/0/baeldung~Java-Weekly-Issue)
   * *Published on 9 Sept 2022*
 * [Guide to Find the Java .class Version](https://feeds.feedblitz.com/~/710253652/0/baeldung~Guide-to-Find-the-Java-class-Version)
   * *Published on 9 Sept 2022*
-* [Static Fields and Garbage Collection](https://feeds.feedblitz.com/~/710091964/0/baeldung~Static-Fields-and-Garbage-Collection)
-  * *Published on 7 Sept 2022*
-* [Dispatching Queries in Axon Framework](https://feeds.feedblitz.com/~/710091966/0/baeldung~Dispatching-Queries-in-Axon-Framework/)
-  * *Published on 7 Sept 2022*
