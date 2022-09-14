@@ -213,6 +213,9 @@ continue working with these technologies, as well as other relevant and modern t
 
 ## 📋 Recent activity
 **[📰 Recent activity](https://github.com/SmithyVL)**
+* ➡️ Pushed 1 commit in [SmithyVL/JavaDeveloperInterview](https://github.com/SmithyVL/JavaDeveloperInterview) on branch `master`
+  * [#6120019](https://github.com/SmithyVL/JavaDeveloperInterview/commit/6120019) Создание структуры проекта, добавление начального оглавления и разбор одного вопроса
+  * *On 13 Sept 2022, 16:29:43*
 * ⏺️ Created new branch master in [SmithyVL/JavaDeveloperInterview](https://github.com/SmithyVL/JavaDeveloperInterview)
   * *On 8 Sept 2022, 22:01:50*
 * ⏺️ Created new repository  [SmithyVL/JavaDeveloperInterview](https://github.com/SmithyVL/JavaDeveloperInterview)
@@ -223,9 +226,6 @@ continue working with these technologies, as well as other relevant and modern t
 * ➡️ Pushed 1 commit in [SmithyVL/SmithyVL](https://github.com/SmithyVL/SmithyVL) on branch `master`
   * [#ef9e433](https://github.com/SmithyVL/SmithyVL/commit/ef9e433) 2.0.4. Remove question issue template.
   * *On 8 Sept 2022, 21:44:27*
-* ➡️ Pushed 1 commit in [SmithyVL/SmithyVL](https://github.com/SmithyVL/SmithyVL) on branch `master`
-  * [#c8d6ebe](https://github.com/SmithyVL/SmithyVL/commit/c8d6ebe) 2.0.3. Added &#34;Participation in conferences&#34;.
-  * *On 8 Sept 2022, 14:46:52*
 
 
 ## 📰 RSS
