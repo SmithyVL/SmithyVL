@@ -230,13 +230,13 @@ continue working with these technologies, as well as other relevant and modern t
 
 ## 📰 RSS
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [What Is the null Type in Java?](https://feeds.feedblitz.com/~/711626069/0/baeldung~What-Is-the-null-Type-in-Java)
+  * *Published on 15 Sept 2022*
+* [Java Weekly, Issue 455](https://feeds.feedblitz.com/~/711585079/0/baeldung~Java-Weekly-Issue)
+  * *Published on 15 Sept 2022*
 * [Adding a Comment in a Dockerfile](https://feeds.feedblitz.com/~/711517441/0/baeldung~Adding-a-Comment-in-a-Dockerfile/)
   * *Published on 15 Sept 2022*
 * [Constructing a Relative Path From Two Absolute Paths in Java](https://feeds.feedblitz.com/~/711517445/0/baeldung~Constructing-a-Relative-Path-From-Two-Absolute-Paths-in-Java)
   * *Published on 15 Sept 2022*
 * [Basic Authentication With Postman](https://feeds.feedblitz.com/~/711129656/0/baeldung~Basic-Authentication-With-Postman/)
   * *Published on 13 Sept 2022*
-* [Convert between JSON and Protobuf](https://feeds.feedblitz.com/~/711105702/0/baeldung~Convert-between-JSON-and-Protobuf)
-  * *Published on 13 Sept 2022*
-* [Diving Deeper with Lightrun](https://feeds.feedblitz.com/~/710300414/0/baeldung~Diving-Deeper-with-Lightrun)
-  * *Published on 9 Sept 2022*
