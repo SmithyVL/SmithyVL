@@ -232,13 +232,13 @@ ElasticSearch, MongoDB. В этом же русле я хочу развиват
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [The Problem With  ‘src refspec does not match any’](https://feeds.feedblitz.com/~/711786870/0/baeldung~The-Problem-With-src-refspec-does-not-match-any)
+  * *Published on 16 Sept 2022*
+* [Difference Between Class.getResource() and ClassLoader.getResource()](https://feeds.feedblitz.com/~/711688693/0/baeldung~Difference-Between-ClassgetResource-and-ClassLoadergetResource)
+  * *Published on 16 Sept 2022*
+* [Fixed Size Queue Implementations in Java](https://feeds.feedblitz.com/~/711688697/0/baeldung~Fixed-Size-Queue-Implementations-in-Java)
+  * *Published on 16 Sept 2022*
 * [What Is the null Type in Java?](https://feeds.feedblitz.com/~/711626069/0/baeldung~What-Is-the-null-Type-in-Java)
   * *Published on 15 Sept 2022*
 * [Java Weekly, Issue 455](https://feeds.feedblitz.com/~/711585079/0/baeldung~Java-Weekly-Issue)
   * *Published on 15 Sept 2022*
-* [Adding a Comment in a Dockerfile](https://feeds.feedblitz.com/~/711517441/0/baeldung~Adding-a-Comment-in-a-Dockerfile/)
-  * *Published on 15 Sept 2022*
-* [Constructing a Relative Path From Two Absolute Paths in Java](https://feeds.feedblitz.com/~/711517445/0/baeldung~Constructing-a-Relative-Path-From-Two-Absolute-Paths-in-Java)
-  * *Published on 15 Sept 2022*
-* [Basic Authentication With Postman](https://feeds.feedblitz.com/~/711129656/0/baeldung~Basic-Authentication-With-Postman/)
-  * *Published on 13 Sept 2022*
