@@ -230,13 +230,13 @@ continue working with these technologies, as well as other relevant and modern t
 
 ## 📰 RSS
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
-* [The Problem With  ‘src refspec does not match any’](https://feeds.feedblitz.com/~/711786870/0/baeldung~The-Problem-With-src-refspec-does-not-match-any)
-  * *Published on 16 Sept 2022*
-* [Difference Between Class.getResource() and ClassLoader.getResource()](https://feeds.feedblitz.com/~/711688693/0/baeldung~Difference-Between-ClassgetResource-and-ClassLoadergetResource)
-  * *Published on 16 Sept 2022*
-* [Fixed Size Queue Implementations in Java](https://feeds.feedblitz.com/~/711688697/0/baeldung~Fixed-Size-Queue-Implementations-in-Java)
-  * *Published on 16 Sept 2022*
-* [What Is the null Type in Java?](https://feeds.feedblitz.com/~/711626069/0/baeldung~What-Is-the-null-Type-in-Java)
-  * *Published on 15 Sept 2022*
-* [Java Weekly, Issue 455](https://feeds.feedblitz.com/~/711585079/0/baeldung~Java-Weekly-Issue)
-  * *Published on 15 Sept 2022*
+* [TriFunction Interface in Java](https://feeds.feedblitz.com/~/712062728/0/baeldung~TriFunction-Interface-in-Java)
+  * *Published on 19 Sept 2022*
+* [Assign Static IP to Docker Container and Docker-Compose](https://feeds.feedblitz.com/~/712062730/0/baeldung~Assign-Static-IP-to-Docker-Container-and-DockerCompose)
+  * *Published on 19 Sept 2022*
+* [Getting the Filename From a String Containing an Absolute File Path](https://feeds.feedblitz.com/~/712060699/0/baeldung~Getting-the-Filename-From-a-String-Containing-an-Absolute-File-Path)
+  * *Published on 19 Sept 2022*
+* [Creating Random Numbers With No Duplicates in Java](https://feeds.feedblitz.com/~/711994866/0/baeldung~Creating-Random-Numbers-With-No-Duplicates-in-Java/)
+  * *Published on 18 Sept 2022*
+* [Create Date From Unix Timestamp in Java](https://feeds.feedblitz.com/~/711993760/0/baeldung~Create-Date-From-Unix-Timestamp-in-Java/)
+  * *Published on 18 Sept 2022*
