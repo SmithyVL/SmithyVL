@@ -232,6 +232,8 @@ ElasticSearch, MongoDB. В этом же русле я хочу развиват
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [Map a JSON POST to Multiple Spring MVC Parameters](https://feeds.feedblitz.com/~/712177184/0/baeldung~Map-a-JSON-POST-to-Multiple-Spring-MVC-Parameters/)
+  * *Published on 19 Sept 2022*
 * [TriFunction Interface in Java](https://feeds.feedblitz.com/~/712062728/0/baeldung~TriFunction-Interface-in-Java)
   * *Published on 19 Sept 2022*
 * [Assign Static IP to Docker Container and Docker-Compose](https://feeds.feedblitz.com/~/712062730/0/baeldung~Assign-Static-IP-to-Docker-Container-and-DockerCompose)
@@ -239,6 +241,4 @@ ElasticSearch, MongoDB. В этом же русле я хочу развиват
 * [Getting the Filename From a String Containing an Absolute File Path](https://feeds.feedblitz.com/~/712060699/0/baeldung~Getting-the-Filename-From-a-String-Containing-an-Absolute-File-Path)
   * *Published on 19 Sept 2022*
 * [Creating Random Numbers With No Duplicates in Java](https://feeds.feedblitz.com/~/711994866/0/baeldung~Creating-Random-Numbers-With-No-Duplicates-in-Java/)
-  * *Published on 18 Sept 2022*
-* [Create Date From Unix Timestamp in Java](https://feeds.feedblitz.com/~/711993760/0/baeldung~Create-Date-From-Unix-Timestamp-in-Java/)
   * *Published on 18 Sept 2022*
