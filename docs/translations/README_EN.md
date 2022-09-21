@@ -230,6 +230,8 @@ continue working with these technologies, as well as other relevant and modern t
 
 ## 📰 RSS
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [String Concatenation in Java](https://feeds.feedblitz.com/~/712332970/0/baeldung~String-Concatenation-in-Java/)
+  * *Published on 21 Sept 2022*
 * [Map a JSON POST to Multiple Spring MVC Parameters](https://feeds.feedblitz.com/~/712177184/0/baeldung~Map-a-JSON-POST-to-Multiple-Spring-MVC-Parameters/)
   * *Published on 19 Sept 2022*
 * [TriFunction Interface in Java](https://feeds.feedblitz.com/~/712062728/0/baeldung~TriFunction-Interface-in-Java)
@@ -238,5 +240,3 @@ continue working with these technologies, as well as other relevant and modern t
   * *Published on 19 Sept 2022*
 * [Getting the Filename From a String Containing an Absolute File Path](https://feeds.feedblitz.com/~/712060699/0/baeldung~Getting-the-Filename-From-a-String-Containing-an-Absolute-File-Path)
   * *Published on 19 Sept 2022*
-* [Creating Random Numbers With No Duplicates in Java](https://feeds.feedblitz.com/~/711994866/0/baeldung~Creating-Random-Numbers-With-No-Duplicates-in-Java/)
-  * *Published on 18 Sept 2022*
