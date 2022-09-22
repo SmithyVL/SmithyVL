@@ -230,6 +230,8 @@ continue working with these technologies, as well as other relevant and modern t
 
 ## 📰 RSS
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [Create a BMI Calculator in Java](https://feeds.feedblitz.com/~/712425282/0/baeldung~Create-a-BMI-Calculator-in-Java/)
+  * *Published on 21 Sept 2022*
 * [String Concatenation in Java](https://feeds.feedblitz.com/~/712332970/0/baeldung~String-Concatenation-in-Java/)
   * *Published on 21 Sept 2022*
 * [Map a JSON POST to Multiple Spring MVC Parameters](https://feeds.feedblitz.com/~/712177184/0/baeldung~Map-a-JSON-POST-to-Multiple-Spring-MVC-Parameters/)
@@ -237,6 +239,4 @@ continue working with these technologies, as well as other relevant and modern t
 * [TriFunction Interface in Java](https://feeds.feedblitz.com/~/712062728/0/baeldung~TriFunction-Interface-in-Java)
   * *Published on 19 Sept 2022*
 * [Assign Static IP to Docker Container and Docker-Compose](https://feeds.feedblitz.com/~/712062730/0/baeldung~Assign-Static-IP-to-Docker-Container-and-DockerCompose)
-  * *Published on 19 Sept 2022*
-* [Getting the Filename From a String Containing an Absolute File Path](https://feeds.feedblitz.com/~/712060699/0/baeldung~Getting-the-Filename-From-a-String-Containing-an-Absolute-File-Path)
   * *Published on 19 Sept 2022*
