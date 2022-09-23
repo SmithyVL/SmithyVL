@@ -218,20 +218,12 @@ ElasticSearch, MongoDB. В этом же русле я хочу развиват
 * ➡️ Pushed 1 commit in [SmithyVL/JavaDeveloperInterview](https://github.com/SmithyVL/JavaDeveloperInterview) on branch `master`
   * [#6120019](https://github.com/SmithyVL/JavaDeveloperInterview/commit/6120019) Создание структуры проекта, добавление начального оглавления и разбор одного вопроса
   * *On 13 Sept 2022, 16:29:43*
-* ⏺️ Created new branch master in [SmithyVL/JavaDeveloperInterview](https://github.com/SmithyVL/JavaDeveloperInterview)
-  * *On 8 Sept 2022, 22:01:50*
-* ⏺️ Created new repository  [SmithyVL/JavaDeveloperInterview](https://github.com/SmithyVL/JavaDeveloperInterview)
-  * *On 8 Sept 2022, 22:01:49*
-* ➡️ Pushed 1 commit in [SmithyVL/SmithyVL](https://github.com/SmithyVL/SmithyVL) on branch `master`
-  * [#1ece4b5](https://github.com/SmithyVL/SmithyVL/commit/1ece4b5) 2.1.0. Update license type.
-  * *On 8 Sept 2022, 21:59:25*
-* ➡️ Pushed 1 commit in [SmithyVL/SmithyVL](https://github.com/SmithyVL/SmithyVL) on branch `master`
-  * [#ef9e433](https://github.com/SmithyVL/SmithyVL/commit/ef9e433) 2.0.4. Remove question issue template.
-  * *On 8 Sept 2022, 21:44:27*
 
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [Java Weekly, Issue 456](https://feeds.feedblitz.com/~/712516868/0/baeldung~Java-Weekly-Issue)
+  * *Published on 22 Sept 2022*
 * [Create a BMI Calculator in Java](https://feeds.feedblitz.com/~/712425282/0/baeldung~Create-a-BMI-Calculator-in-Java/)
   * *Published on 21 Sept 2022*
 * [String Concatenation in Java](https://feeds.feedblitz.com/~/712332970/0/baeldung~String-Concatenation-in-Java/)
@@ -239,6 +231,4 @@ ElasticSearch, MongoDB. В этом же русле я хочу развиват
 * [Map a JSON POST to Multiple Spring MVC Parameters](https://feeds.feedblitz.com/~/712177184/0/baeldung~Map-a-JSON-POST-to-Multiple-Spring-MVC-Parameters/)
   * *Published on 19 Sept 2022*
 * [TriFunction Interface in Java](https://feeds.feedblitz.com/~/712062728/0/baeldung~TriFunction-Interface-in-Java)
-  * *Published on 19 Sept 2022*
-* [Assign Static IP to Docker Container and Docker-Compose](https://feeds.feedblitz.com/~/712062730/0/baeldung~Assign-Static-IP-to-Docker-Container-and-DockerCompose)
   * *Published on 19 Sept 2022*
