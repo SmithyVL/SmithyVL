@@ -1,17 +1,15 @@
-# Contributing
+# Внесение своего вклада
 
-When contributing to this repository, please first discuss the change you wish to make via issue,
-email, or any other method with the owners of this repository before making a change. 
+При внесении вклада в этот репозиторий, пожалуйста, сначала обсудите изменения, которые вы хотите внести, с помощью
+вопроса, электронной почты или любым другим способом с владельцами этого репозитория, прежде чем вносить изменения.
 
-Please note we have a code of conduct, please follow it in all your interactions with the project.
+Пожалуйста, обратите внимание, что у нас есть кодекс поведения, пожалуйста, следуйте ему во всех ваших взаимодействиях
+с проектом.
 
-## Pull Request Process
+## Процесс оформление Pull Request
 
-1. Ensure any install or build dependencies are removed before the end of the layer when doing a 
-   build.
-2. Update the README.md with details of changes to the interface, this includes new environment 
-   variables, exposed ports, useful file locations and container parameters.
-3. Increase the version numbers in any examples files and the README.md to the new version that this
-   Pull Request would represent.
-4. You may merge the Pull Request in once you have the sign-off of one other developer, or if you 
-   do not have permission to do that, you may request the second reviewer to merge it for you.
+1. Обновите README.md с подробной информацией об изменениях в интерфейсе, это включает в себя новые переменные
+   окружения, открытые порты, полезные расположения файлов и параметры контейнеров;
+2. Увеличьте номера версий в любых файлах примеров и README.md к новой версии, который этот Pull Request представляет;
+3. Вы можете выполнить слияние кода, как только вы получите разрешение от другого разработчика или, если у вас нет
+   разрешения на это, попросите другого разработчика сделать это.
