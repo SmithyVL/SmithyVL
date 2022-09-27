@@ -260,6 +260,8 @@
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [Differences Between Paths.get and Path.of](https://feeds.feedblitz.com/~/713210542/0/baeldung~Differences-Between-Pathsget-and-Pathof/)
+  * *Published on 27 Sept 2022*
 * [Java Scanner Taking a Character Input](https://feeds.feedblitz.com/~/712950590/0/baeldung~Java-Scanner-Taking-a-Character-Input)
   * *Published on 25 Sept 2022*
 * [Guide to the Storage Engine in Apache Cassandra](https://feeds.feedblitz.com/~/712950592/0/baeldung~Guide-to-the-Storage-Engine-in-Apache-Cassandra)
@@ -267,6 +269,4 @@
 * [Keep Subdirectory Structure in Dockerfile Copy](https://feeds.feedblitz.com/~/712729416/0/baeldung~Keep-Subdirectory-Structure-in-Dockerfile-Copy/)
   * *Published on 23 Sept 2022*
 * [Updating PATH Environment Variable in Dockerfile](https://feeds.feedblitz.com/~/712726564/0/baeldung~Updating-PATH-Environment-Variable-in-Dockerfile/)
-  * *Published on 23 Sept 2022*
-* [Guide to MicroStream](https://feeds.feedblitz.com/~/712676414/0/baeldung~Guide-to-MicroStream)
   * *Published on 23 Sept 2022*
