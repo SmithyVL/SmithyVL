@@ -253,13 +253,12 @@
 * Translate by russian for: code of conduct, contributing, pull request template;
 * Add SECURITY.md.
   * *On 23 Sept 2022, 23:48:06*
-* ➡️ Pushed 1 commit in [SmithyVL/JavaDeveloperInterview](https://github.com/SmithyVL/JavaDeveloperInterview) on branch `master`
-  * [#6120019](https://github.com/SmithyVL/JavaDeveloperInterview/commit/6120019) Создание структуры проекта, добавление начального оглавления и разбор одного вопроса
-  * *On 13 Sept 2022, 16:29:43*
 
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [Validate UUID String in Java](https://feeds.feedblitz.com/~/713214828/0/baeldung~Validate-UUID-String-in-Java)
+  * *Published on 27 Sept 2022*
 * [Differences Between Paths.get and Path.of](https://feeds.feedblitz.com/~/713210542/0/baeldung~Differences-Between-Pathsget-and-Pathof/)
   * *Published on 27 Sept 2022*
 * [Java Scanner Taking a Character Input](https://feeds.feedblitz.com/~/712950590/0/baeldung~Java-Scanner-Taking-a-Character-Input)
@@ -267,6 +266,4 @@
 * [Guide to the Storage Engine in Apache Cassandra](https://feeds.feedblitz.com/~/712950592/0/baeldung~Guide-to-the-Storage-Engine-in-Apache-Cassandra)
   * *Published on 25 Sept 2022*
 * [Keep Subdirectory Structure in Dockerfile Copy](https://feeds.feedblitz.com/~/712729416/0/baeldung~Keep-Subdirectory-Structure-in-Dockerfile-Copy/)
-  * *Published on 23 Sept 2022*
-* [Updating PATH Environment Variable in Dockerfile](https://feeds.feedblitz.com/~/712726564/0/baeldung~Updating-PATH-Environment-Variable-in-Dockerfile/)
   * *Published on 23 Sept 2022*
