@@ -257,13 +257,13 @@
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [SEDA With Spring Integration and Apache Camel](https://feeds.feedblitz.com/~/713419496/0/baeldung~SEDA-With-Spring-Integration-and-Apache-Camel)
+  * *Published on 28 Sept 2022*
 * [Validate UUID String in Java](https://feeds.feedblitz.com/~/713214828/0/baeldung~Validate-UUID-String-in-Java)
   * *Published on 27 Sept 2022*
-* [Differences Between Paths.get and Path.of](https://feeds.feedblitz.com/~/713210542/0/baeldung~Differences-Between-Pathsget-and-Pathof/)
+* [Differences Between Paths.get and Path.of](https://feeds.feedblitz.com/~/713419498/0/baeldung~Differences-Between-Pathsget-and-Pathof)
   * *Published on 27 Sept 2022*
 * [Java Scanner Taking a Character Input](https://feeds.feedblitz.com/~/712950590/0/baeldung~Java-Scanner-Taking-a-Character-Input)
   * *Published on 25 Sept 2022*
 * [Guide to the Storage Engine in Apache Cassandra](https://feeds.feedblitz.com/~/712950592/0/baeldung~Guide-to-the-Storage-Engine-in-Apache-Cassandra)
   * *Published on 25 Sept 2022*
-* [Keep Subdirectory Structure in Dockerfile Copy](https://feeds.feedblitz.com/~/712729416/0/baeldung~Keep-Subdirectory-Structure-in-Dockerfile-Copy/)
-  * *Published on 23 Sept 2022*
