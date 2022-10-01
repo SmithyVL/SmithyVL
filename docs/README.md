@@ -257,13 +257,13 @@
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [Getting a URL Attribute Value in Thymeleaf](https://feeds.feedblitz.com/~/713846988/0/baeldung~Getting-a-URL-Attribute-Value-in-Thymeleaf)
+  * *Published on 1 Oct 2022*
+* [Convert a List to a Comma-Separated String](https://feeds.feedblitz.com/~/713842734/0/baeldung~Convert-a-List-to-a-CommaSeparated-String)
+  * *Published on 1 Oct 2022*
 * [How to Clone a Jenkins Job](https://feeds.feedblitz.com/~/713699876/0/baeldung~How-to-Clone-a-Jenkins-Job)
   * *Published on 30 Sept 2022*
 * [Java Weekly, Issue 457](https://feeds.feedblitz.com/~/713263504/0/baeldung~Java-Weekly-Issue)
   * *Published on 29 Sept 2022*
 * [SEDA With Spring Integration and Apache Camel](https://feeds.feedblitz.com/~/713419496/0/baeldung~SEDA-With-Spring-Integration-and-Apache-Camel)
   * *Published on 28 Sept 2022*
-* [Validate UUID String in Java](https://feeds.feedblitz.com/~/713214828/0/baeldung~Validate-UUID-String-in-Java)
-  * *Published on 27 Sept 2022*
-* [Differences Between Paths.get and Path.of](https://feeds.feedblitz.com/~/713419498/0/baeldung~Differences-Between-Pathsget-and-Pathof)
-  * *Published on 27 Sept 2022*
