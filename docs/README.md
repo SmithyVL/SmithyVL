@@ -257,13 +257,13 @@
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [A Guide to Variables in Postman](https://feeds.feedblitz.com/~/714228108/0/baeldung~A-Guide-to-Variables-in-Postman)
+  * *Published on 3 Oct 2022*
+* [Set vs List in Java](https://feeds.feedblitz.com/~/714228110/0/baeldung~Set-vs-List-in-Java)
+  * *Published on 3 Oct 2022*
 * [Getting a URL Attribute Value in Thymeleaf](https://feeds.feedblitz.com/~/713846988/0/baeldung~Getting-a-URL-Attribute-Value-in-Thymeleaf)
   * *Published on 1 Oct 2022*
 * [Convert a List to a Comma-Separated String](https://feeds.feedblitz.com/~/713842734/0/baeldung~Convert-a-List-to-a-CommaSeparated-String)
   * *Published on 1 Oct 2022*
 * [How to Clone a Jenkins Job](https://feeds.feedblitz.com/~/713699876/0/baeldung~How-to-Clone-a-Jenkins-Job)
   * *Published on 30 Sept 2022*
-* [Java Weekly, Issue 457](https://feeds.feedblitz.com/~/713263504/0/baeldung~Java-Weekly-Issue)
-  * *Published on 29 Sept 2022*
-* [SEDA With Spring Integration and Apache Camel](https://feeds.feedblitz.com/~/713419496/0/baeldung~SEDA-With-Spring-Integration-and-Apache-Camel)
-  * *Published on 28 Sept 2022*
