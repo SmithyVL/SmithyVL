@@ -257,13 +257,13 @@
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [Writing a List of Strings Into a Text File](https://feeds.feedblitz.com/~/714450574/0/baeldung~Writing-a-List-of-Strings-Into-a-Text-File)
+  * *Published on 5 Oct 2022*
+* [JMeter: Latency vs. Load Time](https://feeds.feedblitz.com/~/714448448/0/baeldung~JMeter-Latency-vs-Load-Time/)
+  * *Published on 5 Oct 2022*
+* [Insert Array Inside an Object in MongoDB](https://feeds.feedblitz.com/~/714360142/0/baeldung~Insert-Array-Inside-an-Object-in-MongoDB)
+  * *Published on 4 Oct 2022*
 * [A Guide to Variables in Postman](https://feeds.feedblitz.com/~/714228108/0/baeldung~A-Guide-to-Variables-in-Postman)
   * *Published on 3 Oct 2022*
 * [Set vs List in Java](https://feeds.feedblitz.com/~/714228110/0/baeldung~Set-vs-List-in-Java)
   * *Published on 3 Oct 2022*
-* [Getting a URL Attribute Value in Thymeleaf](https://feeds.feedblitz.com/~/713846988/0/baeldung~Getting-a-URL-Attribute-Value-in-Thymeleaf)
-  * *Published on 1 Oct 2022*
-* [Convert a List to a Comma-Separated String](https://feeds.feedblitz.com/~/713842734/0/baeldung~Convert-a-List-to-a-CommaSeparated-String)
-  * *Published on 1 Oct 2022*
-* [How to Clone a Jenkins Job](https://feeds.feedblitz.com/~/713699876/0/baeldung~How-to-Clone-a-Jenkins-Job)
-  * *Published on 30 Sept 2022*
