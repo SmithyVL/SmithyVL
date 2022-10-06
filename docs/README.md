@@ -257,6 +257,8 @@
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [Initializing a Boolean Array in Java](https://feeds.feedblitz.com/~/714554128/0/baeldung~Initializing-a-Boolean-Array-in-Java)
+  * *Published on 6 Oct 2022*
 * [Writing a List of Strings Into a Text File](https://feeds.feedblitz.com/~/714450574/0/baeldung~Writing-a-List-of-Strings-Into-a-Text-File)
   * *Published on 5 Oct 2022*
 * [JMeter: Latency vs. Load Time](https://feeds.feedblitz.com/~/714448448/0/baeldung~JMeter-Latency-vs-Load-Time/)
@@ -264,6 +266,4 @@
 * [Insert Array Inside an Object in MongoDB](https://feeds.feedblitz.com/~/714360142/0/baeldung~Insert-Array-Inside-an-Object-in-MongoDB)
   * *Published on 4 Oct 2022*
 * [A Guide to Variables in Postman](https://feeds.feedblitz.com/~/714228108/0/baeldung~A-Guide-to-Variables-in-Postman)
-  * *Published on 3 Oct 2022*
-* [Set vs List in Java](https://feeds.feedblitz.com/~/714228110/0/baeldung~Set-vs-List-in-Java)
   * *Published on 3 Oct 2022*
