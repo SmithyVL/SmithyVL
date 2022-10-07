@@ -257,13 +257,13 @@
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [Looking for a Java Team Lead with Spring Experience (Remote) (Part Time)](https://feeds.feedblitz.com/~/714616498/0/baeldung~Looking-for-a-Java-Team-Lead-with-Spring-Experience-Remote-Part-Time)
+  * *Published on 6 Oct 2022*
+* [Difference Between Flux and Mono](https://feeds.feedblitz.com/~/714588576/0/baeldung~Difference-Between-Flux-and-Mono)
+  * *Published on 6 Oct 2022*
+* [Using HAProxy as an API Gateway for Routing and Rate Limiting](https://feeds.feedblitz.com/~/714588578/0/baeldung~Using-HAProxy-as-an-API-Gateway-for-Routing-and-Rate-Limiting)
+  * *Published on 6 Oct 2022*
 * [Initializing a Boolean Array in Java](https://feeds.feedblitz.com/~/714554128/0/baeldung~Initializing-a-Boolean-Array-in-Java)
   * *Published on 6 Oct 2022*
 * [Writing a List of Strings Into a Text File](https://feeds.feedblitz.com/~/714450574/0/baeldung~Writing-a-List-of-Strings-Into-a-Text-File)
   * *Published on 5 Oct 2022*
-* [JMeter: Latency vs. Load Time](https://feeds.feedblitz.com/~/714448448/0/baeldung~JMeter-Latency-vs-Load-Time/)
-  * *Published on 5 Oct 2022*
-* [Insert Array Inside an Object in MongoDB](https://feeds.feedblitz.com/~/714360142/0/baeldung~Insert-Array-Inside-an-Object-in-MongoDB)
-  * *Published on 4 Oct 2022*
-* [A Guide to Variables in Postman](https://feeds.feedblitz.com/~/714228108/0/baeldung~A-Guide-to-Variables-in-Postman)
-  * *Published on 3 Oct 2022*
