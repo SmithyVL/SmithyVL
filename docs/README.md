@@ -234,36 +234,18 @@
 
 ## 📋 Недавняя активность
 **[📰 Recent activity](https://github.com/SmithyVL)**
-* 📝 Updated 1 wiki page in [SmithyVL/SmithyVL](https://github.com/SmithyVL/SmithyVL/wiki)
-  * _Sidebar
-  * *On 23 Sept 2022, 23:59:45*
-* 📝 Updated 1 wiki page in [SmithyVL/SmithyVL](https://github.com/SmithyVL/SmithyVL/wiki)
-  * Оглавление
-  * *On 23 Sept 2022, 23:58:30*
-* 📝 Updated 1 wiki page in [SmithyVL/SmithyVL](https://github.com/SmithyVL/SmithyVL/wiki)
-  * Home
-  * *On 23 Sept 2022, 23:58:30*
-* ➡️ Pushed 1 commit in [SmithyVL/SmithyVL](https://github.com/SmithyVL/SmithyVL) on branch `master`
-  * [#a8e267b](https://github.com/SmithyVL/SmithyVL/commit/a8e267b) 3.0.0. Global update:
-
-* Remove english version;
-* Update &#34;About me&#34;;
-* Update work experience;
-* Update skills;
-* Translate by russian for: code of conduct, contributing, pull request template;
-* Add SECURITY.md.
-  * *On 23 Sept 2022, 23:48:06*
+No recent activity
 
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [Dealing with “java.lang.OutOfMemoryError: PermGen space” Error](https://feeds.feedblitz.com/~/714812694/0/baeldung~Dealing-with-%e2%80%9cjavalangOutOfMemoryError-PermGen-space%e2%80%9d-Error)
+  * *Published on 8 Oct 2022*
+* [Java Weekly, Issue 458](https://feeds.feedblitz.com/~/714724618/0/baeldung~Java-Weekly-Issue)
+  * *Published on 7 Oct 2022*
+* [Patterns for Iterating Over Large Result Sets With Spring Data JPA](https://feeds.feedblitz.com/~/714708710/0/baeldung~Patterns-for-Iterating-Over-Large-Result-Sets-With-Spring-Data-JPA)
+  * *Published on 7 Oct 2022*
 * [Looking for a Java Team Lead with Spring Experience (Remote) (Part Time)](https://feeds.feedblitz.com/~/714616498/0/baeldung~Looking-for-a-Java-Team-Lead-with-Spring-Experience-Remote-Part-Time)
   * *Published on 6 Oct 2022*
 * [Difference Between Flux and Mono](https://feeds.feedblitz.com/~/714588576/0/baeldung~Difference-Between-Flux-and-Mono)
   * *Published on 6 Oct 2022*
-* [Using HAProxy as an API Gateway for Routing and Rate Limiting](https://feeds.feedblitz.com/~/714588578/0/baeldung~Using-HAProxy-as-an-API-Gateway-for-Routing-and-Rate-Limiting)
-  * *Published on 6 Oct 2022*
-* [Initializing a Boolean Array in Java](https://feeds.feedblitz.com/~/714554128/0/baeldung~Initializing-a-Boolean-Array-in-Java)
-  * *Published on 6 Oct 2022*
-* [Writing a List of Strings Into a Text File](https://feeds.feedblitz.com/~/714450574/0/baeldung~Writing-a-List-of-Strings-Into-a-Text-File)
-  * *Published on 5 Oct 2022*
