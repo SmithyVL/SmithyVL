@@ -239,6 +239,8 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [Enable HTTPS in Jenkins](https://feeds.feedblitz.com/~/715051906/0/baeldung~Enable-HTTPS-in-Jenkins)
+  * *Published on 9 Oct 2022*
 * [Dealing with “java.lang.OutOfMemoryError: PermGen space” Error](https://feeds.feedblitz.com/~/714812694/0/baeldung~Dealing-with-%e2%80%9cjavalangOutOfMemoryError-PermGen-space%e2%80%9d-Error)
   * *Published on 8 Oct 2022*
 * [Java Weekly, Issue 458](https://feeds.feedblitz.com/~/714724618/0/baeldung~Java-Weekly-Issue)
@@ -246,6 +248,4 @@ No recent activity
 * [Patterns for Iterating Over Large Result Sets With Spring Data JPA](https://feeds.feedblitz.com/~/714708710/0/baeldung~Patterns-for-Iterating-Over-Large-Result-Sets-With-Spring-Data-JPA)
   * *Published on 7 Oct 2022*
 * [Looking for a Java Team Lead with Spring Experience (Remote) (Part Time)](https://feeds.feedblitz.com/~/714616498/0/baeldung~Looking-for-a-Java-Team-Lead-with-Spring-Experience-Remote-Part-Time)
-  * *Published on 6 Oct 2022*
-* [Difference Between Flux and Mono](https://feeds.feedblitz.com/~/714588576/0/baeldung~Difference-Between-Flux-and-Mono)
   * *Published on 6 Oct 2022*
