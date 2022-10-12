@@ -239,13 +239,13 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
-* [Enable HTTPS in Jenkins](https://feeds.feedblitz.com/~/715051906/0/baeldung~Enable-HTTPS-in-Jenkins)
-  * *Published on 9 Oct 2022*
-* [Dealing with “java.lang.OutOfMemoryError: PermGen space” Error](https://feeds.feedblitz.com/~/714812694/0/baeldung~Dealing-with-%e2%80%9cjavalangOutOfMemoryError-PermGen-space%e2%80%9d-Error)
-  * *Published on 8 Oct 2022*
-* [Java Weekly, Issue 458](https://feeds.feedblitz.com/~/714724618/0/baeldung~Java-Weekly-Issue)
-  * *Published on 7 Oct 2022*
-* [Patterns for Iterating Over Large Result Sets With Spring Data JPA](https://feeds.feedblitz.com/~/714708710/0/baeldung~Patterns-for-Iterating-Over-Large-Result-Sets-With-Spring-Data-JPA)
-  * *Published on 7 Oct 2022*
-* [Looking for a Java Team Lead with Spring Experience (Remote) (Part Time)](https://feeds.feedblitz.com/~/714616498/0/baeldung~Looking-for-a-Java-Team-Lead-with-Spring-Experience-Remote-Part-Time)
-  * *Published on 6 Oct 2022*
+* [Variable Instantiation on Declaration vs. on Constructor in Java](https://feeds.feedblitz.com/~/715262676/0/baeldung~Variable-Instantiation-on-Declaration-vs-on-Constructor-in-Java)
+  * *Published on 11 Oct 2022*
+* [Port Scanning With Java](https://feeds.feedblitz.com/~/715262680/0/baeldung~Port-Scanning-With-Java)
+  * *Published on 11 Oct 2022*
+* [Using Streams to Collect Into a TreeSet](https://feeds.feedblitz.com/~/715232698/0/baeldung~Using-Streams-to-Collect-Into-a-TreeSet)
+  * *Published on 11 Oct 2022*
+* [Exclude a Sub-Folder When Adding a Volume to Docker](https://feeds.feedblitz.com/~/715232700/0/baeldung~Exclude-a-SubFolder-When-Adding-a-Volume-to-Docker)
+  * *Published on 11 Oct 2022*
+* [Comparison Between Mono’s doOnNext() and doOnSuccess()](https://feeds.feedblitz.com/~/715230952/0/baeldung~Comparison-Between-Monos-doOnNext-and-doOnSuccess)
+  * *Published on 11 Oct 2022*
