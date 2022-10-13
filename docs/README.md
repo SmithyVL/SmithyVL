@@ -239,13 +239,13 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [Setting Time-To-Live Value for Caching](https://feeds.feedblitz.com/~/715368370/0/baeldung~Setting-TimeToLive-Value-for-Caching)
+  * *Published on 12 Oct 2022*
+* [Java Literals](https://feeds.feedblitz.com/~/715367050/0/baeldung~Java-Literals)
+  * *Published on 12 Oct 2022*
+* [Infinity in Java](https://feeds.feedblitz.com/~/715365352/0/baeldung~Infinity-in-Java)
+  * *Published on 12 Oct 2022*
 * [Variable Instantiation on Declaration vs. on Constructor in Java](https://feeds.feedblitz.com/~/715262676/0/baeldung~Variable-Instantiation-on-Declaration-vs-on-Constructor-in-Java)
   * *Published on 11 Oct 2022*
 * [Port Scanning With Java](https://feeds.feedblitz.com/~/715262680/0/baeldung~Port-Scanning-With-Java)
-  * *Published on 11 Oct 2022*
-* [Using Streams to Collect Into a TreeSet](https://feeds.feedblitz.com/~/715232698/0/baeldung~Using-Streams-to-Collect-Into-a-TreeSet)
-  * *Published on 11 Oct 2022*
-* [Exclude a Sub-Folder When Adding a Volume to Docker](https://feeds.feedblitz.com/~/715232700/0/baeldung~Exclude-a-SubFolder-When-Adding-a-Volume-to-Docker)
-  * *Published on 11 Oct 2022*
-* [Comparison Between Mono’s doOnNext() and doOnSuccess()](https://feeds.feedblitz.com/~/715230952/0/baeldung~Comparison-Between-Monos-doOnNext-and-doOnSuccess)
   * *Published on 11 Oct 2022*
