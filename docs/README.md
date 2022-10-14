@@ -239,13 +239,13 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [Send Array as Part of x-www-form-urlencoded Using Postman](https://feeds.feedblitz.com/~/715469494/0/baeldung~Send-Array-as-Part-of-xwwwformurlencoded-Using-Postman)
+  * *Published on 13 Oct 2022*
+* [Validating URL in Java](https://feeds.feedblitz.com/~/715468330/0/baeldung~Validating-URL-in-Java)
+  * *Published on 13 Oct 2022*
+* [Difference Between Java Enumeration and Iterator](https://feeds.feedblitz.com/~/715468332/0/baeldung~Difference-Between-Java-Enumeration-and-Iterator)
+  * *Published on 13 Oct 2022*
 * [Setting Time-To-Live Value for Caching](https://feeds.feedblitz.com/~/715368370/0/baeldung~Setting-TimeToLive-Value-for-Caching)
   * *Published on 12 Oct 2022*
 * [Java Literals](https://feeds.feedblitz.com/~/715367050/0/baeldung~Java-Literals)
   * *Published on 12 Oct 2022*
-* [Infinity in Java](https://feeds.feedblitz.com/~/715365352/0/baeldung~Infinity-in-Java)
-  * *Published on 12 Oct 2022*
-* [Variable Instantiation on Declaration vs. on Constructor in Java](https://feeds.feedblitz.com/~/715262676/0/baeldung~Variable-Instantiation-on-Declaration-vs-on-Constructor-in-Java)
-  * *Published on 11 Oct 2022*
-* [Port Scanning With Java](https://feeds.feedblitz.com/~/715262680/0/baeldung~Port-Scanning-With-Java)
-  * *Published on 11 Oct 2022*
