@@ -239,13 +239,13 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [Mocking Java InputStream Object](https://feeds.feedblitz.com/~/715631618/0/baeldung~Mocking-Java-InputStream-Object)
+  * *Published on 15 Oct 2022*
+* [Send Email Notification From Jenkins](https://feeds.feedblitz.com/~/715630298/0/baeldung~Send-Email-Notification-From-Jenkins)
+  * *Published on 15 Oct 2022*
+* [Java Weekly, Issue 459](https://feeds.feedblitz.com/~/715575300/0/baeldung~Java-Weekly-Issue)
+  * *Published on 14 Oct 2022*
+* [Editing Existing PDF Files in Java](https://feeds.feedblitz.com/~/715565258/0/baeldung~Editing-Existing-PDF-Files-in-Java)
+  * *Published on 14 Oct 2022*
 * [Send Array as Part of x-www-form-urlencoded Using Postman](https://feeds.feedblitz.com/~/715469494/0/baeldung~Send-Array-as-Part-of-xwwwformurlencoded-Using-Postman)
   * *Published on 13 Oct 2022*
-* [Validating URL in Java](https://feeds.feedblitz.com/~/715468330/0/baeldung~Validating-URL-in-Java)
-  * *Published on 13 Oct 2022*
-* [Difference Between Java Enumeration and Iterator](https://feeds.feedblitz.com/~/715468332/0/baeldung~Difference-Between-Java-Enumeration-and-Iterator)
-  * *Published on 13 Oct 2022*
-* [Setting Time-To-Live Value for Caching](https://feeds.feedblitz.com/~/715368370/0/baeldung~Setting-TimeToLive-Value-for-Caching)
-  * *Published on 12 Oct 2022*
-* [Java Literals](https://feeds.feedblitz.com/~/715367050/0/baeldung~Java-Literals)
-  * *Published on 12 Oct 2022*
