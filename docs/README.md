@@ -239,6 +239,8 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [Guide to Resilience4j With Spring Boot](https://feeds.feedblitz.com/~/715894850/0/baeldung~Guide-to-Resiliencej-With-Spring-Boot)
+  * *Published on 17 Oct 2022*
 * [Mocking Java InputStream Object](https://feeds.feedblitz.com/~/715631618/0/baeldung~Mocking-Java-InputStream-Object)
   * *Published on 15 Oct 2022*
 * [Send Email Notification From Jenkins](https://feeds.feedblitz.com/~/715630298/0/baeldung~Send-Email-Notification-From-Jenkins)
@@ -247,5 +249,3 @@ No recent activity
   * *Published on 14 Oct 2022*
 * [Editing Existing PDF Files in Java](https://feeds.feedblitz.com/~/715565258/0/baeldung~Editing-Existing-PDF-Files-in-Java)
   * *Published on 14 Oct 2022*
-* [Send Array as Part of x-www-form-urlencoded Using Postman](https://feeds.feedblitz.com/~/715469494/0/baeldung~Send-Array-as-Part-of-xwwwformurlencoded-Using-Postman)
-  * *Published on 13 Oct 2022*
