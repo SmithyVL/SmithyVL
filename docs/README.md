@@ -239,13 +239,13 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [Kotlin/Spring Developer to help with brainstorming topics for a site (Remote) (Part Time)](https://feeds.feedblitz.com/~/715993866/0/baeldung~KotlinSpring-Developer-to-help-with-brainstorming-topics-for-a-site-Remote-Part-Time)
+  * *Published on 18 Oct 2022*
+* [How to Resolve Spring Webflux DataBufferLimitException](https://feeds.feedblitz.com/~/715972472/0/baeldung~How-to-Resolve-Spring-Webflux-DataBufferLimitException)
+  * *Published on 18 Oct 2022*
+* [Uploading a File and JSON Data in Postman](https://feeds.feedblitz.com/~/715970932/0/baeldung~Uploading-a-File-and-JSON-Data-in-Postman)
+  * *Published on 18 Oct 2022*
+* [Channels and Connections in RabbitMQ](https://feeds.feedblitz.com/~/715969760/0/baeldung~Channels-and-Connections-in-RabbitMQ)
+  * *Published on 18 Oct 2022*
 * [Guide to Resilience4j With Spring Boot](https://feeds.feedblitz.com/~/715894850/0/baeldung~Guide-to-Resiliencej-With-Spring-Boot)
   * *Published on 17 Oct 2022*
-* [Mocking Java InputStream Object](https://feeds.feedblitz.com/~/715631618/0/baeldung~Mocking-Java-InputStream-Object)
-  * *Published on 15 Oct 2022*
-* [Send Email Notification From Jenkins](https://feeds.feedblitz.com/~/715630298/0/baeldung~Send-Email-Notification-From-Jenkins)
-  * *Published on 15 Oct 2022*
-* [Java Weekly, Issue 459](https://feeds.feedblitz.com/~/715575300/0/baeldung~Java-Weekly-Issue)
-  * *Published on 14 Oct 2022*
-* [Editing Existing PDF Files in Java](https://feeds.feedblitz.com/~/715565258/0/baeldung~Editing-Existing-PDF-Files-in-Java)
-  * *Published on 14 Oct 2022*
