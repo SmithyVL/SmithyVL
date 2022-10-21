@@ -239,13 +239,13 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
-* [Kotlin/Spring Developer to help with brainstorming topics for a site (Remote) (Part Time)](https://feeds.feedblitz.com/~/715993866/0/baeldung~KotlinSpring-Developer-to-help-with-brainstorming-topics-for-a-site-Remote-Part-Time)
-  * *Published on 18 Oct 2022*
-* [How to Resolve Spring Webflux DataBufferLimitException](https://feeds.feedblitz.com/~/715972472/0/baeldung~How-to-Resolve-Spring-Webflux-DataBufferLimitException)
-  * *Published on 18 Oct 2022*
-* [Uploading a File and JSON Data in Postman](https://feeds.feedblitz.com/~/715970932/0/baeldung~Uploading-a-File-and-JSON-Data-in-Postman)
-  * *Published on 18 Oct 2022*
-* [Channels and Connections in RabbitMQ](https://feeds.feedblitz.com/~/715969760/0/baeldung~Channels-and-Connections-in-RabbitMQ)
-  * *Published on 18 Oct 2022*
-* [Guide to Resilience4j With Spring Boot](https://feeds.feedblitz.com/~/715894850/0/baeldung~Guide-to-Resiliencej-With-Spring-Boot)
-  * *Published on 17 Oct 2022*
+* [How to Log to the Console in Color](https://feeds.feedblitz.com/~/716398102/0/baeldung~How-to-Log-to-the-Console-in-Color)
+  * *Published on 20 Oct 2022*
+* [Capitalize the First Letter of a String in Java](https://feeds.feedblitz.com/~/716349132/0/baeldung~Capitalize-the-First-Letter-of-a-String-in-Java)
+  * *Published on 20 Oct 2022*
+* [Coupling in Java](https://feeds.feedblitz.com/~/716349134/0/baeldung~Coupling-in-Java)
+  * *Published on 20 Oct 2022*
+* [Understanding java.lang.Thread.State: WAITING (parking)](https://feeds.feedblitz.com/~/716315624/0/baeldung~Understanding-javalangThreadState-WAITING-parking)
+  * *Published on 20 Oct 2022*
+* [Introduction to Datafaker](https://feeds.feedblitz.com/~/716311530/0/baeldung~Introduction-to-Datafaker)
+  * *Published on 20 Oct 2022*
