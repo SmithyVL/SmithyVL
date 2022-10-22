@@ -239,6 +239,8 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [Java Weekly, Issue 460](https://feeds.feedblitz.com/~/716526574/0/baeldung~Java-Weekly-Issue)
+  * *Published on 21 Oct 2022*
 * [How to Log to the Console in Color](https://feeds.feedblitz.com/~/716398102/0/baeldung~How-to-Log-to-the-Console-in-Color)
   * *Published on 20 Oct 2022*
 * [Capitalize the First Letter of a String in Java](https://feeds.feedblitz.com/~/716349132/0/baeldung~Capitalize-the-First-Letter-of-a-String-in-Java)
@@ -246,6 +248,4 @@ No recent activity
 * [Coupling in Java](https://feeds.feedblitz.com/~/716349134/0/baeldung~Coupling-in-Java)
   * *Published on 20 Oct 2022*
 * [Understanding java.lang.Thread.State: WAITING (parking)](https://feeds.feedblitz.com/~/716315624/0/baeldung~Understanding-javalangThreadState-WAITING-parking)
-  * *Published on 20 Oct 2022*
-* [Introduction to Datafaker](https://feeds.feedblitz.com/~/716311530/0/baeldung~Introduction-to-Datafaker)
   * *Published on 20 Oct 2022*
