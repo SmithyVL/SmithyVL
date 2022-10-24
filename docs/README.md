@@ -239,13 +239,13 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [Implementing Factory Pattern With Generics in Java](https://feeds.feedblitz.com/~/716933710/0/baeldung~Implementing-Factory-Pattern-With-Generics-in-Java)
+  * *Published on 24 Oct 2022*
+* [Convert String to char in Java](https://feeds.feedblitz.com/~/716933712/0/baeldung~Convert-String-to-char-in-Java)
+  * *Published on 24 Oct 2022*
 * [Guide to Simple Binary Encoding](https://feeds.feedblitz.com/~/716762110/0/baeldung~Guide-to-Simple-Binary-Encoding)
   * *Published on 22 Oct 2022*
 * [Java Weekly, Issue 460](https://feeds.feedblitz.com/~/716526574/0/baeldung~Java-Weekly-Issue)
   * *Published on 21 Oct 2022*
 * [How to Log to the Console in Color](https://feeds.feedblitz.com/~/716398102/0/baeldung~How-to-Log-to-the-Console-in-Color)
-  * *Published on 20 Oct 2022*
-* [Capitalize the First Letter of a String in Java](https://feeds.feedblitz.com/~/716349132/0/baeldung~Capitalize-the-First-Letter-of-a-String-in-Java)
-  * *Published on 20 Oct 2022*
-* [Coupling in Java](https://feeds.feedblitz.com/~/716349134/0/baeldung~Coupling-in-Java)
   * *Published on 20 Oct 2022*
