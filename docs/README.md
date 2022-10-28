@@ -234,18 +234,20 @@
 
 ## 📋 Недавняя активность
 **[📰 Recent activity](https://github.com/SmithyVL)**
-No recent activity
+* ➡️ Pushed 1 commit in [SmithyVL/JavaDeveloperInterview](https://github.com/SmithyVL/JavaDeveloperInterview) on branch `master`
+  * [#70446c9](https://github.com/SmithyVL/JavaDeveloperInterview/commit/70446c9) Добавление readme и pom файлов для каждого вопроса.
+  * *On 27 Oct 2022, 12:03:15*
 
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [Log Properties in a Spring Boot Application](https://feeds.feedblitz.com/~/717449636/0/baeldung~Log-Properties-in-a-Spring-Boot-Application)
+  * *Published on 27 Oct 2022*
+* [Limiting the Requests per Second With WebClient](https://feeds.feedblitz.com/~/717425390/0/baeldung~Limiting-the-Requests-per-Second-With-WebClient)
+  * *Published on 27 Oct 2022*
+* [Fixing the “java: integer number too large” Error](https://feeds.feedblitz.com/~/717423242/0/baeldung~Fixing-the-java-integer-number-too-large-Error)
+  * *Published on 27 Oct 2022*
+* [How to Access the First Element of a Flux](https://feeds.feedblitz.com/~/717387970/0/baeldung~How-to-Access-the-First-Element-of-a-Flux)
+  * *Published on 27 Oct 2022*
 * [Convert String to String Array](https://feeds.feedblitz.com/~/717125068/0/baeldung~Convert-String-to-String-Array)
   * *Published on 25 Oct 2022*
-* [Message Delivery Semantics in Streaming Platforms](https://feeds.feedblitz.com/~/717123626/0/baeldung~Message-Delivery-Semantics-in-Streaming-Platforms)
-  * *Published on 25 Oct 2022*
-* [TLS Setup in MySQL and Spring Boot Application](https://feeds.feedblitz.com/~/717085636/0/baeldung~TLS-Setup-in-MySQL-and-Spring-Boot-Application)
-  * *Published on 25 Oct 2022*
-* [Implementing Factory Pattern With Generics in Java](https://feeds.feedblitz.com/~/716933710/0/baeldung~Implementing-Factory-Pattern-With-Generics-in-Java)
-  * *Published on 24 Oct 2022*
-* [Convert String to char in Java](https://feeds.feedblitz.com/~/716933712/0/baeldung~Convert-String-to-char-in-Java)
-  * *Published on 24 Oct 2022*
