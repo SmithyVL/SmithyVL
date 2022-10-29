@@ -241,13 +241,13 @@
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [Java Weekly, Issue 461](https://feeds.feedblitz.com/~/717556210/0/baeldung~Java-Weekly-Issue)
+  * *Published on 28 Oct 2022*
+* [Gravity/Bead Sort in Java](https://feeds.feedblitz.com/~/717549562/0/baeldung~GravityBead-Sort-in-Java)
+  * *Published on 28 Oct 2022*
 * [Log Properties in a Spring Boot Application](https://feeds.feedblitz.com/~/717449636/0/baeldung~Log-Properties-in-a-Spring-Boot-Application)
   * *Published on 27 Oct 2022*
 * [Limiting the Requests per Second With WebClient](https://feeds.feedblitz.com/~/717425390/0/baeldung~Limiting-the-Requests-per-Second-With-WebClient)
   * *Published on 27 Oct 2022*
 * [Fixing the “java: integer number too large” Error](https://feeds.feedblitz.com/~/717423242/0/baeldung~Fixing-the-java-integer-number-too-large-Error)
   * *Published on 27 Oct 2022*
-* [How to Access the First Element of a Flux](https://feeds.feedblitz.com/~/717387970/0/baeldung~How-to-Access-the-First-Element-of-a-Flux)
-  * *Published on 27 Oct 2022*
-* [Convert String to String Array](https://feeds.feedblitz.com/~/717125068/0/baeldung~Convert-String-to-String-Array)
-  * *Published on 25 Oct 2022*
