@@ -241,13 +241,13 @@
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [assertAll() vs Multiple Assertions in JUnit5](https://feeds.feedblitz.com/~/717813844/0/baeldung~assertAll-vs-Multiple-Assertions-in-JUnit)
+  * *Published on 30 Oct 2022*
+* [Difference Between URI.create() and new URI()](https://feeds.feedblitz.com/~/717812160/0/baeldung~Difference-Between-URIcreate-and-new-URI)
+  * *Published on 30 Oct 2022*
 * [Java Weekly, Issue 461](https://feeds.feedblitz.com/~/717556210/0/baeldung~Java-Weekly-Issue)
   * *Published on 28 Oct 2022*
 * [Gravity/Bead Sort in Java](https://feeds.feedblitz.com/~/717549562/0/baeldung~GravityBead-Sort-in-Java)
   * *Published on 28 Oct 2022*
 * [Log Properties in a Spring Boot Application](https://feeds.feedblitz.com/~/717449636/0/baeldung~Log-Properties-in-a-Spring-Boot-Application)
-  * *Published on 27 Oct 2022*
-* [Limiting the Requests per Second With WebClient](https://feeds.feedblitz.com/~/717425390/0/baeldung~Limiting-the-Requests-per-Second-With-WebClient)
-  * *Published on 27 Oct 2022*
-* [Fixing the “java: integer number too large” Error](https://feeds.feedblitz.com/~/717423242/0/baeldung~Fixing-the-java-integer-number-too-large-Error)
   * *Published on 27 Oct 2022*
