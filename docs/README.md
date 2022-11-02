@@ -241,6 +241,8 @@
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [A Guide to LinkedHashSet in Java](https://feeds.feedblitz.com/~/718151134/0/baeldung~A-Guide-to-LinkedHashSet-in-Java)
+  * *Published on 2 Nov 2022*
 * [Using Groovy in Spring](https://feeds.feedblitz.com/~/718005478/0/baeldung~Using-Groovy-in-Spring)
   * *Published on 31 Oct 2022*
 * [assertAll() vs Multiple Assertions in JUnit5](https://feeds.feedblitz.com/~/717813844/0/baeldung~assertAll-vs-Multiple-Assertions-in-JUnit)
@@ -248,6 +250,4 @@
 * [Difference Between URI.create() and new URI()](https://feeds.feedblitz.com/~/717812160/0/baeldung~Difference-Between-URIcreate-and-new-URI)
   * *Published on 30 Oct 2022*
 * [Java Weekly, Issue 461](https://feeds.feedblitz.com/~/717556210/0/baeldung~Java-Weekly-Issue)
-  * *Published on 28 Oct 2022*
-* [Gravity/Bead Sort in Java](https://feeds.feedblitz.com/~/717549562/0/baeldung~GravityBead-Sort-in-Java)
   * *Published on 28 Oct 2022*
