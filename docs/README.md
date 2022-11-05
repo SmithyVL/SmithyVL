@@ -241,6 +241,8 @@
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [Java Weekly, Issue 462](https://feeds.feedblitz.com/~/718511600/0/baeldung~Java-Weekly-Issue)
+  * *Published on 4 Nov 2022*
 * [A Guide to LinkedHashSet in Java](https://feeds.feedblitz.com/~/718151134/0/baeldung~A-Guide-to-LinkedHashSet-in-Java)
   * *Published on 2 Nov 2022*
 * [Using Groovy in Spring](https://feeds.feedblitz.com/~/718005478/0/baeldung~Using-Groovy-in-Spring)
@@ -249,5 +251,3 @@
   * *Published on 30 Oct 2022*
 * [Difference Between URI.create() and new URI()](https://feeds.feedblitz.com/~/717812160/0/baeldung~Difference-Between-URIcreate-and-new-URI)
   * *Published on 30 Oct 2022*
-* [Java Weekly, Issue 461](https://feeds.feedblitz.com/~/717556210/0/baeldung~Java-Weekly-Issue)
-  * *Published on 28 Oct 2022*
