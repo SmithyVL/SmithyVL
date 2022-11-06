@@ -241,13 +241,13 @@
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [Slicing Arrays in Java](https://feeds.feedblitz.com/~/718604818/0/baeldung~Slicing-Arrays-in-Java)
+  * *Published on 5 Nov 2022*
+* [Difference Between Map and MultivaluedMap in Java](https://feeds.feedblitz.com/~/718600018/0/baeldung~Difference-Between-Map-and-MultivaluedMap-in-Java)
+  * *Published on 5 Nov 2022*
+* [Java Program to Calculate the Standard Deviation](https://feeds.feedblitz.com/~/718598708/0/baeldung~Java-Program-to-Calculate-the-Standard-Deviation)
+  * *Published on 5 Nov 2022*
 * [Java Weekly, Issue 462](https://feeds.feedblitz.com/~/718511600/0/baeldung~Java-Weekly-Issue)
   * *Published on 4 Nov 2022*
 * [A Guide to LinkedHashSet in Java](https://feeds.feedblitz.com/~/718151134/0/baeldung~A-Guide-to-LinkedHashSet-in-Java)
   * *Published on 2 Nov 2022*
-* [Using Groovy in Spring](https://feeds.feedblitz.com/~/718005478/0/baeldung~Using-Groovy-in-Spring)
-  * *Published on 31 Oct 2022*
-* [assertAll() vs Multiple Assertions in JUnit5](https://feeds.feedblitz.com/~/717813844/0/baeldung~assertAll-vs-Multiple-Assertions-in-JUnit)
-  * *Published on 30 Oct 2022*
-* [Difference Between URI.create() and new URI()](https://feeds.feedblitz.com/~/717812160/0/baeldung~Difference-Between-URIcreate-and-new-URI)
-  * *Published on 30 Oct 2022*
