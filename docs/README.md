@@ -241,6 +241,8 @@
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [Convert String to Instant](https://feeds.feedblitz.com/~/718668674/0/baeldung~Convert-String-to-Instant)
+  * *Published on 6 Nov 2022*
 * [Slicing Arrays in Java](https://feeds.feedblitz.com/~/718604818/0/baeldung~Slicing-Arrays-in-Java)
   * *Published on 5 Nov 2022*
 * [Difference Between Map and MultivaluedMap in Java](https://feeds.feedblitz.com/~/718600018/0/baeldung~Difference-Between-Map-and-MultivaluedMap-in-Java)
@@ -249,5 +251,3 @@
   * *Published on 5 Nov 2022*
 * [Java Weekly, Issue 462](https://feeds.feedblitz.com/~/718511600/0/baeldung~Java-Weekly-Issue)
   * *Published on 4 Nov 2022*
-* [A Guide to LinkedHashSet in Java](https://feeds.feedblitz.com/~/718151134/0/baeldung~A-Guide-to-LinkedHashSet-in-Java)
-  * *Published on 2 Nov 2022*
