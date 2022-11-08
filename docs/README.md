@@ -241,13 +241,13 @@
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
-* [Convert String to Instant](https://feeds.feedblitz.com/~/718668674/0/baeldung~Convert-String-to-Instant)
-  * *Published on 6 Nov 2022*
-* [Slicing Arrays in Java](https://feeds.feedblitz.com/~/718604818/0/baeldung~Slicing-Arrays-in-Java)
-  * *Published on 5 Nov 2022*
-* [Difference Between Map and MultivaluedMap in Java](https://feeds.feedblitz.com/~/718600018/0/baeldung~Difference-Between-Map-and-MultivaluedMap-in-Java)
-  * *Published on 5 Nov 2022*
-* [Java Program to Calculate the Standard Deviation](https://feeds.feedblitz.com/~/718598708/0/baeldung~Java-Program-to-Calculate-the-Standard-Deviation)
-  * *Published on 5 Nov 2022*
-* [Java Weekly, Issue 462](https://feeds.feedblitz.com/~/718511600/0/baeldung~Java-Weekly-Issue)
-  * *Published on 4 Nov 2022*
+* [Guide to Filters in MongoDB](https://feeds.feedblitz.com/~/718786042/0/baeldung~Guide-to-Filters-in-MongoDB)
+  * *Published on 7 Nov 2022*
+* [JUnit – Testing Methods That Call System.exit()](https://feeds.feedblitz.com/~/718784720/0/baeldung~JUnit-Testing-Methods-That-Call-Systemexit)
+  * *Published on 7 Nov 2022*
+* [Can a Java Application Use More Memory than the Heap Size?](https://feeds.feedblitz.com/~/718784722/0/baeldung~Can-a-Java-Application-Use-More-Memory-than-the-Heap-Size)
+  * *Published on 7 Nov 2022*
+* [How to Insert a HashMap Into MongoDB With Java?](https://feeds.feedblitz.com/~/718784724/0/baeldung~How-to-Insert-a-HashMap-Into-MongoDB-With-Java)
+  * *Published on 7 Nov 2022*
+* [How to Check if All Runnables Are Done](https://feeds.feedblitz.com/~/718784726/0/baeldung~How-to-Check-if-All-Runnables-Are-Done)
+  * *Published on 7 Nov 2022*
