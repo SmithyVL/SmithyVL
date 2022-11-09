@@ -241,13 +241,13 @@
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [Generate Unique ObjectId in MongoDB](https://feeds.feedblitz.com/~/718883582/0/baeldung~Generate-Unique-ObjectId-in-MongoDB)
+  * *Published on 8 Nov 2022*
+* [Convert java.util.Date to java.sql.Date](https://feeds.feedblitz.com/~/718883584/0/baeldung~Convert-javautilDate-to-javasqlDate)
+  * *Published on 8 Nov 2022*
+* [Mocking a Singleton With Mockito](https://feeds.feedblitz.com/~/718883586/0/baeldung~Mocking-a-Singleton-With-Mockito)
+  * *Published on 8 Nov 2022*
 * [Guide to Filters in MongoDB](https://feeds.feedblitz.com/~/718786042/0/baeldung~Guide-to-Filters-in-MongoDB)
   * *Published on 7 Nov 2022*
 * [JUnit – Testing Methods That Call System.exit()](https://feeds.feedblitz.com/~/718784720/0/baeldung~JUnit-Testing-Methods-That-Call-Systemexit)
-  * *Published on 7 Nov 2022*
-* [Can a Java Application Use More Memory than the Heap Size?](https://feeds.feedblitz.com/~/718784722/0/baeldung~Can-a-Java-Application-Use-More-Memory-than-the-Heap-Size)
-  * *Published on 7 Nov 2022*
-* [How to Insert a HashMap Into MongoDB With Java?](https://feeds.feedblitz.com/~/718784724/0/baeldung~How-to-Insert-a-HashMap-Into-MongoDB-With-Java)
-  * *Published on 7 Nov 2022*
-* [How to Check if All Runnables Are Done](https://feeds.feedblitz.com/~/718784726/0/baeldung~How-to-Check-if-All-Runnables-Are-Done)
   * *Published on 7 Nov 2022*
