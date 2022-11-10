@@ -241,13 +241,13 @@
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [Apache Camel Exception Handling](https://feeds.feedblitz.com/~/718936882/0/baeldung~Apache-Camel-Exception-Handling)
+  * *Published on 9 Nov 2022*
+* [Using Foresight to Understand our CI Pipeline](https://feeds.feedblitz.com/~/718936884/0/baeldung~Using-Foresight-to-Understand-our-CI-Pipeline)
+  * *Published on 9 Nov 2022*
 * [Generate Unique ObjectId in MongoDB](https://feeds.feedblitz.com/~/718883582/0/baeldung~Generate-Unique-ObjectId-in-MongoDB)
   * *Published on 8 Nov 2022*
 * [Convert java.util.Date to java.sql.Date](https://feeds.feedblitz.com/~/718883584/0/baeldung~Convert-javautilDate-to-javasqlDate)
   * *Published on 8 Nov 2022*
 * [Mocking a Singleton With Mockito](https://feeds.feedblitz.com/~/718883586/0/baeldung~Mocking-a-Singleton-With-Mockito)
   * *Published on 8 Nov 2022*
-* [Guide to Filters in MongoDB](https://feeds.feedblitz.com/~/718786042/0/baeldung~Guide-to-Filters-in-MongoDB)
-  * *Published on 7 Nov 2022*
-* [JUnit – Testing Methods That Call System.exit()](https://feeds.feedblitz.com/~/718784720/0/baeldung~JUnit-Testing-Methods-That-Call-Systemexit)
-  * *Published on 7 Nov 2022*
