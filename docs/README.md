@@ -234,13 +234,13 @@
 
 ## 📋 Недавняя активность
 **[📰 Recent activity](https://github.com/SmithyVL)**
-* ➡️ Pushed 1 commit in [SmithyVL/JavaDeveloperInterview](https://github.com/SmithyVL/JavaDeveloperInterview) on branch `master`
-  * [#70446c9](https://github.com/SmithyVL/JavaDeveloperInterview/commit/70446c9) Добавление readme и pom файлов для каждого вопроса.
-  * *On 27 Oct 2022, 12:03:15*
+No recent activity
 
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [Fixing Selenium WebDriver Executable Path Error](https://feeds.feedblitz.com/~/719012676/0/baeldung~Fixing-Selenium-WebDriver-Executable-Path-Error)
+  * *Published on 10 Nov 2022*
 * [Apache Camel Exception Handling](https://feeds.feedblitz.com/~/718936882/0/baeldung~Apache-Camel-Exception-Handling)
   * *Published on 9 Nov 2022*
 * [Using Foresight to Understand our CI Pipeline](https://feeds.feedblitz.com/~/718936884/0/baeldung~Using-Foresight-to-Understand-our-CI-Pipeline)
@@ -248,6 +248,4 @@
 * [Generate Unique ObjectId in MongoDB](https://feeds.feedblitz.com/~/718883582/0/baeldung~Generate-Unique-ObjectId-in-MongoDB)
   * *Published on 8 Nov 2022*
 * [Convert java.util.Date to java.sql.Date](https://feeds.feedblitz.com/~/718883584/0/baeldung~Convert-javautilDate-to-javasqlDate)
-  * *Published on 8 Nov 2022*
-* [Mocking a Singleton With Mockito](https://feeds.feedblitz.com/~/718883586/0/baeldung~Mocking-a-Singleton-With-Mockito)
   * *Published on 8 Nov 2022*
