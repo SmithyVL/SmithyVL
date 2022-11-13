@@ -239,13 +239,13 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [Kong Ingress Controller with Spring Boot](https://feeds.feedblitz.com/~/719286658/0/baeldung~Kong-Ingress-Controller-with-Spring-Boot)
+  * *Published on 13 Nov 2022*
+* [Finding Max Date in List Using Streams](https://feeds.feedblitz.com/~/719286660/0/baeldung~Finding-Max-Date-in-List-Using-Streams)
+  * *Published on 13 Nov 2022*
 * [Java Weekly, Issue 463](https://feeds.feedblitz.com/~/719136154/0/baeldung~Java-Weekly-Issue)
   * *Published on 11 Nov 2022*
 * [Fixing Selenium WebDriver Executable Path Error](https://feeds.feedblitz.com/~/719012676/0/baeldung~Fixing-Selenium-WebDriver-Executable-Path-Error)
   * *Published on 10 Nov 2022*
 * [Apache Camel Exception Handling](https://feeds.feedblitz.com/~/718936882/0/baeldung~Apache-Camel-Exception-Handling)
   * *Published on 9 Nov 2022*
-* [Using Foresight to Understand our CI Pipeline](https://feeds.feedblitz.com/~/718936884/0/baeldung~Using-Foresight-to-Understand-our-CI-Pipeline)
-  * *Published on 9 Nov 2022*
-* [Generate Unique ObjectId in MongoDB](https://feeds.feedblitz.com/~/718883582/0/baeldung~Generate-Unique-ObjectId-in-MongoDB)
-  * *Published on 8 Nov 2022*
