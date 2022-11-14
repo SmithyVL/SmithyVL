@@ -239,6 +239,8 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [Retain Only Digits and Decimal Separator in String](https://feeds.feedblitz.com/~/719343604/0/baeldung~Retain-Only-Digits-and-Decimal-Separator-in-String)
+  * *Published on 13 Nov 2022*
 * [Kong Ingress Controller with Spring Boot](https://feeds.feedblitz.com/~/719286658/0/baeldung~Kong-Ingress-Controller-with-Spring-Boot)
   * *Published on 13 Nov 2022*
 * [Finding Max Date in List Using Streams](https://feeds.feedblitz.com/~/719286660/0/baeldung~Finding-Max-Date-in-List-Using-Streams)
@@ -247,5 +249,3 @@ No recent activity
   * *Published on 11 Nov 2022*
 * [Fixing Selenium WebDriver Executable Path Error](https://feeds.feedblitz.com/~/719012676/0/baeldung~Fixing-Selenium-WebDriver-Executable-Path-Error)
   * *Published on 10 Nov 2022*
-* [Apache Camel Exception Handling](https://feeds.feedblitz.com/~/718936882/0/baeldung~Apache-Camel-Exception-Handling)
-  * *Published on 9 Nov 2022*
