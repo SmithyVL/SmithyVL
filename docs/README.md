@@ -239,13 +239,13 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [Spring @EnableMethodSecurity Annotation](https://feeds.feedblitz.com/~/719513458/0/baeldung~Spring-EnableMethodSecurity-Annotation)
+  * *Published on 15 Nov 2022*
+* [Filling a List With All Enum Values in Java](https://feeds.feedblitz.com/~/719513460/0/baeldung~Filling-a-List-With-All-Enum-Values-in-Java)
+  * *Published on 15 Nov 2022*
+* [SpringRunner vs MockitoJUnitRunner](https://feeds.feedblitz.com/~/719513462/0/baeldung~SpringRunner-vs-MockitoJUnitRunner)
+  * *Published on 15 Nov 2022*
 * [Retain Only Digits and Decimal Separator in String](https://feeds.feedblitz.com/~/719343604/0/baeldung~Retain-Only-Digits-and-Decimal-Separator-in-String)
   * *Published on 13 Nov 2022*
 * [Kong Ingress Controller with Spring Boot](https://feeds.feedblitz.com/~/719286658/0/baeldung~Kong-Ingress-Controller-with-Spring-Boot)
   * *Published on 13 Nov 2022*
-* [Finding Max Date in List Using Streams](https://feeds.feedblitz.com/~/719286660/0/baeldung~Finding-Max-Date-in-List-Using-Streams)
-  * *Published on 13 Nov 2022*
-* [Java Weekly, Issue 463](https://feeds.feedblitz.com/~/719136154/0/baeldung~Java-Weekly-Issue)
-  * *Published on 11 Nov 2022*
-* [Fixing Selenium WebDriver Executable Path Error](https://feeds.feedblitz.com/~/719012676/0/baeldung~Fixing-Selenium-WebDriver-Executable-Path-Error)
-  * *Published on 10 Nov 2022*
