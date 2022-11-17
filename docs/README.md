@@ -239,13 +239,13 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [Iterate Through Two ArrayLists Simultaneously](https://feeds.feedblitz.com/~/719668228/0/baeldung~Iterate-Through-Two-ArrayLists-Simultaneously)
+  * *Published on 17 Nov 2022*
+* [Inserting an Object in an ArrayList at a Specific Position](https://feeds.feedblitz.com/~/719668230/0/baeldung~Inserting-an-Object-in-an-ArrayList-at-a-Specific-Position)
+  * *Published on 17 Nov 2022*
+* [The Factory Design Pattern in Java](https://feeds.feedblitz.com/~/719666926/0/baeldung~The-Factory-Design-Pattern-in-Java)
+  * *Published on 17 Nov 2022*
+* [Thread vs. Single Thread Executor Service](https://feeds.feedblitz.com/~/719666928/0/baeldung~Thread-vs-Single-Thread-Executor-Service)
+  * *Published on 17 Nov 2022*
 * [Spring @EnableMethodSecurity Annotation](https://feeds.feedblitz.com/~/719513458/0/baeldung~Spring-EnableMethodSecurity-Annotation)
   * *Published on 15 Nov 2022*
-* [Filling a List With All Enum Values in Java](https://feeds.feedblitz.com/~/719513460/0/baeldung~Filling-a-List-With-All-Enum-Values-in-Java)
-  * *Published on 15 Nov 2022*
-* [SpringRunner vs MockitoJUnitRunner](https://feeds.feedblitz.com/~/719513462/0/baeldung~SpringRunner-vs-MockitoJUnitRunner)
-  * *Published on 15 Nov 2022*
-* [Retain Only Digits and Decimal Separator in String](https://feeds.feedblitz.com/~/719343604/0/baeldung~Retain-Only-Digits-and-Decimal-Separator-in-String)
-  * *Published on 13 Nov 2022*
-* [Kong Ingress Controller with Spring Boot](https://feeds.feedblitz.com/~/719286658/0/baeldung~Kong-Ingress-Controller-with-Spring-Boot)
-  * *Published on 13 Nov 2022*
