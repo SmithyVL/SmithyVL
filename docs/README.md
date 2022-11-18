@@ -239,6 +239,8 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [Kafka’s Shift from ZooKeeper to Kraft](https://feeds.feedblitz.com/~/719774110/0/baeldung~Kafkas-Shift-from-ZooKeeper-to-Kraft)
+  * *Published on 18 Nov 2022*
 * [Iterate Through Two ArrayLists Simultaneously](https://feeds.feedblitz.com/~/719668228/0/baeldung~Iterate-Through-Two-ArrayLists-Simultaneously)
   * *Published on 17 Nov 2022*
 * [Inserting an Object in an ArrayList at a Specific Position](https://feeds.feedblitz.com/~/719668230/0/baeldung~Inserting-an-Object-in-an-ArrayList-at-a-Specific-Position)
@@ -247,5 +249,3 @@ No recent activity
   * *Published on 17 Nov 2022*
 * [Thread vs. Single Thread Executor Service](https://feeds.feedblitz.com/~/719666928/0/baeldung~Thread-vs-Single-Thread-Executor-Service)
   * *Published on 17 Nov 2022*
-* [Spring @EnableMethodSecurity Annotation](https://feeds.feedblitz.com/~/719513458/0/baeldung~Spring-EnableMethodSecurity-Annotation)
-  * *Published on 15 Nov 2022*
