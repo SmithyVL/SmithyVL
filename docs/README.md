@@ -239,13 +239,13 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [Enable and Disable Endpoints at Runtime With Spring Boot](https://feeds.feedblitz.com/~/719775138/0/baeldung~Enable-and-Disable-Endpoints-at-Runtime-With-Spring-Boot)
+  * *Published on 18 Nov 2022*
+* [Retry with Delay in RxJava](https://feeds.feedblitz.com/~/719775140/0/baeldung~Retry-with-Delay-in-RxJava)
+  * *Published on 18 Nov 2022*
 * [Kafka’s Shift from ZooKeeper to Kraft](https://feeds.feedblitz.com/~/719774110/0/baeldung~Kafkas-Shift-from-ZooKeeper-to-Kraft)
   * *Published on 18 Nov 2022*
 * [Iterate Through Two ArrayLists Simultaneously](https://feeds.feedblitz.com/~/719668228/0/baeldung~Iterate-Through-Two-ArrayLists-Simultaneously)
   * *Published on 17 Nov 2022*
 * [Inserting an Object in an ArrayList at a Specific Position](https://feeds.feedblitz.com/~/719668230/0/baeldung~Inserting-an-Object-in-an-ArrayList-at-a-Specific-Position)
-  * *Published on 17 Nov 2022*
-* [The Factory Design Pattern in Java](https://feeds.feedblitz.com/~/719666926/0/baeldung~The-Factory-Design-Pattern-in-Java)
-  * *Published on 17 Nov 2022*
-* [Thread vs. Single Thread Executor Service](https://feeds.feedblitz.com/~/719666928/0/baeldung~Thread-vs-Single-Thread-Executor-Service)
   * *Published on 17 Nov 2022*
