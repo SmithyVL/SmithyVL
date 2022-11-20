@@ -239,13 +239,13 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [Get Information About a PDF in Java](https://feeds.feedblitz.com/~/719925160/0/baeldung~Get-Information-About-a-PDF-in-Java)
+  * *Published on 20 Nov 2022*
+* [Sort Collection of Objects by Multiple Fields in Java](https://feeds.feedblitz.com/~/719923978/0/baeldung~Sort-Collection-of-Objects-by-Multiple-Fields-in-Java)
+  * *Published on 20 Nov 2022*
+* [Java Weekly, Issue 464](https://feeds.feedblitz.com/~/719882542/0/baeldung~Java-Weekly-Issue)
+  * *Published on 19 Nov 2022*
 * [Enable and Disable Endpoints at Runtime With Spring Boot](https://feeds.feedblitz.com/~/719775138/0/baeldung~Enable-and-Disable-Endpoints-at-Runtime-With-Spring-Boot)
   * *Published on 18 Nov 2022*
 * [Retry with Delay in RxJava](https://feeds.feedblitz.com/~/719775140/0/baeldung~Retry-with-Delay-in-RxJava)
   * *Published on 18 Nov 2022*
-* [Kafka’s Shift from ZooKeeper to Kraft](https://feeds.feedblitz.com/~/719774110/0/baeldung~Kafkas-Shift-from-ZooKeeper-to-Kraft)
-  * *Published on 18 Nov 2022*
-* [Iterate Through Two ArrayLists Simultaneously](https://feeds.feedblitz.com/~/719668228/0/baeldung~Iterate-Through-Two-ArrayLists-Simultaneously)
-  * *Published on 17 Nov 2022*
-* [Inserting an Object in an ArrayList at a Specific Position](https://feeds.feedblitz.com/~/719668230/0/baeldung~Inserting-an-Object-in-an-ArrayList-at-a-Specific-Position)
-  * *Published on 17 Nov 2022*
