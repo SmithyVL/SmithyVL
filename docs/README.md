@@ -239,13 +239,13 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [Object Validation After Deserialization](https://feeds.feedblitz.com/~/720077068/0/baeldung~Object-Validation-After-Deserialization)
+  * *Published on 22 Nov 2022*
+* [Expression Types in Thymeleaf](https://feeds.feedblitz.com/~/720077070/0/baeldung~Expression-Types-in-Thymeleaf)
+  * *Published on 22 Nov 2022*
+* [Access HTTPS REST Service Using Spring RestTemplate](https://feeds.feedblitz.com/~/720077072/0/baeldung~Access-HTTPS-REST-Service-Using-Spring-RestTemplate)
+  * *Published on 22 Nov 2022*
+* [How to Run TestNG Tests on Jenkins](https://feeds.feedblitz.com/~/720075812/0/baeldung~How-to-Run-TestNG-Tests-on-Jenkins)
+  * *Published on 22 Nov 2022*
 * [Get Information About a PDF in Java](https://feeds.feedblitz.com/~/719925160/0/baeldung~Get-Information-About-a-PDF-in-Java)
   * *Published on 20 Nov 2022*
-* [Sort Collection of Objects by Multiple Fields in Java](https://feeds.feedblitz.com/~/719923978/0/baeldung~Sort-Collection-of-Objects-by-Multiple-Fields-in-Java)
-  * *Published on 20 Nov 2022*
-* [Java Weekly, Issue 464](https://feeds.feedblitz.com/~/719882542/0/baeldung~Java-Weekly-Issue)
-  * *Published on 19 Nov 2022*
-* [Enable and Disable Endpoints at Runtime With Spring Boot](https://feeds.feedblitz.com/~/719775138/0/baeldung~Enable-and-Disable-Endpoints-at-Runtime-With-Spring-Boot)
-  * *Published on 18 Nov 2022*
-* [Retry with Delay in RxJava](https://feeds.feedblitz.com/~/719775140/0/baeldung~Retry-with-Delay-in-RxJava)
-  * *Published on 18 Nov 2022*
