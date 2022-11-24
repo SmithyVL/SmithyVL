@@ -239,6 +239,8 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [Java Course Team Lead with Spring Experience (Remote) (Part Time)](https://feeds.feedblitz.com/~/720208984/0/baeldung~Java-Course-Team-Lead-with-Spring-Experience-Remote-Part-Time)
+  * *Published on 23 Nov 2022*
 * [Object Validation After Deserialization](https://feeds.feedblitz.com/~/720077068/0/baeldung~Object-Validation-After-Deserialization)
   * *Published on 22 Nov 2022*
 * [Expression Types in Thymeleaf](https://feeds.feedblitz.com/~/720077070/0/baeldung~Expression-Types-in-Thymeleaf)
@@ -247,5 +249,3 @@ No recent activity
   * *Published on 22 Nov 2022*
 * [How to Run TestNG Tests on Jenkins](https://feeds.feedblitz.com/~/720075812/0/baeldung~How-to-Run-TestNG-Tests-on-Jenkins)
   * *Published on 22 Nov 2022*
-* [Get Information About a PDF in Java](https://feeds.feedblitz.com/~/719925160/0/baeldung~Get-Information-About-a-PDF-in-Java)
-  * *Published on 20 Nov 2022*
