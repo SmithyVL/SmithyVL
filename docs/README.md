@@ -239,6 +239,8 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [BuildScripts Blocks in Gradle](https://feeds.feedblitz.com/~/720263708/0/baeldung~BuildScripts-Blocks-in-Gradle)
+  * *Published on 24 Nov 2022*
 * [Java Course Team Lead with Spring Experience (Remote) (Part Time)](https://feeds.feedblitz.com/~/720208984/0/baeldung~Java-Course-Team-Lead-with-Spring-Experience-Remote-Part-Time)
   * *Published on 23 Nov 2022*
 * [Object Validation After Deserialization](https://feeds.feedblitz.com/~/720077068/0/baeldung~Object-Validation-After-Deserialization)
@@ -246,6 +248,4 @@ No recent activity
 * [Expression Types in Thymeleaf](https://feeds.feedblitz.com/~/720077070/0/baeldung~Expression-Types-in-Thymeleaf)
   * *Published on 22 Nov 2022*
 * [Access HTTPS REST Service Using Spring RestTemplate](https://feeds.feedblitz.com/~/720077072/0/baeldung~Access-HTTPS-REST-Service-Using-Spring-RestTemplate)
-  * *Published on 22 Nov 2022*
-* [How to Run TestNG Tests on Jenkins](https://feeds.feedblitz.com/~/720075812/0/baeldung~How-to-Run-TestNG-Tests-on-Jenkins)
   * *Published on 22 Nov 2022*
