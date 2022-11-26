@@ -239,13 +239,13 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [Jackson’s Deserialization With Lombok](https://feeds.feedblitz.com/~/720364556/0/baeldung~Jacksons-Deserialization-With-Lombok)
+  * *Published on 25 Nov 2022*
+* [Working with Tabular Data Using Tablesaw](https://feeds.feedblitz.com/~/720363634/0/baeldung~Working-with-Tabular-Data-Using-Tablesaw)
+  * *Published on 25 Nov 2022*
+* [Java Weekly, Issue 465](https://feeds.feedblitz.com/~/720345198/0/baeldung~Java-Weekly-Issue)
+  * *Published on 25 Nov 2022*
+* [Calling JMX MBean Method From a Shell Script](https://feeds.feedblitz.com/~/720320782/0/baeldung~Calling-JMX-MBean-Method-From-a-Shell-Script)
+  * *Published on 25 Nov 2022*
 * [BuildScripts Blocks in Gradle](https://feeds.feedblitz.com/~/720263708/0/baeldung~BuildScripts-Blocks-in-Gradle)
   * *Published on 24 Nov 2022*
-* [Java Course Team Lead with Spring Experience (Remote) (Part Time)](https://feeds.feedblitz.com/~/720208984/0/baeldung~Java-Course-Team-Lead-with-Spring-Experience-Remote-Part-Time)
-  * *Published on 23 Nov 2022*
-* [Object Validation After Deserialization](https://feeds.feedblitz.com/~/720077068/0/baeldung~Object-Validation-After-Deserialization)
-  * *Published on 22 Nov 2022*
-* [Expression Types in Thymeleaf](https://feeds.feedblitz.com/~/720077070/0/baeldung~Expression-Types-in-Thymeleaf)
-  * *Published on 22 Nov 2022*
-* [Access HTTPS REST Service Using Spring RestTemplate](https://feeds.feedblitz.com/~/720077072/0/baeldung~Access-HTTPS-REST-Service-Using-Spring-RestTemplate)
-  * *Published on 22 Nov 2022*
