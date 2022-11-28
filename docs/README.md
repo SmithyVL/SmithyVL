@@ -239,6 +239,8 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [Find the First Non Repeating Character in a String in Java](https://feeds.feedblitz.com/~/720471730/0/baeldung~Find-the-First-Non-Repeating-Character-in-a-String-in-Java)
+  * *Published on 27 Nov 2022*
 * [Jackson’s Deserialization With Lombok](https://feeds.feedblitz.com/~/720364556/0/baeldung~Jacksons-Deserialization-With-Lombok)
   * *Published on 25 Nov 2022*
 * [Working with Tabular Data Using Tablesaw](https://feeds.feedblitz.com/~/720363634/0/baeldung~Working-with-Tabular-Data-Using-Tablesaw)
@@ -247,5 +249,3 @@ No recent activity
   * *Published on 25 Nov 2022*
 * [Calling JMX MBean Method From a Shell Script](https://feeds.feedblitz.com/~/720320782/0/baeldung~Calling-JMX-MBean-Method-From-a-Shell-Script)
   * *Published on 25 Nov 2022*
-* [BuildScripts Blocks in Gradle](https://feeds.feedblitz.com/~/720263708/0/baeldung~BuildScripts-Blocks-in-Gradle)
-  * *Published on 24 Nov 2022*
