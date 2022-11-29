@@ -239,13 +239,13 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
-* [Find the First Non Repeating Character in a String in Java](https://feeds.feedblitz.com/~/720471730/0/baeldung~Find-the-First-Non-Repeating-Character-in-a-String-in-Java)
-  * *Published on 27 Nov 2022*
-* [Jackson’s Deserialization With Lombok](https://feeds.feedblitz.com/~/720364556/0/baeldung~Jacksons-Deserialization-With-Lombok)
-  * *Published on 25 Nov 2022*
-* [Working with Tabular Data Using Tablesaw](https://feeds.feedblitz.com/~/720363634/0/baeldung~Working-with-Tabular-Data-Using-Tablesaw)
-  * *Published on 25 Nov 2022*
-* [Java Weekly, Issue 465](https://feeds.feedblitz.com/~/720345198/0/baeldung~Java-Weekly-Issue)
-  * *Published on 25 Nov 2022*
-* [Calling JMX MBean Method From a Shell Script](https://feeds.feedblitz.com/~/720320782/0/baeldung~Calling-JMX-MBean-Method-From-a-Shell-Script)
-  * *Published on 25 Nov 2022*
+* [How to Serialize a Singleton in Java](https://feeds.feedblitz.com/~/720571902/0/baeldung~How-to-Serialize-a-Singleton-in-Java)
+  * *Published on 28 Nov 2022*
+* [Persisting the Query Model](https://feeds.feedblitz.com/~/720571904/0/baeldung~Persisting-the-Query-Model)
+  * *Published on 28 Nov 2022*
+* [Enum Mapping in Spring Boot](https://feeds.feedblitz.com/~/720570638/0/baeldung~Enum-Mapping-in-Spring-Boot)
+  * *Published on 28 Nov 2022*
+* [Convert Between LocalDateTime and ZonedDateTime](https://feeds.feedblitz.com/~/720554710/0/baeldung~Convert-Between-LocalDateTime-and-ZonedDateTime)
+  * *Published on 28 Nov 2022*
+* [Uses for Optional in Java](https://feeds.feedblitz.com/~/720553694/0/baeldung~Uses-for-Optional-in-Java)
+  * *Published on 28 Nov 2022*
