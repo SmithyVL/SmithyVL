@@ -239,13 +239,13 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
-* [How to Serialize a Singleton in Java](https://feeds.feedblitz.com/~/720571902/0/baeldung~How-to-Serialize-a-Singleton-in-Java)
-  * *Published on 28 Nov 2022*
-* [Persisting the Query Model](https://feeds.feedblitz.com/~/720571904/0/baeldung~Persisting-the-Query-Model)
-  * *Published on 28 Nov 2022*
-* [Enum Mapping in Spring Boot](https://feeds.feedblitz.com/~/720570638/0/baeldung~Enum-Mapping-in-Spring-Boot)
-  * *Published on 28 Nov 2022*
-* [Convert Between LocalDateTime and ZonedDateTime](https://feeds.feedblitz.com/~/720554710/0/baeldung~Convert-Between-LocalDateTime-and-ZonedDateTime)
-  * *Published on 28 Nov 2022*
-* [Uses for Optional in Java](https://feeds.feedblitz.com/~/720553694/0/baeldung~Uses-for-Optional-in-Java)
-  * *Published on 28 Nov 2022*
+* [A Guide to Vagrant](https://feeds.feedblitz.com/~/720647902/0/baeldung~A-Guide-to-Vagrant)
+  * *Published on 29 Nov 2022*
+* [MongoDB vs. Couchbase](https://feeds.feedblitz.com/~/720647904/0/baeldung~MongoDB-vs-Couchbase)
+  * *Published on 29 Nov 2022*
+* [Difference Between Map.ofEntries() and Map.of()](https://feeds.feedblitz.com/~/720647906/0/baeldung~Difference-Between-MapofEntries-and-Mapof)
+  * *Published on 29 Nov 2022*
+* [Spring Boot FeignClient vs. WebClient](https://feeds.feedblitz.com/~/720646446/0/baeldung~Spring-Boot-FeignClient-vs-WebClient)
+  * *Published on 29 Nov 2022*
+* [Choosing the Right Java Collection](https://feeds.feedblitz.com/~/720646448/0/baeldung~Choosing-the-Right-Java-Collection)
+  * *Published on 29 Nov 2022*
