@@ -239,6 +239,8 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [Java Weekly, Issue 466](https://feeds.feedblitz.com/~/721089218/0/baeldung~Java-Weekly-Issue)
+  * *Published on 4 Dec 2022*
 * [Using Firebase Cloud Messaging in Spring Boot Applications](https://feeds.feedblitz.com/~/720797172/0/baeldung~Using-Firebase-Cloud-Messaging-in-Spring-Boot-Applications)
   * *Published on 30 Nov 2022*
 * [String Interpolation in Java](https://feeds.feedblitz.com/~/720795846/0/baeldung~String-Interpolation-in-Java)
@@ -246,6 +248,4 @@ No recent activity
 * [A Guide to Vagrant](https://feeds.feedblitz.com/~/720647902/0/baeldung~A-Guide-to-Vagrant)
   * *Published on 29 Nov 2022*
 * [MongoDB vs. Couchbase](https://feeds.feedblitz.com/~/720647904/0/baeldung~MongoDB-vs-Couchbase)
-  * *Published on 29 Nov 2022*
-* [Difference Between Map.ofEntries() and Map.of()](https://feeds.feedblitz.com/~/720647906/0/baeldung~Difference-Between-MapofEntries-and-Mapof)
   * *Published on 29 Nov 2022*
