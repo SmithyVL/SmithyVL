@@ -239,13 +239,13 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [REST vs. GraphQL vs. gRPC – Which API to Choose?](https://feeds.feedblitz.com/~/721157238/0/baeldung~REST-vs-GraphQL-vs-gRPC-%e2%80%93-Which-API-to-Choose)
+  * *Published on 5 Dec 2022*
+* [Errors and Exceptions in Java](https://feeds.feedblitz.com/~/721157240/0/baeldung~Errors-and-Exceptions-in-Java)
+  * *Published on 5 Dec 2022*
 * [Java Weekly, Issue 466](https://feeds.feedblitz.com/~/721089218/0/baeldung~Java-Weekly-Issue)
   * *Published on 4 Dec 2022*
 * [Using Firebase Cloud Messaging in Spring Boot Applications](https://feeds.feedblitz.com/~/720797172/0/baeldung~Using-Firebase-Cloud-Messaging-in-Spring-Boot-Applications)
   * *Published on 30 Nov 2022*
 * [String Interpolation in Java](https://feeds.feedblitz.com/~/720795846/0/baeldung~String-Interpolation-in-Java)
   * *Published on 30 Nov 2022*
-* [A Guide to Vagrant](https://feeds.feedblitz.com/~/720647902/0/baeldung~A-Guide-to-Vagrant)
-  * *Published on 29 Nov 2022*
-* [MongoDB vs. Couchbase](https://feeds.feedblitz.com/~/720647904/0/baeldung~MongoDB-vs-Couchbase)
-  * *Published on 29 Nov 2022*
