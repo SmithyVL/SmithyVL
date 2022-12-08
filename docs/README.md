@@ -239,13 +239,13 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
-* [REST vs. GraphQL vs. gRPC – Which API to Choose?](https://feeds.feedblitz.com/~/721157238/0/baeldung~REST-vs-GraphQL-vs-gRPC-%e2%80%93-Which-API-to-Choose)
-  * *Published on 5 Dec 2022*
-* [Errors and Exceptions in Java](https://feeds.feedblitz.com/~/721157240/0/baeldung~Errors-and-Exceptions-in-Java)
-  * *Published on 5 Dec 2022*
-* [Java Weekly, Issue 466](https://feeds.feedblitz.com/~/721089218/0/baeldung~Java-Weekly-Issue)
-  * *Published on 4 Dec 2022*
-* [Using Firebase Cloud Messaging in Spring Boot Applications](https://feeds.feedblitz.com/~/720797172/0/baeldung~Using-Firebase-Cloud-Messaging-in-Spring-Boot-Applications)
-  * *Published on 30 Nov 2022*
-* [String Interpolation in Java](https://feeds.feedblitz.com/~/720795846/0/baeldung~String-Interpolation-in-Java)
-  * *Published on 30 Nov 2022*
+* [A Guide to Spring CredHub](https://feeds.feedblitz.com/~/721380042/0/baeldung~A-Guide-to-Spring-CredHub)
+  * *Published on 7 Dec 2022*
+* [Java Generics PECS – Producer Extends Consumer Super](https://feeds.feedblitz.com/~/721376818/0/baeldung~Java-Generics-PECS-Producer-Extends-Consumer-Super)
+  * *Published on 7 Dec 2022*
+* [Guide to Java PriorityQueue](https://feeds.feedblitz.com/~/721376820/0/baeldung~Guide-to-Java-PriorityQueue)
+  * *Published on 7 Dec 2022*
+* [Reinitialize Singleton Bean in Spring Context](https://feeds.feedblitz.com/~/721375482/0/baeldung~Reinitialize-Singleton-Bean-in-Spring-Context)
+  * *Published on 7 Dec 2022*
+* [How to Sync a Forked Repository on GitHub](https://feeds.feedblitz.com/~/721375484/0/baeldung~How-to-Sync-a-Forked-Repository-on-GitHub)
+  * *Published on 7 Dec 2022*
