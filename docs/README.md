@@ -239,13 +239,13 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
-* [A Guide to Spring CredHub](https://feeds.feedblitz.com/~/721380042/0/baeldung~A-Guide-to-Spring-CredHub)
-  * *Published on 7 Dec 2022*
-* [Java Generics PECS – Producer Extends Consumer Super](https://feeds.feedblitz.com/~/721376818/0/baeldung~Java-Generics-PECS-Producer-Extends-Consumer-Super)
-  * *Published on 7 Dec 2022*
-* [Guide to Java PriorityQueue](https://feeds.feedblitz.com/~/721376820/0/baeldung~Guide-to-Java-PriorityQueue)
-  * *Published on 7 Dec 2022*
-* [Reinitialize Singleton Bean in Spring Context](https://feeds.feedblitz.com/~/721375482/0/baeldung~Reinitialize-Singleton-Bean-in-Spring-Context)
-  * *Published on 7 Dec 2022*
-* [How to Sync a Forked Repository on GitHub](https://feeds.feedblitz.com/~/721375484/0/baeldung~How-to-Sync-a-Forked-Repository-on-GitHub)
-  * *Published on 7 Dec 2022*
+* [RxJava Single.just() vs Single.fromCallable()](https://feeds.feedblitz.com/~/721583486/0/baeldung~RxJava-Singlejust-vs-SinglefromCallable)
+  * *Published on 9 Dec 2022*
+* [Functors in Java](https://feeds.feedblitz.com/~/721583488/0/baeldung~Functors-in-Java)
+  * *Published on 9 Dec 2022*
+* [Getting Started with Blaze Persistence](https://feeds.feedblitz.com/~/721583490/0/baeldung~Getting-Started-with-Blaze-Persistence)
+  * *Published on 9 Dec 2022*
+* [Rate Limiting With Client IP in Spring Cloud Gateway](https://feeds.feedblitz.com/~/721581746/0/baeldung~Rate-Limiting-With-Client-IP-in-Spring-Cloud-Gateway)
+  * *Published on 9 Dec 2022*
+* [Java Weekly, Issue 467](https://feeds.feedblitz.com/~/721550328/0/baeldung~Java-Weekly-Issue)
+  * *Published on 9 Dec 2022*
