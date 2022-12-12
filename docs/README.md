@@ -239,13 +239,13 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [Reversing a Stack in Java](https://feeds.feedblitz.com/~/721801780/0/baeldung~Reversing-a-Stack-in-Java)
+  * *Published on 12 Dec 2022*
+* [Set the Date Format Using Apache POI](https://feeds.feedblitz.com/~/721800522/0/baeldung~Set-the-Date-Format-Using-Apache-POI)
+  * *Published on 12 Dec 2022*
+* [Managing JWT With Auth0 java-jwt](https://feeds.feedblitz.com/~/721756330/0/baeldung~Managing-JWT-With-Auth-javajwt)
+  * *Published on 11 Dec 2022*
 * [RxJava Single.just() vs Single.fromCallable()](https://feeds.feedblitz.com/~/721583486/0/baeldung~RxJava-Singlejust-vs-SinglefromCallable)
   * *Published on 9 Dec 2022*
 * [Functors in Java](https://feeds.feedblitz.com/~/721583488/0/baeldung~Functors-in-Java)
-  * *Published on 9 Dec 2022*
-* [Getting Started with Blaze Persistence](https://feeds.feedblitz.com/~/721583490/0/baeldung~Getting-Started-with-Blaze-Persistence)
-  * *Published on 9 Dec 2022*
-* [Rate Limiting With Client IP in Spring Cloud Gateway](https://feeds.feedblitz.com/~/721581746/0/baeldung~Rate-Limiting-With-Client-IP-in-Spring-Cloud-Gateway)
-  * *Published on 9 Dec 2022*
-* [Java Weekly, Issue 467](https://feeds.feedblitz.com/~/721550328/0/baeldung~Java-Weekly-Issue)
   * *Published on 9 Dec 2022*
