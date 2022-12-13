@@ -239,13 +239,13 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [Form Login and Basic Authentication in springdoc-openapi](https://feeds.feedblitz.com/~/721856188/0/baeldung~Form-Login-and-Basic-Authentication-in-springdocopenapi)
+  * *Published on 12 Dec 2022*
+* [Convert Anonymous Class into Lambda in Java](https://feeds.feedblitz.com/~/721856192/0/baeldung~Convert-Anonymous-Class-into-Lambda-in-Java)
+  * *Published on 12 Dec 2022*
+* [Type Parameter vs Wildcard in Java Generics](https://feeds.feedblitz.com/~/721856196/0/baeldung~Type-Parameter-vs-Wildcard-in-Java-Generics)
+  * *Published on 12 Dec 2022*
 * [Reversing a Stack in Java](https://feeds.feedblitz.com/~/721801780/0/baeldung~Reversing-a-Stack-in-Java)
   * *Published on 12 Dec 2022*
 * [Set the Date Format Using Apache POI](https://feeds.feedblitz.com/~/721800522/0/baeldung~Set-the-Date-Format-Using-Apache-POI)
   * *Published on 12 Dec 2022*
-* [Managing JWT With Auth0 java-jwt](https://feeds.feedblitz.com/~/721756330/0/baeldung~Managing-JWT-With-Auth-javajwt)
-  * *Published on 11 Dec 2022*
-* [RxJava Single.just() vs Single.fromCallable()](https://feeds.feedblitz.com/~/721583486/0/baeldung~RxJava-Singlejust-vs-SinglefromCallable)
-  * *Published on 9 Dec 2022*
-* [Functors in Java](https://feeds.feedblitz.com/~/721583488/0/baeldung~Functors-in-Java)
-  * *Published on 9 Dec 2022*
