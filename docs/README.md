@@ -239,13 +239,13 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [Java Program to Print Pascal’s Triangle](https://feeds.feedblitz.com/~/722085194/0/baeldung~Java-Program-to-Print-Pascal%e2%80%99s-Triangle)
+  * *Published on 15 Dec 2022*
+* [Alternatives for instanceof Operator in Java](https://feeds.feedblitz.com/~/722082396/0/baeldung~Alternatives-for-instanceof-Operator-in-Java)
+  * *Published on 15 Dec 2022*
+* [Running Multiple Thread Groups in JMeter](https://feeds.feedblitz.com/~/722080302/0/baeldung~Running-Multiple-Thread-Groups-in-JMeter)
+  * *Published on 15 Dec 2022*
+* [Changing the Docker Image Installation Directory](https://feeds.feedblitz.com/~/722080304/0/baeldung~Changing-the-Docker-Image-Installation-Directory)
+  * *Published on 15 Dec 2022*
 * [Form Login and Basic Authentication in springdoc-openapi](https://feeds.feedblitz.com/~/721856188/0/baeldung~Form-Login-and-Basic-Authentication-in-springdocopenapi)
-  * *Published on 12 Dec 2022*
-* [Convert Anonymous Class into Lambda in Java](https://feeds.feedblitz.com/~/721856192/0/baeldung~Convert-Anonymous-Class-into-Lambda-in-Java)
-  * *Published on 12 Dec 2022*
-* [Type Parameter vs Wildcard in Java Generics](https://feeds.feedblitz.com/~/721856196/0/baeldung~Type-Parameter-vs-Wildcard-in-Java-Generics)
-  * *Published on 12 Dec 2022*
-* [Reversing a Stack in Java](https://feeds.feedblitz.com/~/721801780/0/baeldung~Reversing-a-Stack-in-Java)
-  * *Published on 12 Dec 2022*
-* [Set the Date Format Using Apache POI](https://feeds.feedblitz.com/~/721800522/0/baeldung~Set-the-Date-Format-Using-Apache-POI)
   * *Published on 12 Dec 2022*
