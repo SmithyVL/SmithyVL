@@ -239,13 +239,13 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [Java Weekly, Issue 468](https://feeds.feedblitz.com/~/722192064/0/baeldung~Java-Weekly-Issue)
+  * *Published on 16 Dec 2022*
+* [Update Jenkins from WAR](https://feeds.feedblitz.com/~/722169620/0/baeldung~Update-Jenkins-from-WAR)
+  * *Published on 15 Dec 2022*
+* [Convert Between int and char in Java](https://feeds.feedblitz.com/~/722169622/0/baeldung~Convert-Between-int-and-char-in-Java)
+  * *Published on 15 Dec 2022*
 * [Java Program to Print Pascal’s Triangle](https://feeds.feedblitz.com/~/722085194/0/baeldung~Java-Program-to-Print-Pascal%e2%80%99s-Triangle)
   * *Published on 15 Dec 2022*
 * [Alternatives for instanceof Operator in Java](https://feeds.feedblitz.com/~/722082396/0/baeldung~Alternatives-for-instanceof-Operator-in-Java)
   * *Published on 15 Dec 2022*
-* [Running Multiple Thread Groups in JMeter](https://feeds.feedblitz.com/~/722080302/0/baeldung~Running-Multiple-Thread-Groups-in-JMeter)
-  * *Published on 15 Dec 2022*
-* [Changing the Docker Image Installation Directory](https://feeds.feedblitz.com/~/722080304/0/baeldung~Changing-the-Docker-Image-Installation-Directory)
-  * *Published on 15 Dec 2022*
-* [Form Login and Basic Authentication in springdoc-openapi](https://feeds.feedblitz.com/~/721856188/0/baeldung~Form-Login-and-Basic-Authentication-in-springdocopenapi)
-  * *Published on 12 Dec 2022*
