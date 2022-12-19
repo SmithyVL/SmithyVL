@@ -239,13 +239,13 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
-* [Java Weekly, Issue 468](https://feeds.feedblitz.com/~/722192064/0/baeldung~Java-Weekly-Issue)
-  * *Published on 16 Dec 2022*
-* [Update Jenkins from WAR](https://feeds.feedblitz.com/~/722169620/0/baeldung~Update-Jenkins-from-WAR)
-  * *Published on 15 Dec 2022*
-* [Convert Between int and char in Java](https://feeds.feedblitz.com/~/722169622/0/baeldung~Convert-Between-int-and-char-in-Java)
-  * *Published on 15 Dec 2022*
-* [Java Program to Print Pascal’s Triangle](https://feeds.feedblitz.com/~/722085194/0/baeldung~Java-Program-to-Print-Pascal%e2%80%99s-Triangle)
-  * *Published on 15 Dec 2022*
-* [Alternatives for instanceof Operator in Java](https://feeds.feedblitz.com/~/722082396/0/baeldung~Alternatives-for-instanceof-Operator-in-Java)
-  * *Published on 15 Dec 2022*
+* [Fixing the No Main Manifest Attribute in Spring Boot](https://feeds.feedblitz.com/~/722463398/0/baeldung~Fixing-the-No-Main-Manifest-Attribute-in-Spring-Boot)
+  * *Published on 19 Dec 2022*
+* [Sorting a HashSet in Java](https://feeds.feedblitz.com/~/722463400/0/baeldung~Sorting-a-HashSet-in-Java)
+  * *Published on 19 Dec 2022*
+* [Fixing Git ‘remote: Repository not found’ Error](https://feeds.feedblitz.com/~/722461338/0/baeldung~Fixing-Git-remote-Repository-not-found-Error)
+  * *Published on 18 Dec 2022*
+* [Extract Values using AssertJ in Java](https://feeds.feedblitz.com/~/722459994/0/baeldung~Extract-Values-using-AssertJ-in-Java)
+  * *Published on 18 Dec 2022*
+* [Stream Large Byte[] to File With WebClient](https://feeds.feedblitz.com/~/722459996/0/baeldung~Stream-Large-Byte-to-File-With-WebClient)
+  * *Published on 18 Dec 2022*
