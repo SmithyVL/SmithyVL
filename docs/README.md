@@ -239,13 +239,13 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [Introduction to Pinpoint](https://feeds.feedblitz.com/~/722577704/0/baeldung~Introduction-to-Pinpoint)
+  * *Published on 20 Dec 2022*
+* [When to Use Callable and Supplier in Java](https://feeds.feedblitz.com/~/722573572/0/baeldung~When-to-Use-Callable-and-Supplier-in-Java)
+  * *Published on 20 Dec 2022*
+* [Guide to Splitting a String by Whitespace in Java](https://feeds.feedblitz.com/~/722573574/0/baeldung~Guide-to-Splitting-a-String-by-Whitespace-in-Java)
+  * *Published on 20 Dec 2022*
 * [Fixing the No Main Manifest Attribute in Spring Boot](https://feeds.feedblitz.com/~/722463398/0/baeldung~Fixing-the-No-Main-Manifest-Attribute-in-Spring-Boot)
   * *Published on 19 Dec 2022*
 * [Sorting a HashSet in Java](https://feeds.feedblitz.com/~/722463400/0/baeldung~Sorting-a-HashSet-in-Java)
   * *Published on 19 Dec 2022*
-* [Fixing Git ‘remote: Repository not found’ Error](https://feeds.feedblitz.com/~/722461338/0/baeldung~Fixing-Git-remote-Repository-not-found-Error)
-  * *Published on 18 Dec 2022*
-* [Extract Values using AssertJ in Java](https://feeds.feedblitz.com/~/722459994/0/baeldung~Extract-Values-using-AssertJ-in-Java)
-  * *Published on 18 Dec 2022*
-* [Stream Large Byte[] to File With WebClient](https://feeds.feedblitz.com/~/722459996/0/baeldung~Stream-Large-Byte-to-File-With-WebClient)
-  * *Published on 18 Dec 2022*
