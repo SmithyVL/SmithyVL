@@ -239,13 +239,13 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [Using Watermarks with iText in Java](https://feeds.feedblitz.com/~/723177786/0/baeldung~Using-Watermarks-with-iText-in-Java)
+  * *Published on 29 Dec 2022*
+* [How to Get the API Token for Jenkins](https://feeds.feedblitz.com/~/723177788/0/baeldung~How-to-Get-the-API-Token-for-Jenkins)
+  * *Published on 29 Dec 2022*
+* [What is the Default WORKDIR in a Dockerfile?](https://feeds.feedblitz.com/~/723177790/0/baeldung~What-is-the-Default-WORKDIR-in-a-Dockerfile)
+  * *Published on 29 Dec 2022*
 * [Convert a List of Integers to a List of Strings](https://feeds.feedblitz.com/~/722855082/0/baeldung~Convert-a-List-of-Integers-to-a-List-of-Strings)
   * *Published on 24 Dec 2022*
 * [Java Weekly, Issue 469](https://feeds.feedblitz.com/~/722825472/0/baeldung~Java-Weekly-Issue)
   * *Published on 23 Dec 2022*
-* [Run Multiple Commands in Docker Run](https://feeds.feedblitz.com/~/722698246/0/baeldung~Run-Multiple-Commands-in-Docker-Run)
-  * *Published on 21 Dec 2022*
-* [Check JWT Expiry Without Throwing Exceptions](https://feeds.feedblitz.com/~/722697376/0/baeldung~Check-JWT-Expiry-Without-Throwing-Exceptions)
-  * *Published on 21 Dec 2022*
-* [Getting a Value in JSONObject](https://feeds.feedblitz.com/~/722697378/0/baeldung~Getting-a-Value-in-JSONObject)
-  * *Published on 21 Dec 2022*
