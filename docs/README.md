@@ -245,7 +245,7 @@ No recent activity
   * *Published on 29 Dec 2022*
 * [What is the Default WORKDIR in a Dockerfile?](https://feeds.feedblitz.com/~/723177790/0/baeldung~What-is-the-Default-WORKDIR-in-a-Dockerfile)
   * *Published on 29 Dec 2022*
+* [Java Weekly, Issue 470](https://feeds.feedblitz.com/~/723250870/0/baeldung~Java-Weekly-Issue)
+  * *Published on 26 Dec 2022*
 * [Convert a List of Integers to a List of Strings](https://feeds.feedblitz.com/~/722855082/0/baeldung~Convert-a-List-of-Integers-to-a-List-of-Strings)
   * *Published on 24 Dec 2022*
-* [Java Weekly, Issue 469](https://feeds.feedblitz.com/~/722825472/0/baeldung~Java-Weekly-Issue)
-  * *Published on 23 Dec 2022*
