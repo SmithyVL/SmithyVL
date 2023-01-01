@@ -239,13 +239,13 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
-* [Using Watermarks with iText in Java](https://feeds.feedblitz.com/~/723177786/0/baeldung~Using-Watermarks-with-iText-in-Java)
-  * *Published on 29 Dec 2022*
-* [How to Get the API Token for Jenkins](https://feeds.feedblitz.com/~/723177788/0/baeldung~How-to-Get-the-API-Token-for-Jenkins)
-  * *Published on 29 Dec 2022*
-* [What is the Default WORKDIR in a Dockerfile?](https://feeds.feedblitz.com/~/723177790/0/baeldung~What-is-the-Default-WORKDIR-in-a-Dockerfile)
-  * *Published on 29 Dec 2022*
-* [Java Weekly, Issue 470](https://feeds.feedblitz.com/~/723250870/0/baeldung~Java-Weekly-Issue)
-  * *Published on 26 Dec 2022*
-* [Convert a List of Integers to a List of Strings](https://feeds.feedblitz.com/~/722855082/0/baeldung~Convert-a-List-of-Integers-to-a-List-of-Strings)
-  * *Published on 24 Dec 2022*
+* [Comparing Two JAR Files in Java](https://feeds.feedblitz.com/~/723302492/0/baeldung~Comparing-Two-JAR-Files-in-Java)
+  * *Published on 31 Dec 2022*
+* [NonUniqueResultException in Spring Data JPA](https://feeds.feedblitz.com/~/723302494/0/baeldung~NonUniqueResultException-in-Spring-Data-JPA)
+  * *Published on 31 Dec 2022*
+* [Common Exceptions of Crypto APIs in Java](https://feeds.feedblitz.com/~/723293622/0/baeldung~Common-Exceptions-of-Crypto-APIs-in-Java)
+  * *Published on 31 Dec 2022*
+* [Observability with Spring Boot 3](https://feeds.feedblitz.com/~/723293176/0/baeldung~Observability-with-Spring-Boot)
+  * *Published on 31 Dec 2022*
+* [Extracting JAR to a Specified Directory](https://feeds.feedblitz.com/~/723293178/0/baeldung~Extracting-JAR-to-a-Specified-Directory)
+  * *Published on 31 Dec 2022*
