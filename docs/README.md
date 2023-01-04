@@ -239,6 +239,8 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [Converting a String Array Into an int Array in Java](https://feeds.feedblitz.com/~/723433276/0/baeldung~Converting-a-String-Array-Into-an-int-Array-in-Java)
+  * *Published on 3 Jan 2023*
 * [Comparing Two JAR Files in Java](https://feeds.feedblitz.com/~/723302492/0/baeldung~Comparing-Two-JAR-Files-in-Java)
   * *Published on 31 Dec 2022*
 * [NonUniqueResultException in Spring Data JPA](https://feeds.feedblitz.com/~/723302494/0/baeldung~NonUniqueResultException-in-Spring-Data-JPA)
@@ -246,6 +248,4 @@ No recent activity
 * [Common Exceptions of Crypto APIs in Java](https://feeds.feedblitz.com/~/723293622/0/baeldung~Common-Exceptions-of-Crypto-APIs-in-Java)
   * *Published on 31 Dec 2022*
 * [Observability with Spring Boot 3](https://feeds.feedblitz.com/~/723293176/0/baeldung~Observability-with-Spring-Boot)
-  * *Published on 31 Dec 2022*
-* [Extracting JAR to a Specified Directory](https://feeds.feedblitz.com/~/723293178/0/baeldung~Extracting-JAR-to-a-Specified-Directory)
   * *Published on 31 Dec 2022*
