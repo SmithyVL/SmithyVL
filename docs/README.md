@@ -239,13 +239,13 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [PrintStream vs PrintWriter in Java](https://feeds.feedblitz.com/~/723489140/0/baeldung~PrintStream-vs-PrintWriter-in-Java)
+  * *Published on 4 Jan 2023*
+* [Working With Multiple Repositories in Gradle](https://feeds.feedblitz.com/~/723488658/0/baeldung~Working-With-Multiple-Repositories-in-Gradle)
+  * *Published on 4 Jan 2023*
+* [Fixing the “No Such DSL method” Error in Jenkins Pipeline](https://feeds.feedblitz.com/~/723488660/0/baeldung~Fixing-the-%e2%80%9cNo-Such-DSL-method%e2%80%9d-Error-in-Jenkins-Pipeline)
+  * *Published on 4 Jan 2023*
 * [Converting a String Array Into an int Array in Java](https://feeds.feedblitz.com/~/723433276/0/baeldung~Converting-a-String-Array-Into-an-int-Array-in-Java)
   * *Published on 3 Jan 2023*
 * [Comparing Two JAR Files in Java](https://feeds.feedblitz.com/~/723302492/0/baeldung~Comparing-Two-JAR-Files-in-Java)
-  * *Published on 31 Dec 2022*
-* [NonUniqueResultException in Spring Data JPA](https://feeds.feedblitz.com/~/723302494/0/baeldung~NonUniqueResultException-in-Spring-Data-JPA)
-  * *Published on 31 Dec 2022*
-* [Common Exceptions of Crypto APIs in Java](https://feeds.feedblitz.com/~/723293622/0/baeldung~Common-Exceptions-of-Crypto-APIs-in-Java)
-  * *Published on 31 Dec 2022*
-* [Observability with Spring Boot 3](https://feeds.feedblitz.com/~/723293176/0/baeldung~Observability-with-Spring-Boot)
   * *Published on 31 Dec 2022*
