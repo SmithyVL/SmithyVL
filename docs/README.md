@@ -239,13 +239,13 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [Getting Class Type From a String in Java](https://feeds.feedblitz.com/~/723639746/0/baeldung~Getting-Class-Type-From-a-String-in-Java)
+  * *Published on 6 Jan 2023*
+* [Difference Between JPA and Spring Data JPA](https://feeds.feedblitz.com/~/723638450/0/baeldung~Difference-Between-JPA-and-Spring-Data-JPA)
+  * *Published on 6 Jan 2023*
+* [Java Weekly, Issue 471](https://feeds.feedblitz.com/~/723629884/0/baeldung~Java-Weekly-Issue)
+  * *Published on 6 Jan 2023*
 * [PrintStream vs PrintWriter in Java](https://feeds.feedblitz.com/~/723489140/0/baeldung~PrintStream-vs-PrintWriter-in-Java)
   * *Published on 4 Jan 2023*
 * [Working With Multiple Repositories in Gradle](https://feeds.feedblitz.com/~/723488658/0/baeldung~Working-With-Multiple-Repositories-in-Gradle)
   * *Published on 4 Jan 2023*
-* [Fixing the “No Such DSL method” Error in Jenkins Pipeline](https://feeds.feedblitz.com/~/723488660/0/baeldung~Fixing-the-%e2%80%9cNo-Such-DSL-method%e2%80%9d-Error-in-Jenkins-Pipeline)
-  * *Published on 4 Jan 2023*
-* [Converting a String Array Into an int Array in Java](https://feeds.feedblitz.com/~/723433276/0/baeldung~Converting-a-String-Array-Into-an-int-Array-in-Java)
-  * *Published on 3 Jan 2023*
-* [Comparing Two JAR Files in Java](https://feeds.feedblitz.com/~/723302492/0/baeldung~Comparing-Two-JAR-Files-in-Java)
-  * *Published on 31 Dec 2022*
