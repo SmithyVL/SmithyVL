@@ -239,13 +239,13 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [Jenkins Pipeline – Change to Another Folder](https://feeds.feedblitz.com/~/723906572/0/baeldung~Jenkins-Pipeline-Change-to-Another-Folder)
+  * *Published on 10 Jan 2023*
+* [Quick Guide to Sentry](https://feeds.feedblitz.com/~/723904625/0/baeldung~Quick-Guide-to-Sentry)
+  * *Published on 10 Jan 2023*
 * [Encoding of URI Variables on RestTemplate](https://feeds.feedblitz.com/~/723733244/0/baeldung~Encoding-of-URI-Variables-on-RestTemplate)
   * *Published on 8 Jan 2023*
 * [Getting Class Type From a String in Java](https://feeds.feedblitz.com/~/723639746/0/baeldung~Getting-Class-Type-From-a-String-in-Java)
   * *Published on 6 Jan 2023*
 * [Difference Between JPA and Spring Data JPA](https://feeds.feedblitz.com/~/723638450/0/baeldung~Difference-Between-JPA-and-Spring-Data-JPA)
   * *Published on 6 Jan 2023*
-* [Java Weekly, Issue 471](https://feeds.feedblitz.com/~/723629884/0/baeldung~Java-Weekly-Issue)
-  * *Published on 6 Jan 2023*
-* [PrintStream vs PrintWriter in Java](https://feeds.feedblitz.com/~/723489140/0/baeldung~PrintStream-vs-PrintWriter-in-Java)
-  * *Published on 4 Jan 2023*
