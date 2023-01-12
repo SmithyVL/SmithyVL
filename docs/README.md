@@ -239,13 +239,13 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [RESTful Microservices With RestExpress](https://feeds.feedblitz.com/~/724016915/0/baeldung~RESTful-Microservices-With-RestExpress)
+  * *Published on 11 Jan 2023*
+* [Lightweight Logging With tinylog 2](https://feeds.feedblitz.com/~/724016918/0/baeldung~Lightweight-Logging-With-tinylog)
+  * *Published on 11 Jan 2023*
+* [Flyway Out of Order Migrations](https://feeds.feedblitz.com/~/724015304/0/baeldung~Flyway-Out-of-Order-Migrations)
+  * *Published on 11 Jan 2023*
 * [Jenkins Pipeline – Change to Another Folder](https://feeds.feedblitz.com/~/723906572/0/baeldung~Jenkins-Pipeline-Change-to-Another-Folder)
   * *Published on 10 Jan 2023*
 * [Quick Guide to Sentry](https://feeds.feedblitz.com/~/723904625/0/baeldung~Quick-Guide-to-Sentry)
   * *Published on 10 Jan 2023*
-* [Encoding of URI Variables on RestTemplate](https://feeds.feedblitz.com/~/723733244/0/baeldung~Encoding-of-URI-Variables-on-RestTemplate)
-  * *Published on 8 Jan 2023*
-* [Getting Class Type From a String in Java](https://feeds.feedblitz.com/~/723639746/0/baeldung~Getting-Class-Type-From-a-String-in-Java)
-  * *Published on 6 Jan 2023*
-* [Difference Between JPA and Spring Data JPA](https://feeds.feedblitz.com/~/723638450/0/baeldung~Difference-Between-JPA-and-Spring-Data-JPA)
-  * *Published on 6 Jan 2023*
