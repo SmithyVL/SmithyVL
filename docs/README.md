@@ -239,13 +239,13 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [@JsonIgnore vs @Transient](https://feeds.feedblitz.com/~/724129058/0/baeldung~JsonIgnore-vs-Transient)
+  * *Published on 12 Jan 2023*
+* [Implementing Retry In Kafka Consumer](https://feeds.feedblitz.com/~/724129061/0/baeldung~Implementing-Retry-In-Kafka-Consumer)
+  * *Published on 12 Jan 2023*
+* [Class Methods vs Instance Methods in Java](https://feeds.feedblitz.com/~/724129064/0/baeldung~Class-Methods-vs-Instance-Methods-in-Java)
+  * *Published on 12 Jan 2023*
 * [RESTful Microservices With RestExpress](https://feeds.feedblitz.com/~/724016915/0/baeldung~RESTful-Microservices-With-RestExpress)
   * *Published on 11 Jan 2023*
 * [Lightweight Logging With tinylog 2](https://feeds.feedblitz.com/~/724016918/0/baeldung~Lightweight-Logging-With-tinylog)
   * *Published on 11 Jan 2023*
-* [Flyway Out of Order Migrations](https://feeds.feedblitz.com/~/724015304/0/baeldung~Flyway-Out-of-Order-Migrations)
-  * *Published on 11 Jan 2023*
-* [Jenkins Pipeline – Change to Another Folder](https://feeds.feedblitz.com/~/723906572/0/baeldung~Jenkins-Pipeline-Change-to-Another-Folder)
-  * *Published on 10 Jan 2023*
-* [Quick Guide to Sentry](https://feeds.feedblitz.com/~/723904625/0/baeldung~Quick-Guide-to-Sentry)
-  * *Published on 10 Jan 2023*
