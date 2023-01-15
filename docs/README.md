@@ -239,13 +239,13 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [Spring MVC – Mapping the Root URL to a Page](https://feeds.feedblitz.com/~/724391888/0/baeldung~Spring-MVC-Mapping-the-Root-URL-to-a-Page)
+  * *Published on 14 Jan 2023*
+* [Case-Insensitive Searching in ArrayList](https://feeds.feedblitz.com/~/724391891/0/baeldung~CaseInsensitive-Searching-in-ArrayList)
+  * *Published on 14 Jan 2023*
 * [Java Weekly, Issue 472](https://feeds.feedblitz.com/~/724267778/0/baeldung~Java-Weekly-Issue)
   * *Published on 13 Jan 2023*
 * [@JsonIgnore vs @Transient](https://feeds.feedblitz.com/~/724129058/0/baeldung~JsonIgnore-vs-Transient)
   * *Published on 12 Jan 2023*
 * [Implementing Retry In Kafka Consumer](https://feeds.feedblitz.com/~/724129061/0/baeldung~Implementing-Retry-In-Kafka-Consumer)
   * *Published on 12 Jan 2023*
-* [Class Methods vs Instance Methods in Java](https://feeds.feedblitz.com/~/724129064/0/baeldung~Class-Methods-vs-Instance-Methods-in-Java)
-  * *Published on 12 Jan 2023*
-* [RESTful Microservices With RestExpress](https://feeds.feedblitz.com/~/724016915/0/baeldung~RESTful-Microservices-With-RestExpress)
-  * *Published on 11 Jan 2023*
