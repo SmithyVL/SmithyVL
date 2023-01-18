@@ -239,6 +239,8 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [Monads in Java](https://feeds.feedblitz.com/~/724717715/0/baeldung~Monads-in-Java)
+  * *Published on 17 Jan 2023*
 * [How to Stop a Zombie Job on Jenkins Without Restarting the Server?](https://feeds.feedblitz.com/~/724487105/0/baeldung~How-to-Stop-a-Zombie-Job-on-Jenkins-Without-Restarting-the-Server)
   * *Published on 15 Jan 2023*
 * [Spring MVC – Mapping the Root URL to a Page](https://feeds.feedblitz.com/~/724391888/0/baeldung~Spring-MVC-Mapping-the-Root-URL-to-a-Page)
@@ -247,5 +249,3 @@ No recent activity
   * *Published on 14 Jan 2023*
 * [Java Weekly, Issue 472](https://feeds.feedblitz.com/~/724267778/0/baeldung~Java-Weekly-Issue)
   * *Published on 13 Jan 2023*
-* [@JsonIgnore vs @Transient](https://feeds.feedblitz.com/~/724129058/0/baeldung~JsonIgnore-vs-Transient)
-  * *Published on 12 Jan 2023*
