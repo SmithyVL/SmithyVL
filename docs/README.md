@@ -239,13 +239,13 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
-* [Monads in Java](https://feeds.feedblitz.com/~/724717715/0/baeldung~Monads-in-Java)
-  * *Published on 17 Jan 2023*
-* [How to Stop a Zombie Job on Jenkins Without Restarting the Server?](https://feeds.feedblitz.com/~/724487105/0/baeldung~How-to-Stop-a-Zombie-Job-on-Jenkins-Without-Restarting-the-Server)
-  * *Published on 15 Jan 2023*
-* [Spring MVC – Mapping the Root URL to a Page](https://feeds.feedblitz.com/~/724391888/0/baeldung~Spring-MVC-Mapping-the-Root-URL-to-a-Page)
-  * *Published on 14 Jan 2023*
-* [Case-Insensitive Searching in ArrayList](https://feeds.feedblitz.com/~/724391891/0/baeldung~CaseInsensitive-Searching-in-ArrayList)
-  * *Published on 14 Jan 2023*
-* [Java Weekly, Issue 472](https://feeds.feedblitz.com/~/724267778/0/baeldung~Java-Weekly-Issue)
-  * *Published on 13 Jan 2023*
+* [Differences Between Spring Data JPA findFirst() and findTop()](https://feeds.feedblitz.com/~/724983404/0/baeldung~Differences-Between-Spring-Data-JPA-findFirst-and-findTop)
+  * *Published on 19 Jan 2023*
+* [Convert an ArrayList of Object to an ArrayList of String Elements](https://feeds.feedblitz.com/~/724981325/0/baeldung~Convert-an-ArrayList-of-Object-to-an-ArrayList-of-String-Elements)
+  * *Published on 19 Jan 2023*
+* [Check If All the Variables of an Object Are Null](https://feeds.feedblitz.com/~/724981328/0/baeldung~Check-If-All-the-Variables-of-an-Object-Are-Null)
+  * *Published on 19 Jan 2023*
+* [Compiling and Executing Code From a String in Java](https://feeds.feedblitz.com/~/724981331/0/baeldung~Compiling-and-Executing-Code-From-a-String-in-Java)
+  * *Published on 19 Jan 2023*
+* [Batch Processing of Stream Data in Java](https://feeds.feedblitz.com/~/724981334/0/baeldung~Batch-Processing-of-Stream-Data-in-Java)
+  * *Published on 19 Jan 2023*
