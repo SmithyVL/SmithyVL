@@ -239,13 +239,13 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [Converting a Number from One Base to Another in Java](https://feeds.feedblitz.com/~/725042129/0/baeldung~Converting-a-Number-from-One-Base-to-Another-in-Java)
+  * *Published on 20 Jan 2023*
+* [The JVM Run-Time Data Areas](https://feeds.feedblitz.com/~/725041259/0/baeldung~The-JVM-RunTime-Data-Areas)
+  * *Published on 20 Jan 2023*
+* [Extracting a Custom Header From the Request](https://feeds.feedblitz.com/~/725041262/0/baeldung~Extracting-a-Custom-Header-From-the-Request)
+  * *Published on 20 Jan 2023*
 * [Differences Between Spring Data JPA findFirst() and findTop()](https://feeds.feedblitz.com/~/724983404/0/baeldung~Differences-Between-Spring-Data-JPA-findFirst-and-findTop)
   * *Published on 19 Jan 2023*
 * [Convert an ArrayList of Object to an ArrayList of String Elements](https://feeds.feedblitz.com/~/724981325/0/baeldung~Convert-an-ArrayList-of-Object-to-an-ArrayList-of-String-Elements)
-  * *Published on 19 Jan 2023*
-* [Check If All the Variables of an Object Are Null](https://feeds.feedblitz.com/~/724981328/0/baeldung~Check-If-All-the-Variables-of-an-Object-Are-Null)
-  * *Published on 19 Jan 2023*
-* [Compiling and Executing Code From a String in Java](https://feeds.feedblitz.com/~/724981331/0/baeldung~Compiling-and-Executing-Code-From-a-String-in-Java)
-  * *Published on 19 Jan 2023*
-* [Batch Processing of Stream Data in Java](https://feeds.feedblitz.com/~/724981334/0/baeldung~Batch-Processing-of-Stream-Data-in-Java)
   * *Published on 19 Jan 2023*
