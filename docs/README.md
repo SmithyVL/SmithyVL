@@ -239,6 +239,8 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [Fix the IllegalArgumentException: No enum const class](https://feeds.feedblitz.com/~/725150498/0/baeldung~Fix-the-IllegalArgumentException-No-enum-const-class)
+  * *Published on 21 Jan 2023*
 * [Converting a Number from One Base to Another in Java](https://feeds.feedblitz.com/~/725042129/0/baeldung~Converting-a-Number-from-One-Base-to-Another-in-Java)
   * *Published on 20 Jan 2023*
 * [The JVM Run-Time Data Areas](https://feeds.feedblitz.com/~/725041259/0/baeldung~The-JVM-RunTime-Data-Areas)
@@ -246,6 +248,4 @@ No recent activity
 * [Extracting a Custom Header From the Request](https://feeds.feedblitz.com/~/725041262/0/baeldung~Extracting-a-Custom-Header-From-the-Request)
   * *Published on 20 Jan 2023*
 * [Differences Between Spring Data JPA findFirst() and findTop()](https://feeds.feedblitz.com/~/724983404/0/baeldung~Differences-Between-Spring-Data-JPA-findFirst-and-findTop)
-  * *Published on 19 Jan 2023*
-* [Convert an ArrayList of Object to an ArrayList of String Elements](https://feeds.feedblitz.com/~/724981325/0/baeldung~Convert-an-ArrayList-of-Object-to-an-ArrayList-of-String-Elements)
   * *Published on 19 Jan 2023*
