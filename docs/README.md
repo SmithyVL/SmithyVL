@@ -239,6 +239,8 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [Check if Command-Line Arguments Are Null in Java](https://feeds.feedblitz.com/~/725287370/0/baeldung~Check-if-CommandLine-Arguments-Are-Null-in-Java)
+  * *Published on 23 Jan 2023*
 * [Convert byte[] to MultipartFile in Java](https://feeds.feedblitz.com/~/725239031/0/baeldung~Convert-byte-to-MultipartFile-in-Java)
   * *Published on 23 Jan 2023*
 * [Fix the IllegalArgumentException: No enum const class](https://feeds.feedblitz.com/~/725150498/0/baeldung~Fix-the-IllegalArgumentException-No-enum-const-class)
@@ -246,6 +248,4 @@ No recent activity
 * [Converting a Number from One Base to Another in Java](https://feeds.feedblitz.com/~/725042129/0/baeldung~Converting-a-Number-from-One-Base-to-Another-in-Java)
   * *Published on 20 Jan 2023*
 * [The JVM Run-Time Data Areas](https://feeds.feedblitz.com/~/725041259/0/baeldung~The-JVM-RunTime-Data-Areas)
-  * *Published on 20 Jan 2023*
-* [Extracting a Custom Header From the Request](https://feeds.feedblitz.com/~/725041262/0/baeldung~Extracting-a-Custom-Header-From-the-Request)
   * *Published on 20 Jan 2023*
