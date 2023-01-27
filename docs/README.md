@@ -239,6 +239,8 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [Ahead of Time Optimizations in Spring 6](https://feeds.feedblitz.com/~/725591285/0/baeldung~Ahead-of-Time-Optimizations-in-Spring)
+  * *Published on 27 Jan 2023*
 * [Introduction to ScyllaDB with Java](https://feeds.feedblitz.com/~/725490587/0/baeldung~Introduction-to-ScyllaDB-with-Java)
   * *Published on 25 Jan 2023*
 * [Multiply a BigDecimal by an Integer in Java](https://feeds.feedblitz.com/~/725467112/0/baeldung~Multiply-a-BigDecimal-by-an-Integer-in-Java)
@@ -246,6 +248,4 @@ No recent activity
 * [Java List Interface](https://feeds.feedblitz.com/~/725465855/0/baeldung~Java-List-Interface)
   * *Published on 25 Jan 2023*
 * [Check if Command-Line Arguments Are Null in Java](https://feeds.feedblitz.com/~/725287370/0/baeldung~Check-if-CommandLine-Arguments-Are-Null-in-Java)
-  * *Published on 23 Jan 2023*
-* [Convert byte[] to MultipartFile in Java](https://feeds.feedblitz.com/~/725239031/0/baeldung~Convert-byte-to-MultipartFile-in-Java)
   * *Published on 23 Jan 2023*
