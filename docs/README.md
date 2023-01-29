@@ -239,13 +239,13 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [Check if an Integer Value is null or Zero in Java](https://feeds.feedblitz.com/~/725789849/0/baeldung~Check-if-an-Integer-Value-is-null-or-Zero-in-Java)
+  * *Published on 29 Jan 2023*
+* [HTTP Interface in Spring 6](https://feeds.feedblitz.com/~/725789852/0/baeldung~HTTP-Interface-in-Spring)
+  * *Published on 29 Jan 2023*
+* [Spring Boot Logback and Log4j2 Extensions](https://feeds.feedblitz.com/~/725788709/0/baeldung~Spring-Boot-Logback-and-Logj-Extensions)
+  * *Published on 29 Jan 2023*
+* [Comparing a String to an Enum Value in Java](https://feeds.feedblitz.com/~/725784044/0/baeldung~Comparing-a-String-to-an-Enum-Value-in-Java)
+  * *Published on 29 Jan 2023*
 * [Java HttpClient – Map JSON Response to Java Class](https://feeds.feedblitz.com/~/725705117/0/baeldung~Java-HttpClient-Map-JSON-Response-to-Java-Class)
   * *Published on 28 Jan 2023*
-* [Communicating With Docker Containers on the Same Machine](https://feeds.feedblitz.com/~/725700203/0/baeldung~Communicating-With-Docker-Containers-on-the-Same-Machine)
-  * *Published on 28 Jan 2023*
-* [Structured Concurrency in Java 19](https://feeds.feedblitz.com/~/725699243/0/baeldung~Structured-Concurrency-in-Java)
-  * *Published on 28 Jan 2023*
-* [Java Weekly, Issue 474](https://feeds.feedblitz.com/~/725646602/0/baeldung~Java-Weekly-Issue)
-  * *Published on 27 Jan 2023*
-* [Ahead of Time Optimizations in Spring 6](https://feeds.feedblitz.com/~/725591285/0/baeldung~Ahead-of-Time-Optimizations-in-Spring)
-  * *Published on 27 Jan 2023*
