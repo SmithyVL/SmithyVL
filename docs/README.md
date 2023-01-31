@@ -239,6 +239,8 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [Generate Unit Test Data in Java Using Instancio](https://feeds.feedblitz.com/~/725943314/0/baeldung~Generate-Unit-Test-Data-in-Java-Using-Instancio)
+  * *Published on 31 Jan 2023*
 * [Enable BuildKit with Docker Compose](https://feeds.feedblitz.com/~/725846576/0/baeldung~Enable-BuildKit-with-Docker-Compose)
   * *Published on 29 Jan 2023*
 * [Check if an Integer Value is null or Zero in Java](https://feeds.feedblitz.com/~/725789849/0/baeldung~Check-if-an-Integer-Value-is-null-or-Zero-in-Java)
@@ -246,6 +248,4 @@ No recent activity
 * [HTTP Interface in Spring 6](https://feeds.feedblitz.com/~/725789852/0/baeldung~HTTP-Interface-in-Spring)
   * *Published on 29 Jan 2023*
 * [Spring Boot Logback and Log4j2 Extensions](https://feeds.feedblitz.com/~/725788709/0/baeldung~Spring-Boot-Logback-and-Logj-Extensions)
-  * *Published on 29 Jan 2023*
-* [Comparing a String to an Enum Value in Java](https://feeds.feedblitz.com/~/725784044/0/baeldung~Comparing-a-String-to-an-Enum-Value-in-Java)
   * *Published on 29 Jan 2023*
