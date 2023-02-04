@@ -239,13 +239,13 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [Return Absolute Difference of Two Integers in Java](https://feeds.feedblitz.com/~/726258791/0/baeldung~Return-Absolute-Difference-of-Two-Integers-in-Java)
+  * *Published on 3 Feb 2023*
+* [Initialize an ArrayList with Zeroes or Null in Java](https://feeds.feedblitz.com/~/726258794/0/baeldung~Initialize-an-ArrayList-with-Zeroes-or-Null-in-Java)
+  * *Published on 3 Feb 2023*
+* [Memory Types in JVM](https://feeds.feedblitz.com/~/726257477/0/baeldung~Memory-Types-in-JVM)
+  * *Published on 3 Feb 2023*
 * [Determine if a Class Implements an Interface in Java](https://feeds.feedblitz.com/~/726029111/0/baeldung~Determine-if-a-Class-Implements-an-Interface-in-Java)
   * *Published on 1 Feb 2023*
 * [Stream to Iterable in Java](https://feeds.feedblitz.com/~/725969069/0/baeldung~Stream-to-Iterable-in-Java)
   * *Published on 31 Jan 2023*
-* [Generate Unit Test Data in Java Using Instancio](https://feeds.feedblitz.com/~/725943314/0/baeldung~Generate-Unit-Test-Data-in-Java-Using-Instancio)
-  * *Published on 31 Jan 2023*
-* [Enable BuildKit with Docker Compose](https://feeds.feedblitz.com/~/725846576/0/baeldung~Enable-BuildKit-with-Docker-Compose)
-  * *Published on 29 Jan 2023*
-* [Check if an Integer Value is null or Zero in Java](https://feeds.feedblitz.com/~/725789849/0/baeldung~Check-if-an-Integer-Value-is-null-or-Zero-in-Java)
-  * *Published on 29 Jan 2023*
