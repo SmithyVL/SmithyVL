@@ -239,13 +239,13 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [Reading PDF File Using Java](https://feeds.feedblitz.com/~/726419327/0/baeldung~Reading-PDF-File-Using-Java)
+  * *Published on 5 Feb 2023*
+* [Java Weekly, Issue 475](https://feeds.feedblitz.com/~/726358856/0/baeldung~Java-Weekly-Issue)
+  * *Published on 3 Feb 2023*
 * [Return Absolute Difference of Two Integers in Java](https://feeds.feedblitz.com/~/726258791/0/baeldung~Return-Absolute-Difference-of-Two-Integers-in-Java)
   * *Published on 3 Feb 2023*
 * [Initialize an ArrayList with Zeroes or Null in Java](https://feeds.feedblitz.com/~/726258794/0/baeldung~Initialize-an-ArrayList-with-Zeroes-or-Null-in-Java)
   * *Published on 3 Feb 2023*
 * [Memory Types in JVM](https://feeds.feedblitz.com/~/726257477/0/baeldung~Memory-Types-in-JVM)
   * *Published on 3 Feb 2023*
-* [Determine if a Class Implements an Interface in Java](https://feeds.feedblitz.com/~/726029111/0/baeldung~Determine-if-a-Class-Implements-an-Interface-in-Java)
-  * *Published on 1 Feb 2023*
-* [Stream to Iterable in Java](https://feeds.feedblitz.com/~/725969069/0/baeldung~Stream-to-Iterable-in-Java)
-  * *Published on 31 Jan 2023*
