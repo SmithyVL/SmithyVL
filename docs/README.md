@@ -239,13 +239,13 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
-* [Reading PDF File Using Java](https://feeds.feedblitz.com/~/726419327/0/baeldung~Reading-PDF-File-Using-Java)
-  * *Published on 5 Feb 2023*
-* [Java Weekly, Issue 475](https://feeds.feedblitz.com/~/726358856/0/baeldung~Java-Weekly-Issue)
-  * *Published on 3 Feb 2023*
-* [Return Absolute Difference of Two Integers in Java](https://feeds.feedblitz.com/~/726258791/0/baeldung~Return-Absolute-Difference-of-Two-Integers-in-Java)
-  * *Published on 3 Feb 2023*
-* [Initialize an ArrayList with Zeroes or Null in Java](https://feeds.feedblitz.com/~/726258794/0/baeldung~Initialize-an-ArrayList-with-Zeroes-or-Null-in-Java)
-  * *Published on 3 Feb 2023*
-* [Memory Types in JVM](https://feeds.feedblitz.com/~/726257477/0/baeldung~Memory-Types-in-JVM)
-  * *Published on 3 Feb 2023*
+* [Using and Testing Axon applications via REST](https://feeds.feedblitz.com/~/726580769/0/baeldung~Using-and-Testing-Axon-applications-via-REST)
+  * *Published on 7 Feb 2023*
+* [Securing Passwords in Docker](https://feeds.feedblitz.com/~/726577634/0/baeldung~Securing-Passwords-in-Docker)
+  * *Published on 7 Feb 2023*
+* [Guide to HTTPie for Terminal](https://feeds.feedblitz.com/~/726577640/0/baeldung~Guide-to-HTTPie-for-Terminal)
+  * *Published on 7 Feb 2023*
+* [How Do I Generate a Dashboard Report in JMeter?](https://feeds.feedblitz.com/~/726576137/0/baeldung~How-Do-I-Generate-a-Dashboard-Report-in-JMeter)
+  * *Published on 7 Feb 2023*
+* [Single Assert Call for Multiple Properties in Java Unit Testing](https://feeds.feedblitz.com/~/726576140/0/baeldung~Single-Assert-Call-for-Multiple-Properties-in-Java-Unit-Testing)
+  * *Published on 7 Feb 2023*
