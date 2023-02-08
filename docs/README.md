@@ -239,6 +239,8 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [Java Team Lead with Spring Experience (Remote) (Part Time)](https://feeds.feedblitz.com/~/714616498/0/baeldung~Java-Team-Lead-with-Spring-Experience-Remote-Part-Time)
+  * *Published on 7 Feb 2023*
 * [Using and Testing Axon applications via REST](https://feeds.feedblitz.com/~/726580769/0/baeldung~Using-and-Testing-Axon-applications-via-REST)
   * *Published on 7 Feb 2023*
 * [Securing Passwords in Docker](https://feeds.feedblitz.com/~/726577634/0/baeldung~Securing-Passwords-in-Docker)
@@ -246,6 +248,4 @@ No recent activity
 * [Guide to HTTPie for Terminal](https://feeds.feedblitz.com/~/726577640/0/baeldung~Guide-to-HTTPie-for-Terminal)
   * *Published on 7 Feb 2023*
 * [How Do I Generate a Dashboard Report in JMeter?](https://feeds.feedblitz.com/~/726576137/0/baeldung~How-Do-I-Generate-a-Dashboard-Report-in-JMeter)
-  * *Published on 7 Feb 2023*
-* [Single Assert Call for Multiple Properties in Java Unit Testing](https://feeds.feedblitz.com/~/726576140/0/baeldung~Single-Assert-Call-for-Multiple-Properties-in-Java-Unit-Testing)
   * *Published on 7 Feb 2023*
