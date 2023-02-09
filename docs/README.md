@@ -239,13 +239,13 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [Understanding the Difference Between Stream.of() and IntStream.range()](https://feeds.feedblitz.com/~/726714905/0/baeldung~Understanding-the-Difference-Between-Streamof-and-IntStreamrange)
+  * *Published on 8 Feb 2023*
+* [OpenTelemetry Setup in Spring Boot Application](https://feeds.feedblitz.com/~/726713840/0/baeldung~OpenTelemetry-Setup-in-Spring-Boot-Application)
+  * *Published on 8 Feb 2023*
+* [Validating IPv4 Address in Java](https://feeds.feedblitz.com/~/726713843/0/baeldung~Validating-IPv-Address-in-Java)
+  * *Published on 8 Feb 2023*
 * [Java Team Lead with Spring Experience (Remote) (Part Time)](https://feeds.feedblitz.com/~/714616498/0/baeldung~Java-Team-Lead-with-Spring-Experience-Remote-Part-Time)
   * *Published on 7 Feb 2023*
 * [Using and Testing Axon applications via REST](https://feeds.feedblitz.com/~/726580769/0/baeldung~Using-and-Testing-Axon-applications-via-REST)
-  * *Published on 7 Feb 2023*
-* [Securing Passwords in Docker](https://feeds.feedblitz.com/~/726577634/0/baeldung~Securing-Passwords-in-Docker)
-  * *Published on 7 Feb 2023*
-* [Guide to HTTPie for Terminal](https://feeds.feedblitz.com/~/726577640/0/baeldung~Guide-to-HTTPie-for-Terminal)
-  * *Published on 7 Feb 2023*
-* [How Do I Generate a Dashboard Report in JMeter?](https://feeds.feedblitz.com/~/726576137/0/baeldung~How-Do-I-Generate-a-Dashboard-Report-in-JMeter)
   * *Published on 7 Feb 2023*
