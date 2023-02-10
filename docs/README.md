@@ -239,13 +239,13 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [Java Weekly, Issue 476](https://feeds.feedblitz.com/~/726852077/0/baeldung~Java-Weekly-Issue)
+  * *Published on 9 Feb 2023*
+* [Getting the Current ApplicationContext in Spring](https://feeds.feedblitz.com/~/726821756/0/baeldung~Getting-the-Current-ApplicationContext-in-Spring)
+  * *Published on 9 Feb 2023*
+* [Callback Functions in Java](https://feeds.feedblitz.com/~/726821759/0/baeldung~Callback-Functions-in-Java)
+  * *Published on 9 Feb 2023*
 * [Understanding the Difference Between Stream.of() and IntStream.range()](https://feeds.feedblitz.com/~/726714905/0/baeldung~Understanding-the-Difference-Between-Streamof-and-IntStreamrange)
   * *Published on 8 Feb 2023*
 * [OpenTelemetry Setup in Spring Boot Application](https://feeds.feedblitz.com/~/726713840/0/baeldung~OpenTelemetry-Setup-in-Spring-Boot-Application)
   * *Published on 8 Feb 2023*
-* [Validating IPv4 Address in Java](https://feeds.feedblitz.com/~/726713843/0/baeldung~Validating-IPv-Address-in-Java)
-  * *Published on 8 Feb 2023*
-* [Java Team Lead with Spring Experience (Remote) (Part Time)](https://feeds.feedblitz.com/~/714616498/0/baeldung~Java-Team-Lead-with-Spring-Experience-Remote-Part-Time)
-  * *Published on 7 Feb 2023*
-* [Using and Testing Axon applications via REST](https://feeds.feedblitz.com/~/726580769/0/baeldung~Using-and-Testing-Axon-applications-via-REST)
-  * *Published on 7 Feb 2023*
