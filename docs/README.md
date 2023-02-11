@@ -239,6 +239,8 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [Difference Between findBy and findAllBy in Spring Data JPA](https://feeds.feedblitz.com/~/727009370/0/baeldung~Difference-Between-findBy-and-findAllBy-in-Spring-Data-JPA)
+  * *Published on 11 Feb 2023*
 * [Java Weekly, Issue 476](https://feeds.feedblitz.com/~/726852077/0/baeldung~Java-Weekly-Issue)
   * *Published on 9 Feb 2023*
 * [Getting the Current ApplicationContext in Spring](https://feeds.feedblitz.com/~/726821756/0/baeldung~Getting-the-Current-ApplicationContext-in-Spring)
@@ -246,6 +248,4 @@ No recent activity
 * [Callback Functions in Java](https://feeds.feedblitz.com/~/726821759/0/baeldung~Callback-Functions-in-Java)
   * *Published on 9 Feb 2023*
 * [Understanding the Difference Between Stream.of() and IntStream.range()](https://feeds.feedblitz.com/~/726714905/0/baeldung~Understanding-the-Difference-Between-Streamof-and-IntStreamrange)
-  * *Published on 8 Feb 2023*
-* [OpenTelemetry Setup in Spring Boot Application](https://feeds.feedblitz.com/~/726713840/0/baeldung~OpenTelemetry-Setup-in-Spring-Boot-Application)
   * *Published on 8 Feb 2023*
