@@ -239,6 +239,8 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [Jakarta EE 10](https://feeds.feedblitz.com/~/727240916/0/baeldung~Jakarta-EE)
+  * *Published on 12 Feb 2023*
 * [Record vs. Final Class in Java](https://feeds.feedblitz.com/~/727114466/0/baeldung~Record-vs-Final-Class-in-Java)
   * *Published on 12 Feb 2023*
 * [JUnit 5 @Nested Test Classes](https://feeds.feedblitz.com/~/727105265/0/baeldung~JUnit-Nested-Test-Classes)
@@ -247,5 +249,3 @@ No recent activity
   * *Published on 12 Feb 2023*
 * [Convert Hex to RGB Using Java](https://feeds.feedblitz.com/~/727105271/0/baeldung~Convert-Hex-to-RGB-Using-Java)
   * *Published on 12 Feb 2023*
-* [Fix EmptyResultDataAccessException When Using JdbcTemplate](https://feeds.feedblitz.com/~/727017083/0/baeldung~Fix-EmptyResultDataAccessException-When-Using-JdbcTemplate)
-  * *Published on 11 Feb 2023*
