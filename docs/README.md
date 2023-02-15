@@ -239,13 +239,13 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [Singleton Design Pattern vs Singleton Beans in Spring Boot](https://feeds.feedblitz.com/~/727343912/0/baeldung~Singleton-Design-Pattern-vs-Singleton-Beans-in-Spring-Boot)
+  * *Published on 14 Feb 2023*
+* [Check if Object Is an Array in Java](https://feeds.feedblitz.com/~/727298393/0/baeldung~Check-if-Object-Is-an-Array-in-Java)
+  * *Published on 14 Feb 2023*
+* [Guide to Quarkus Funqy](https://feeds.feedblitz.com/~/727298396/0/baeldung~Guide-to-Quarkus-Funqy)
+  * *Published on 14 Feb 2023*
+* [Java HttpClient Connection Management](https://feeds.feedblitz.com/~/727298399/0/baeldung~Java-HttpClient-Connection-Management)
+  * *Published on 14 Feb 2023*
 * [Jakarta EE 10](https://feeds.feedblitz.com/~/727240916/0/baeldung~Jakarta-EE)
-  * *Published on 12 Feb 2023*
-* [Record vs. Final Class in Java](https://feeds.feedblitz.com/~/727114466/0/baeldung~Record-vs-Final-Class-in-Java)
-  * *Published on 12 Feb 2023*
-* [JUnit 5 @Nested Test Classes](https://feeds.feedblitz.com/~/727105265/0/baeldung~JUnit-Nested-Test-Classes)
-  * *Published on 12 Feb 2023*
-* [Find the First Embedded Occurrence of an Integer in a Java String](https://feeds.feedblitz.com/~/727105268/0/baeldung~Find-the-First-Embedded-Occurrence-of-an-Integer-in-a-Java-String)
-  * *Published on 12 Feb 2023*
-* [Convert Hex to RGB Using Java](https://feeds.feedblitz.com/~/727105271/0/baeldung~Convert-Hex-to-RGB-Using-Java)
   * *Published on 12 Feb 2023*
