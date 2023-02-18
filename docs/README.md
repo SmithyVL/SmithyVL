@@ -239,6 +239,8 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [Difference Between exchange(), postForEntity(), and execute() in RestTemplate](https://feeds.feedblitz.com/~/727605851/0/baeldung~Difference-Between-exchange-postForEntity-and-execute-in-RestTemplate)
+  * *Published on 17 Feb 2023*
 * [Difference Between Class.forName() and Class.forName().newInstance()](https://feeds.feedblitz.com/~/727403420/0/baeldung~Difference-Between-ClassforName-and-ClassforNamenewInstance)
   * *Published on 15 Feb 2023*
 * [Spring Data Repositories – Collections vs. Stream](https://feeds.feedblitz.com/~/727403423/0/baeldung~Spring-Data-Repositories-Collections-vs-Stream)
@@ -246,6 +248,4 @@ No recent activity
 * [Singleton Design Pattern vs Singleton Beans in Spring Boot](https://feeds.feedblitz.com/~/727343912/0/baeldung~Singleton-Design-Pattern-vs-Singleton-Beans-in-Spring-Boot)
   * *Published on 14 Feb 2023*
 * [Check if Object Is an Array in Java](https://feeds.feedblitz.com/~/727298393/0/baeldung~Check-if-Object-Is-an-Array-in-Java)
-  * *Published on 14 Feb 2023*
-* [Guide to Quarkus Funqy](https://feeds.feedblitz.com/~/727298396/0/baeldung~Guide-to-Quarkus-Funqy)
   * *Published on 14 Feb 2023*
