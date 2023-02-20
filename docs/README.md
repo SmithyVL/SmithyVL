@@ -239,13 +239,13 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
-* [Difference Between exchange(), postForEntity(), and execute() in RestTemplate](https://feeds.feedblitz.com/~/727605851/0/baeldung~Difference-Between-exchange-postForEntity-and-execute-in-RestTemplate)
-  * *Published on 17 Feb 2023*
-* [Difference Between Class.forName() and Class.forName().newInstance()](https://feeds.feedblitz.com/~/727403420/0/baeldung~Difference-Between-ClassforName-and-ClassforNamenewInstance)
-  * *Published on 15 Feb 2023*
-* [Spring Data Repositories – Collections vs. Stream](https://feeds.feedblitz.com/~/727403423/0/baeldung~Spring-Data-Repositories-Collections-vs-Stream)
-  * *Published on 15 Feb 2023*
-* [Singleton Design Pattern vs Singleton Beans in Spring Boot](https://feeds.feedblitz.com/~/727343912/0/baeldung~Singleton-Design-Pattern-vs-Singleton-Beans-in-Spring-Boot)
-  * *Published on 14 Feb 2023*
-* [Check if Object Is an Array in Java](https://feeds.feedblitz.com/~/727298393/0/baeldung~Check-if-Object-Is-an-Array-in-Java)
-  * *Published on 14 Feb 2023*
+* [Combining Two Lists Into a Map in Java](https://feeds.feedblitz.com/~/727838519/0/baeldung~Combining-Two-Lists-Into-a-Map-in-Java)
+  * *Published on 19 Feb 2023*
+* [Mapping an Array of Integers to Strings Using Java Streams](https://feeds.feedblitz.com/~/727805237/0/baeldung~Mapping-an-Array-of-Integers-to-Strings-Using-Java-Streams)
+  * *Published on 19 Feb 2023*
+* [Thread.sleep() vs Awaitility.await()](https://feeds.feedblitz.com/~/727805240/0/baeldung~Threadsleep-vs-Awaitilityawait)
+  * *Published on 19 Feb 2023*
+* [javax vs. java Package](https://feeds.feedblitz.com/~/727805243/0/baeldung~javax-vs-java-Package)
+  * *Published on 19 Feb 2023*
+* [Accessing Private Constructor in Java](https://feeds.feedblitz.com/~/727805246/0/baeldung~Accessing-Private-Constructor-in-Java)
+  * *Published on 19 Feb 2023*
