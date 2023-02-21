@@ -239,13 +239,13 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [Getting Started With RethinkDB](https://feeds.feedblitz.com/~/727978475/0/baeldung~Getting-Started-With-RethinkDB)
+  * *Published on 20 Feb 2023*
+* [Looking for a Backend Java/Spring Team Lead with Integration Experience](https://feeds.feedblitz.com/~/727897814/0/baeldung~Looking-for-a-Backend-JavaSpring-Team-Lead-with-Integration-Experience)
+  * *Published on 20 Feb 2023*
 * [Combining Two Lists Into a Map in Java](https://feeds.feedblitz.com/~/727838519/0/baeldung~Combining-Two-Lists-Into-a-Map-in-Java)
   * *Published on 19 Feb 2023*
 * [Mapping an Array of Integers to Strings Using Java Streams](https://feeds.feedblitz.com/~/727805237/0/baeldung~Mapping-an-Array-of-Integers-to-Strings-Using-Java-Streams)
   * *Published on 19 Feb 2023*
 * [Thread.sleep() vs Awaitility.await()](https://feeds.feedblitz.com/~/727805240/0/baeldung~Threadsleep-vs-Awaitilityawait)
-  * *Published on 19 Feb 2023*
-* [javax vs. java Package](https://feeds.feedblitz.com/~/727805243/0/baeldung~javax-vs-java-Package)
-  * *Published on 19 Feb 2023*
-* [Accessing Private Constructor in Java](https://feeds.feedblitz.com/~/727805246/0/baeldung~Accessing-Private-Constructor-in-Java)
   * *Published on 19 Feb 2023*
