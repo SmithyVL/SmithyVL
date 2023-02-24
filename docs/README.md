@@ -239,13 +239,13 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
-* [Cassandra – Object Mapping with DataStax Java Driver](https://feeds.feedblitz.com/~/728066816/0/baeldung~Cassandra-Object-Mapping-with-DataStax-Java-Driver)
-  * *Published on 21 Feb 2023*
-* [VarArgs vs Array Input Parameters in Java](https://feeds.feedblitz.com/~/728066819/0/baeldung~VarArgs-vs-Array-Input-Parameters-in-Java)
-  * *Published on 21 Feb 2023*
-* [Migrate From Java 8 to Java 17](https://feeds.feedblitz.com/~/728066822/0/baeldung~Migrate-From-Java-to-Java)
-  * *Published on 21 Feb 2023*
-* [Getting Started With RethinkDB](https://feeds.feedblitz.com/~/727978475/0/baeldung~Getting-Started-With-RethinkDB)
-  * *Published on 20 Feb 2023*
-* [Looking for a Backend Java/Spring Team Lead with Integration Experience](https://feeds.feedblitz.com/~/727897814/0/baeldung~Looking-for-a-Backend-JavaSpring-Team-Lead-with-Integration-Experience)
-  * *Published on 20 Feb 2023*
+* [Protected: Test NPI Imps – Post 4](https://feeds.feedblitz.com/~/728393876/0/baeldung~Protected-Test-NPI-Imps-Post)
+  * *Published on 23 Feb 2023*
+* [Protected: Test NPI Imps – Post 3](https://feeds.feedblitz.com/~/728393879/0/baeldung~Protected-Test-NPI-Imps-Post)
+  * *Published on 23 Feb 2023*
+* [Protected: Test NPI Imps – Post 2](https://feeds.feedblitz.com/~/728393882/0/baeldung~Protected-Test-NPI-Imps-Post)
+  * *Published on 23 Feb 2023*
+* [Protected: Test NPI Imps – Post 1](https://feeds.feedblitz.com/~/728393885/0/baeldung~Protected-Test-NPI-Imps-Post)
+  * *Published on 23 Feb 2023*
+* [Map Date Types With OpenAPI Generator](https://feeds.feedblitz.com/~/728380826/0/baeldung~Map-Date-Types-With-OpenAPI-Generator)
+  * *Published on 23 Feb 2023*
