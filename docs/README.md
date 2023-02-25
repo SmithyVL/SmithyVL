@@ -239,13 +239,13 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [Java Weekly, Issue 478](https://feeds.feedblitz.com/~/728542754/0/baeldung~Java-Weekly-Issue)
+  * *Published on 24 Feb 2023*
+* [Finding All Duplicates in a List in Java](https://feeds.feedblitz.com/~/728523383/0/baeldung~Finding-All-Duplicates-in-a-List-in-Java)
+  * *Published on 24 Feb 2023*
 * [Protected: Test NPI Imps – Post 4](https://feeds.feedblitz.com/~/728393876/0/baeldung~Protected-Test-NPI-Imps-Post)
   * *Published on 23 Feb 2023*
 * [Protected: Test NPI Imps – Post 3](https://feeds.feedblitz.com/~/728393879/0/baeldung~Protected-Test-NPI-Imps-Post)
   * *Published on 23 Feb 2023*
 * [Protected: Test NPI Imps – Post 2](https://feeds.feedblitz.com/~/728393882/0/baeldung~Protected-Test-NPI-Imps-Post)
-  * *Published on 23 Feb 2023*
-* [Protected: Test NPI Imps – Post 1](https://feeds.feedblitz.com/~/728393885/0/baeldung~Protected-Test-NPI-Imps-Post)
-  * *Published on 23 Feb 2023*
-* [Map Date Types With OpenAPI Generator](https://feeds.feedblitz.com/~/728380826/0/baeldung~Map-Date-Types-With-OpenAPI-Generator)
   * *Published on 23 Feb 2023*
