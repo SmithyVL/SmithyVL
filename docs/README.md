@@ -239,13 +239,13 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [Download a Webpage in Java](https://feeds.feedblitz.com/~/728911364/0/baeldung~Download-a-Webpage-in-Java)
+  * *Published on 26 Feb 2023*
+* [How to Post Raw Body Data With cURL](https://feeds.feedblitz.com/~/728910014/0/baeldung~How-to-Post-Raw-Body-Data-With-cURL)
+  * *Published on 26 Feb 2023*
 * [Copying All Keys and Values From One Hashmap Onto Another Without Replacing Existing Keys and Values](https://feeds.feedblitz.com/~/728767244/0/baeldung~Copying-All-Keys-and-Values-From-One-Hashmap-Onto-Another-Without-Replacing-Existing-Keys-and-Values)
   * *Published on 25 Feb 2023*
 * [Java Weekly, Issue 478](https://feeds.feedblitz.com/~/728542754/0/baeldung~Java-Weekly-Issue)
   * *Published on 24 Feb 2023*
 * [Finding All Duplicates in a List in Java](https://feeds.feedblitz.com/~/728523383/0/baeldung~Finding-All-Duplicates-in-a-List-in-Java)
   * *Published on 24 Feb 2023*
-* [Protected: Test NPI Imps – Post 4](https://feeds.feedblitz.com/~/728393876/0/baeldung~Protected-Test-NPI-Imps-Post)
-  * *Published on 23 Feb 2023*
-* [Protected: Test NPI Imps – Post 3](https://feeds.feedblitz.com/~/728393879/0/baeldung~Protected-Test-NPI-Imps-Post)
-  * *Published on 23 Feb 2023*
