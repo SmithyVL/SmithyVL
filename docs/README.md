@@ -239,13 +239,13 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [Guide to Sending Post Request via cURL With Data From a File](https://feeds.feedblitz.com/~/729169079/0/baeldung~Guide-to-Sending-Post-Request-via-cURL-With-Data-From-a-File)
+  * *Published on 1 Mar 2023*
+* [Exclude a Dependency in a Maven Plugin](https://feeds.feedblitz.com/~/729167315/0/baeldung~Exclude-a-Dependency-in-a-Maven-Plugin)
+  * *Published on 1 Mar 2023*
+* [Pitfalls on Testing with Spring Boot](https://feeds.feedblitz.com/~/729167318/0/baeldung~Pitfalls-on-Testing-with-Spring-Boot)
+  * *Published on 1 Mar 2023*
 * [Download a Webpage in Java](https://feeds.feedblitz.com/~/728911364/0/baeldung~Download-a-Webpage-in-Java)
   * *Published on 26 Feb 2023*
 * [How to Post Raw Body Data With cURL](https://feeds.feedblitz.com/~/728910014/0/baeldung~How-to-Post-Raw-Body-Data-With-cURL)
   * *Published on 26 Feb 2023*
-* [Copying All Keys and Values From One Hashmap Onto Another Without Replacing Existing Keys and Values](https://feeds.feedblitz.com/~/728767244/0/baeldung~Copying-All-Keys-and-Values-From-One-Hashmap-Onto-Another-Without-Replacing-Existing-Keys-and-Values)
-  * *Published on 25 Feb 2023*
-* [Java Weekly, Issue 478](https://feeds.feedblitz.com/~/728542754/0/baeldung~Java-Weekly-Issue)
-  * *Published on 24 Feb 2023*
-* [Finding All Duplicates in a List in Java](https://feeds.feedblitz.com/~/728523383/0/baeldung~Finding-All-Duplicates-in-a-List-in-Java)
-  * *Published on 24 Feb 2023*
