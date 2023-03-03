@@ -239,6 +239,8 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [Debugging Spring Method Annotations Using Lightrun](https://feeds.feedblitz.com/~/729489977/0/baeldung~Debugging-Spring-Method-Annotations-Using-Lightrun)
+  * *Published on 2 Mar 2023*
 * [Guide to Java Project Panama](https://feeds.feedblitz.com/~/729383405/0/baeldung~Guide-to-Java-Project-Panama)
   * *Published on 1 Mar 2023*
 * [Guide to Sending Post Request via cURL With Data From a File](https://feeds.feedblitz.com/~/729169079/0/baeldung~Guide-to-Sending-Post-Request-via-cURL-With-Data-From-a-File)
@@ -247,5 +249,3 @@ No recent activity
   * *Published on 1 Mar 2023*
 * [Pitfalls on Testing with Spring Boot](https://feeds.feedblitz.com/~/729167318/0/baeldung~Pitfalls-on-Testing-with-Spring-Boot)
   * *Published on 1 Mar 2023*
-* [Download a Webpage in Java](https://feeds.feedblitz.com/~/728911364/0/baeldung~Download-a-Webpage-in-Java)
-  * *Published on 26 Feb 2023*
