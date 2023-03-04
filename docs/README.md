@@ -239,13 +239,13 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
-* [Debugging Spring Method Annotations Using Lightrun](https://feeds.feedblitz.com/~/729489977/0/baeldung~Debugging-Spring-Method-Annotations-Using-Lightrun)
-  * *Published on 2 Mar 2023*
-* [Guide to Java Project Panama](https://feeds.feedblitz.com/~/729383405/0/baeldung~Guide-to-Java-Project-Panama)
-  * *Published on 1 Mar 2023*
-* [Guide to Sending Post Request via cURL With Data From a File](https://feeds.feedblitz.com/~/729169079/0/baeldung~Guide-to-Sending-Post-Request-via-cURL-With-Data-From-a-File)
-  * *Published on 1 Mar 2023*
-* [Exclude a Dependency in a Maven Plugin](https://feeds.feedblitz.com/~/729167315/0/baeldung~Exclude-a-Dependency-in-a-Maven-Plugin)
-  * *Published on 1 Mar 2023*
-* [Pitfalls on Testing with Spring Boot](https://feeds.feedblitz.com/~/729167318/0/baeldung~Pitfalls-on-Testing-with-Spring-Boot)
-  * *Published on 1 Mar 2023*
+* [Getting Started With K3s](https://feeds.feedblitz.com/~/729731474/0/baeldung~Getting-Started-With-Ks)
+  * *Published on 4 Mar 2023*
+* [Change Date Inside a Docker Container](https://feeds.feedblitz.com/~/729729920/0/baeldung~Change-Date-Inside-a-Docker-Container)
+  * *Published on 4 Mar 2023*
+* [Get the Output of a Shell Command Executed Using Into a Variable in Jenkins Pipeline](https://feeds.feedblitz.com/~/729729923/0/baeldung~Get-the-Output-of-a-Shell-Command-Executed-Using-Into-a-Variable-in-Jenkins-Pipeline)
+  * *Published on 4 Mar 2023*
+* [Post form-url-encoded Data with Spring Cloud Feign](https://feeds.feedblitz.com/~/729729926/0/baeldung~Post-formurlencoded-Data-with-Spring-Cloud-Feign)
+  * *Published on 4 Mar 2023*
+* [Authenticating Users with AzureAD in Spring Boot](https://feeds.feedblitz.com/~/729726380/0/baeldung~Authenticating-Users-with-AzureAD-in-Spring-Boot)
+  * *Published on 4 Mar 2023*
