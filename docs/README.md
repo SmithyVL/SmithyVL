@@ -234,18 +234,21 @@
 
 ## 📋 Недавняя активность
 **[📰 Recent activity](https://github.com/SmithyVL)**
-No recent activity
+* ⏺️ Created new branch master in [HogwartsSchoolOfMagic/DiscordLeoBot](https://github.com/HogwartsSchoolOfMagic/DiscordLeoBot)
+  * *On 4 Mar 2023, 22:17:44*
+* ⏺️ Created new repository  [HogwartsSchoolOfMagic/DiscordLeoBot](https://github.com/HogwartsSchoolOfMagic/DiscordLeoBot)
+  * *On 4 Mar 2023, 22:17:44*
 
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
-* [Getting Started With K3s](https://feeds.feedblitz.com/~/729731474/0/baeldung~Getting-Started-With-Ks)
+* [Introduction to MicroK8s](https://feeds.feedblitz.com/~/729829679/0/baeldung~Introduction-to-MicroKs)
   * *Published on 4 Mar 2023*
-* [Change Date Inside a Docker Container](https://feeds.feedblitz.com/~/729729920/0/baeldung~Change-Date-Inside-a-Docker-Container)
+* [Introduction to Interface Driven Development (IDD)](https://feeds.feedblitz.com/~/729828404/0/baeldung~Introduction-to-Interface-Driven-Development-IDD)
   * *Published on 4 Mar 2023*
-* [Get the Output of a Shell Command Executed Using Into a Variable in Jenkins Pipeline](https://feeds.feedblitz.com/~/729729923/0/baeldung~Get-the-Output-of-a-Shell-Command-Executed-Using-Into-a-Variable-in-Jenkins-Pipeline)
+* [Pipeline Design Pattern in Java](https://feeds.feedblitz.com/~/729826547/0/baeldung~Pipeline-Design-Pattern-in-Java)
   * *Published on 4 Mar 2023*
-* [Post form-url-encoded Data with Spring Cloud Feign](https://feeds.feedblitz.com/~/729729926/0/baeldung~Post-formurlencoded-Data-with-Spring-Cloud-Feign)
+* [Implementing toString() on enums in Java](https://feeds.feedblitz.com/~/729814763/0/baeldung~Implementing-toString-on-enums-in-Java)
   * *Published on 4 Mar 2023*
-* [Authenticating Users with AzureAD in Spring Boot](https://feeds.feedblitz.com/~/729726380/0/baeldung~Authenticating-Users-with-AzureAD-in-Spring-Boot)
+* [Different Ways to Create an Object in Java](https://feeds.feedblitz.com/~/729813215/0/baeldung~Different-Ways-to-Create-an-Object-in-Java)
   * *Published on 4 Mar 2023*
