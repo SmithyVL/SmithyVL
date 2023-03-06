@@ -234,6 +234,9 @@
 
 ## 📋 Недавняя активность
 **[📰 Recent activity](https://github.com/SmithyVL)**
+* ➡️ Pushed 1 commit in [HogwartsSchoolOfMagic/DiscordLeoBot](https://github.com/HogwartsSchoolOfMagic/DiscordLeoBot) on branch `master`
+  * [#05da3d7](https://github.com/HogwartsSchoolOfMagic/DiscordLeoBot/commit/05da3d7) Initial commit
+  * *On 5 Mar 2023, 21:16:41*
 * ⏺️ Created new branch master in [HogwartsSchoolOfMagic/DiscordLeoBot](https://github.com/HogwartsSchoolOfMagic/DiscordLeoBot)
   * *On 4 Mar 2023, 22:17:44*
 * ⏺️ Created new repository  [HogwartsSchoolOfMagic/DiscordLeoBot](https://github.com/HogwartsSchoolOfMagic/DiscordLeoBot)
@@ -242,6 +245,8 @@
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [Service Profiles in Docker](https://feeds.feedblitz.com/~/729974291/0/baeldung~Service-Profiles-in-Docker)
+  * *Published on 6 Mar 2023*
 * [Introduction to MicroK8s](https://feeds.feedblitz.com/~/729829679/0/baeldung~Introduction-to-MicroKs)
   * *Published on 4 Mar 2023*
 * [Introduction to Interface Driven Development (IDD)](https://feeds.feedblitz.com/~/729828404/0/baeldung~Introduction-to-Interface-Driven-Development-IDD)
@@ -249,6 +254,4 @@
 * [Pipeline Design Pattern in Java](https://feeds.feedblitz.com/~/729826547/0/baeldung~Pipeline-Design-Pattern-in-Java)
   * *Published on 4 Mar 2023*
 * [Implementing toString() on enums in Java](https://feeds.feedblitz.com/~/729814763/0/baeldung~Implementing-toString-on-enums-in-Java)
-  * *Published on 4 Mar 2023*
-* [Different Ways to Create an Object in Java](https://feeds.feedblitz.com/~/729813215/0/baeldung~Different-Ways-to-Create-an-Object-in-Java)
   * *Published on 4 Mar 2023*
