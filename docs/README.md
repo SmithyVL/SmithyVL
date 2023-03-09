@@ -245,6 +245,8 @@
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [Running Stages in Parallel With Jenkins Workflow / Pipeline](https://feeds.feedblitz.com/~/730362002/0/baeldung~Running-Stages-in-Parallel-With-Jenkins-Workflow-Pipeline)
+  * *Published on 8 Mar 2023*
 * [Service Profiles in Docker](https://feeds.feedblitz.com/~/729974291/0/baeldung~Service-Profiles-in-Docker)
   * *Published on 6 Mar 2023*
 * [Introduction to MicroK8s](https://feeds.feedblitz.com/~/729829679/0/baeldung~Introduction-to-MicroKs)
@@ -252,6 +254,4 @@
 * [Introduction to Interface Driven Development (IDD)](https://feeds.feedblitz.com/~/729828404/0/baeldung~Introduction-to-Interface-Driven-Development-IDD)
   * *Published on 4 Mar 2023*
 * [Pipeline Design Pattern in Java](https://feeds.feedblitz.com/~/729826547/0/baeldung~Pipeline-Design-Pattern-in-Java)
-  * *Published on 4 Mar 2023*
-* [Implementing toString() on enums in Java](https://feeds.feedblitz.com/~/729814763/0/baeldung~Implementing-toString-on-enums-in-Java)
   * *Published on 4 Mar 2023*
