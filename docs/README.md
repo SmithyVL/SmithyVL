@@ -235,6 +235,9 @@
 ## 📋 Недавняя активность
 **[📰 Recent activity](https://github.com/SmithyVL)**
 * ➡️ Pushed 1 commit in [HogwartsSchoolOfMagic/DiscordLeoBot](https://github.com/HogwartsSchoolOfMagic/DiscordLeoBot) on branch `master`
+  * [#9e04ceb](https://github.com/HogwartsSchoolOfMagic/DiscordLeoBot/commit/9e04ceb) Initial commit
+  * *On 11 Mar 2023, 00:03:00*
+* ➡️ Pushed 1 commit in [HogwartsSchoolOfMagic/DiscordLeoBot](https://github.com/HogwartsSchoolOfMagic/DiscordLeoBot) on branch `master`
   * [#45e665b](https://github.com/HogwartsSchoolOfMagic/DiscordLeoBot/commit/45e665b) Initial commit
   * *On 9 Mar 2023, 23:49:23*
 * ➡️ Pushed 1 commit in [HogwartsSchoolOfMagic/DiscordLeoBot](https://github.com/HogwartsSchoolOfMagic/DiscordLeoBot) on branch `master`
@@ -245,19 +248,17 @@
 * ➡️ Pushed 1 commit in [HogwartsSchoolOfMagic/DiscordLeoBot](https://github.com/HogwartsSchoolOfMagic/DiscordLeoBot) on branch `master`
   * [#05da3d7](https://github.com/HogwartsSchoolOfMagic/DiscordLeoBot/commit/05da3d7) Initial commit
   * *On 5 Mar 2023, 21:16:41*
-* ⏺️ Created new branch master in [HogwartsSchoolOfMagic/DiscordLeoBot](https://github.com/HogwartsSchoolOfMagic/DiscordLeoBot)
-  * *On 4 Mar 2023, 22:17:44*
 
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [Java Weekly, Issue 480](https://feeds.feedblitz.com/~/730609868/0/baeldung~Java-Weekly-Issue)
+  * *Published on 10 Mar 2023*
+* [Anemic vs. Rich Domain Objects](https://feeds.feedblitz.com/~/730553861/0/baeldung~Anemic-vs-Rich-Domain-Objects)
+  * *Published on 10 Mar 2023*
+* [Custom Constructor in Java Records](https://feeds.feedblitz.com/~/730553864/0/baeldung~Custom-Constructor-in-Java-Records)
+  * *Published on 10 Mar 2023*
 * [Running Stages in Parallel With Jenkins Workflow / Pipeline](https://feeds.feedblitz.com/~/730362002/0/baeldung~Running-Stages-in-Parallel-With-Jenkins-Workflow-Pipeline)
   * *Published on 8 Mar 2023*
 * [Service Profiles in Docker](https://feeds.feedblitz.com/~/729974291/0/baeldung~Service-Profiles-in-Docker)
   * *Published on 6 Mar 2023*
-* [Introduction to MicroK8s](https://feeds.feedblitz.com/~/729829679/0/baeldung~Introduction-to-MicroKs)
-  * *Published on 4 Mar 2023*
-* [Introduction to Interface Driven Development (IDD)](https://feeds.feedblitz.com/~/729828404/0/baeldung~Introduction-to-Interface-Driven-Development-IDD)
-  * *Published on 4 Mar 2023*
-* [Pipeline Design Pattern in Java](https://feeds.feedblitz.com/~/729826547/0/baeldung~Pipeline-Design-Pattern-in-Java)
-  * *Published on 4 Mar 2023*
