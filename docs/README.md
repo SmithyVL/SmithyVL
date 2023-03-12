@@ -235,6 +235,9 @@
 ## 📋 Недавняя активность
 **[📰 Recent activity](https://github.com/SmithyVL)**
 * ➡️ Pushed 1 commit in [HogwartsSchoolOfMagic/DiscordLeoBot](https://github.com/HogwartsSchoolOfMagic/DiscordLeoBot) on branch `master`
+  * [#f33fbaf](https://github.com/HogwartsSchoolOfMagic/DiscordLeoBot/commit/f33fbaf) Initial commit
+  * *On 12 Mar 2023, 00:26:48*
+* ➡️ Pushed 1 commit in [HogwartsSchoolOfMagic/DiscordLeoBot](https://github.com/HogwartsSchoolOfMagic/DiscordLeoBot) on branch `master`
   * [#9e04ceb](https://github.com/HogwartsSchoolOfMagic/DiscordLeoBot/commit/9e04ceb) Initial commit
   * *On 11 Mar 2023, 00:03:00*
 * ➡️ Pushed 1 commit in [HogwartsSchoolOfMagic/DiscordLeoBot](https://github.com/HogwartsSchoolOfMagic/DiscordLeoBot) on branch `master`
@@ -245,20 +248,17 @@
   * *On 9 Mar 2023, 22:30:21*
 * 🌟 Starred [kordlib/kord](https://github.com/kordlib/kord)
   * *On 9 Mar 2023, 17:24:38*
-* ➡️ Pushed 1 commit in [HogwartsSchoolOfMagic/DiscordLeoBot](https://github.com/HogwartsSchoolOfMagic/DiscordLeoBot) on branch `master`
-  * [#05da3d7](https://github.com/HogwartsSchoolOfMagic/DiscordLeoBot/commit/05da3d7) Initial commit
-  * *On 5 Mar 2023, 21:16:41*
 
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
-* [Java Weekly, Issue 480](https://feeds.feedblitz.com/~/730609868/0/baeldung~Java-Weekly-Issue)
-  * *Published on 10 Mar 2023*
-* [Anemic vs. Rich Domain Objects](https://feeds.feedblitz.com/~/730553861/0/baeldung~Anemic-vs-Rich-Domain-Objects)
-  * *Published on 10 Mar 2023*
-* [Custom Constructor in Java Records](https://feeds.feedblitz.com/~/730553864/0/baeldung~Custom-Constructor-in-Java-Records)
-  * *Published on 10 Mar 2023*
-* [Running Stages in Parallel With Jenkins Workflow / Pipeline](https://feeds.feedblitz.com/~/730362002/0/baeldung~Running-Stages-in-Parallel-With-Jenkins-Workflow-Pipeline)
-  * *Published on 8 Mar 2023*
-* [Service Profiles in Docker](https://feeds.feedblitz.com/~/729974291/0/baeldung~Service-Profiles-in-Docker)
-  * *Published on 6 Mar 2023*
+* [Can Stream.collect() Return the null Value?](https://feeds.feedblitz.com/~/730689830/0/baeldung~Can-Streamcollect-Return-the-null-Value)
+  * *Published on 11 Mar 2023*
+* [Moving Items Around in an Arraylist](https://feeds.feedblitz.com/~/730689833/0/baeldung~Moving-Items-Around-in-an-Arraylist)
+  * *Published on 11 Mar 2023*
+* [API First Development with Spring Boot and OpenAPI 3.0](https://feeds.feedblitz.com/~/730689836/0/baeldung~API-First-Development-with-Spring-Boot-and-OpenAPI)
+  * *Published on 11 Mar 2023*
+* [Maven Reactor](https://feeds.feedblitz.com/~/730688582/0/baeldung~Maven-Reactor)
+  * *Published on 11 Mar 2023*
+* [Handle Duplicate Keys When Producing Map Using Java Stream](https://feeds.feedblitz.com/~/730687217/0/baeldung~Handle-Duplicate-Keys-When-Producing-Map-Using-Java-Stream)
+  * *Published on 11 Mar 2023*
