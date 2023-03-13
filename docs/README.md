@@ -235,6 +235,9 @@
 ## 📋 Недавняя активность
 **[📰 Recent activity](https://github.com/SmithyVL)**
 * ➡️ Pushed 1 commit in [HogwartsSchoolOfMagic/DiscordLeoBot](https://github.com/HogwartsSchoolOfMagic/DiscordLeoBot) on branch `master`
+  * [#bc91976](https://github.com/HogwartsSchoolOfMagic/DiscordLeoBot/commit/bc91976) Initial commit
+  * *On 12 Mar 2023, 22:58:55*
+* ➡️ Pushed 1 commit in [HogwartsSchoolOfMagic/DiscordLeoBot](https://github.com/HogwartsSchoolOfMagic/DiscordLeoBot) on branch `master`
   * [#f33fbaf](https://github.com/HogwartsSchoolOfMagic/DiscordLeoBot/commit/f33fbaf) Initial commit
   * *On 12 Mar 2023, 00:26:48*
 * ➡️ Pushed 1 commit in [HogwartsSchoolOfMagic/DiscordLeoBot](https://github.com/HogwartsSchoolOfMagic/DiscordLeoBot) on branch `master`
@@ -246,12 +249,12 @@
 * ➡️ Pushed 1 commit in [HogwartsSchoolOfMagic/DiscordLeoBot](https://github.com/HogwartsSchoolOfMagic/DiscordLeoBot) on branch `master`
   * [#fe352a0](https://github.com/HogwartsSchoolOfMagic/DiscordLeoBot/commit/fe352a0) Initial commit
   * *On 9 Mar 2023, 22:30:21*
-* 🌟 Starred [kordlib/kord](https://github.com/kordlib/kord)
-  * *On 9 Mar 2023, 17:24:38*
 
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [Get the Desktop Path in Java](https://feeds.feedblitz.com/~/730815554/0/baeldung~Get-the-Desktop-Path-in-Java)
+  * *Published on 12 Mar 2023*
 * [Can Stream.collect() Return the null Value?](https://feeds.feedblitz.com/~/730689830/0/baeldung~Can-Streamcollect-Return-the-null-Value)
   * *Published on 11 Mar 2023*
 * [Moving Items Around in an Arraylist](https://feeds.feedblitz.com/~/730689833/0/baeldung~Moving-Items-Around-in-an-Arraylist)
@@ -259,6 +262,4 @@
 * [API First Development with Spring Boot and OpenAPI 3.0](https://feeds.feedblitz.com/~/730689836/0/baeldung~API-First-Development-with-Spring-Boot-and-OpenAPI)
   * *Published on 11 Mar 2023*
 * [Maven Reactor](https://feeds.feedblitz.com/~/730688582/0/baeldung~Maven-Reactor)
-  * *Published on 11 Mar 2023*
-* [Handle Duplicate Keys When Producing Map Using Java Stream](https://feeds.feedblitz.com/~/730687217/0/baeldung~Handle-Duplicate-Keys-When-Producing-Map-Using-Java-Stream)
   * *Published on 11 Mar 2023*
