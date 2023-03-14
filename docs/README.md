@@ -235,6 +235,9 @@
 ## 📋 Недавняя активность
 **[📰 Recent activity](https://github.com/SmithyVL)**
 * ➡️ Pushed 1 commit in [HogwartsSchoolOfMagic/DiscordLeoBot](https://github.com/HogwartsSchoolOfMagic/DiscordLeoBot) on branch `master`
+  * [#a8663b3](https://github.com/HogwartsSchoolOfMagic/DiscordLeoBot/commit/a8663b3) Initial commit
+  * *On 13 Mar 2023, 23:59:35*
+* ➡️ Pushed 1 commit in [HogwartsSchoolOfMagic/DiscordLeoBot](https://github.com/HogwartsSchoolOfMagic/DiscordLeoBot) on branch `master`
   * [#bc91976](https://github.com/HogwartsSchoolOfMagic/DiscordLeoBot/commit/bc91976) Initial commit
   * *On 12 Mar 2023, 22:58:55*
 * ➡️ Pushed 1 commit in [HogwartsSchoolOfMagic/DiscordLeoBot](https://github.com/HogwartsSchoolOfMagic/DiscordLeoBot) on branch `master`
@@ -246,20 +249,17 @@
 * ➡️ Pushed 1 commit in [HogwartsSchoolOfMagic/DiscordLeoBot](https://github.com/HogwartsSchoolOfMagic/DiscordLeoBot) on branch `master`
   * [#45e665b](https://github.com/HogwartsSchoolOfMagic/DiscordLeoBot/commit/45e665b) Initial commit
   * *On 9 Mar 2023, 23:49:23*
-* ➡️ Pushed 1 commit in [HogwartsSchoolOfMagic/DiscordLeoBot](https://github.com/HogwartsSchoolOfMagic/DiscordLeoBot) on branch `master`
-  * [#fe352a0](https://github.com/HogwartsSchoolOfMagic/DiscordLeoBot/commit/fe352a0) Initial commit
-  * *On 9 Mar 2023, 22:30:21*
 
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [Testing Spring OAuth2 Access-Control](https://feeds.feedblitz.com/~/730994351/0/baeldung~Testing-Spring-OAuth-AccessControl)
+  * *Published on 13 Mar 2023*
+* [Add Field to an Existing MongoDB Bson Filter in Java](https://feeds.feedblitz.com/~/730972331/0/baeldung~Add-Field-to-an-Existing-MongoDB-Bson-Filter-in-Java)
+  * *Published on 13 Mar 2023*
+* [TRUNCATE TABLE in Spring Data JPA](https://feeds.feedblitz.com/~/730972334/0/baeldung~TRUNCATE-TABLE-in-Spring-Data-JPA)
+  * *Published on 13 Mar 2023*
 * [Get the Desktop Path in Java](https://feeds.feedblitz.com/~/730815554/0/baeldung~Get-the-Desktop-Path-in-Java)
   * *Published on 12 Mar 2023*
 * [Can Stream.collect() Return the null Value?](https://feeds.feedblitz.com/~/730689830/0/baeldung~Can-Streamcollect-Return-the-null-Value)
-  * *Published on 11 Mar 2023*
-* [Moving Items Around in an Arraylist](https://feeds.feedblitz.com/~/730689833/0/baeldung~Moving-Items-Around-in-an-Arraylist)
-  * *Published on 11 Mar 2023*
-* [API First Development with Spring Boot and OpenAPI 3.0](https://feeds.feedblitz.com/~/730689836/0/baeldung~API-First-Development-with-Spring-Boot-and-OpenAPI)
-  * *Published on 11 Mar 2023*
-* [Maven Reactor](https://feeds.feedblitz.com/~/730688582/0/baeldung~Maven-Reactor)
   * *Published on 11 Mar 2023*
