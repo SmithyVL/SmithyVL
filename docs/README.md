@@ -235,31 +235,31 @@
 ## 📋 Недавняя активность
 **[📰 Recent activity](https://github.com/SmithyVL)**
 * ➡️ Pushed 1 commit in [HogwartsSchoolOfMagic/DiscordLeoBot](https://github.com/HogwartsSchoolOfMagic/DiscordLeoBot) on branch `master`
-  * [#90bf9f0](https://github.com/HogwartsSchoolOfMagic/DiscordLeoBot/commit/90bf9f0) Initial commit
-  * *On 14 Mar 2023, 22:01:50*
+  * [#48878fb](https://github.com/HogwartsSchoolOfMagic/DiscordLeoBot/commit/48878fb) Initial commit
+  * *On 15 Mar 2023, 23:22:20*
 * ➡️ Pushed 1 commit in [HogwartsSchoolOfMagic/DiscordLeoBot](https://github.com/HogwartsSchoolOfMagic/DiscordLeoBot) on branch `master`
-  * [#c75575a](https://github.com/HogwartsSchoolOfMagic/DiscordLeoBot/commit/c75575a) Initial commit
-  * *On 14 Mar 2023, 21:53:31*
+  * [#66c5ef3](https://github.com/HogwartsSchoolOfMagic/DiscordLeoBot/commit/66c5ef3) Initial commit
+  * *On 15 Mar 2023, 23:14:42*
 * ➡️ Pushed 1 commit in [HogwartsSchoolOfMagic/DiscordLeoBot](https://github.com/HogwartsSchoolOfMagic/DiscordLeoBot) on branch `master`
-  * [#c368311](https://github.com/HogwartsSchoolOfMagic/DiscordLeoBot/commit/c368311) Initial commit
-  * *On 14 Mar 2023, 17:19:04*
+  * [#826c48a](https://github.com/HogwartsSchoolOfMagic/DiscordLeoBot/commit/826c48a) Initial commit
+  * *On 15 Mar 2023, 23:13:00*
 * ➡️ Pushed 1 commit in [HogwartsSchoolOfMagic/DiscordLeoBot](https://github.com/HogwartsSchoolOfMagic/DiscordLeoBot) on branch `master`
-  * [#a17440a](https://github.com/HogwartsSchoolOfMagic/DiscordLeoBot/commit/a17440a) Initial commit
-  * *On 14 Mar 2023, 17:11:58*
+  * [#57117df](https://github.com/HogwartsSchoolOfMagic/DiscordLeoBot/commit/57117df) Initial commit
+  * *On 15 Mar 2023, 23:12:07*
 * ➡️ Pushed 1 commit in [HogwartsSchoolOfMagic/DiscordLeoBot](https://github.com/HogwartsSchoolOfMagic/DiscordLeoBot) on branch `master`
-  * [#a8663b3](https://github.com/HogwartsSchoolOfMagic/DiscordLeoBot/commit/a8663b3) Initial commit
-  * *On 13 Mar 2023, 23:59:35*
+  * [#f442fa9](https://github.com/HogwartsSchoolOfMagic/DiscordLeoBot/commit/f442fa9) Initial commit
+  * *On 15 Mar 2023, 18:02:08*
 
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [Configuring Spring Cloud FeignClient URL](https://feeds.feedblitz.com/~/731330516/0/baeldung~Configuring-Spring-Cloud-FeignClient-URL)
+  * *Published on 16 Mar 2023*
+* [UUID vs. Sequential ID as Primary Key](https://feeds.feedblitz.com/~/731329034/0/baeldung~UUID-vs-Sequential-ID-as-Primary-Key)
+  * *Published on 16 Mar 2023*
+* [How to configure Redis TTL with Spring Data Redis?](https://feeds.feedblitz.com/~/731329037/0/baeldung~How-to-configure-Redis-TTL-with-Spring-Data-Redis)
+  * *Published on 16 Mar 2023*
+* [How to Get Java Heap Dump From Kubernetes Pod?](https://feeds.feedblitz.com/~/731221691/0/baeldung~How-to-Get-Java-Heap-Dump-From-Kubernetes-Pod)
+  * *Published on 15 Mar 2023*
 * [Difference Between Javac and the Eclipse Compiler](https://feeds.feedblitz.com/~/731169743/0/baeldung~Difference-Between-Javac-and-the-Eclipse-Compiler)
   * *Published on 14 Mar 2023*
-* [New CRUD Repository Interfaces in Spring Data 3](https://feeds.feedblitz.com/~/731164382/0/baeldung~New-CRUD-Repository-Interfaces-in-Spring-Data)
-  * *Published on 14 Mar 2023*
-* [Testing Spring OAuth2 Access-Control](https://feeds.feedblitz.com/~/730994351/0/baeldung~Testing-Spring-OAuth-AccessControl)
-  * *Published on 13 Mar 2023*
-* [Add Field to an Existing MongoDB Bson Filter in Java](https://feeds.feedblitz.com/~/730972331/0/baeldung~Add-Field-to-an-Existing-MongoDB-Bson-Filter-in-Java)
-  * *Published on 13 Mar 2023*
-* [TRUNCATE TABLE in Spring Data JPA](https://feeds.feedblitz.com/~/730972334/0/baeldung~TRUNCATE-TABLE-in-Spring-Data-JPA)
-  * *Published on 13 Mar 2023*
