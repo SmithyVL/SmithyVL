@@ -234,25 +234,24 @@
 
 ## 📋 Недавняя активность
 **[📰 Recent activity](https://github.com/SmithyVL)**
+* ⏺️ Created new branch feature/3 in [HogwartsSchoolOfMagic/DiscordLeoBot](https://github.com/HogwartsSchoolOfMagic/DiscordLeoBot)
+  * *On 17 Mar 2023, 17:47:07*
+* #️⃣ Opened [#3 Создание сущности в БД - `Владельцы серверов`](https://github.com/HogwartsSchoolOfMagic/DiscordLeoBot/issues/3) in [HogwartsSchoolOfMagic/DiscordLeoBot](https://github.com/HogwartsSchoolOfMagic/DiscordLeoBot)
+  * *On 17 Mar 2023, 17:42:25*
 * ➡️ Pushed 1 commit in [HogwartsSchoolOfMagic/DiscordLeoBot](https://github.com/HogwartsSchoolOfMagic/DiscordLeoBot) on branch `master`
-  * [#1cc2811](https://github.com/HogwartsSchoolOfMagic/DiscordLeoBot/commit/1cc2811) Initial commit
-  * *On 16 Mar 2023, 23:44:52*
+  * [#b651cd8](https://github.com/HogwartsSchoolOfMagic/DiscordLeoBot/commit/b651cd8) Initial commit
+  * *On 17 Mar 2023, 16:34:22*
 * ➡️ Pushed 1 commit in [HogwartsSchoolOfMagic/DiscordLeoBot](https://github.com/HogwartsSchoolOfMagic/DiscordLeoBot) on branch `master`
-  * [#48878fb](https://github.com/HogwartsSchoolOfMagic/DiscordLeoBot/commit/48878fb) Initial commit
-  * *On 15 Mar 2023, 23:22:20*
-* ➡️ Pushed 1 commit in [HogwartsSchoolOfMagic/DiscordLeoBot](https://github.com/HogwartsSchoolOfMagic/DiscordLeoBot) on branch `master`
-  * [#66c5ef3](https://github.com/HogwartsSchoolOfMagic/DiscordLeoBot/commit/66c5ef3) Initial commit
-  * *On 15 Mar 2023, 23:14:42*
-* ➡️ Pushed 1 commit in [HogwartsSchoolOfMagic/DiscordLeoBot](https://github.com/HogwartsSchoolOfMagic/DiscordLeoBot) on branch `master`
-  * [#826c48a](https://github.com/HogwartsSchoolOfMagic/DiscordLeoBot/commit/826c48a) Initial commit
-  * *On 15 Mar 2023, 23:13:00*
-* ➡️ Pushed 1 commit in [HogwartsSchoolOfMagic/DiscordLeoBot](https://github.com/HogwartsSchoolOfMagic/DiscordLeoBot) on branch `master`
-  * [#57117df](https://github.com/HogwartsSchoolOfMagic/DiscordLeoBot/commit/57117df) Initial commit
-  * *On 15 Mar 2023, 23:12:07*
+  * [#f16cd2e](https://github.com/HogwartsSchoolOfMagic/DiscordLeoBot/commit/f16cd2e) Initial commit
+  * *On 17 Mar 2023, 16:30:11*
+* #️⃣ Opened [#2 [BUG] Короткое название ошибки.](https://github.com/HogwartsSchoolOfMagic/DiscordLeoBot/issues/2) in [HogwartsSchoolOfMagic/DiscordLeoBot](https://github.com/HogwartsSchoolOfMagic/DiscordLeoBot)
+  * *On 17 Mar 2023, 12:46:47*
 
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [Java Weekly, Issue 481](https://feeds.feedblitz.com/~/731544134/0/baeldung~Java-Weekly-Issue)
+  * *Published on 17 Mar 2023*
 * [Configuring Spring Cloud FeignClient URL](https://feeds.feedblitz.com/~/731330516/0/baeldung~Configuring-Spring-Cloud-FeignClient-URL)
   * *Published on 16 Mar 2023*
 * [UUID vs. Sequential ID as Primary Key](https://feeds.feedblitz.com/~/731329034/0/baeldung~UUID-vs-Sequential-ID-as-Primary-Key)
@@ -261,5 +260,3 @@
   * *Published on 16 Mar 2023*
 * [How to Get Java Heap Dump From Kubernetes Pod?](https://feeds.feedblitz.com/~/731221691/0/baeldung~How-to-Get-Java-Heap-Dump-From-Kubernetes-Pod)
   * *Published on 15 Mar 2023*
-* [Difference Between Javac and the Eclipse Compiler](https://feeds.feedblitz.com/~/731169743/0/baeldung~Difference-Between-Javac-and-the-Eclipse-Compiler)
-  * *Published on 14 Mar 2023*
