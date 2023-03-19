@@ -250,6 +250,8 @@
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [Difference Between Fluent Interface and Builder Pattern in Java](https://feeds.feedblitz.com/~/731656727/0/baeldung~Difference-Between-Fluent-Interface-and-Builder-Pattern-in-Java)
+  * *Published on 18 Mar 2023*
 * [Java Weekly, Issue 481](https://feeds.feedblitz.com/~/731544134/0/baeldung~Java-Weekly-Issue)
   * *Published on 17 Mar 2023*
 * [Configuring Spring Cloud FeignClient URL](https://feeds.feedblitz.com/~/731330516/0/baeldung~Configuring-Spring-Cloud-FeignClient-URL)
@@ -258,5 +260,3 @@
   * *Published on 16 Mar 2023*
 * [How to configure Redis TTL with Spring Data Redis?](https://feeds.feedblitz.com/~/731329037/0/baeldung~How-to-configure-Redis-TTL-with-Spring-Data-Redis)
   * *Published on 16 Mar 2023*
-* [How to Get Java Heap Dump From Kubernetes Pod?](https://feeds.feedblitz.com/~/731221691/0/baeldung~How-to-Get-Java-Heap-Dump-From-Kubernetes-Pod)
-  * *Published on 15 Mar 2023*
