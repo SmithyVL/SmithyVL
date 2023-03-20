@@ -234,18 +234,21 @@
 
 ## 📋 Недавняя активность
 **[📰 Recent activity](https://github.com/SmithyVL)**
-* ⏺️ Created new branch feature/3 in [HogwartsSchoolOfMagic/DiscordLeoBot](https://github.com/HogwartsSchoolOfMagic/DiscordLeoBot)
-  * *On 17 Mar 2023, 17:47:07*
-* #️⃣ Opened [#3 Создание сущности в БД - `Владельцы серверов`](https://github.com/HogwartsSchoolOfMagic/DiscordLeoBot/issues/3) in [HogwartsSchoolOfMagic/DiscordLeoBot](https://github.com/HogwartsSchoolOfMagic/DiscordLeoBot)
-  * *On 17 Mar 2023, 17:42:25*
 * ➡️ Pushed 1 commit in [HogwartsSchoolOfMagic/DiscordLeoBot](https://github.com/HogwartsSchoolOfMagic/DiscordLeoBot) on branch `master`
-  * [#b651cd8](https://github.com/HogwartsSchoolOfMagic/DiscordLeoBot/commit/b651cd8) Initial commit
-  * *On 17 Mar 2023, 16:34:22*
+  * [#01f1927](https://github.com/HogwartsSchoolOfMagic/DiscordLeoBot/commit/01f1927) Initial commit
+  * *On 20 Mar 2023, 00:26:38*
 * ➡️ Pushed 1 commit in [HogwartsSchoolOfMagic/DiscordLeoBot](https://github.com/HogwartsSchoolOfMagic/DiscordLeoBot) on branch `master`
-  * [#f16cd2e](https://github.com/HogwartsSchoolOfMagic/DiscordLeoBot/commit/f16cd2e) Initial commit
-  * *On 17 Mar 2023, 16:30:11*
-* #️⃣ Opened [#2 [BUG] Короткое название ошибки.](https://github.com/HogwartsSchoolOfMagic/DiscordLeoBot/issues/2) in [HogwartsSchoolOfMagic/DiscordLeoBot](https://github.com/HogwartsSchoolOfMagic/DiscordLeoBot)
-  * *On 17 Mar 2023, 12:46:47*
+  * [#08c7e96](https://github.com/HogwartsSchoolOfMagic/DiscordLeoBot/commit/08c7e96) Initial commit
+  * *On 20 Mar 2023, 00:23:37*
+* ➡️ Pushed 1 commit in [HogwartsSchoolOfMagic/DiscordLeoBot](https://github.com/HogwartsSchoolOfMagic/DiscordLeoBot) on branch `master`
+  * [#7c69358](https://github.com/HogwartsSchoolOfMagic/DiscordLeoBot/commit/7c69358) Initial commit
+  * *On 20 Mar 2023, 00:08:31*
+* ➡️ Pushed 1 commit in [HogwartsSchoolOfMagic/DiscordLeoBot](https://github.com/HogwartsSchoolOfMagic/DiscordLeoBot) on branch `master`
+  * [#1c9360e](https://github.com/HogwartsSchoolOfMagic/DiscordLeoBot/commit/1c9360e) Initial commit
+  * *On 20 Mar 2023, 00:05:09*
+* ➡️ Pushed 1 commit in [HogwartsSchoolOfMagic/DiscordLeoBot](https://github.com/HogwartsSchoolOfMagic/DiscordLeoBot) on branch `master`
+  * [#6f0418e](https://github.com/HogwartsSchoolOfMagic/DiscordLeoBot/commit/6f0418e) Initial commit
+  * *On 19 Mar 2023, 23:59:19*
 
 
 ## 📰 Новостная лента
