@@ -253,13 +253,13 @@
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [Difference Between Deployment and ReplicaSet in Kubernetes](https://feeds.feedblitz.com/~/732319841/0/baeldung~Difference-Between-Deployment-and-ReplicaSet-in-Kubernetes)
+  * *Published on 22 Mar 2023*
+* [Using Java Records with JPA](https://feeds.feedblitz.com/~/732318713/0/baeldung~Using-Java-Records-with-JPA)
+  * *Published on 22 Mar 2023*
 * [Change Swagger-UI URL prefix](https://feeds.feedblitz.com/~/732049115/0/baeldung~Change-SwaggerUI-URL-prefix)
   * *Published on 20 Mar 2023*
 * [Load Testing Rest Endpoint Using Gatling](https://feeds.feedblitz.com/~/732047510/0/baeldung~Load-Testing-Rest-Endpoint-Using-Gatling)
   * *Published on 20 Mar 2023*
 * [JetBrains @Contract Annotation](https://feeds.feedblitz.com/~/732047513/0/baeldung~JetBrains-Contract-Annotation)
   * *Published on 20 Mar 2023*
-* [Difference Between Fluent Interface and Builder Pattern in Java](https://feeds.feedblitz.com/~/731656727/0/baeldung~Difference-Between-Fluent-Interface-and-Builder-Pattern-in-Java)
-  * *Published on 18 Mar 2023*
-* [Java Weekly, Issue 481](https://feeds.feedblitz.com/~/731544134/0/baeldung~Java-Weekly-Issue)
-  * *Published on 17 Mar 2023*
