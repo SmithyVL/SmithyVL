@@ -251,13 +251,13 @@
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [Java Weekly, Issue 482](https://feeds.feedblitz.com/~/732599528/0/baeldung~Java-Weekly-Issue)
+  * *Published on 24 Mar 2023*
+* [Run a Spring Boot Application in AWS Lambda](https://feeds.feedblitz.com/~/732562607/0/baeldung~Run-a-Spring-Boot-Application-in-AWS-Lambda)
+  * *Published on 24 Mar 2023*
+* [Find the N Most Frequent Elements in a Java Array](https://feeds.feedblitz.com/~/732561509/0/baeldung~Find-the-N-Most-Frequent-Elements-in-a-Java-Array)
+  * *Published on 24 Mar 2023*
+* [Spring R2DBC Migrations Using Flyway](https://feeds.feedblitz.com/~/732559919/0/baeldung~Spring-RDBC-Migrations-Using-Flyway)
+  * *Published on 24 Mar 2023*
 * [Difference Between Pod and Container in Kubernetes](https://feeds.feedblitz.com/~/732426548/0/baeldung~Difference-Between-Pod-and-Container-in-Kubernetes)
   * *Published on 23 Mar 2023*
-* [Introduction to QuestDB](https://feeds.feedblitz.com/~/732425537/0/baeldung~Introduction-to-QuestDB)
-  * *Published on 23 Mar 2023*
-* [Convert a Number to a Letter in Java](https://feeds.feedblitz.com/~/732425540/0/baeldung~Convert-a-Number-to-a-Letter-in-Java)
-  * *Published on 23 Mar 2023*
-* [Spring Kafka: Configure Multiple Listeners on Same Topic](https://feeds.feedblitz.com/~/732423968/0/baeldung~Spring-Kafka-Configure-Multiple-Listeners-on-Same-Topic)
-  * *Published on 23 Mar 2023*
-* [Difference Between Deployment and ReplicaSet in Kubernetes](https://feeds.feedblitz.com/~/732319841/0/baeldung~Difference-Between-Deployment-and-ReplicaSet-in-Kubernetes)
-  * *Published on 22 Mar 2023*
