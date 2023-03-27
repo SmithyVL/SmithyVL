@@ -251,13 +251,13 @@
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
-* [Java Weekly, Issue 482](https://feeds.feedblitz.com/~/732599528/0/baeldung~Java-Weekly-Issue)
-  * *Published on 24 Mar 2023*
-* [Run a Spring Boot Application in AWS Lambda](https://feeds.feedblitz.com/~/732562607/0/baeldung~Run-a-Spring-Boot-Application-in-AWS-Lambda)
-  * *Published on 24 Mar 2023*
-* [Find the N Most Frequent Elements in a Java Array](https://feeds.feedblitz.com/~/732561509/0/baeldung~Find-the-N-Most-Frequent-Elements-in-a-Java-Array)
-  * *Published on 24 Mar 2023*
-* [Spring R2DBC Migrations Using Flyway](https://feeds.feedblitz.com/~/732559919/0/baeldung~Spring-RDBC-Migrations-Using-Flyway)
-  * *Published on 24 Mar 2023*
-* [Difference Between Pod and Container in Kubernetes](https://feeds.feedblitz.com/~/732426548/0/baeldung~Difference-Between-Pod-and-Container-in-Kubernetes)
-  * *Published on 23 Mar 2023*
+* [Difference Between asText() and toString() in JsonNode](https://feeds.feedblitz.com/~/732763841/0/baeldung~Difference-Between-asText-and-toString-in-JsonNode)
+  * *Published on 26 Mar 2023*
+* [Remove Entity with Many-to-Many Relationship in JPA](https://feeds.feedblitz.com/~/732763844/0/baeldung~Remove-Entity-with-ManytoMany-Relationship-in-JPA)
+  * *Published on 26 Mar 2023*
+* [Introduction to Grafana Loki](https://feeds.feedblitz.com/~/732762194/0/baeldung~Introduction-to-Grafana-Loki)
+  * *Published on 26 Mar 2023*
+* [Lightweight Kubernetes Distributions](https://feeds.feedblitz.com/~/732761111/0/baeldung~Lightweight-Kubernetes-Distributions)
+  * *Published on 26 Mar 2023*
+* [SAML with Spring Boot and Spring Security](https://feeds.feedblitz.com/~/645833230/0/baeldung~SAML-with-Spring-Boot-and-Spring-Security)
+  * *Published on 26 Mar 2023*
