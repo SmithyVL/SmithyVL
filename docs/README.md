@@ -251,13 +251,13 @@
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [Difference Between Openjdk Docker Images: Slim vs Slim-Stretch vs Stretch vs Alpine](https://feeds.feedblitz.com/~/732998234/0/baeldung~Difference-Between-Openjdk-Docker-Images-Slim-vs-SlimStretch-vs-Stretch-vs-Alpine)
+  * *Published on 28 Mar 2023*
+* [Difference Between parallelStream() and stream().parallel() in Java](https://feeds.feedblitz.com/~/732998237/0/baeldung~Difference-Between-parallelStream-and-streamparallel-in-Java)
+  * *Published on 28 Mar 2023*
+* [Skip a Stage in a Jenkins Pipeline](https://feeds.feedblitz.com/~/732996386/0/baeldung~Skip-a-Stage-in-a-Jenkins-Pipeline)
+  * *Published on 28 Mar 2023*
+* [How to Determine Date of the First Day of the Week Using LocalDate in Java](https://feeds.feedblitz.com/~/732996389/0/baeldung~How-to-Determine-Date-of-the-First-Day-of-the-Week-Using-LocalDate-in-Java)
+  * *Published on 28 Mar 2023*
 * [Difference Between asText() and toString() in JsonNode](https://feeds.feedblitz.com/~/732763841/0/baeldung~Difference-Between-asText-and-toString-in-JsonNode)
-  * *Published on 26 Mar 2023*
-* [Remove Entity with Many-to-Many Relationship in JPA](https://feeds.feedblitz.com/~/732763844/0/baeldung~Remove-Entity-with-ManytoMany-Relationship-in-JPA)
-  * *Published on 26 Mar 2023*
-* [Introduction to Grafana Loki](https://feeds.feedblitz.com/~/732762194/0/baeldung~Introduction-to-Grafana-Loki)
-  * *Published on 26 Mar 2023*
-* [Lightweight Kubernetes Distributions](https://feeds.feedblitz.com/~/732761111/0/baeldung~Lightweight-Kubernetes-Distributions)
-  * *Published on 26 Mar 2023*
-* [SAML with Spring Boot and Spring Security](https://feeds.feedblitz.com/~/645833230/0/baeldung~SAML-with-Spring-Boot-and-Spring-Security)
   * *Published on 26 Mar 2023*
