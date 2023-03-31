@@ -251,13 +251,13 @@
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [Java Weekly, Issue 483](https://feeds.feedblitz.com/~/733280117/0/baeldung~Java-Weekly-Issue)
+  * *Published on 30 Mar 2023*
+* [Databases: Simple Vs. Complex Vs. Materialized Views](https://feeds.feedblitz.com/~/733201751/0/baeldung~Databases-Simple-Vs-Complex-Vs-Materialized-Views)
+  * *Published on 30 Mar 2023*
 * [Difference Between Openjdk Docker Images: Slim vs Slim-Stretch vs Stretch vs Alpine](https://feeds.feedblitz.com/~/732998234/0/baeldung~Difference-Between-Openjdk-Docker-Images-Slim-vs-SlimStretch-vs-Stretch-vs-Alpine)
   * *Published on 28 Mar 2023*
 * [Difference Between parallelStream() and stream().parallel() in Java](https://feeds.feedblitz.com/~/732998237/0/baeldung~Difference-Between-parallelStream-and-streamparallel-in-Java)
   * *Published on 28 Mar 2023*
 * [Skip a Stage in a Jenkins Pipeline](https://feeds.feedblitz.com/~/732996386/0/baeldung~Skip-a-Stage-in-a-Jenkins-Pipeline)
   * *Published on 28 Mar 2023*
-* [How to Determine Date of the First Day of the Week Using LocalDate in Java](https://feeds.feedblitz.com/~/732996389/0/baeldung~How-to-Determine-Date-of-the-First-Day-of-the-Week-Using-LocalDate-in-Java)
-  * *Published on 28 Mar 2023*
-* [Difference Between asText() and toString() in JsonNode](https://feeds.feedblitz.com/~/732763841/0/baeldung~Difference-Between-asText-and-toString-in-JsonNode)
-  * *Published on 26 Mar 2023*
