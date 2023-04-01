@@ -251,13 +251,13 @@
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [Retrying Requests using Apache HttpClient](https://feeds.feedblitz.com/~/733311503/0/baeldung~Retrying-Requests-using-Apache-HttpClient)
+  * *Published on 31 Mar 2023*
+* [The Difference Between junit-vintage-engine and junit-jupiter-engine](https://feeds.feedblitz.com/~/733311506/0/baeldung~The-Difference-Between-junitvintageengine-and-junitjupiterengine)
+  * *Published on 31 Mar 2023*
+* [OffsetDateTime Serialization With Jackson](https://feeds.feedblitz.com/~/733311509/0/baeldung~OffsetDateTime-Serialization-With-Jackson)
+  * *Published on 31 Mar 2023*
 * [Java Weekly, Issue 483](https://feeds.feedblitz.com/~/733280117/0/baeldung~Java-Weekly-Issue)
   * *Published on 30 Mar 2023*
 * [Databases: Simple Vs. Complex Vs. Materialized Views](https://feeds.feedblitz.com/~/733201751/0/baeldung~Databases-Simple-Vs-Complex-Vs-Materialized-Views)
   * *Published on 30 Mar 2023*
-* [Difference Between Openjdk Docker Images: Slim vs Slim-Stretch vs Stretch vs Alpine](https://feeds.feedblitz.com/~/732998234/0/baeldung~Difference-Between-Openjdk-Docker-Images-Slim-vs-SlimStretch-vs-Stretch-vs-Alpine)
-  * *Published on 28 Mar 2023*
-* [Difference Between parallelStream() and stream().parallel() in Java](https://feeds.feedblitz.com/~/732998237/0/baeldung~Difference-Between-parallelStream-and-streamparallel-in-Java)
-  * *Published on 28 Mar 2023*
-* [Skip a Stage in a Jenkins Pipeline](https://feeds.feedblitz.com/~/732996386/0/baeldung~Skip-a-Stage-in-a-Jenkins-Pipeline)
-  * *Published on 28 Mar 2023*
