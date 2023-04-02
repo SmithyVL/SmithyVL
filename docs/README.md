@@ -251,13 +251,13 @@
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [Search Users With Keycloak in Java](https://feeds.feedblitz.com/~/733486364/0/baeldung~Search-Users-With-Keycloak-in-Java)
+  * *Published on 2 Apr 2023*
+* [Convert Boolean to String in Java](https://feeds.feedblitz.com/~/733486367/0/baeldung~Convert-Boolean-to-String-in-Java)
+  * *Published on 2 Apr 2023*
 * [Retrying Requests using Apache HttpClient](https://feeds.feedblitz.com/~/733311503/0/baeldung~Retrying-Requests-using-Apache-HttpClient)
   * *Published on 31 Mar 2023*
 * [The Difference Between junit-vintage-engine and junit-jupiter-engine](https://feeds.feedblitz.com/~/733311506/0/baeldung~The-Difference-Between-junitvintageengine-and-junitjupiterengine)
   * *Published on 31 Mar 2023*
 * [OffsetDateTime Serialization With Jackson](https://feeds.feedblitz.com/~/733311509/0/baeldung~OffsetDateTime-Serialization-With-Jackson)
   * *Published on 31 Mar 2023*
-* [Java Weekly, Issue 483](https://feeds.feedblitz.com/~/733280117/0/baeldung~Java-Weekly-Issue)
-  * *Published on 30 Mar 2023*
-* [Databases: Simple Vs. Complex Vs. Materialized Views](https://feeds.feedblitz.com/~/733201751/0/baeldung~Databases-Simple-Vs-Complex-Vs-Materialized-Views)
-  * *Published on 30 Mar 2023*
