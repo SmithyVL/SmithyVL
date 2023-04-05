@@ -234,30 +234,23 @@
 
 ## 📋 Недавняя активность
 **[📰 Recent activity](https://github.com/SmithyVL)**
+* 🌟 Starred [HogwartsSchoolOfMagic/DiscordLeoBot](https://github.com/HogwartsSchoolOfMagic/DiscordLeoBot)
+  * *On 4 Apr 2023, 09:06:10*
   * *On 23 Mar 2023, 13:10:36*
 * ➡️ Pushed 1 commit in [HogwartsSchoolOfMagic/DiscordLeoBot](https://github.com/HogwartsSchoolOfMagic/DiscordLeoBot) on branch `master`
   * [#07254c6](https://github.com/HogwartsSchoolOfMagic/DiscordLeoBot/commit/07254c6) Initial commit
   * *On 23 Mar 2023, 12:48:36*
-* ➡️ Pushed 1 commit in [HogwartsSchoolOfMagic/DiscordLeoBot](https://github.com/HogwartsSchoolOfMagic/DiscordLeoBot) on branch `master`
-  * [#efee92d](https://github.com/HogwartsSchoolOfMagic/DiscordLeoBot/commit/efee92d) Initial commit
-  * *On 21 Mar 2023, 23:56:13*
-* ➡️ Pushed 1 commit in [HogwartsSchoolOfMagic/DiscordLeoBot](https://github.com/HogwartsSchoolOfMagic/DiscordLeoBot) on branch `master`
-  * [#36e796b](https://github.com/HogwartsSchoolOfMagic/DiscordLeoBot/commit/36e796b) Initial commit
-  * *On 21 Mar 2023, 23:12:17*
-* ➡️ Pushed 1 commit in [HogwartsSchoolOfMagic/DiscordLeoBot](https://github.com/HogwartsSchoolOfMagic/DiscordLeoBot) on branch `master`
-  * [#089ad9d](https://github.com/HogwartsSchoolOfMagic/DiscordLeoBot/commit/089ad9d) Initial commit
-  * *On 21 Mar 2023, 23:03:10*
 
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [Hibernate @CreationTimestamp and @UpdateTimestamp](https://feeds.feedblitz.com/~/733742153/0/baeldung~Hibernate-CreationTimestamp-and-UpdateTimestamp)
+  * *Published on 4 Apr 2023*
+* [Java Program to Calculate Pi](https://feeds.feedblitz.com/~/733742156/0/baeldung~Java-Program-to-Calculate-Pi)
+  * *Published on 4 Apr 2023*
+* [Unidirectional One-to-Many and Cascading Delete in JPA](https://feeds.feedblitz.com/~/733740956/0/baeldung~Unidirectional-OnetoMany-and-Cascading-Delete-in-JPA)
+  * *Published on 4 Apr 2023*
+* [A Guide to Spring Cloud Azure Key Vault](https://feeds.feedblitz.com/~/733740959/0/baeldung~A-Guide-to-Spring-Cloud-Azure-Key-Vault)
+  * *Published on 4 Apr 2023*
 * [Generate the Same UUID From a String in Java](https://feeds.feedblitz.com/~/733518755/0/baeldung~Generate-the-Same-UUID-From-a-String-in-Java)
   * *Published on 2 Apr 2023*
-* [Search Users With Keycloak in Java](https://feeds.feedblitz.com/~/733486364/0/baeldung~Search-Users-With-Keycloak-in-Java)
-  * *Published on 2 Apr 2023*
-* [Convert Boolean to String in Java](https://feeds.feedblitz.com/~/733486367/0/baeldung~Convert-Boolean-to-String-in-Java)
-  * *Published on 2 Apr 2023*
-* [Retrying Requests using Apache HttpClient](https://feeds.feedblitz.com/~/733311503/0/baeldung~Retrying-Requests-using-Apache-HttpClient)
-  * *Published on 31 Mar 2023*
-* [The Difference Between junit-vintage-engine and junit-jupiter-engine](https://feeds.feedblitz.com/~/733311506/0/baeldung~The-Difference-Between-junitvintageengine-and-junitjupiterengine)
-  * *Published on 31 Mar 2023*
