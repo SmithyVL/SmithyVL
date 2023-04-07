@@ -236,10 +236,6 @@
 **[📰 Recent activity](https://github.com/SmithyVL)**
 * 🌟 Starred [HogwartsSchoolOfMagic/DiscordLeoBot](https://github.com/HogwartsSchoolOfMagic/DiscordLeoBot)
   * *On 4 Apr 2023, 09:06:10*
-  * *On 23 Mar 2023, 13:10:36*
-* ➡️ Pushed 1 commit in [HogwartsSchoolOfMagic/DiscordLeoBot](https://github.com/HogwartsSchoolOfMagic/DiscordLeoBot) on branch `master`
-  * [#07254c6](https://github.com/HogwartsSchoolOfMagic/DiscordLeoBot/commit/07254c6) Initial commit
-  * *On 23 Mar 2023, 12:48:36*
 
 
 ## 📰 Новостная лента
