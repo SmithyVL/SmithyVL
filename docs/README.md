@@ -240,6 +240,8 @@
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [Java Helper vs. Utility Classes](https://feeds.feedblitz.com/~/733917158/0/baeldung~Java-Helper-vs-Utility-Classes)
+  * *Published on 7 Apr 2023*
 * [Hibernate @CreationTimestamp and @UpdateTimestamp](https://feeds.feedblitz.com/~/733742153/0/baeldung~Hibernate-CreationTimestamp-and-UpdateTimestamp)
   * *Published on 4 Apr 2023*
 * [Java Program to Calculate Pi](https://feeds.feedblitz.com/~/733742156/0/baeldung~Java-Program-to-Calculate-Pi)
@@ -248,5 +250,3 @@
   * *Published on 4 Apr 2023*
 * [A Guide to Spring Cloud Azure Key Vault](https://feeds.feedblitz.com/~/733740959/0/baeldung~A-Guide-to-Spring-Cloud-Azure-Key-Vault)
   * *Published on 4 Apr 2023*
-* [Generate the Same UUID From a String in Java](https://feeds.feedblitz.com/~/733518755/0/baeldung~Generate-the-Same-UUID-From-a-String-in-Java)
-  * *Published on 2 Apr 2023*
