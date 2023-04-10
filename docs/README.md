@@ -240,13 +240,13 @@
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [Jackson Annotation Examples](https://feeds.feedblitz.com/~/734300051/0/baeldung~Jackson-Annotation-Examples)
+  * *Published on 10 Apr 2023*
+* [URL Matching in Spring Boot 3](https://feeds.feedblitz.com/~/734300054/0/baeldung~URL-Matching-in-Spring-Boot)
+  * *Published on 10 Apr 2023*
+* [Differences Between Classpath and Sourcepath](https://feeds.feedblitz.com/~/734260448/0/baeldung~Differences-Between-Classpath-and-Sourcepath)
+  * *Published on 9 Apr 2023*
 * [Java Helper vs. Utility Classes](https://feeds.feedblitz.com/~/733917158/0/baeldung~Java-Helper-vs-Utility-Classes)
   * *Published on 7 Apr 2023*
 * [Hibernate @CreationTimestamp and @UpdateTimestamp](https://feeds.feedblitz.com/~/733742153/0/baeldung~Hibernate-CreationTimestamp-and-UpdateTimestamp)
-  * *Published on 4 Apr 2023*
-* [Java Program to Calculate Pi](https://feeds.feedblitz.com/~/733742156/0/baeldung~Java-Program-to-Calculate-Pi)
-  * *Published on 4 Apr 2023*
-* [Unidirectional One-to-Many and Cascading Delete in JPA](https://feeds.feedblitz.com/~/733740956/0/baeldung~Unidirectional-OnetoMany-and-Cascading-Delete-in-JPA)
-  * *Published on 4 Apr 2023*
-* [A Guide to Spring Cloud Azure Key Vault](https://feeds.feedblitz.com/~/733740959/0/baeldung~A-Guide-to-Spring-Cloud-Azure-Key-Vault)
   * *Published on 4 Apr 2023*
