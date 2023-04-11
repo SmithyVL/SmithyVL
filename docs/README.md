@@ -240,7 +240,7 @@
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
-* [Jackson Annotation Examples](https://feeds.feedblitz.com/~/734300051/0/baeldung~Jackson-Annotation-Examples)
+* [Deserialize Generic Type with Jackson](https://feeds.feedblitz.com/~/734373935/0/baeldung~Deserialize-Generic-Type-with-Jackson)
   * *Published on 10 Apr 2023*
 * [URL Matching in Spring Boot 3](https://feeds.feedblitz.com/~/734300054/0/baeldung~URL-Matching-in-Spring-Boot)
   * *Published on 10 Apr 2023*
