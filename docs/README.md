@@ -240,13 +240,13 @@
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
-* [Deserialize Generic Type with Jackson](https://feeds.feedblitz.com/~/734373935/0/baeldung~Deserialize-Generic-Type-with-Jackson)
-  * *Published on 10 Apr 2023*
-* [URL Matching in Spring Boot 3](https://feeds.feedblitz.com/~/734300054/0/baeldung~URL-Matching-in-Spring-Boot)
-  * *Published on 10 Apr 2023*
-* [Differences Between Classpath and Sourcepath](https://feeds.feedblitz.com/~/734260448/0/baeldung~Differences-Between-Classpath-and-Sourcepath)
-  * *Published on 9 Apr 2023*
-* [Java Helper vs. Utility Classes](https://feeds.feedblitz.com/~/733917158/0/baeldung~Java-Helper-vs-Utility-Classes)
-  * *Published on 7 Apr 2023*
-* [Hibernate @CreationTimestamp and @UpdateTimestamp](https://feeds.feedblitz.com/~/733742153/0/baeldung~Hibernate-CreationTimestamp-and-UpdateTimestamp)
-  * *Published on 4 Apr 2023*
+* [Implicit Wait vs Explicit Wait in Selenium Webdriver](https://feeds.feedblitz.com/~/735489686/0/baeldung~Implicit-Wait-vs-Explicit-Wait-in-Selenium-Webdriver)
+  * *Published on 14 Apr 2023*
+* [Resilience4j Events Endpoints](https://feeds.feedblitz.com/~/735489695/0/baeldung~Resiliencej-Events-Endpoints)
+  * *Published on 14 Apr 2023*
+* [Use Mapper in Another Mapper with Mapstruct and Java](https://feeds.feedblitz.com/~/735487460/0/baeldung~Use-Mapper-in-Another-Mapper-with-Mapstruct-and-Java)
+  * *Published on 13 Apr 2023*
+* [Integrate AWS Secrets Manager in Spring Boot](https://feeds.feedblitz.com/~/735438524/0/baeldung~Integrate-AWS-Secrets-Manager-in-Spring-Boot)
+  * *Published on 13 Apr 2023*
+* [A Guide to @Timeout Annotation in JUnit 5](https://feeds.feedblitz.com/~/735435173/0/baeldung~A-Guide-to-Timeout-Annotation-in-JUnit)
+  * *Published on 13 Apr 2023*
