@@ -240,13 +240,13 @@
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
-* [Implicit Wait vs Explicit Wait in Selenium Webdriver](https://feeds.feedblitz.com/~/735489686/0/baeldung~Implicit-Wait-vs-Explicit-Wait-in-Selenium-Webdriver)
+* [Loading Multiple YAML Configuration Files in Spring Boot](https://feeds.feedblitz.com/~/735646400/0/baeldung~Loading-Multiple-YAML-Configuration-Files-in-Spring-Boot)
   * *Published on 14 Apr 2023*
-* [Resilience4j Events Endpoints](https://feeds.feedblitz.com/~/735489695/0/baeldung~Resiliencej-Events-Endpoints)
+* [Possible Root Causes for High CPU Usage in Java](https://feeds.feedblitz.com/~/735644837/0/baeldung~Possible-Root-Causes-for-High-CPU-Usage-in-Java)
   * *Published on 14 Apr 2023*
-* [Use Mapper in Another Mapper with Mapstruct and Java](https://feeds.feedblitz.com/~/735487460/0/baeldung~Use-Mapper-in-Another-Mapper-with-Mapstruct-and-Java)
-  * *Published on 13 Apr 2023*
-* [Integrate AWS Secrets Manager in Spring Boot](https://feeds.feedblitz.com/~/735438524/0/baeldung~Integrate-AWS-Secrets-Manager-in-Spring-Boot)
-  * *Published on 13 Apr 2023*
-* [A Guide to @Timeout Annotation in JUnit 5](https://feeds.feedblitz.com/~/735435173/0/baeldung~A-Guide-to-Timeout-Annotation-in-JUnit)
-  * *Published on 13 Apr 2023*
+* [Convert Integer to Hexadecimal in Java](https://feeds.feedblitz.com/~/735639623/0/baeldung~Convert-Integer-to-Hexadecimal-in-Java)
+  * *Published on 14 Apr 2023*
+* [Reuse StringBuilder for Efficiency](https://feeds.feedblitz.com/~/735614582/0/baeldung~Reuse-StringBuilder-for-Efficiency)
+  * *Published on 14 Apr 2023*
+* [Understanding Java’s Classpath vs. Build Path](https://feeds.feedblitz.com/~/735614585/0/baeldung~Understanding-Javas-Classpath-vs-Build-Path)
+  * *Published on 14 Apr 2023*
