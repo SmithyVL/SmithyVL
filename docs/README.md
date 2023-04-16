@@ -240,13 +240,13 @@
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [Generating Time Based UUIDs](https://feeds.feedblitz.com/~/735744311/0/baeldung~Generating-Time-Based-UUIDs)
+  * *Published on 15 Apr 2023*
+* [Parsing Date Strings with Varying Formats](https://feeds.feedblitz.com/~/735742991/0/baeldung~Parsing-Date-Strings-with-Varying-Formats)
+  * *Published on 15 Apr 2023*
 * [Loading Multiple YAML Configuration Files in Spring Boot](https://feeds.feedblitz.com/~/735646400/0/baeldung~Loading-Multiple-YAML-Configuration-Files-in-Spring-Boot)
   * *Published on 14 Apr 2023*
 * [Possible Root Causes for High CPU Usage in Java](https://feeds.feedblitz.com/~/735644837/0/baeldung~Possible-Root-Causes-for-High-CPU-Usage-in-Java)
   * *Published on 14 Apr 2023*
 * [Convert Integer to Hexadecimal in Java](https://feeds.feedblitz.com/~/735639623/0/baeldung~Convert-Integer-to-Hexadecimal-in-Java)
-  * *Published on 14 Apr 2023*
-* [Reuse StringBuilder for Efficiency](https://feeds.feedblitz.com/~/735614582/0/baeldung~Reuse-StringBuilder-for-Efficiency)
-  * *Published on 14 Apr 2023*
-* [Understanding Java’s Classpath vs. Build Path](https://feeds.feedblitz.com/~/735614585/0/baeldung~Understanding-Javas-Classpath-vs-Build-Path)
   * *Published on 14 Apr 2023*
