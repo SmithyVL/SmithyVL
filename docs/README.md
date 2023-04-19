@@ -234,8 +234,7 @@
 
 ## 📋 Недавняя активность
 **[📰 Recent activity](https://github.com/SmithyVL)**
-* 🌟 Starred [HogwartsSchoolOfMagic/DiscordLeoBot](https://github.com/HogwartsSchoolOfMagic/DiscordLeoBot)
-  * *On 4 Apr 2023, 09:06:10*
+No recent activity
 
 
 ## 📰 Новостная лента
