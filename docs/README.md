@@ -239,13 +239,13 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [Configuring Protobuf Compilation with Custom Source Directories](https://feeds.feedblitz.com/~/736357889/0/baeldung~Configuring-Protobuf-Compilation-with-Custom-Source-Directories)
+  * *Published on 20 Apr 2023*
+* [Shards and Replicas in Elasticsearch](https://feeds.feedblitz.com/~/736355927/0/baeldung~Shards-and-Replicas-in-Elasticsearch)
+  * *Published on 20 Apr 2023*
+* [Java Modularity and Unit Testing](https://feeds.feedblitz.com/~/736352189/0/baeldung~Java-Modularity-and-Unit-Testing)
+  * *Published on 20 Apr 2023*
 * [Fix Spring Data JPA Exception: No Property Found for Type](https://feeds.feedblitz.com/~/735992153/0/baeldung~Fix-Spring-Data-JPA-Exception-No-Property-Found-for-Type)
   * *Published on 17 Apr 2023*
 * [Buffer Overflows in Java](https://feeds.feedblitz.com/~/735992156/0/baeldung~Buffer-Overflows-in-Java)
   * *Published on 17 Apr 2023*
-* [Check if a Specified Key Exists in a Given S3 Bucket Using Java](https://feeds.feedblitz.com/~/735990605/0/baeldung~Check-if-a-Specified-Key-Exists-in-a-Given-S-Bucket-Using-Java)
-  * *Published on 17 Apr 2023*
-* [Get All Cached Keys with Caffeine Cache in Spring Boot](https://feeds.feedblitz.com/~/735870848/0/baeldung~Get-All-Cached-Keys-with-Caffeine-Cache-in-Spring-Boot)
-  * *Published on 16 Apr 2023*
-* [Generating Time Based UUIDs](https://feeds.feedblitz.com/~/735744311/0/baeldung~Generating-Time-Based-UUIDs)
-  * *Published on 15 Apr 2023*
