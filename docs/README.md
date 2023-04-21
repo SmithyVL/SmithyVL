@@ -239,13 +239,13 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [Execute Tests Based on Active Profile With JUnit 5](https://feeds.feedblitz.com/~/736510436/0/baeldung~Execute-Tests-Based-on-Active-Profile-With-JUnit)
+  * *Published on 21 Apr 2023*
+* [External Debugging With JMXTerm](https://feeds.feedblitz.com/~/736464788/0/baeldung~External-Debugging-With-JMXTerm)
+  * *Published on 20 Apr 2023*
+* [Java Weekly, Issue 486](https://feeds.feedblitz.com/~/736438295/0/baeldung~Java-Weekly-Issue)
+  * *Published on 20 Apr 2023*
+* [Fix the JsonMappingException: Can not deserialize instance of java.util.ArrayList from Object value (token `JsonToken.START_OBJECT`)](https://feeds.feedblitz.com/~/736359104/0/baeldung~Fix-the-JsonMappingException-Can-not-deserialize-instance-of-javautilArrayList-from-Object-value-token-JsonTokenSTARTOBJECT)
+  * *Published on 20 Apr 2023*
 * [Configuring Protobuf Compilation with Custom Source Directories](https://feeds.feedblitz.com/~/736357889/0/baeldung~Configuring-Protobuf-Compilation-with-Custom-Source-Directories)
   * *Published on 20 Apr 2023*
-* [Shards and Replicas in Elasticsearch](https://feeds.feedblitz.com/~/736355927/0/baeldung~Shards-and-Replicas-in-Elasticsearch)
-  * *Published on 20 Apr 2023*
-* [Java Modularity and Unit Testing](https://feeds.feedblitz.com/~/736352189/0/baeldung~Java-Modularity-and-Unit-Testing)
-  * *Published on 20 Apr 2023*
-* [Fix Spring Data JPA Exception: No Property Found for Type](https://feeds.feedblitz.com/~/735992153/0/baeldung~Fix-Spring-Data-JPA-Exception-No-Property-Found-for-Type)
-  * *Published on 17 Apr 2023*
-* [Buffer Overflows in Java](https://feeds.feedblitz.com/~/735992156/0/baeldung~Buffer-Overflows-in-Java)
-  * *Published on 17 Apr 2023*
