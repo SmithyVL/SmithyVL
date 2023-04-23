@@ -239,13 +239,13 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [Guide to Swagger Parser](https://feeds.feedblitz.com/~/736755728/0/baeldung~Guide-to-Swagger-Parser)
+  * *Published on 22 Apr 2023*
+* [Integer.parseInt(scanner.nextLine()) and scanner.nextInt() in Java](https://feeds.feedblitz.com/~/736755731/0/baeldung~IntegerparseIntscannernextLine-and-scannernextInt-in-Java)
+  * *Published on 22 Apr 2023*
+* [@StandardException Annotation in Lombok](https://feeds.feedblitz.com/~/736755734/0/baeldung~StandardException-Annotation-in-Lombok)
+  * *Published on 22 Apr 2023*
+* [Functional vs. Non-Functional Testing](https://feeds.feedblitz.com/~/736754408/0/baeldung~Functional-vs-NonFunctional-Testing)
+  * *Published on 22 Apr 2023*
 * [Execute Tests Based on Active Profile With JUnit 5](https://feeds.feedblitz.com/~/736510436/0/baeldung~Execute-Tests-Based-on-Active-Profile-With-JUnit)
   * *Published on 21 Apr 2023*
-* [External Debugging With JMXTerm](https://feeds.feedblitz.com/~/736464788/0/baeldung~External-Debugging-With-JMXTerm)
-  * *Published on 20 Apr 2023*
-* [Java Weekly, Issue 486](https://feeds.feedblitz.com/~/736438295/0/baeldung~Java-Weekly-Issue)
-  * *Published on 20 Apr 2023*
-* [Fix the JsonMappingException: Can not deserialize instance of java.util.ArrayList from Object value (token `JsonToken.START_OBJECT`)](https://feeds.feedblitz.com/~/736359104/0/baeldung~Fix-the-JsonMappingException-Can-not-deserialize-instance-of-javautilArrayList-from-Object-value-token-JsonTokenSTARTOBJECT)
-  * *Published on 20 Apr 2023*
-* [Configuring Protobuf Compilation with Custom Source Directories](https://feeds.feedblitz.com/~/736357889/0/baeldung~Configuring-Protobuf-Compilation-with-Custom-Source-Directories)
-  * *Published on 20 Apr 2023*
