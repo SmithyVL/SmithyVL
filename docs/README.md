@@ -239,13 +239,13 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [Getting the Text That Follows After the Regex Match in Java](https://feeds.feedblitz.com/~/736974338/0/baeldung~Getting-the-Text-That-Follows-After-the-Regex-Match-in-Java)
+  * *Published on 24 Apr 2023*
+* [Getting Started With Minikube](https://feeds.feedblitz.com/~/736793729/0/baeldung~Getting-Started-With-Minikube)
+  * *Published on 23 Apr 2023*
+* [Overview of NLP Libraries in Java](https://feeds.feedblitz.com/~/736792178/0/baeldung~Overview-of-NLP-Libraries-in-Java)
+  * *Published on 23 Apr 2023*
+* [Cancel an Ongoing Flux in Spring WebFlux](https://feeds.feedblitz.com/~/736792181/0/baeldung~Cancel-an-Ongoing-Flux-in-Spring-WebFlux)
+  * *Published on 23 Apr 2023*
 * [Guide to Swagger Parser](https://feeds.feedblitz.com/~/736755728/0/baeldung~Guide-to-Swagger-Parser)
   * *Published on 22 Apr 2023*
-* [Integer.parseInt(scanner.nextLine()) and scanner.nextInt() in Java](https://feeds.feedblitz.com/~/736755731/0/baeldung~IntegerparseIntscannernextLine-and-scannernextInt-in-Java)
-  * *Published on 22 Apr 2023*
-* [@StandardException Annotation in Lombok](https://feeds.feedblitz.com/~/736755734/0/baeldung~StandardException-Annotation-in-Lombok)
-  * *Published on 22 Apr 2023*
-* [Functional vs. Non-Functional Testing](https://feeds.feedblitz.com/~/736754408/0/baeldung~Functional-vs-NonFunctional-Testing)
-  * *Published on 22 Apr 2023*
-* [Execute Tests Based on Active Profile With JUnit 5](https://feeds.feedblitz.com/~/736510436/0/baeldung~Execute-Tests-Based-on-Active-Profile-With-JUnit)
-  * *Published on 21 Apr 2023*
