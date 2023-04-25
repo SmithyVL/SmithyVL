@@ -239,13 +239,13 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [Difference Between th:text and th:value in Thymeleaf](https://feeds.feedblitz.com/~/736976393/0/baeldung~Difference-Between-thtext-and-thvalue-in-Thymeleaf)
+  * *Published on 24 Apr 2023*
+* [Automatically Create Schemas for H2 In-Memory Database](https://feeds.feedblitz.com/~/736976396/0/baeldung~Automatically-Create-Schemas-for-H-InMemory-Database)
+  * *Published on 24 Apr 2023*
+* [Find the Most Frequent Characters in a String](https://feeds.feedblitz.com/~/736976399/0/baeldung~Find-the-Most-Frequent-Characters-in-a-String)
+  * *Published on 24 Apr 2023*
 * [Getting the Text That Follows After the Regex Match in Java](https://feeds.feedblitz.com/~/736974338/0/baeldung~Getting-the-Text-That-Follows-After-the-Regex-Match-in-Java)
   * *Published on 24 Apr 2023*
 * [Getting Started With Minikube](https://feeds.feedblitz.com/~/736793729/0/baeldung~Getting-Started-With-Minikube)
   * *Published on 23 Apr 2023*
-* [Overview of NLP Libraries in Java](https://feeds.feedblitz.com/~/736792178/0/baeldung~Overview-of-NLP-Libraries-in-Java)
-  * *Published on 23 Apr 2023*
-* [Cancel an Ongoing Flux in Spring WebFlux](https://feeds.feedblitz.com/~/736792181/0/baeldung~Cancel-an-Ongoing-Flux-in-Spring-WebFlux)
-  * *Published on 23 Apr 2023*
-* [Guide to Swagger Parser](https://feeds.feedblitz.com/~/736755728/0/baeldung~Guide-to-Swagger-Parser)
-  * *Published on 22 Apr 2023*
