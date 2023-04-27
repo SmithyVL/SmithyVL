@@ -239,13 +239,13 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
-* [Difference Between th:text and th:value in Thymeleaf](https://feeds.feedblitz.com/~/736976393/0/baeldung~Difference-Between-thtext-and-thvalue-in-Thymeleaf)
-  * *Published on 24 Apr 2023*
-* [Automatically Create Schemas for H2 In-Memory Database](https://feeds.feedblitz.com/~/736976396/0/baeldung~Automatically-Create-Schemas-for-H-InMemory-Database)
-  * *Published on 24 Apr 2023*
-* [Find the Most Frequent Characters in a String](https://feeds.feedblitz.com/~/736976399/0/baeldung~Find-the-Most-Frequent-Characters-in-a-String)
-  * *Published on 24 Apr 2023*
-* [Getting the Text That Follows After the Regex Match in Java](https://feeds.feedblitz.com/~/736974338/0/baeldung~Getting-the-Text-That-Follows-After-the-Regex-Match-in-Java)
-  * *Published on 24 Apr 2023*
-* [Getting Started With Minikube](https://feeds.feedblitz.com/~/736793729/0/baeldung~Getting-Started-With-Minikube)
-  * *Published on 23 Apr 2023*
+* [Using OpenAI ChatGPT APIs in Spring Boot](https://feeds.feedblitz.com/~/737451098/0/baeldung~Using-OpenAI-ChatGPT-APIs-in-Spring-Boot)
+  * *Published on 27 Apr 2023*
+* [Best Practices for Passing Many Arguments to a Method in Java](https://feeds.feedblitz.com/~/737451101/0/baeldung~Best-Practices-for-Passing-Many-Arguments-to-a-Method-in-Java)
+  * *Published on 27 Apr 2023*
+* [StaleElementReferenceException in Selenium](https://feeds.feedblitz.com/~/737442128/0/baeldung~StaleElementReferenceException-in-Selenium)
+  * *Published on 27 Apr 2023*
+* [JAVA_HOME vs PATH Environment Variables](https://feeds.feedblitz.com/~/737442131/0/baeldung~JAVAHOME-vs-PATH-Environment-Variables)
+  * *Published on 27 Apr 2023*
+* [Creating a Test Suite With JUnit](https://feeds.feedblitz.com/~/737442134/0/baeldung~Creating-a-Test-Suite-With-JUnit)
+  * *Published on 27 Apr 2023*
