@@ -239,6 +239,8 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [Java Weekly, Issue 487](https://feeds.feedblitz.com/~/737635937/0/baeldung~Java-Weekly-Issue)
+  * *Published on 28 Apr 2023*
 * [Analyze, Generate and Transform Code Using Spoon in Java](https://feeds.feedblitz.com/~/737468057/0/baeldung~Analyze-Generate-and-Transform-Code-Using-Spoon-in-Java)
   * *Published on 27 Apr 2023*
 * [Using OpenAI ChatGPT APIs in Spring Boot](https://feeds.feedblitz.com/~/737451098/0/baeldung~Using-OpenAI-ChatGPT-APIs-in-Spring-Boot)
@@ -246,6 +248,4 @@ No recent activity
 * [Best Practices for Passing Many Arguments to a Method in Java](https://feeds.feedblitz.com/~/737451101/0/baeldung~Best-Practices-for-Passing-Many-Arguments-to-a-Method-in-Java)
   * *Published on 27 Apr 2023*
 * [StaleElementReferenceException in Selenium](https://feeds.feedblitz.com/~/737442128/0/baeldung~StaleElementReferenceException-in-Selenium)
-  * *Published on 27 Apr 2023*
-* [JAVA_HOME vs PATH Environment Variables](https://feeds.feedblitz.com/~/737442131/0/baeldung~JAVAHOME-vs-PATH-Environment-Variables)
   * *Published on 27 Apr 2023*
