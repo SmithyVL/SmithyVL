@@ -239,13 +239,13 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [Difference Between Java’s “char” and “String”](https://feeds.feedblitz.com/~/737990288/0/baeldung~Difference-Between-Javas-char-and-String)
+  * *Published on 30 Apr 2023*
+* [Check if the First Letter of a String Is a Number](https://feeds.feedblitz.com/~/737990291/0/baeldung~Check-if-the-First-Letter-of-a-String-Is-a-Number)
+  * *Published on 30 Apr 2023*
+* [Working with Virtual Threads in Spring 6](https://feeds.feedblitz.com/~/737929229/0/baeldung~Working-with-Virtual-Threads-in-Spring)
+  * *Published on 30 Apr 2023*
+* [Create and Detect Memory Leaks in Java](https://feeds.feedblitz.com/~/737927387/0/baeldung~Create-and-Detect-Memory-Leaks-in-Java)
+  * *Published on 30 Apr 2023*
 * [Java Weekly, Issue 487](https://feeds.feedblitz.com/~/737635937/0/baeldung~Java-Weekly-Issue)
   * *Published on 28 Apr 2023*
-* [Analyze, Generate and Transform Code Using Spoon in Java](https://feeds.feedblitz.com/~/737468057/0/baeldung~Analyze-Generate-and-Transform-Code-Using-Spoon-in-Java)
-  * *Published on 27 Apr 2023*
-* [Using OpenAI ChatGPT APIs in Spring Boot](https://feeds.feedblitz.com/~/737451098/0/baeldung~Using-OpenAI-ChatGPT-APIs-in-Spring-Boot)
-  * *Published on 27 Apr 2023*
-* [Best Practices for Passing Many Arguments to a Method in Java](https://feeds.feedblitz.com/~/737451101/0/baeldung~Best-Practices-for-Passing-Many-Arguments-to-a-Method-in-Java)
-  * *Published on 27 Apr 2023*
-* [StaleElementReferenceException in Selenium](https://feeds.feedblitz.com/~/737442128/0/baeldung~StaleElementReferenceException-in-Selenium)
-  * *Published on 27 Apr 2023*
