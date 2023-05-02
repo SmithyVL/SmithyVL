@@ -239,13 +239,13 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
-* [Difference Between Java’s “char” and “String”](https://feeds.feedblitz.com/~/737990288/0/baeldung~Difference-Between-Javas-char-and-String)
-  * *Published on 30 Apr 2023*
-* [Check if the First Letter of a String Is a Number](https://feeds.feedblitz.com/~/737990291/0/baeldung~Check-if-the-First-Letter-of-a-String-Is-a-Number)
-  * *Published on 30 Apr 2023*
-* [Working with Virtual Threads in Spring 6](https://feeds.feedblitz.com/~/737929229/0/baeldung~Working-with-Virtual-Threads-in-Spring)
-  * *Published on 30 Apr 2023*
-* [Create and Detect Memory Leaks in Java](https://feeds.feedblitz.com/~/737927387/0/baeldung~Create-and-Detect-Memory-Leaks-in-Java)
-  * *Published on 30 Apr 2023*
-* [Java Weekly, Issue 487](https://feeds.feedblitz.com/~/737635937/0/baeldung~Java-Weekly-Issue)
-  * *Published on 28 Apr 2023*
+* [How to Persist a List of String in JPA?](https://feeds.feedblitz.com/~/738193148/0/baeldung~How-to-Persist-a-List-of-String-in-JPA)
+  * *Published on 2 May 2023*
+* [Getting Pixel Array From Image in Java](https://feeds.feedblitz.com/~/738193151/0/baeldung~Getting-Pixel-Array-From-Image-in-Java)
+  * *Published on 2 May 2023*
+* [Retrieve the Value of an HTML Input in Selenium WebDriver](https://feeds.feedblitz.com/~/738191345/0/baeldung~Retrieve-the-Value-of-an-HTML-Input-in-Selenium-WebDriver)
+  * *Published on 2 May 2023*
+* [Boolean Converters in Hibernate 6](https://feeds.feedblitz.com/~/738191348/0/baeldung~Boolean-Converters-in-Hibernate)
+  * *Published on 2 May 2023*
+* [Introduction to Spring Modulith](https://feeds.feedblitz.com/~/738075536/0/baeldung~Introduction-to-Spring-Modulith)
+  * *Published on 1 May 2023*
