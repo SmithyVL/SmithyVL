@@ -239,13 +239,13 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [Find the Index of an Element in a Java Array](https://feeds.feedblitz.com/~/738350225/0/baeldung~Find-the-Index-of-an-Element-in-a-Java-Array)
+  * *Published on 2 May 2023*
+* [Difference Between PV and PVC in Kubernetes](https://feeds.feedblitz.com/~/738253280/0/baeldung~Difference-Between-PV-and-PVC-in-Kubernetes)
+  * *Published on 2 May 2023*
+* [How to Decode a Kubernetes Secret?](https://feeds.feedblitz.com/~/738231866/0/baeldung~How-to-Decode-a-Kubernetes-Secret)
+  * *Published on 2 May 2023*
 * [How to Persist a List of String in JPA?](https://feeds.feedblitz.com/~/738193148/0/baeldung~How-to-Persist-a-List-of-String-in-JPA)
   * *Published on 2 May 2023*
 * [Getting Pixel Array From Image in Java](https://feeds.feedblitz.com/~/738193151/0/baeldung~Getting-Pixel-Array-From-Image-in-Java)
   * *Published on 2 May 2023*
-* [Retrieve the Value of an HTML Input in Selenium WebDriver](https://feeds.feedblitz.com/~/738191345/0/baeldung~Retrieve-the-Value-of-an-HTML-Input-in-Selenium-WebDriver)
-  * *Published on 2 May 2023*
-* [Boolean Converters in Hibernate 6](https://feeds.feedblitz.com/~/738191348/0/baeldung~Boolean-Converters-in-Hibernate)
-  * *Published on 2 May 2023*
-* [Introduction to Spring Modulith](https://feeds.feedblitz.com/~/738075536/0/baeldung~Introduction-to-Spring-Modulith)
-  * *Published on 1 May 2023*
