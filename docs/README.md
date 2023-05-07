@@ -239,13 +239,13 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [Encode Passwords With Spring Boot CLI](https://feeds.feedblitz.com/~/739055711/0/baeldung~Encode-Passwords-With-Spring-Boot-CLI)
+  * *Published on 6 May 2023*
+* [Is CompletableFuture Non-blocking?](https://feeds.feedblitz.com/~/739053800/0/baeldung~Is-CompletableFuture-Nonblocking)
+  * *Published on 6 May 2023*
 * [Scoped Values in Java 20](https://feeds.feedblitz.com/~/738895838/0/baeldung~Scoped-Values-in-Java)
   * *Published on 5 May 2023*
 * [Print “” Quotes Around a String in Java](https://feeds.feedblitz.com/~/738893486/0/baeldung~Print-Quotes-Around-a-String-in-Java)
   * *Published on 5 May 2023*
 * [Java Weekly, Issue 488](https://feeds.feedblitz.com/~/738858590/0/baeldung~Java-Weekly-Issue)
   * *Published on 5 May 2023*
-* [Find the Index of an Element in a Java Array](https://feeds.feedblitz.com/~/738350225/0/baeldung~Find-the-Index-of-an-Element-in-a-Java-Array)
-  * *Published on 2 May 2023*
-* [Difference Between PV and PVC in Kubernetes](https://feeds.feedblitz.com/~/738253280/0/baeldung~Difference-Between-PV-and-PVC-in-Kubernetes)
-  * *Published on 2 May 2023*
