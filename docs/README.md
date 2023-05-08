@@ -239,13 +239,13 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
-* [Encode Passwords With Spring Boot CLI](https://feeds.feedblitz.com/~/739055711/0/baeldung~Encode-Passwords-With-Spring-Boot-CLI)
-  * *Published on 6 May 2023*
-* [Is CompletableFuture Non-blocking?](https://feeds.feedblitz.com/~/739053800/0/baeldung~Is-CompletableFuture-Nonblocking)
-  * *Published on 6 May 2023*
-* [Scoped Values in Java 20](https://feeds.feedblitz.com/~/738895838/0/baeldung~Scoped-Values-in-Java)
-  * *Published on 5 May 2023*
-* [Print “” Quotes Around a String in Java](https://feeds.feedblitz.com/~/738893486/0/baeldung~Print-Quotes-Around-a-String-in-Java)
-  * *Published on 5 May 2023*
-* [Java Weekly, Issue 488](https://feeds.feedblitz.com/~/738858590/0/baeldung~Java-Weekly-Issue)
-  * *Published on 5 May 2023*
+* [Why an HTTP GET Request Shouldn’t have a Body](https://feeds.feedblitz.com/~/739210517/0/baeldung~Why-an-HTTP-GET-Request-Shouldnt-have-a-Body)
+  * *Published on 8 May 2023*
+* [Add Custom Headers to a Kafka Message](https://feeds.feedblitz.com/~/739210520/0/baeldung~Add-Custom-Headers-to-a-Kafka-Message)
+  * *Published on 8 May 2023*
+* [ClusterIP, NodePort, and LoadBalancer: Kubernetes Service Types](https://feeds.feedblitz.com/~/739210523/0/baeldung~ClusterIP-NodePort-and-LoadBalancer-Kubernetes-Service-Types)
+  * *Published on 8 May 2023*
+* [Remove Punctuation From a String in Java](https://feeds.feedblitz.com/~/739208582/0/baeldung~Remove-Punctuation-From-a-String-in-Java)
+  * *Published on 8 May 2023*
+* [Self-Injection With Spring](https://feeds.feedblitz.com/~/739208585/0/baeldung~SelfInjection-With-Spring)
+  * *Published on 7 May 2023*
