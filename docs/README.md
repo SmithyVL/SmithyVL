@@ -239,6 +239,8 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [Comparing Two Byte Arrays in Java](https://feeds.feedblitz.com/~/739438766/0/baeldung~Comparing-Two-Byte-Arrays-in-Java)
+  * *Published on 9 May 2023*
 * [Spring Boot H2 JdbcSQLSyntaxErrorException expected “identifier”](https://feeds.feedblitz.com/~/739344365/0/baeldung~Spring-Boot-H-JdbcSQLSyntaxErrorException-expected-identifier)
   * *Published on 9 May 2023*
 * [Generate UUIDs as Primary Keys With Hibernate](https://feeds.feedblitz.com/~/739343072/0/baeldung~Generate-UUIDs-as-Primary-Keys-With-Hibernate)
@@ -246,6 +248,4 @@ No recent activity
 * [Why an HTTP GET Request Shouldn’t have a Body](https://feeds.feedblitz.com/~/739210517/0/baeldung~Why-an-HTTP-GET-Request-Shouldnt-have-a-Body)
   * *Published on 8 May 2023*
 * [Add Custom Headers to a Kafka Message](https://feeds.feedblitz.com/~/739210520/0/baeldung~Add-Custom-Headers-to-a-Kafka-Message)
-  * *Published on 8 May 2023*
-* [ClusterIP, NodePort, and LoadBalancer: Kubernetes Service Types](https://feeds.feedblitz.com/~/739210523/0/baeldung~ClusterIP-NodePort-and-LoadBalancer-Kubernetes-Service-Types)
   * *Published on 8 May 2023*
