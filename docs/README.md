@@ -239,13 +239,13 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
-* [Comparing Two Byte Arrays in Java](https://feeds.feedblitz.com/~/739438766/0/baeldung~Comparing-Two-Byte-Arrays-in-Java)
-  * *Published on 9 May 2023*
-* [Spring Boot H2 JdbcSQLSyntaxErrorException expected “identifier”](https://feeds.feedblitz.com/~/739344365/0/baeldung~Spring-Boot-H-JdbcSQLSyntaxErrorException-expected-identifier)
-  * *Published on 9 May 2023*
-* [Generate UUIDs as Primary Keys With Hibernate](https://feeds.feedblitz.com/~/739343072/0/baeldung~Generate-UUIDs-as-Primary-Keys-With-Hibernate)
-  * *Published on 9 May 2023*
-* [Why an HTTP GET Request Shouldn’t have a Body](https://feeds.feedblitz.com/~/739210517/0/baeldung~Why-an-HTTP-GET-Request-Shouldnt-have-a-Body)
-  * *Published on 8 May 2023*
-* [Add Custom Headers to a Kafka Message](https://feeds.feedblitz.com/~/739210520/0/baeldung~Add-Custom-Headers-to-a-Kafka-Message)
-  * *Published on 8 May 2023*
+* [Storing Java Scanner Input in an Array](https://feeds.feedblitz.com/~/740097365/0/baeldung~Storing-Java-Scanner-Input-in-an-Array)
+  * *Published on 11 May 2023*
+* [Java: Read Multiple Inputs on Same Line](https://feeds.feedblitz.com/~/740097368/0/baeldung~Java-Read-Multiple-Inputs-on-Same-Line)
+  * *Published on 11 May 2023*
+* [Converting an AAR File to a JAR File](https://feeds.feedblitz.com/~/740097371/0/baeldung~Converting-an-AAR-File-to-a-JAR-File)
+  * *Published on 11 May 2023*
+* [Intercept SQL Logging with P6Spy](https://feeds.feedblitz.com/~/740097374/0/baeldung~Intercept-SQL-Logging-with-PSpy)
+  * *Published on 11 May 2023*
+* [Find the Longest Word in a Given String in Java](https://feeds.feedblitz.com/~/740084465/0/baeldung~Find-the-Longest-Word-in-a-Given-String-in-Java)
+  * *Published on 11 May 2023*
