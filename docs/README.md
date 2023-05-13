@@ -239,13 +239,13 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [Difference Between null and Empty String in Java](https://feeds.feedblitz.com/~/740232023/0/baeldung~Difference-Between-null-and-Empty-String-in-Java)
+  * *Published on 12 May 2023*
+* [Java Weekly, Issue 489](https://feeds.feedblitz.com/~/740209532/0/baeldung~Java-Weekly-Issue)
+  * *Published on 12 May 2023*
 * [Storing Java Scanner Input in an Array](https://feeds.feedblitz.com/~/740097365/0/baeldung~Storing-Java-Scanner-Input-in-an-Array)
   * *Published on 11 May 2023*
 * [Java: Read Multiple Inputs on Same Line](https://feeds.feedblitz.com/~/740097368/0/baeldung~Java-Read-Multiple-Inputs-on-Same-Line)
   * *Published on 11 May 2023*
 * [Converting an AAR File to a JAR File](https://feeds.feedblitz.com/~/740097371/0/baeldung~Converting-an-AAR-File-to-a-JAR-File)
-  * *Published on 11 May 2023*
-* [Intercept SQL Logging with P6Spy](https://feeds.feedblitz.com/~/740097374/0/baeldung~Intercept-SQL-Logging-with-PSpy)
-  * *Published on 11 May 2023*
-* [Find the Longest Word in a Given String in Java](https://feeds.feedblitz.com/~/740084465/0/baeldung~Find-the-Longest-Word-in-a-Given-String-in-Java)
   * *Published on 11 May 2023*
