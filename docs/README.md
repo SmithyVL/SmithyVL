@@ -239,13 +239,13 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [Should We Create an Interface for Only One Implementation?](https://feeds.feedblitz.com/~/740696312/0/baeldung~Should-We-Create-an-Interface-for-Only-One-Implementation)
+  * *Published on 15 May 2023*
+* [Regular Expression: \z vs \Z Anchors in Java](https://feeds.feedblitz.com/~/740695073/0/baeldung~Regular-Expression-z-vs-Z-Anchors-in-Java)
+  * *Published on 15 May 2023*
+* [Difference Between implementation and compile in Gradle](https://feeds.feedblitz.com/~/740695076/0/baeldung~Difference-Between-implementation-and-compile-in-Gradle)
+  * *Published on 14 May 2023*
 * [ArrayBlockingQueue vs. LinkedBlockingQueue](https://feeds.feedblitz.com/~/740474714/0/baeldung~ArrayBlockingQueue-vs-LinkedBlockingQueue)
   * *Published on 13 May 2023*
 * [Convert an OutputStream to an InputStream](https://feeds.feedblitz.com/~/740471474/0/baeldung~Convert-an-OutputStream-to-an-InputStream)
   * *Published on 13 May 2023*
-* [Difference Between null and Empty String in Java](https://feeds.feedblitz.com/~/740232023/0/baeldung~Difference-Between-null-and-Empty-String-in-Java)
-  * *Published on 12 May 2023*
-* [Java Weekly, Issue 489](https://feeds.feedblitz.com/~/740209532/0/baeldung~Java-Weekly-Issue)
-  * *Published on 12 May 2023*
-* [Storing Java Scanner Input in an Array](https://feeds.feedblitz.com/~/740097365/0/baeldung~Storing-Java-Scanner-Input-in-an-Array)
-  * *Published on 11 May 2023*
