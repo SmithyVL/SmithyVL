@@ -239,6 +239,8 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [Java PrintStream to String](https://feeds.feedblitz.com/~/741029819/0/baeldung~Java-PrintStream-to-String)
+  * *Published on 16 May 2023*
 * [Opening a New Tab Using Selenium WebDriver in Java](https://feeds.feedblitz.com/~/740810480/0/baeldung~Opening-a-New-Tab-Using-Selenium-WebDriver-in-Java)
   * *Published on 15 May 2023*
 * [Should We Create an Interface for Only One Implementation?](https://feeds.feedblitz.com/~/740696312/0/baeldung~Should-We-Create-an-Interface-for-Only-One-Implementation)
@@ -247,5 +249,3 @@ No recent activity
   * *Published on 15 May 2023*
 * [Difference Between implementation and compile in Gradle](https://feeds.feedblitz.com/~/740695076/0/baeldung~Difference-Between-implementation-and-compile-in-Gradle)
   * *Published on 14 May 2023*
-* [ArrayBlockingQueue vs. LinkedBlockingQueue](https://feeds.feedblitz.com/~/740474714/0/baeldung~ArrayBlockingQueue-vs-LinkedBlockingQueue)
-  * *Published on 13 May 2023*
