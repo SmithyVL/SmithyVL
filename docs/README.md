@@ -239,13 +239,13 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [Shared Secret Authentication in Spring Boot Application](https://feeds.feedblitz.com/~/741336677/0/baeldung~Shared-Secret-Authentication-in-Spring-Boot-Application)
+  * *Published on 17 May 2023*
+* [Send MultipartFile Request With RestAssured](https://feeds.feedblitz.com/~/741334847/0/baeldung~Send-MultipartFile-Request-With-RestAssured)
+  * *Published on 17 May 2023*
+* [Difference Between targetPort and port in Kubernetes Service Definition](https://feeds.feedblitz.com/~/741334850/0/baeldung~Difference-Between-targetPort-and-port-in-Kubernetes-Service-Definition)
+  * *Published on 17 May 2023*
+* [Hashing With Argon2 in Java](https://feeds.feedblitz.com/~/741334853/0/baeldung~Hashing-With-Argon-in-Java)
+  * *Published on 17 May 2023*
 * [Java PrintStream to String](https://feeds.feedblitz.com/~/741029819/0/baeldung~Java-PrintStream-to-String)
   * *Published on 16 May 2023*
-* [Opening a New Tab Using Selenium WebDriver in Java](https://feeds.feedblitz.com/~/740810480/0/baeldung~Opening-a-New-Tab-Using-Selenium-WebDriver-in-Java)
-  * *Published on 15 May 2023*
-* [Should We Create an Interface for Only One Implementation?](https://feeds.feedblitz.com/~/740696312/0/baeldung~Should-We-Create-an-Interface-for-Only-One-Implementation)
-  * *Published on 15 May 2023*
-* [Regular Expression: \z vs \Z Anchors in Java](https://feeds.feedblitz.com/~/740695073/0/baeldung~Regular-Expression-z-vs-Z-Anchors-in-Java)
-  * *Published on 15 May 2023*
-* [Difference Between implementation and compile in Gradle](https://feeds.feedblitz.com/~/740695076/0/baeldung~Difference-Between-implementation-and-compile-in-Gradle)
-  * *Published on 14 May 2023*
