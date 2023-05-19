@@ -239,13 +239,13 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [Get Last N Messages in Apache Kafka Topic](https://feeds.feedblitz.com/~/741550937/0/baeldung~Get-Last-N-Messages-in-Apache-Kafka-Topic)
+  * *Published on 18 May 2023*
+* [How to List All Pods and Its Nodes in Kubernetes](https://feeds.feedblitz.com/~/741550940/0/baeldung~How-to-List-All-Pods-and-Its-Nodes-in-Kubernetes)
+  * *Published on 18 May 2023*
+* [Hibernate Natural IDs in Spring Boot](https://feeds.feedblitz.com/~/741550946/0/baeldung~Hibernate-Natural-IDs-in-Spring-Boot)
+  * *Published on 18 May 2023*
 * [Shared Secret Authentication in Spring Boot Application](https://feeds.feedblitz.com/~/741336677/0/baeldung~Shared-Secret-Authentication-in-Spring-Boot-Application)
   * *Published on 17 May 2023*
 * [Send MultipartFile Request With RestAssured](https://feeds.feedblitz.com/~/741334847/0/baeldung~Send-MultipartFile-Request-With-RestAssured)
   * *Published on 17 May 2023*
-* [Difference Between targetPort and port in Kubernetes Service Definition](https://feeds.feedblitz.com/~/741334850/0/baeldung~Difference-Between-targetPort-and-port-in-Kubernetes-Service-Definition)
-  * *Published on 17 May 2023*
-* [Hashing With Argon2 in Java](https://feeds.feedblitz.com/~/741334853/0/baeldung~Hashing-With-Argon-in-Java)
-  * *Published on 17 May 2023*
-* [Java PrintStream to String](https://feeds.feedblitz.com/~/741029819/0/baeldung~Java-PrintStream-to-String)
-  * *Published on 16 May 2023*
