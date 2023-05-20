@@ -239,6 +239,8 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [Java Weekly, Issue 490](https://feeds.feedblitz.com/~/741657164/0/baeldung~Java-Weekly-Issue)
+  * *Published on 19 May 2023*
 * [Get Last N Messages in Apache Kafka Topic](https://feeds.feedblitz.com/~/741550937/0/baeldung~Get-Last-N-Messages-in-Apache-Kafka-Topic)
   * *Published on 18 May 2023*
 * [How to List All Pods and Its Nodes in Kubernetes](https://feeds.feedblitz.com/~/741550940/0/baeldung~How-to-List-All-Pods-and-Its-Nodes-in-Kubernetes)
@@ -246,6 +248,4 @@ No recent activity
 * [Hibernate Natural IDs in Spring Boot](https://feeds.feedblitz.com/~/741550946/0/baeldung~Hibernate-Natural-IDs-in-Spring-Boot)
   * *Published on 18 May 2023*
 * [Shared Secret Authentication in Spring Boot Application](https://feeds.feedblitz.com/~/741336677/0/baeldung~Shared-Secret-Authentication-in-Spring-Boot-Application)
-  * *Published on 17 May 2023*
-* [Send MultipartFile Request With RestAssured](https://feeds.feedblitz.com/~/741334847/0/baeldung~Send-MultipartFile-Request-With-RestAssured)
   * *Published on 17 May 2023*
