@@ -239,6 +239,8 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [Converting a cURL Into Postman and Vice Versa](https://feeds.feedblitz.com/~/741876596/0/baeldung~Converting-a-cURL-Into-Postman-and-Vice-Versa)
+  * *Published on 21 May 2023*
 * [Java Weekly, Issue 490](https://feeds.feedblitz.com/~/741657164/0/baeldung~Java-Weekly-Issue)
   * *Published on 19 May 2023*
 * [Get Last N Messages in Apache Kafka Topic](https://feeds.feedblitz.com/~/741550937/0/baeldung~Get-Last-N-Messages-in-Apache-Kafka-Topic)
@@ -247,5 +249,3 @@ No recent activity
   * *Published on 18 May 2023*
 * [Hibernate Natural IDs in Spring Boot](https://feeds.feedblitz.com/~/741550946/0/baeldung~Hibernate-Natural-IDs-in-Spring-Boot)
   * *Published on 18 May 2023*
-* [Shared Secret Authentication in Spring Boot Application](https://feeds.feedblitz.com/~/741336677/0/baeldung~Shared-Secret-Authentication-in-Spring-Boot-Application)
-  * *Published on 17 May 2023*
