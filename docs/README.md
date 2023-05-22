@@ -239,13 +239,13 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [Custom WebFlux Exceptions in Spring Boot 3](https://feeds.feedblitz.com/~/742032836/0/baeldung~Custom-WebFlux-Exceptions-in-Spring-Boot)
+  * *Published on 22 May 2023*
+* [Working With Empty Stream in Java](https://feeds.feedblitz.com/~/741964211/0/baeldung~Working-With-Empty-Stream-in-Java)
+  * *Published on 21 May 2023*
+* [Configure Git Branch Selection in Jenkins](https://feeds.feedblitz.com/~/741958145/0/baeldung~Configure-Git-Branch-Selection-in-Jenkins)
+  * *Published on 21 May 2023*
+* [Creating Custom Iterator in Java](https://feeds.feedblitz.com/~/741958148/0/baeldung~Creating-Custom-Iterator-in-Java)
+  * *Published on 21 May 2023*
 * [Converting a cURL Into Postman and Vice Versa](https://feeds.feedblitz.com/~/741876596/0/baeldung~Converting-a-cURL-Into-Postman-and-Vice-Versa)
   * *Published on 21 May 2023*
-* [Java Weekly, Issue 490](https://feeds.feedblitz.com/~/741657164/0/baeldung~Java-Weekly-Issue)
-  * *Published on 19 May 2023*
-* [Get Last N Messages in Apache Kafka Topic](https://feeds.feedblitz.com/~/741550937/0/baeldung~Get-Last-N-Messages-in-Apache-Kafka-Topic)
-  * *Published on 18 May 2023*
-* [How to List All Pods and Its Nodes in Kubernetes](https://feeds.feedblitz.com/~/741550940/0/baeldung~How-to-List-All-Pods-and-Its-Nodes-in-Kubernetes)
-  * *Published on 18 May 2023*
-* [Hibernate Natural IDs in Spring Boot](https://feeds.feedblitz.com/~/741550946/0/baeldung~Hibernate-Natural-IDs-in-Spring-Boot)
-  * *Published on 18 May 2023*
