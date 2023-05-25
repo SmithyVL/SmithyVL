@@ -239,13 +239,13 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
-* [Custom WebFlux Exceptions in Spring Boot 3](https://feeds.feedblitz.com/~/742032836/0/baeldung~Custom-WebFlux-Exceptions-in-Spring-Boot)
-  * *Published on 22 May 2023*
-* [Working With Empty Stream in Java](https://feeds.feedblitz.com/~/741964211/0/baeldung~Working-With-Empty-Stream-in-Java)
-  * *Published on 21 May 2023*
-* [Configure Git Branch Selection in Jenkins](https://feeds.feedblitz.com/~/741958145/0/baeldung~Configure-Git-Branch-Selection-in-Jenkins)
-  * *Published on 21 May 2023*
-* [Creating Custom Iterator in Java](https://feeds.feedblitz.com/~/741958148/0/baeldung~Creating-Custom-Iterator-in-Java)
-  * *Published on 21 May 2023*
-* [Converting a cURL Into Postman and Vice Versa](https://feeds.feedblitz.com/~/741876596/0/baeldung~Converting-a-cURL-Into-Postman-and-Vice-Versa)
-  * *Published on 21 May 2023*
+* [Check if a List Contains an Element From Another List in Java](https://feeds.feedblitz.com/~/742615496/0/baeldung~Check-if-a-List-Contains-an-Element-From-Another-List-in-Java)
+  * *Published on 25 May 2023*
+* [Spring Boot Actuator Without Spring Boot](https://feeds.feedblitz.com/~/742615499/0/baeldung~Spring-Boot-Actuator-Without-Spring-Boot)
+  * *Published on 25 May 2023*
+* [Encoding Special Characters in XML](https://feeds.feedblitz.com/~/742613660/0/baeldung~Encoding-Special-Characters-in-XML)
+  * *Published on 25 May 2023*
+* [Generating Javadoc With Gradle](https://feeds.feedblitz.com/~/742613663/0/baeldung~Generating-Javadoc-With-Gradle)
+  * *Published on 25 May 2023*
+* [Write Console Output to Text File in Java](https://feeds.feedblitz.com/~/742597193/0/baeldung~Write-Console-Output-to-Text-File-in-Java)
+  * *Published on 25 May 2023*
