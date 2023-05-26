@@ -239,6 +239,8 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [Java Weekly, Issue 491](https://feeds.feedblitz.com/~/742721891/0/baeldung~Java-Weekly-Issue)
+  * *Published on 25 May 2023*
 * [Check if a List Contains an Element From Another List in Java](https://feeds.feedblitz.com/~/742615496/0/baeldung~Check-if-a-List-Contains-an-Element-From-Another-List-in-Java)
   * *Published on 25 May 2023*
 * [Spring Boot Actuator Without Spring Boot](https://feeds.feedblitz.com/~/742615499/0/baeldung~Spring-Boot-Actuator-Without-Spring-Boot)
@@ -246,6 +248,4 @@ No recent activity
 * [Encoding Special Characters in XML](https://feeds.feedblitz.com/~/742613660/0/baeldung~Encoding-Special-Characters-in-XML)
   * *Published on 25 May 2023*
 * [Generating Javadoc With Gradle](https://feeds.feedblitz.com/~/742613663/0/baeldung~Generating-Javadoc-With-Gradle)
-  * *Published on 25 May 2023*
-* [Write Console Output to Text File in Java](https://feeds.feedblitz.com/~/742597193/0/baeldung~Write-Console-Output-to-Text-File-in-Java)
   * *Published on 25 May 2023*
