@@ -240,13 +240,13 @@
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [Convert Hashmap to JSON Object in Java](https://feeds.feedblitz.com/~/743111351/0/baeldung~Convert-Hashmap-to-JSON-Object-in-Java)
+  * *Published on 27 May 2023*
+* [Correct Use of flush() in JPA](https://feeds.feedblitz.com/~/743111354/0/baeldung~Correct-Use-of-flush-in-JPA)
+  * *Published on 27 May 2023*
+* [Securing Spring Boot API With API Key and Secret](https://feeds.feedblitz.com/~/743110019/0/baeldung~Securing-Spring-Boot-API-With-API-Key-and-Secret)
+  * *Published on 27 May 2023*
 * [Array vs. List Performance in Java](https://feeds.feedblitz.com/~/742973387/0/baeldung~Array-vs-List-Performance-in-Java)
   * *Published on 27 May 2023*
 * [What’s the difference between Scanner next() and nextLine() methods?](https://feeds.feedblitz.com/~/742870022/0/baeldung~Whats-the-difference-between-Scanner-next-and-nextLine-methods)
   * *Published on 26 May 2023*
-* [Solving Gson Parsing Errors](https://feeds.feedblitz.com/~/742870025/0/baeldung~Solving-Gson-Parsing-Errors)
-  * *Published on 26 May 2023*
-* [Java Weekly, Issue 491](https://feeds.feedblitz.com/~/742721891/0/baeldung~Java-Weekly-Issue)
-  * *Published on 25 May 2023*
-* [Check if a List Contains an Element From Another List in Java](https://feeds.feedblitz.com/~/742615496/0/baeldung~Check-if-a-List-Contains-an-Element-From-Another-List-in-Java)
-  * *Published on 25 May 2023*
