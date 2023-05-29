@@ -240,13 +240,13 @@
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [Converting JSON to XML in Java](https://feeds.feedblitz.com/~/743275469/0/baeldung~Converting-JSON-to-XML-in-Java)
+  * *Published on 29 May 2023*
+* [How to Switch Namespaces in Kubernetes](https://feeds.feedblitz.com/~/743271158/0/baeldung~How-to-Switch-Namespaces-in-Kubernetes)
+  * *Published on 29 May 2023*
+* [Introduction to MinIO](https://feeds.feedblitz.com/~/743271161/0/baeldung~Introduction-to-MinIO)
+  * *Published on 29 May 2023*
 * [Convert Hashmap to JSON Object in Java](https://feeds.feedblitz.com/~/743111351/0/baeldung~Convert-Hashmap-to-JSON-Object-in-Java)
   * *Published on 27 May 2023*
 * [Correct Use of flush() in JPA](https://feeds.feedblitz.com/~/743111354/0/baeldung~Correct-Use-of-flush-in-JPA)
   * *Published on 27 May 2023*
-* [Securing Spring Boot API With API Key and Secret](https://feeds.feedblitz.com/~/743110019/0/baeldung~Securing-Spring-Boot-API-With-API-Key-and-Secret)
-  * *Published on 27 May 2023*
-* [Array vs. List Performance in Java](https://feeds.feedblitz.com/~/742973387/0/baeldung~Array-vs-List-Performance-in-Java)
-  * *Published on 27 May 2023*
-* [What’s the difference between Scanner next() and nextLine() methods?](https://feeds.feedblitz.com/~/742870022/0/baeldung~Whats-the-difference-between-Scanner-next-and-nextLine-methods)
-  * *Published on 26 May 2023*
