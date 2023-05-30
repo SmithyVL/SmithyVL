@@ -240,13 +240,13 @@
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [Set Default Value for Elements in List](https://feeds.feedblitz.com/~/743373131/0/baeldung~Set-Default-Value-for-Elements-in-List)
+  * *Published on 29 May 2023*
+* [Configuring Gradle Tasks in Spring Boot 3](https://feeds.feedblitz.com/~/743373134/0/baeldung~Configuring-Gradle-Tasks-in-Spring-Boot)
+  * *Published on 29 May 2023*
+* [Handle NoSuchElementException When Reading a File Through Scanner](https://feeds.feedblitz.com/~/743289038/0/baeldung~Handle-NoSuchElementException-When-Reading-a-File-Through-Scanner)
+  * *Published on 29 May 2023*
 * [Converting JSON to XML in Java](https://feeds.feedblitz.com/~/743275469/0/baeldung~Converting-JSON-to-XML-in-Java)
   * *Published on 29 May 2023*
 * [How to Switch Namespaces in Kubernetes](https://feeds.feedblitz.com/~/743271158/0/baeldung~How-to-Switch-Namespaces-in-Kubernetes)
   * *Published on 29 May 2023*
-* [Introduction to MinIO](https://feeds.feedblitz.com/~/743271161/0/baeldung~Introduction-to-MinIO)
-  * *Published on 29 May 2023*
-* [Convert Hashmap to JSON Object in Java](https://feeds.feedblitz.com/~/743111351/0/baeldung~Convert-Hashmap-to-JSON-Object-in-Java)
-  * *Published on 27 May 2023*
-* [Correct Use of flush() in JPA](https://feeds.feedblitz.com/~/743111354/0/baeldung~Correct-Use-of-flush-in-JPA)
-  * *Published on 27 May 2023*
