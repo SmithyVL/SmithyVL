@@ -240,13 +240,13 @@
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [Fix Command Line is Too Long in IntelliJ](https://feeds.feedblitz.com/~/743614790/0/baeldung~Fix-Command-Line-is-Too-Long-in-IntelliJ)
+  * *Published on 31 May 2023*
+* [The Difference Between findById and getById in Spring Data](https://feeds.feedblitz.com/~/743612807/0/baeldung~The-Difference-Between-findById-and-getById-in-Spring-Data)
+  * *Published on 31 May 2023*
 * [Set Default Value for Elements in List](https://feeds.feedblitz.com/~/743373131/0/baeldung~Set-Default-Value-for-Elements-in-List)
   * *Published on 29 May 2023*
 * [Configuring Gradle Tasks in Spring Boot 3](https://feeds.feedblitz.com/~/743373134/0/baeldung~Configuring-Gradle-Tasks-in-Spring-Boot)
   * *Published on 29 May 2023*
 * [Handle NoSuchElementException When Reading a File Through Scanner](https://feeds.feedblitz.com/~/743289038/0/baeldung~Handle-NoSuchElementException-When-Reading-a-File-Through-Scanner)
-  * *Published on 29 May 2023*
-* [Converting JSON to XML in Java](https://feeds.feedblitz.com/~/743275469/0/baeldung~Converting-JSON-to-XML-in-Java)
-  * *Published on 29 May 2023*
-* [How to Switch Namespaces in Kubernetes](https://feeds.feedblitz.com/~/743271158/0/baeldung~How-to-Switch-Namespaces-in-Kubernetes)
   * *Published on 29 May 2023*
