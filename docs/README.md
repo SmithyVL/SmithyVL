@@ -240,13 +240,13 @@
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
-* [Fix Command Line is Too Long in IntelliJ](https://feeds.feedblitz.com/~/743614790/0/baeldung~Fix-Command-Line-is-Too-Long-in-IntelliJ)
+* [Gray Box Testing Using the OAT Technique](https://feeds.feedblitz.com/~/743713739/0/baeldung~Gray-Box-Testing-Using-the-OAT-Technique)
   * *Published on 31 May 2023*
-* [The Difference Between findById and getById in Spring Data](https://feeds.feedblitz.com/~/743612807/0/baeldung~The-Difference-Between-findById-and-getById-in-Spring-Data)
+* [Spring Boot Properties Prefix Must Be in Canonical Form](https://feeds.feedblitz.com/~/743713742/0/baeldung~Spring-Boot-Properties-Prefix-Must-Be-in-Canonical-Form)
   * *Published on 31 May 2023*
-* [Set Default Value for Elements in List](https://feeds.feedblitz.com/~/743373131/0/baeldung~Set-Default-Value-for-Elements-in-List)
-  * *Published on 29 May 2023*
-* [Configuring Gradle Tasks in Spring Boot 3](https://feeds.feedblitz.com/~/743373134/0/baeldung~Configuring-Gradle-Tasks-in-Spring-Boot)
-  * *Published on 29 May 2023*
-* [Handle NoSuchElementException When Reading a File Through Scanner](https://feeds.feedblitz.com/~/743289038/0/baeldung~Handle-NoSuchElementException-When-Reading-a-File-Through-Scanner)
-  * *Published on 29 May 2023*
+* [Read Data From the Beginning Using Kafka Consumer API](https://feeds.feedblitz.com/~/743706704/0/baeldung~Read-Data-From-the-Beginning-Using-Kafka-Consumer-API)
+  * *Published on 31 May 2023*
+* [Is a Key Required as Part of Sending Messages to Kafka?](https://feeds.feedblitz.com/~/743706707/0/baeldung~Is-a-Key-Required-as-Part-of-Sending-Messages-to-Kafka)
+  * *Published on 31 May 2023*
+* [Disable Wildcard Import in IntelliJ](https://feeds.feedblitz.com/~/743616950/0/baeldung~Disable-Wildcard-Import-in-IntelliJ)
+  * *Published on 31 May 2023*
