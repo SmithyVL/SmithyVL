@@ -234,19 +234,21 @@
 
 ## 📋 Недавняя активность
 **[📰 Recent activity](https://github.com/SmithyVL)**
+* 🌟 Starred [microsoft/devhome](https://github.com/microsoft/devhome)
+  * *On 2 Jun 2023, 16:14:24*
 * 🌟 Starred [WDaan/VueTorrent](https://github.com/WDaan/VueTorrent)
   * *On 26 May 2023, 16:03:50*
 
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [Java Weekly, Issue 492](https://feeds.feedblitz.com/~/744017687/0/baeldung~Java-Weekly-Issue)
+  * *Published on 2 Jun 2023*
+* [Replacing Variables in a Document Template with Java](https://feeds.feedblitz.com/~/743911157/0/baeldung~Replacing-Variables-in-a-Document-Template-with-Java)
+  * *Published on 2 Jun 2023*
+* [Understanding JPA/Hibernate Associations](https://feeds.feedblitz.com/~/743911160/0/baeldung~Understanding-JPAHibernate-Associations)
+  * *Published on 2 Jun 2023*
 * [Gray Box Testing Using the OAT Technique](https://feeds.feedblitz.com/~/743713739/0/baeldung~Gray-Box-Testing-Using-the-OAT-Technique)
   * *Published on 31 May 2023*
 * [Spring Boot Properties Prefix Must Be in Canonical Form](https://feeds.feedblitz.com/~/743713742/0/baeldung~Spring-Boot-Properties-Prefix-Must-Be-in-Canonical-Form)
-  * *Published on 31 May 2023*
-* [Read Data From the Beginning Using Kafka Consumer API](https://feeds.feedblitz.com/~/743706704/0/baeldung~Read-Data-From-the-Beginning-Using-Kafka-Consumer-API)
-  * *Published on 31 May 2023*
-* [Is a Key Required as Part of Sending Messages to Kafka?](https://feeds.feedblitz.com/~/743706707/0/baeldung~Is-a-Key-Required-as-Part-of-Sending-Messages-to-Kafka)
-  * *Published on 31 May 2023*
-* [Disable Wildcard Import in IntelliJ](https://feeds.feedblitz.com/~/743616950/0/baeldung~Disable-Wildcard-Import-in-IntelliJ)
   * *Published on 31 May 2023*
