@@ -242,6 +242,8 @@
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [How to Display a Full HTTP Response Body With Gatling](https://feeds.feedblitz.com/~/744281903/0/baeldung~How-to-Display-a-Full-HTTP-Response-Body-With-Gatling)
+  * *Published on 5 Jun 2023*
 * [Java Weekly, Issue 492](https://feeds.feedblitz.com/~/744017687/0/baeldung~Java-Weekly-Issue)
   * *Published on 2 Jun 2023*
 * [Replacing Variables in a Document Template with Java](https://feeds.feedblitz.com/~/743911157/0/baeldung~Replacing-Variables-in-a-Document-Template-with-Java)
@@ -249,6 +251,4 @@
 * [Understanding JPA/Hibernate Associations](https://feeds.feedblitz.com/~/743911160/0/baeldung~Understanding-JPAHibernate-Associations)
   * *Published on 2 Jun 2023*
 * [Gray Box Testing Using the OAT Technique](https://feeds.feedblitz.com/~/743713739/0/baeldung~Gray-Box-Testing-Using-the-OAT-Technique)
-  * *Published on 31 May 2023*
-* [Spring Boot Properties Prefix Must Be in Canonical Form](https://feeds.feedblitz.com/~/743713742/0/baeldung~Spring-Boot-Properties-Prefix-Must-Be-in-Canonical-Form)
   * *Published on 31 May 2023*
