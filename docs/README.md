@@ -242,13 +242,13 @@
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
-* [Difference Between get() and navigate() in Selenium WebDriver](https://feeds.feedblitz.com/~/744698915/0/baeldung~Difference-Between-get-and-navigate-in-Selenium-WebDriver)
-  * *Published on 7 Jun 2023*
-* [Why Is Field Injection Not Recommended?](https://feeds.feedblitz.com/~/744698918/0/baeldung~Why-Is-Field-Injection-Not-Recommended)
-  * *Published on 7 Jun 2023*
-* [Get Unique Values From an ArrayList In Java](https://feeds.feedblitz.com/~/744698921/0/baeldung~Get-Unique-Values-From-an-ArrayList-In-Java)
-  * *Published on 7 Jun 2023*
-* [Returning a Value After Finishing Thread’s Job in Java](https://feeds.feedblitz.com/~/744698924/0/baeldung~Returning-a-Value-After-Finishing-Threads-Job-in-Java)
-  * *Published on 7 Jun 2023*
-* [Converting Map&lt;String, Object&gt; to Map&lt;String, String&gt; in Java](https://feeds.feedblitz.com/~/744696920/0/baeldung~Converting-MapString-Object-to-MapString-String-in-Java)
-  * *Published on 7 Jun 2023*
+* [Run JMeter .jmx File From the Command Line and Configure the Report File](https://feeds.feedblitz.com/~/745016432/0/baeldung~Run-JMeter-jmx-File-From-the-Command-Line-and-Configure-the-Report-File)
+  * *Published on 9 Jun 2023*
+* [Generating WSDL Stubs With Gradle](https://feeds.feedblitz.com/~/745016435/0/baeldung~Generating-WSDL-Stubs-With-Gradle)
+  * *Published on 9 Jun 2023*
+* [Combining Two or More Byte Arrays](https://feeds.feedblitz.com/~/745014572/0/baeldung~Combining-Two-or-More-Byte-Arrays)
+  * *Published on 9 Jun 2023*
+* [Java Weekly, Issue 493](https://feeds.feedblitz.com/~/744896216/0/baeldung~Java-Weekly-Issue)
+  * *Published on 8 Jun 2023*
+* [How to Force Kubernetes to Re-Pull an Image](https://feeds.feedblitz.com/~/744851687/0/baeldung~How-to-Force-Kubernetes-to-RePull-an-Image)
+  * *Published on 8 Jun 2023*
