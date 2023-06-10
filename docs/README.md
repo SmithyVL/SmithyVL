@@ -236,19 +236,17 @@
 **[📰 Recent activity](https://github.com/SmithyVL)**
 * 🌟 Starred [microsoft/devhome](https://github.com/microsoft/devhome)
   * *On 2 Jun 2023, 16:14:24*
-* 🌟 Starred [WDaan/VueTorrent](https://github.com/WDaan/VueTorrent)
-  * *On 26 May 2023, 16:03:50*
 
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [Lossy and Lossless Image Compression Using Java](https://feeds.feedblitz.com/~/745198556/0/baeldung~Lossy-and-Lossless-Image-Compression-Using-Java)
+  * *Published on 10 Jun 2023*
+* [@JsonMerge Annotation in Jackson](https://feeds.feedblitz.com/~/745195136/0/baeldung~JsonMerge-Annotation-in-Jackson)
+  * *Published on 10 Jun 2023*
+* [Mock a URL Connection in Java](https://feeds.feedblitz.com/~/745195139/0/baeldung~Mock-a-URL-Connection-in-Java)
+  * *Published on 10 Jun 2023*
+* [How Many Days Are There in a Particular Month of a Given Year?](https://feeds.feedblitz.com/~/745195142/0/baeldung~How-Many-Days-Are-There-in-a-Particular-Month-of-a-Given-Year)
+  * *Published on 10 Jun 2023*
 * [Run JMeter .jmx File From the Command Line and Configure the Report File](https://feeds.feedblitz.com/~/745016432/0/baeldung~Run-JMeter-jmx-File-From-the-Command-Line-and-Configure-the-Report-File)
   * *Published on 9 Jun 2023*
-* [Generating WSDL Stubs With Gradle](https://feeds.feedblitz.com/~/745016435/0/baeldung~Generating-WSDL-Stubs-With-Gradle)
-  * *Published on 9 Jun 2023*
-* [Combining Two or More Byte Arrays](https://feeds.feedblitz.com/~/745014572/0/baeldung~Combining-Two-or-More-Byte-Arrays)
-  * *Published on 9 Jun 2023*
-* [Java Weekly, Issue 493](https://feeds.feedblitz.com/~/744896216/0/baeldung~Java-Weekly-Issue)
-  * *Published on 8 Jun 2023*
-* [How to Force Kubernetes to Re-Pull an Image](https://feeds.feedblitz.com/~/744851687/0/baeldung~How-to-Force-Kubernetes-to-RePull-an-Image)
-  * *Published on 8 Jun 2023*
