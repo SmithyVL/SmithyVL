@@ -240,13 +240,13 @@
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [Introduction to Docker Buildx](https://feeds.feedblitz.com/~/745423580/0/baeldung~Introduction-to-Docker-Buildx)
+  * *Published on 11 Jun 2023*
+* [Add a Checked Attribute to Input Conditionally in Thymeleaf](https://feeds.feedblitz.com/~/745417091/0/baeldung~Add-a-Checked-Attribute-to-Input-Conditionally-in-Thymeleaf)
+  * *Published on 11 Jun 2023*
 * [Sort Date Strings in Java](https://feeds.feedblitz.com/~/745230161/0/baeldung~Sort-Date-Strings-in-Java)
   * *Published on 10 Jun 2023*
 * [Lossy and Lossless Image Compression Using Java](https://feeds.feedblitz.com/~/745198556/0/baeldung~Lossy-and-Lossless-Image-Compression-Using-Java)
   * *Published on 10 Jun 2023*
 * [@JsonMerge Annotation in Jackson](https://feeds.feedblitz.com/~/745195136/0/baeldung~JsonMerge-Annotation-in-Jackson)
-  * *Published on 10 Jun 2023*
-* [Mock a URL Connection in Java](https://feeds.feedblitz.com/~/745195139/0/baeldung~Mock-a-URL-Connection-in-Java)
-  * *Published on 10 Jun 2023*
-* [How Many Days Are There in a Particular Month of a Given Year?](https://feeds.feedblitz.com/~/745195142/0/baeldung~How-Many-Days-Are-There-in-a-Particular-Month-of-a-Given-Year)
   * *Published on 10 Jun 2023*
