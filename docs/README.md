@@ -240,13 +240,13 @@
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
-* [Cognitive Complexity and Its Effect on the Code](https://feeds.feedblitz.com/~/745789316/0/baeldung~Cognitive-Complexity-and-Its-Effect-on-the-Code)
-  * *Published on 13 Jun 2023*
-* [Java IllegalStateException: “getInputStream() has already been called for this request”](https://feeds.feedblitz.com/~/745593266/0/baeldung~Java-IllegalStateException-getInputStream-has-already-been-called-for-this-request)
-  * *Published on 12 Jun 2023*
-* [Introduction to Docker Buildx](https://feeds.feedblitz.com/~/745423580/0/baeldung~Introduction-to-Docker-Buildx)
-  * *Published on 11 Jun 2023*
-* [Add a Checked Attribute to Input Conditionally in Thymeleaf](https://feeds.feedblitz.com/~/745417091/0/baeldung~Add-a-Checked-Attribute-to-Input-Conditionally-in-Thymeleaf)
-  * *Published on 11 Jun 2023*
-* [Sort Date Strings in Java](https://feeds.feedblitz.com/~/745230161/0/baeldung~Sort-Date-Strings-in-Java)
-  * *Published on 10 Jun 2023*
+* [Asserting Equality on Two Classes Without an equals() Method](https://feeds.feedblitz.com/~/746465702/0/baeldung~Asserting-Equality-on-Two-Classes-Without-an-equals-Method)
+  * *Published on 15 Jun 2023*
+* [Converting a Java List to a Json Array](https://feeds.feedblitz.com/~/746465705/0/baeldung~Converting-a-Java-List-to-a-Json-Array)
+  * *Published on 15 Jun 2023*
+* [Java Weekly, Issue 494](https://feeds.feedblitz.com/~/746470178/0/baeldung~Java-Weekly-Issue)
+  * *Published on 15 Jun 2023*
+* [What Is Elasticsearch?](https://feeds.feedblitz.com/~/746389043/0/baeldung~What-Is-Elasticsearch)
+  * *Published on 15 Jun 2023*
+* [Resolving Mockito Exception: Wanted But Not Invoked](https://feeds.feedblitz.com/~/746384060/0/baeldung~Resolving-Mockito-Exception-Wanted-But-Not-Invoked)
+  * *Published on 15 Jun 2023*
