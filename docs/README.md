@@ -234,12 +234,13 @@
 
 ## 📋 Недавняя активность
 **[📰 Recent activity](https://github.com/SmithyVL)**
-* 🌟 Starred [microsoft/devhome](https://github.com/microsoft/devhome)
-  * *On 2 Jun 2023, 16:14:24*
+No recent activity
 
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [Matching Null With Mockito](https://feeds.feedblitz.com/~/746597216/0/baeldung~Matching-Null-With-Mockito)
+  * *Published on 16 Jun 2023*
 * [Asserting Equality on Two Classes Without an equals() Method](https://feeds.feedblitz.com/~/746465702/0/baeldung~Asserting-Equality-on-Two-Classes-Without-an-equals-Method)
   * *Published on 15 Jun 2023*
 * [Converting a Java List to a Json Array](https://feeds.feedblitz.com/~/746465705/0/baeldung~Converting-a-Java-List-to-a-Json-Array)
@@ -247,6 +248,4 @@
 * [Java Weekly, Issue 494](https://feeds.feedblitz.com/~/746470178/0/baeldung~Java-Weekly-Issue)
   * *Published on 15 Jun 2023*
 * [What Is Elasticsearch?](https://feeds.feedblitz.com/~/746389043/0/baeldung~What-Is-Elasticsearch)
-  * *Published on 15 Jun 2023*
-* [Resolving Mockito Exception: Wanted But Not Invoked](https://feeds.feedblitz.com/~/746384060/0/baeldung~Resolving-Mockito-Exception-Wanted-But-Not-Invoked)
   * *Published on 15 Jun 2023*
