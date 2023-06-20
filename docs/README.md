@@ -239,13 +239,13 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [Throw Exception for Unexpected Input for Enum With MapStruct](https://feeds.feedblitz.com/~/747352442/0/baeldung~Throw-Exception-for-Unexpected-Input-for-Enum-With-MapStruct)
+  * *Published on 20 Jun 2023*
+* [Read Date in Java Using Scanner](https://feeds.feedblitz.com/~/747350645/0/baeldung~Read-Date-in-Java-Using-Scanner)
+  * *Published on 20 Jun 2023*
+* [Convert a List of Strings to a List of Integers](https://feeds.feedblitz.com/~/747248393/0/baeldung~Convert-a-List-of-Strings-to-a-List-of-Integers)
+  * *Published on 19 Jun 2023*
+* [Listing All AWS S3 Objects in a Bucket Using Java](https://feeds.feedblitz.com/~/747248396/0/baeldung~Listing-All-AWS-S-Objects-in-a-Bucket-Using-Java)
+  * *Published on 19 Jun 2023*
 * [Matching Null With Mockito](https://feeds.feedblitz.com/~/746597216/0/baeldung~Matching-Null-With-Mockito)
   * *Published on 16 Jun 2023*
-* [Asserting Equality on Two Classes Without an equals() Method](https://feeds.feedblitz.com/~/746465702/0/baeldung~Asserting-Equality-on-Two-Classes-Without-an-equals-Method)
-  * *Published on 15 Jun 2023*
-* [Converting a Java List to a Json Array](https://feeds.feedblitz.com/~/746465705/0/baeldung~Converting-a-Java-List-to-a-Json-Array)
-  * *Published on 15 Jun 2023*
-* [Java Weekly, Issue 494](https://feeds.feedblitz.com/~/746470178/0/baeldung~Java-Weekly-Issue)
-  * *Published on 15 Jun 2023*
-* [What Is Elasticsearch?](https://feeds.feedblitz.com/~/746389043/0/baeldung~What-Is-Elasticsearch)
-  * *Published on 15 Jun 2023*
