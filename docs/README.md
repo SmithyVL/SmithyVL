@@ -239,6 +239,8 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [Need for Default Constructor in JPA Entities](https://feeds.feedblitz.com/~/747418025/0/baeldung~Need-for-Default-Constructor-in-JPA-Entities)
+  * *Published on 20 Jun 2023*
 * [Throw Exception for Unexpected Input for Enum With MapStruct](https://feeds.feedblitz.com/~/747352442/0/baeldung~Throw-Exception-for-Unexpected-Input-for-Enum-With-MapStruct)
   * *Published on 20 Jun 2023*
 * [Read Date in Java Using Scanner](https://feeds.feedblitz.com/~/747350645/0/baeldung~Read-Date-in-Java-Using-Scanner)
@@ -247,5 +249,3 @@ No recent activity
   * *Published on 19 Jun 2023*
 * [Listing All AWS S3 Objects in a Bucket Using Java](https://feeds.feedblitz.com/~/747248396/0/baeldung~Listing-All-AWS-S-Objects-in-a-Bucket-Using-Java)
   * *Published on 19 Jun 2023*
-* [Matching Null With Mockito](https://feeds.feedblitz.com/~/746597216/0/baeldung~Matching-Null-With-Mockito)
-  * *Published on 16 Jun 2023*
