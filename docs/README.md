@@ -239,6 +239,8 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [Hex Representation of a SHA-1 Digest of a String in Java](https://feeds.feedblitz.com/~/747803834/0/baeldung~Hex-Representation-of-a-SHA-Digest-of-a-String-in-Java)
+  * *Published on 22 Jun 2023*
 * [Need for Default Constructor in JPA Entities](https://feeds.feedblitz.com/~/747418025/0/baeldung~Need-for-Default-Constructor-in-JPA-Entities)
   * *Published on 20 Jun 2023*
 * [Throw Exception for Unexpected Input for Enum With MapStruct](https://feeds.feedblitz.com/~/747352442/0/baeldung~Throw-Exception-for-Unexpected-Input-for-Enum-With-MapStruct)
@@ -246,6 +248,4 @@ No recent activity
 * [Read Date in Java Using Scanner](https://feeds.feedblitz.com/~/747350645/0/baeldung~Read-Date-in-Java-Using-Scanner)
   * *Published on 20 Jun 2023*
 * [Convert a List of Strings to a List of Integers](https://feeds.feedblitz.com/~/747248393/0/baeldung~Convert-a-List-of-Strings-to-a-List-of-Integers)
-  * *Published on 19 Jun 2023*
-* [Listing All AWS S3 Objects in a Bucket Using Java](https://feeds.feedblitz.com/~/747248396/0/baeldung~Listing-All-AWS-S-Objects-in-a-Bucket-Using-Java)
   * *Published on 19 Jun 2023*
