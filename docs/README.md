@@ -239,13 +239,13 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
-* [Hex Representation of a SHA-1 Digest of a String in Java](https://feeds.feedblitz.com/~/747803834/0/baeldung~Hex-Representation-of-a-SHA-Digest-of-a-String-in-Java)
+* [Java Weekly, Issue 495](https://feeds.feedblitz.com/~/747948344/0/baeldung~Java-Weekly-Issue)
   * *Published on 22 Jun 2023*
-* [Need for Default Constructor in JPA Entities](https://feeds.feedblitz.com/~/747418025/0/baeldung~Need-for-Default-Constructor-in-JPA-Entities)
-  * *Published on 20 Jun 2023*
-* [Throw Exception for Unexpected Input for Enum With MapStruct](https://feeds.feedblitz.com/~/747352442/0/baeldung~Throw-Exception-for-Unexpected-Input-for-Enum-With-MapStruct)
-  * *Published on 20 Jun 2023*
-* [Read Date in Java Using Scanner](https://feeds.feedblitz.com/~/747350645/0/baeldung~Read-Date-in-Java-Using-Scanner)
-  * *Published on 20 Jun 2023*
-* [Convert a List of Strings to a List of Integers](https://feeds.feedblitz.com/~/747248393/0/baeldung~Convert-a-List-of-Strings-to-a-List-of-Integers)
-  * *Published on 19 Jun 2023*
+* [Difference Between Boolean.TRUE and true in Java](https://feeds.feedblitz.com/~/747892712/0/baeldung~Difference-Between-BooleanTRUE-and-true-in-Java)
+  * *Published on 22 Jun 2023*
+* [Setting Default Values to Null Fields in Jackson Mapping](https://feeds.feedblitz.com/~/747892715/0/baeldung~Setting-Default-Values-to-Null-Fields-in-Jackson-Mapping)
+  * *Published on 22 Jun 2023*
+* [Get Partition Count for a Topic in Kafka](https://feeds.feedblitz.com/~/747890432/0/baeldung~Get-Partition-Count-for-a-Topic-in-Kafka)
+  * *Published on 22 Jun 2023*
+* [Difference Between findBy and findOneBy in Spring Data JPA](https://feeds.feedblitz.com/~/747890435/0/baeldung~Difference-Between-findBy-and-findOneBy-in-Spring-Data-JPA)
+  * *Published on 22 Jun 2023*
