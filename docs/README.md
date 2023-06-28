@@ -239,13 +239,13 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [Removing JSON Elements With Jackson](https://feeds.feedblitz.com/~/749161490/0/baeldung~Removing-JSON-Elements-With-Jackson)
+  * *Published on 27 Jun 2023*
+* [Starting the Maven Build From the Point Where It Failed](https://feeds.feedblitz.com/~/749150840/0/baeldung~Starting-the-Maven-Build-From-the-Point-Where-It-Failed)
+  * *Published on 27 Jun 2023*
+* [How to Get Last Day of a Month in Java](https://feeds.feedblitz.com/~/749146322/0/baeldung~How-to-Get-Last-Day-of-a-Month-in-Java)
+  * *Published on 27 Jun 2023*
 * [Extracting a Tar File in Java](https://feeds.feedblitz.com/~/748843472/0/baeldung~Extracting-a-Tar-File-in-Java)
   * *Published on 26 Jun 2023*
 * [Difference Between Instant and LocalDateTime](https://feeds.feedblitz.com/~/748843475/0/baeldung~Difference-Between-Instant-and-LocalDateTime)
   * *Published on 26 Jun 2023*
-* [Adding One Month to Current Date in Java](https://feeds.feedblitz.com/~/748335866/0/baeldung~Adding-One-Month-to-Current-Date-in-Java)
-  * *Published on 24 Jun 2023*
-* [The Vector API in Java 19](https://feeds.feedblitz.com/~/748334402/0/baeldung~The-Vector-API-in-Java)
-  * *Published on 24 Jun 2023*
-* [Java Weekly, Issue 495](https://feeds.feedblitz.com/~/747948344/0/baeldung~Java-Weekly-Issue)
-  * *Published on 22 Jun 2023*
