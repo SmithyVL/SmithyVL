@@ -239,6 +239,8 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [MongoDB – Field Level Encryption](https://feeds.feedblitz.com/~/749290052/0/baeldung~MongoDB-Field-Level-Encryption)
+  * *Published on 28 Jun 2023*
 * [Removing JSON Elements With Jackson](https://feeds.feedblitz.com/~/749161490/0/baeldung~Removing-JSON-Elements-With-Jackson)
   * *Published on 27 Jun 2023*
 * [Starting the Maven Build From the Point Where It Failed](https://feeds.feedblitz.com/~/749150840/0/baeldung~Starting-the-Maven-Build-From-the-Point-Where-It-Failed)
@@ -246,6 +248,4 @@ No recent activity
 * [How to Get Last Day of a Month in Java](https://feeds.feedblitz.com/~/749146322/0/baeldung~How-to-Get-Last-Day-of-a-Month-in-Java)
   * *Published on 27 Jun 2023*
 * [Extracting a Tar File in Java](https://feeds.feedblitz.com/~/748843472/0/baeldung~Extracting-a-Tar-File-in-Java)
-  * *Published on 26 Jun 2023*
-* [Difference Between Instant and LocalDateTime](https://feeds.feedblitz.com/~/748843475/0/baeldung~Difference-Between-Instant-and-LocalDateTime)
   * *Published on 26 Jun 2023*
