@@ -239,13 +239,13 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [Smart Batching in Java](https://feeds.feedblitz.com/~/749550533/0/baeldung~Smart-Batching-in-Java)
+  * *Published on 29 Jun 2023*
+* [Java Weekly, Issue 496](https://feeds.feedblitz.com/~/749572886/0/baeldung~Java-Weekly-Issue)
+  * *Published on 29 Jun 2023*
+* [Lombok’s @RequiredArgsConstructor Annotation](https://feeds.feedblitz.com/~/749547800/0/baeldung~Lomboks-RequiredArgsConstructor-Annotation)
+  * *Published on 29 Jun 2023*
+* [JAXP vs JAXB: XML Processing APIs Compared](https://feeds.feedblitz.com/~/749545865/0/baeldung~JAXP-vs-JAXB-XML-Processing-APIs-Compared)
+  * *Published on 29 Jun 2023*
 * [MongoDB – Field Level Encryption](https://feeds.feedblitz.com/~/749290052/0/baeldung~MongoDB-Field-Level-Encryption)
   * *Published on 28 Jun 2023*
-* [Removing JSON Elements With Jackson](https://feeds.feedblitz.com/~/749161490/0/baeldung~Removing-JSON-Elements-With-Jackson)
-  * *Published on 27 Jun 2023*
-* [Starting the Maven Build From the Point Where It Failed](https://feeds.feedblitz.com/~/749150840/0/baeldung~Starting-the-Maven-Build-From-the-Point-Where-It-Failed)
-  * *Published on 27 Jun 2023*
-* [How to Get Last Day of a Month in Java](https://feeds.feedblitz.com/~/749146322/0/baeldung~How-to-Get-Last-Day-of-a-Month-in-Java)
-  * *Published on 27 Jun 2023*
-* [Extracting a Tar File in Java](https://feeds.feedblitz.com/~/748843472/0/baeldung~Extracting-a-Tar-File-in-Java)
-  * *Published on 26 Jun 2023*
