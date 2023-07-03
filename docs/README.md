@@ -239,6 +239,8 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [Check if a File Is Empty in Java](https://feeds.feedblitz.com/~/750345170/0/baeldung~Check-if-a-File-Is-Empty-in-Java)
+  * *Published on 2 Jul 2023*
 * [Smart Batching in Java](https://feeds.feedblitz.com/~/749550533/0/baeldung~Smart-Batching-in-Java)
   * *Published on 29 Jun 2023*
 * [Java Weekly, Issue 496](https://feeds.feedblitz.com/~/749572886/0/baeldung~Java-Weekly-Issue)
@@ -247,5 +249,3 @@ No recent activity
   * *Published on 29 Jun 2023*
 * [JAXP vs JAXB: XML Processing APIs Compared](https://feeds.feedblitz.com/~/749545865/0/baeldung~JAXP-vs-JAXB-XML-Processing-APIs-Compared)
   * *Published on 29 Jun 2023*
-* [MongoDB – Field Level Encryption](https://feeds.feedblitz.com/~/749290052/0/baeldung~MongoDB-Field-Level-Encryption)
-  * *Published on 28 Jun 2023*
