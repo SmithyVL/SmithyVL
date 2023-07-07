@@ -239,6 +239,8 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [Swagger @Parameter vs @Schema](https://feeds.feedblitz.com/~/751201238/0/baeldung~Swagger-Parameter-vs-Schema)
+  * *Published on 6 Jul 2023*
 * [Check if a File Is Empty in Java](https://feeds.feedblitz.com/~/750345170/0/baeldung~Check-if-a-File-Is-Empty-in-Java)
   * *Published on 2 Jul 2023*
 * [Smart Batching in Java](https://feeds.feedblitz.com/~/749550533/0/baeldung~Smart-Batching-in-Java)
@@ -246,6 +248,4 @@ No recent activity
 * [Java Weekly, Issue 496](https://feeds.feedblitz.com/~/749572886/0/baeldung~Java-Weekly-Issue)
   * *Published on 29 Jun 2023*
 * [Lombok’s @RequiredArgsConstructor Annotation](https://feeds.feedblitz.com/~/749547800/0/baeldung~Lomboks-RequiredArgsConstructor-Annotation)
-  * *Published on 29 Jun 2023*
-* [JAXP vs JAXB: XML Processing APIs Compared](https://feeds.feedblitz.com/~/749545865/0/baeldung~JAXP-vs-JAXB-XML-Processing-APIs-Compared)
   * *Published on 29 Jun 2023*
