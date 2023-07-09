@@ -239,13 +239,13 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [Split a String Into Digit and Non-Digit Substrings](https://feeds.feedblitz.com/~/752096048/0/baeldung~Split-a-String-Into-Digit-and-NonDigit-Substrings)
+  * *Published on 9 Jul 2023*
+* [CompletableFuture and ThreadPool in Java](https://feeds.feedblitz.com/~/752090753/0/baeldung~CompletableFuture-and-ThreadPool-in-Java)
+  * *Published on 9 Jul 2023*
+* [How to Read Zip Files Entries With Java](https://feeds.feedblitz.com/~/752086640/0/baeldung~How-to-Read-Zip-Files-Entries-With-Java)
+  * *Published on 9 Jul 2023*
+* [Parallelize for Loop in Java](https://feeds.feedblitz.com/~/752086643/0/baeldung~Parallelize-for-Loop-in-Java)
+  * *Published on 9 Jul 2023*
 * [Java Weekly, Issue 497](https://feeds.feedblitz.com/~/751510616/0/baeldung~Java-Weekly-Issue)
   * *Published on 7 Jul 2023*
-* [Swagger @Parameter vs @Schema](https://feeds.feedblitz.com/~/751201238/0/baeldung~Swagger-Parameter-vs-Schema)
-  * *Published on 6 Jul 2023*
-* [Check if a File Is Empty in Java](https://feeds.feedblitz.com/~/750345170/0/baeldung~Check-if-a-File-Is-Empty-in-Java)
-  * *Published on 2 Jul 2023*
-* [Smart Batching in Java](https://feeds.feedblitz.com/~/749550533/0/baeldung~Smart-Batching-in-Java)
-  * *Published on 29 Jun 2023*
-* [Java Weekly, Issue 496](https://feeds.feedblitz.com/~/749572886/0/baeldung~Java-Weekly-Issue)
-  * *Published on 29 Jun 2023*
