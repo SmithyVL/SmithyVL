@@ -239,13 +239,13 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [Convert Long to BigDecimal in Java](https://feeds.feedblitz.com/~/752796182/0/baeldung~Convert-Long-to-BigDecimal-in-Java)
+  * *Published on 11 Jul 2023*
+* [Reading a JSP Variable From JavaScript](https://feeds.feedblitz.com/~/752796185/0/baeldung~Reading-a-JSP-Variable-From-JavaScript)
+  * *Published on 11 Jul 2023*
 * [Quick Guide to YugabyteDB](https://feeds.feedblitz.com/~/752434622/0/baeldung~Quick-Guide-to-YugabyteDB)
   * *Published on 10 Jul 2023*
 * [How to Solve 403 Error in Spring Boot POST Request](https://feeds.feedblitz.com/~/752430338/0/baeldung~How-to-Solve-Error-in-Spring-Boot-POST-Request)
   * *Published on 10 Jul 2023*
 * [Difference Between @JoinColumn and @PrimaryKeyJoinColumn in JPA](https://feeds.feedblitz.com/~/752430341/0/baeldung~Difference-Between-JoinColumn-and-PrimaryKeyJoinColumn-in-JPA)
   * *Published on 10 Jul 2023*
-* [Split a String Into Digit and Non-Digit Substrings](https://feeds.feedblitz.com/~/752096048/0/baeldung~Split-a-String-Into-Digit-and-NonDigit-Substrings)
-  * *Published on 9 Jul 2023*
-* [CompletableFuture and ThreadPool in Java](https://feeds.feedblitz.com/~/752090753/0/baeldung~CompletableFuture-and-ThreadPool-in-Java)
-  * *Published on 9 Jul 2023*
