@@ -239,13 +239,13 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [Count the Number of Rows in Spring Data JPA](https://feeds.feedblitz.com/~/752810411/0/baeldung~Count-the-Number-of-Rows-in-Spring-Data-JPA)
+  * *Published on 11 Jul 2023*
+* [How to Troubleshoot and Resolve Jenkins “Pending – Waiting for Next Executor” Issue?](https://feeds.feedblitz.com/~/752810414/0/baeldung~How-to-Troubleshoot-and-Resolve-Jenkins-Pending-Waiting-for-Next-Executor-Issue)
+  * *Published on 11 Jul 2023*
+* [Setup Http Patch Request With OpenFeign](https://feeds.feedblitz.com/~/752805083/0/baeldung~Setup-Http-Patch-Request-With-OpenFeign)
+  * *Published on 11 Jul 2023*
 * [Convert Long to BigDecimal in Java](https://feeds.feedblitz.com/~/752796182/0/baeldung~Convert-Long-to-BigDecimal-in-Java)
   * *Published on 11 Jul 2023*
 * [Reading a JSP Variable From JavaScript](https://feeds.feedblitz.com/~/752796185/0/baeldung~Reading-a-JSP-Variable-From-JavaScript)
   * *Published on 11 Jul 2023*
-* [Quick Guide to YugabyteDB](https://feeds.feedblitz.com/~/752434622/0/baeldung~Quick-Guide-to-YugabyteDB)
-  * *Published on 10 Jul 2023*
-* [How to Solve 403 Error in Spring Boot POST Request](https://feeds.feedblitz.com/~/752430338/0/baeldung~How-to-Solve-Error-in-Spring-Boot-POST-Request)
-  * *Published on 10 Jul 2023*
-* [Difference Between @JoinColumn and @PrimaryKeyJoinColumn in JPA](https://feeds.feedblitz.com/~/752430341/0/baeldung~Difference-Between-JoinColumn-and-PrimaryKeyJoinColumn-in-JPA)
-  * *Published on 10 Jul 2023*
