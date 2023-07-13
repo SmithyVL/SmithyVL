@@ -239,13 +239,13 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [Integer.class Vs. Integer.TYPE Vs. int.class](https://feeds.feedblitz.com/~/753500759/0/baeldung~Integerclass-Vs-IntegerTYPE-Vs-intclass)
+  * *Published on 13 Jul 2023*
+* [Check if a String Contains Non-Alphanumeric Characters](https://feeds.feedblitz.com/~/753500762/0/baeldung~Check-if-a-String-Contains-NonAlphanumeric-Characters)
+  * *Published on 13 Jul 2023*
+* [Documenting Spring Event-Driven API Using AsyncAPI and Springwolf](https://feeds.feedblitz.com/~/753500765/0/baeldung~Documenting-Spring-EventDriven-API-Using-AsyncAPI-and-Springwolf)
+  * *Published on 13 Jul 2023*
 * [Count the Number of Rows in Spring Data JPA](https://feeds.feedblitz.com/~/752810411/0/baeldung~Count-the-Number-of-Rows-in-Spring-Data-JPA)
   * *Published on 11 Jul 2023*
 * [How to Troubleshoot and Resolve Jenkins “Pending – Waiting for Next Executor” Issue?](https://feeds.feedblitz.com/~/752810414/0/baeldung~How-to-Troubleshoot-and-Resolve-Jenkins-Pending-Waiting-for-Next-Executor-Issue)
-  * *Published on 11 Jul 2023*
-* [Setup Http Patch Request With OpenFeign](https://feeds.feedblitz.com/~/752805083/0/baeldung~Setup-Http-Patch-Request-With-OpenFeign)
-  * *Published on 11 Jul 2023*
-* [Convert Long to BigDecimal in Java](https://feeds.feedblitz.com/~/752796182/0/baeldung~Convert-Long-to-BigDecimal-in-Java)
-  * *Published on 11 Jul 2023*
-* [Reading a JSP Variable From JavaScript](https://feeds.feedblitz.com/~/752796185/0/baeldung~Reading-a-JSP-Variable-From-JavaScript)
   * *Published on 11 Jul 2023*
