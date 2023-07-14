@@ -239,6 +239,8 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [Introduction to Selenide](https://feeds.feedblitz.com/~/753504026/0/baeldung~Introduction-to-Selenide)
+  * *Published on 13 Jul 2023*
 * [Integer.class Vs. Integer.TYPE Vs. int.class](https://feeds.feedblitz.com/~/753500759/0/baeldung~Integerclass-Vs-IntegerTYPE-Vs-intclass)
   * *Published on 13 Jul 2023*
 * [Check if a String Contains Non-Alphanumeric Characters](https://feeds.feedblitz.com/~/753500762/0/baeldung~Check-if-a-String-Contains-NonAlphanumeric-Characters)
@@ -246,6 +248,4 @@ No recent activity
 * [Documenting Spring Event-Driven API Using AsyncAPI and Springwolf](https://feeds.feedblitz.com/~/753500765/0/baeldung~Documenting-Spring-EventDriven-API-Using-AsyncAPI-and-Springwolf)
   * *Published on 13 Jul 2023*
 * [Count the Number of Rows in Spring Data JPA](https://feeds.feedblitz.com/~/752810411/0/baeldung~Count-the-Number-of-Rows-in-Spring-Data-JPA)
-  * *Published on 11 Jul 2023*
-* [How to Troubleshoot and Resolve Jenkins “Pending – Waiting for Next Executor” Issue?](https://feeds.feedblitz.com/~/752810414/0/baeldung~How-to-Troubleshoot-and-Resolve-Jenkins-Pending-Waiting-for-Next-Executor-Issue)
   * *Published on 11 Jul 2023*
