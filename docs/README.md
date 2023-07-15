@@ -239,13 +239,13 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [Java Weekly, Issue 498](https://feeds.feedblitz.com/~/753994280/0/baeldung~Java-Weekly-Issue)
+  * *Published on 14 Jul 2023*
+* [How to Deep Copy an ArrayList in Java](https://feeds.feedblitz.com/~/753912344/0/baeldung~How-to-Deep-Copy-an-ArrayList-in-Java)
+  * *Published on 14 Jul 2023*
+* [Accessing Session Attributes in Thymeleaf](https://feeds.feedblitz.com/~/753912347/0/baeldung~Accessing-Session-Attributes-in-Thymeleaf)
+  * *Published on 14 Jul 2023*
 * [Introduction to Selenide](https://feeds.feedblitz.com/~/753504026/0/baeldung~Introduction-to-Selenide)
   * *Published on 13 Jul 2023*
 * [Integer.class Vs. Integer.TYPE Vs. int.class](https://feeds.feedblitz.com/~/753500759/0/baeldung~Integerclass-Vs-IntegerTYPE-Vs-intclass)
   * *Published on 13 Jul 2023*
-* [Check if a String Contains Non-Alphanumeric Characters](https://feeds.feedblitz.com/~/753500762/0/baeldung~Check-if-a-String-Contains-NonAlphanumeric-Characters)
-  * *Published on 13 Jul 2023*
-* [Documenting Spring Event-Driven API Using AsyncAPI and Springwolf](https://feeds.feedblitz.com/~/753500765/0/baeldung~Documenting-Spring-EventDriven-API-Using-AsyncAPI-and-Springwolf)
-  * *Published on 13 Jul 2023*
-* [Count the Number of Rows in Spring Data JPA](https://feeds.feedblitz.com/~/752810411/0/baeldung~Count-the-Number-of-Rows-in-Spring-Data-JPA)
-  * *Published on 11 Jul 2023*
