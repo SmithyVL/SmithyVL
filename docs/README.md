@@ -239,13 +239,13 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [Pretty-Print a JSON in Java](https://feeds.feedblitz.com/~/754289600/0/baeldung~PrettyPrint-a-JSON-in-Java)
+  * *Published on 15 Jul 2023*
+* [New Features in Java 20](https://feeds.feedblitz.com/~/754289603/0/baeldung~New-Features-in-Java)
+  * *Published on 15 Jul 2023*
+* [Does Java Read Integers in Little Endian or Big Endian?](https://feeds.feedblitz.com/~/754286027/0/baeldung~Does-Java-Read-Integers-in-Little-Endian-or-Big-Endian)
+  * *Published on 15 Jul 2023*
 * [Java Weekly, Issue 498](https://feeds.feedblitz.com/~/753994280/0/baeldung~Java-Weekly-Issue)
   * *Published on 14 Jul 2023*
 * [How to Deep Copy an ArrayList in Java](https://feeds.feedblitz.com/~/753912344/0/baeldung~How-to-Deep-Copy-an-ArrayList-in-Java)
   * *Published on 14 Jul 2023*
-* [Accessing Session Attributes in Thymeleaf](https://feeds.feedblitz.com/~/753912347/0/baeldung~Accessing-Session-Attributes-in-Thymeleaf)
-  * *Published on 14 Jul 2023*
-* [Introduction to Selenide](https://feeds.feedblitz.com/~/753504026/0/baeldung~Introduction-to-Selenide)
-  * *Published on 13 Jul 2023*
-* [Integer.class Vs. Integer.TYPE Vs. int.class](https://feeds.feedblitz.com/~/753500759/0/baeldung~Integerclass-Vs-IntegerTYPE-Vs-intclass)
-  * *Published on 13 Jul 2023*
