@@ -239,6 +239,8 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [Getting Yesterday’s Date in Java](https://feeds.feedblitz.com/~/754882037/0/baeldung~Getting-Yesterdays-Date-in-Java)
+  * *Published on 17 Jul 2023*
 * [Pretty-Print a JSON in Java](https://feeds.feedblitz.com/~/754289600/0/baeldung~PrettyPrint-a-JSON-in-Java)
   * *Published on 15 Jul 2023*
 * [New Features in Java 20](https://feeds.feedblitz.com/~/754289603/0/baeldung~New-Features-in-Java)
@@ -246,6 +248,4 @@ No recent activity
 * [Does Java Read Integers in Little Endian or Big Endian?](https://feeds.feedblitz.com/~/754286027/0/baeldung~Does-Java-Read-Integers-in-Little-Endian-or-Big-Endian)
   * *Published on 15 Jul 2023*
 * [Java Weekly, Issue 498](https://feeds.feedblitz.com/~/753994280/0/baeldung~Java-Weekly-Issue)
-  * *Published on 14 Jul 2023*
-* [How to Deep Copy an ArrayList in Java](https://feeds.feedblitz.com/~/753912344/0/baeldung~How-to-Deep-Copy-an-ArrayList-in-Java)
   * *Published on 14 Jul 2023*
