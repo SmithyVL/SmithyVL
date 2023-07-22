@@ -239,13 +239,13 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [Introduction to JeroMQ](https://feeds.feedblitz.com/~/757148069/0/baeldung~Introduction-to-JeroMQ)
+  * *Published on 22 Jul 2023*
+* [Java Weekly, Issue 499](https://feeds.feedblitz.com/~/756859172/0/baeldung~Java-Weekly-Issue)
+  * *Published on 21 Jul 2023*
 * [Convert One Enum to Another Enum in Java](https://feeds.feedblitz.com/~/755316347/0/baeldung~Convert-One-Enum-to-Another-Enum-in-Java)
   * *Published on 18 Jul 2023*
 * [Using Liquibase in Kubernetes](https://feeds.feedblitz.com/~/755316350/0/baeldung~Using-Liquibase-in-Kubernetes)
   * *Published on 18 Jul 2023*
 * [Gradle Toolchains Support for JVM Projects](https://feeds.feedblitz.com/~/755316353/0/baeldung~Gradle-Toolchains-Support-for-JVM-Projects)
   * *Published on 18 Jul 2023*
-* [Getting Yesterday’s Date in Java](https://feeds.feedblitz.com/~/754882037/0/baeldung~Getting-Yesterdays-Date-in-Java)
-  * *Published on 17 Jul 2023*
-* [Pretty-Print a JSON in Java](https://feeds.feedblitz.com/~/754289600/0/baeldung~PrettyPrint-a-JSON-in-Java)
-  * *Published on 15 Jul 2023*
