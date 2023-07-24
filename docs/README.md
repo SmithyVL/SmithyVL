@@ -239,6 +239,8 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [What Is the Maximum Depth of the Java Call Stack?](https://feeds.feedblitz.com/~/757892342/0/baeldung~What-Is-the-Maximum-Depth-of-the-Java-Call-Stack)
+  * *Published on 24 Jul 2023*
 * [Introduction to JeroMQ](https://feeds.feedblitz.com/~/757148069/0/baeldung~Introduction-to-JeroMQ)
   * *Published on 22 Jul 2023*
 * [Java Weekly, Issue 499](https://feeds.feedblitz.com/~/756859172/0/baeldung~Java-Weekly-Issue)
@@ -246,6 +248,4 @@ No recent activity
 * [Convert One Enum to Another Enum in Java](https://feeds.feedblitz.com/~/755316347/0/baeldung~Convert-One-Enum-to-Another-Enum-in-Java)
   * *Published on 18 Jul 2023*
 * [Using Liquibase in Kubernetes](https://feeds.feedblitz.com/~/755316350/0/baeldung~Using-Liquibase-in-Kubernetes)
-  * *Published on 18 Jul 2023*
-* [Gradle Toolchains Support for JVM Projects](https://feeds.feedblitz.com/~/755316353/0/baeldung~Gradle-Toolchains-Support-for-JVM-Projects)
   * *Published on 18 Jul 2023*
