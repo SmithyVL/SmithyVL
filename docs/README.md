@@ -239,13 +239,13 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [Unit Testing of System.in With JUnit](https://feeds.feedblitz.com/~/758426402/0/baeldung~Unit-Testing-of-Systemin-With-JUnit)
+  * *Published on 25 Jul 2023*
+* [Consuming Page Entity Response From RestTemplate](https://feeds.feedblitz.com/~/758426405/0/baeldung~Consuming-Page-Entity-Response-From-RestTemplate)
+  * *Published on 25 Jul 2023*
+* [How to Get Notified When a Task Completes in Java Executors](https://feeds.feedblitz.com/~/758426408/0/baeldung~How-to-Get-Notified-When-a-Task-Completes-in-Java-Executors)
+  * *Published on 25 Jul 2023*
+* [CompletableFuture allOf().join() vs. CompletableFuture.join()](https://feeds.feedblitz.com/~/758426411/0/baeldung~CompletableFuture-allOfjoin-vs-CompletableFuturejoin)
+  * *Published on 25 Jul 2023*
 * [What Is the Maximum Depth of the Java Call Stack?](https://feeds.feedblitz.com/~/757892342/0/baeldung~What-Is-the-Maximum-Depth-of-the-Java-Call-Stack)
   * *Published on 24 Jul 2023*
-* [Introduction to JeroMQ](https://feeds.feedblitz.com/~/757148069/0/baeldung~Introduction-to-JeroMQ)
-  * *Published on 22 Jul 2023*
-* [Java Weekly, Issue 499](https://feeds.feedblitz.com/~/756859172/0/baeldung~Java-Weekly-Issue)
-  * *Published on 21 Jul 2023*
-* [Convert One Enum to Another Enum in Java](https://feeds.feedblitz.com/~/755316347/0/baeldung~Convert-One-Enum-to-Another-Enum-in-Java)
-  * *Published on 18 Jul 2023*
-* [Using Liquibase in Kubernetes](https://feeds.feedblitz.com/~/755316350/0/baeldung~Using-Liquibase-in-Kubernetes)
-  * *Published on 18 Jul 2023*
