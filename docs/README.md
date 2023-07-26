@@ -239,13 +239,13 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [Check if a String Has All Unique Characters in Java](https://feeds.feedblitz.com/~/758435279/0/baeldung~Check-if-a-String-Has-All-Unique-Characters-in-Java)
+  * *Published on 25 Jul 2023*
+* [Converting JsonNode Object to Map](https://feeds.feedblitz.com/~/758435282/0/baeldung~Converting-JsonNode-Object-to-Map)
+  * *Published on 25 Jul 2023*
+* [Difference between Gson @Expose and @SerializedName](https://feeds.feedblitz.com/~/758435285/0/baeldung~Difference-between-Gson-Expose-and-SerializedName)
+  * *Published on 25 Jul 2023*
+* [Difference Between Map.clear() and Instantiating a New Map](https://feeds.feedblitz.com/~/758435288/0/baeldung~Difference-Between-Mapclear-and-Instantiating-a-New-Map)
+  * *Published on 25 Jul 2023*
 * [Unit Testing of System.in With JUnit](https://feeds.feedblitz.com/~/758426402/0/baeldung~Unit-Testing-of-Systemin-With-JUnit)
   * *Published on 25 Jul 2023*
-* [Consuming Page Entity Response From RestTemplate](https://feeds.feedblitz.com/~/758426405/0/baeldung~Consuming-Page-Entity-Response-From-RestTemplate)
-  * *Published on 25 Jul 2023*
-* [How to Get Notified When a Task Completes in Java Executors](https://feeds.feedblitz.com/~/758426408/0/baeldung~How-to-Get-Notified-When-a-Task-Completes-in-Java-Executors)
-  * *Published on 25 Jul 2023*
-* [CompletableFuture allOf().join() vs. CompletableFuture.join()](https://feeds.feedblitz.com/~/758426411/0/baeldung~CompletableFuture-allOfjoin-vs-CompletableFuturejoin)
-  * *Published on 25 Jul 2023*
-* [What Is the Maximum Depth of the Java Call Stack?](https://feeds.feedblitz.com/~/757892342/0/baeldung~What-Is-the-Maximum-Depth-of-the-Java-Call-Stack)
-  * *Published on 24 Jul 2023*
