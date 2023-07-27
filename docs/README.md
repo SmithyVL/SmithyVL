@@ -239,6 +239,8 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [Fail Maven Build if JUnit Coverage Falls Below Certain Threshold](https://feeds.feedblitz.com/~/759709409/0/baeldung~Fail-Maven-Build-if-JUnit-Coverage-Falls-Below-Certain-Threshold)
+  * *Published on 27 Jul 2023*
 * [Check if a String Has All Unique Characters in Java](https://feeds.feedblitz.com/~/758435279/0/baeldung~Check-if-a-String-Has-All-Unique-Characters-in-Java)
   * *Published on 25 Jul 2023*
 * [Converting JsonNode Object to Map](https://feeds.feedblitz.com/~/758435282/0/baeldung~Converting-JsonNode-Object-to-Map)
@@ -246,6 +248,4 @@ No recent activity
 * [Difference between Gson @Expose and @SerializedName](https://feeds.feedblitz.com/~/758435285/0/baeldung~Difference-between-Gson-Expose-and-SerializedName)
   * *Published on 25 Jul 2023*
 * [Difference Between Map.clear() and Instantiating a New Map](https://feeds.feedblitz.com/~/758435288/0/baeldung~Difference-Between-Mapclear-and-Instantiating-a-New-Map)
-  * *Published on 25 Jul 2023*
-* [Unit Testing of System.in With JUnit](https://feeds.feedblitz.com/~/758426402/0/baeldung~Unit-Testing-of-Systemin-With-JUnit)
   * *Published on 25 Jul 2023*
