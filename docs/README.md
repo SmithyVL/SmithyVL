@@ -239,13 +239,13 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [Docker Compose Support in Spring Boot 3](https://feeds.feedblitz.com/~/761233199/0/baeldung~Docker-Compose-Support-in-Spring-Boot)
+  * *Published on 29 Jul 2023*
+* [How to Get the List of Dependent Child Images in Docker](https://feeds.feedblitz.com/~/761226236/0/baeldung~How-to-Get-the-List-of-Dependent-Child-Images-in-Docker)
+  * *Published on 29 Jul 2023*
+* [Java Weekly, Issue 500 :)](https://feeds.feedblitz.com/~/760901711/0/baeldung~Java-Weekly-Issue)
+  * *Published on 28 Jul 2023*
 * [Remove Whitespaces From a JSON in Java](https://feeds.feedblitz.com/~/760621091/0/baeldung~Remove-Whitespaces-From-a-JSON-in-Java)
   * *Published on 28 Jul 2023*
 * [Receiving PostreSQL Push Notifications with Spring Integration](https://feeds.feedblitz.com/~/760621094/0/baeldung~Receiving-PostreSQL-Push-Notifications-with-Spring-Integration)
   * *Published on 28 Jul 2023*
-* [Stateless Object in Java](https://feeds.feedblitz.com/~/760621097/0/baeldung~Stateless-Object-in-Java)
-  * *Published on 28 Jul 2023*
-* [Performance Comparison Between Different Java String Concatenation Methods](https://feeds.feedblitz.com/~/760621100/0/baeldung~Performance-Comparison-Between-Different-Java-String-Concatenation-Methods)
-  * *Published on 28 Jul 2023*
-* [Law of Demeter in Java](https://feeds.feedblitz.com/~/759925928/0/baeldung~Law-of-Demeter-in-Java)
-  * *Published on 27 Jul 2023*
