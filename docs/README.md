@@ -239,6 +239,8 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [Metadata GC Threshold in Java](https://feeds.feedblitz.com/~/762155291/0/baeldung~Metadata-GC-Threshold-in-Java)
+  * *Published on 31 Jul 2023*
 * [Docker Compose Support in Spring Boot 3](https://feeds.feedblitz.com/~/761233199/0/baeldung~Docker-Compose-Support-in-Spring-Boot)
   * *Published on 29 Jul 2023*
 * [How to Get the List of Dependent Child Images in Docker](https://feeds.feedblitz.com/~/761226236/0/baeldung~How-to-Get-the-List-of-Dependent-Child-Images-in-Docker)
@@ -246,6 +248,4 @@ No recent activity
 * [Java Weekly, Issue 500 :)](https://feeds.feedblitz.com/~/760901711/0/baeldung~Java-Weekly-Issue)
   * *Published on 28 Jul 2023*
 * [Remove Whitespaces From a JSON in Java](https://feeds.feedblitz.com/~/760621091/0/baeldung~Remove-Whitespaces-From-a-JSON-in-Java)
-  * *Published on 28 Jul 2023*
-* [Receiving PostreSQL Push Notifications with Spring Integration](https://feeds.feedblitz.com/~/760621094/0/baeldung~Receiving-PostreSQL-Push-Notifications-with-Spring-Integration)
   * *Published on 28 Jul 2023*
