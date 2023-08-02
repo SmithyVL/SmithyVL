@@ -239,13 +239,13 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
-* [JDBC Vs. R2DBC Vs. Spring JDBC Vs. Spring Data JDBC](https://feeds.feedblitz.com/~/762160190/0/baeldung~JDBC-Vs-RDBC-Vs-Spring-JDBC-Vs-Spring-Data-JDBC)
-  * *Published on 31 Jul 2023*
-* [A Guide to ShardingSphere](https://feeds.feedblitz.com/~/762160193/0/baeldung~A-Guide-to-ShardingSphere)
-  * *Published on 31 Jul 2023*
-* [Metadata GC Threshold in Java](https://feeds.feedblitz.com/~/762155291/0/baeldung~Metadata-GC-Threshold-in-Java)
-  * *Published on 31 Jul 2023*
-* [Docker Compose Support in Spring Boot 3](https://feeds.feedblitz.com/~/761233199/0/baeldung~Docker-Compose-Support-in-Spring-Boot)
-  * *Published on 29 Jul 2023*
-* [How to Get the List of Dependent Child Images in Docker](https://feeds.feedblitz.com/~/761226236/0/baeldung~How-to-Get-the-List-of-Dependent-Child-Images-in-Docker)
-  * *Published on 29 Jul 2023*
+* [How to Modify a Key in a HashMap?](https://feeds.feedblitz.com/~/762642182/0/baeldung~How-to-Modify-a-Key-in-a-HashMap)
+  * *Published on 1 Aug 2023*
+* [Pagination in Spring Webflux and Spring Data Reactive](https://feeds.feedblitz.com/~/762642188/0/baeldung~Pagination-in-Spring-Webflux-and-Spring-Data-Reactive)
+  * *Published on 1 Aug 2023*
+* [Escape HTML Symbols in Java](https://feeds.feedblitz.com/~/762642194/0/baeldung~Escape-HTML-Symbols-in-Java)
+  * *Published on 1 Aug 2023*
+* [Property-Based Testing with jqwik](https://feeds.feedblitz.com/~/762635750/0/baeldung~PropertyBased-Testing-with-jqwik)
+  * *Published on 1 Aug 2023*
+* [Fixing the MySQL Error “Specified key was too long”](https://feeds.feedblitz.com/~/762635753/0/baeldung~Fixing-the-MySQL-Error-%e2%80%9cSpecified-key-was-too-long%e2%80%9d)
+  * *Published on 1 Aug 2023*
