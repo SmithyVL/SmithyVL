@@ -239,13 +239,13 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [Understanding the java.net.SocketException Broken Pipe Error](https://feeds.feedblitz.com/~/763166810/0/baeldung~Understanding-the-javanetSocketException-Broken-Pipe-Error)
+  * *Published on 2 Aug 2023*
+* [Custom DLL Load – Fixing the “java.lang.UnsatisfiedLinkError” Error](https://feeds.feedblitz.com/~/763166813/0/baeldung~Custom-DLL-Load-Fixing-the-javalangUnsatisfiedLinkError-Error)
+  * *Published on 2 Aug 2023*
+* [Difference Between Future, CompletableFuture, and Rxjava’s Observable](https://feeds.feedblitz.com/~/763162994/0/baeldung~Difference-Between-Future-CompletableFuture-and-Rxjava%e2%80%99s-Observable)
+  * *Published on 2 Aug 2023*
+* [Guide to Java Jackson-jr Library](https://feeds.feedblitz.com/~/763163003/0/baeldung~Guide-to-Java-Jacksonjr-Library)
+  * *Published on 2 Aug 2023*
 * [How to Modify a Key in a HashMap?](https://feeds.feedblitz.com/~/762642182/0/baeldung~How-to-Modify-a-Key-in-a-HashMap)
-  * *Published on 1 Aug 2023*
-* [Pagination in Spring Webflux and Spring Data Reactive](https://feeds.feedblitz.com/~/762642188/0/baeldung~Pagination-in-Spring-Webflux-and-Spring-Data-Reactive)
-  * *Published on 1 Aug 2023*
-* [Escape HTML Symbols in Java](https://feeds.feedblitz.com/~/762642194/0/baeldung~Escape-HTML-Symbols-in-Java)
-  * *Published on 1 Aug 2023*
-* [Property-Based Testing with jqwik](https://feeds.feedblitz.com/~/762635750/0/baeldung~PropertyBased-Testing-with-jqwik)
-  * *Published on 1 Aug 2023*
-* [Fixing the MySQL Error “Specified key was too long”](https://feeds.feedblitz.com/~/762635753/0/baeldung~Fixing-the-MySQL-Error-%e2%80%9cSpecified-key-was-too-long%e2%80%9d)
   * *Published on 1 Aug 2023*
