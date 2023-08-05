@@ -239,6 +239,8 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [Java Weekly, Issue 501](https://feeds.feedblitz.com/~/764841437/0/baeldung~Java-Weekly-Issue)
+  * *Published on 4 Aug 2023*
 * [Understanding the java.net.SocketException Broken Pipe Error](https://feeds.feedblitz.com/~/763166810/0/baeldung~Understanding-the-javanetSocketException-Broken-Pipe-Error)
   * *Published on 2 Aug 2023*
 * [Custom DLL Load – Fixing the “java.lang.UnsatisfiedLinkError” Error](https://feeds.feedblitz.com/~/763166813/0/baeldung~Custom-DLL-Load-Fixing-the-javalangUnsatisfiedLinkError-Error)
@@ -247,5 +249,3 @@ No recent activity
   * *Published on 2 Aug 2023*
 * [Guide to Java Jackson-jr Library](https://feeds.feedblitz.com/~/763163003/0/baeldung~Guide-to-Java-Jacksonjr-Library)
   * *Published on 2 Aug 2023*
-* [How to Modify a Key in a HashMap?](https://feeds.feedblitz.com/~/762642182/0/baeldung~How-to-Modify-a-Key-in-a-HashMap)
-  * *Published on 1 Aug 2023*
