@@ -239,13 +239,13 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [@JsonSubTypes Vs. Reflections for Polymorphic Deserialization in Jackson](https://feeds.feedblitz.com/~/767643758/0/baeldung~JsonSubTypes-Vs-Reflections-for-Polymorphic-Deserialization-in-Jackson)
+  * *Published on 7 Aug 2023*
+* [Getting Started With Apache Pulsar and Spring Boot](https://feeds.feedblitz.com/~/767630333/0/baeldung~Getting-Started-With-Apache-Pulsar-and-Spring-Boot)
+  * *Published on 7 Aug 2023*
+* [Scroll API in Spring Data JPA](https://feeds.feedblitz.com/~/767630336/0/baeldung~Scroll-API-in-Spring-Data-JPA)
+  * *Published on 7 Aug 2023*
 * [Java Weekly, Issue 501](https://feeds.feedblitz.com/~/764841437/0/baeldung~Java-Weekly-Issue)
   * *Published on 4 Aug 2023*
 * [Understanding the java.net.SocketException Broken Pipe Error](https://feeds.feedblitz.com/~/763166810/0/baeldung~Understanding-the-javanetSocketException-Broken-Pipe-Error)
-  * *Published on 2 Aug 2023*
-* [Custom DLL Load – Fixing the “java.lang.UnsatisfiedLinkError” Error](https://feeds.feedblitz.com/~/763166813/0/baeldung~Custom-DLL-Load-Fixing-the-javalangUnsatisfiedLinkError-Error)
-  * *Published on 2 Aug 2023*
-* [Difference Between Future, CompletableFuture, and Rxjava’s Observable](https://feeds.feedblitz.com/~/763162994/0/baeldung~Difference-Between-Future-CompletableFuture-and-Rxjava%e2%80%99s-Observable)
-  * *Published on 2 Aug 2023*
-* [Guide to Java Jackson-jr Library](https://feeds.feedblitz.com/~/763163003/0/baeldung~Guide-to-Java-Jacksonjr-Library)
   * *Published on 2 Aug 2023*
