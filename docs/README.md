@@ -239,13 +239,13 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
-* [@JsonSubTypes Vs. Reflections for Polymorphic Deserialization in Jackson](https://feeds.feedblitz.com/~/767643758/0/baeldung~JsonSubTypes-Vs-Reflections-for-Polymorphic-Deserialization-in-Jackson)
-  * *Published on 7 Aug 2023*
-* [Getting Started With Apache Pulsar and Spring Boot](https://feeds.feedblitz.com/~/767630333/0/baeldung~Getting-Started-With-Apache-Pulsar-and-Spring-Boot)
-  * *Published on 7 Aug 2023*
-* [Scroll API in Spring Data JPA](https://feeds.feedblitz.com/~/767630336/0/baeldung~Scroll-API-in-Spring-Data-JPA)
-  * *Published on 7 Aug 2023*
-* [Java Weekly, Issue 501](https://feeds.feedblitz.com/~/764841437/0/baeldung~Java-Weekly-Issue)
-  * *Published on 4 Aug 2023*
-* [Understanding the java.net.SocketException Broken Pipe Error](https://feeds.feedblitz.com/~/763166810/0/baeldung~Understanding-the-javanetSocketException-Broken-Pipe-Error)
-  * *Published on 2 Aug 2023*
+* [Understanding Kafka Topics and Partitions](https://feeds.feedblitz.com/~/770299163/0/baeldung~Understanding-Kafka-Topics-and-Partitions)
+  * *Published on 9 Aug 2023*
+* [Converting an int[] to HashSet in Java](https://feeds.feedblitz.com/~/770279534/0/baeldung~Converting-an-int-to-HashSet-in-Java)
+  * *Published on 9 Aug 2023*
+* [Converting Relative to Absolute Paths in Java](https://feeds.feedblitz.com/~/770249258/0/baeldung~Converting-Relative-to-Absolute-Paths-in-Java)
+  * *Published on 9 Aug 2023*
+* [Parameterized Logging With SLF4J](https://feeds.feedblitz.com/~/770249267/0/baeldung~Parameterized-Logging-With-SLFJ)
+  * *Published on 9 Aug 2023*
+* [Remove Duplicate Values From HashMap in Java](https://feeds.feedblitz.com/~/770249276/0/baeldung~Remove-Duplicate-Values-From-HashMap-in-Java)
+  * *Published on 9 Aug 2023*
