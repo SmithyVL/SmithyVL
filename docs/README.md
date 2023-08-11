@@ -239,13 +239,13 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [Introduction to Avaje Inject](https://feeds.feedblitz.com/~/772789817/0/baeldung~Introduction-to-Avaje-Inject)
+  * *Published on 10 Aug 2023*
+* [Get a Continuous Stream of Logs for Pods in Kubernetes](https://feeds.feedblitz.com/~/772789820/0/baeldung~Get-a-Continuous-Stream-of-Logs-for-Pods-in-Kubernetes)
+  * *Published on 10 Aug 2023*
+* [Guide to the yield Keyword in Java](https://feeds.feedblitz.com/~/772789823/0/baeldung~Guide-to-the-yield-Keyword-in-Java)
+  * *Published on 10 Aug 2023*
 * [Understanding Kafka Topics and Partitions](https://feeds.feedblitz.com/~/770299163/0/baeldung~Understanding-Kafka-Topics-and-Partitions)
   * *Published on 9 Aug 2023*
 * [Converting an int[] to HashSet in Java](https://feeds.feedblitz.com/~/770279534/0/baeldung~Converting-an-int-to-HashSet-in-Java)
-  * *Published on 9 Aug 2023*
-* [Converting Relative to Absolute Paths in Java](https://feeds.feedblitz.com/~/770249258/0/baeldung~Converting-Relative-to-Absolute-Paths-in-Java)
-  * *Published on 9 Aug 2023*
-* [Parameterized Logging With SLF4J](https://feeds.feedblitz.com/~/770249267/0/baeldung~Parameterized-Logging-With-SLFJ)
-  * *Published on 9 Aug 2023*
-* [Remove Duplicate Values From HashMap in Java](https://feeds.feedblitz.com/~/770249276/0/baeldung~Remove-Duplicate-Values-From-HashMap-in-Java)
   * *Published on 9 Aug 2023*
