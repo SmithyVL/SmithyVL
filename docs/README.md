@@ -239,13 +239,13 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [Java Weekly, Issue 502](https://feeds.feedblitz.com/~/773403725/0/baeldung~Java-Weekly-Issue)
+  * *Published on 11 Aug 2023*
+* [What Does the Holder&lt;T&gt; Class Do in Java?](https://feeds.feedblitz.com/~/773370761/0/baeldung~What-Does-the-HolderT-Class-Do-in-Java)
+  * *Published on 11 Aug 2023*
+* [Introduction to the Pants Build Tool](https://feeds.feedblitz.com/~/773359445/0/baeldung~Introduction-to-the-Pants-Build-Tool)
+  * *Published on 11 Aug 2023*
 * [Introduction to Avaje Inject](https://feeds.feedblitz.com/~/772789817/0/baeldung~Introduction-to-Avaje-Inject)
   * *Published on 10 Aug 2023*
 * [Get a Continuous Stream of Logs for Pods in Kubernetes](https://feeds.feedblitz.com/~/772789820/0/baeldung~Get-a-Continuous-Stream-of-Logs-for-Pods-in-Kubernetes)
   * *Published on 10 Aug 2023*
-* [Guide to the yield Keyword in Java](https://feeds.feedblitz.com/~/772789823/0/baeldung~Guide-to-the-yield-Keyword-in-Java)
-  * *Published on 10 Aug 2023*
-* [Understanding Kafka Topics and Partitions](https://feeds.feedblitz.com/~/770299163/0/baeldung~Understanding-Kafka-Topics-and-Partitions)
-  * *Published on 9 Aug 2023*
-* [Converting an int[] to HashSet in Java](https://feeds.feedblitz.com/~/770279534/0/baeldung~Converting-an-int-to-HashSet-in-Java)
-  * *Published on 9 Aug 2023*
