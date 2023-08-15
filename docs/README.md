@@ -239,13 +239,13 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [Convert List to Long[] Array in Java](https://feeds.feedblitz.com/~/778164578/0/baeldung~Convert-List-to-Long-Array-in-Java)
+  * *Published on 14 Aug 2023*
+* [How to Speed Up Maven Build](https://feeds.feedblitz.com/~/778156007/0/baeldung~How-to-Speed-Up-Maven-Build)
+  * *Published on 14 Aug 2023*
+* [HashMap with Multiple Values for the Same Key](https://feeds.feedblitz.com/~/777792773/0/baeldung~HashMap-with-Multiple-Values-for-the-Same-Key)
+  * *Published on 14 Aug 2023*
 * [Why There Is No Sorted List in Java?](https://feeds.feedblitz.com/~/775619375/0/baeldung~Why-There-Is-No-Sorted-List-in-Java)
   * *Published on 13 Aug 2023*
 * [Guide to Eclipse JKube](https://feeds.feedblitz.com/~/775619384/0/baeldung~Guide-to-Eclipse-JKube)
   * *Published on 13 Aug 2023*
-* [Lock Header Rows With Apache POI](https://feeds.feedblitz.com/~/775611203/0/baeldung~Lock-Header-Rows-With-Apache-POI)
-  * *Published on 13 Aug 2023*
-* [Java Weekly, Issue 502](https://feeds.feedblitz.com/~/773403725/0/baeldung~Java-Weekly-Issue)
-  * *Published on 11 Aug 2023*
-* [What Does the Holder&lt;T&gt; Class Do in Java?](https://feeds.feedblitz.com/~/773370761/0/baeldung~What-Does-the-HolderT-Class-Do-in-Java)
-  * *Published on 11 Aug 2023*
