@@ -239,13 +239,13 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
-* [Convert List to Long[] Array in Java](https://feeds.feedblitz.com/~/778164578/0/baeldung~Convert-List-to-Long-Array-in-Java)
-  * *Published on 14 Aug 2023*
-* [How to Speed Up Maven Build](https://feeds.feedblitz.com/~/778156007/0/baeldung~How-to-Speed-Up-Maven-Build)
-  * *Published on 14 Aug 2023*
-* [HashMap with Multiple Values for the Same Key](https://feeds.feedblitz.com/~/777792773/0/baeldung~HashMap-with-Multiple-Values-for-the-Same-Key)
-  * *Published on 14 Aug 2023*
-* [Why There Is No Sorted List in Java?](https://feeds.feedblitz.com/~/775619375/0/baeldung~Why-There-Is-No-Sorted-List-in-Java)
-  * *Published on 13 Aug 2023*
-* [Guide to Eclipse JKube](https://feeds.feedblitz.com/~/775619384/0/baeldung~Guide-to-Eclipse-JKube)
-  * *Published on 13 Aug 2023*
+* [Sorting Java Map in Descending Order](https://feeds.feedblitz.com/~/780615539/0/baeldung~Sorting-Java-Map-in-Descending-Order)
+  * *Published on 16 Aug 2023*
+* [Convert an ArrayList of String to a String Array in Java](https://feeds.feedblitz.com/~/780615542/0/baeldung~Convert-an-ArrayList-of-String-to-a-String-Array-in-Java)
+  * *Published on 16 Aug 2023*
+* [Java Validation List Annotations](https://feeds.feedblitz.com/~/780607571/0/baeldung~Java-Validation-List-Annotations)
+  * *Published on 16 Aug 2023*
+* [bootstrap-server in Kafka Configuration](https://feeds.feedblitz.com/~/780607574/0/baeldung~bootstrapserver-in-Kafka-Configuration)
+  * *Published on 16 Aug 2023*
+* [Creating a Magic Square in Java](https://feeds.feedblitz.com/~/780602768/0/baeldung~Creating-a-Magic-Square-in-Java)
+  * *Published on 16 Aug 2023*
