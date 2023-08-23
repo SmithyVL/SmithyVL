@@ -239,13 +239,13 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
-* [Get Values and Keys as ArrayList From a HashMap](https://feeds.feedblitz.com/~/785761598/0/baeldung~Get-Values-and-Keys-as-ArrayList-From-a-HashMap)
-  * *Published on 19 Aug 2023*
-* [Calculating the Sum of Two Arrays in Java](https://feeds.feedblitz.com/~/785761601/0/baeldung~Calculating-the-Sum-of-Two-Arrays-in-Java)
-  * *Published on 19 Aug 2023*
-* [Get the First n Elements of a List Into an Array](https://feeds.feedblitz.com/~/785761604/0/baeldung~Get-the-First-n-Elements-of-a-List-Into-an-Array)
-  * *Published on 19 Aug 2023*
-* [Understanding Git’s fork and clone Operations](https://feeds.feedblitz.com/~/785498123/0/baeldung~Understanding-Gits-fork-and-clone-Operations)
-  * *Published on 19 Aug 2023*
-* [Creating Kafka Topic With Docker Compose](https://feeds.feedblitz.com/~/782902766/0/baeldung~Creating-Kafka-Topic-With-Docker-Compose)
-  * *Published on 18 Aug 2023*
+* [Calculate Distance Between Two Coordinates in Java](https://feeds.feedblitz.com/~/787923338/0/baeldung~Calculate-Distance-Between-Two-Coordinates-in-Java)
+  * *Published on 22 Aug 2023*
+* [Programmatic Generation of JSON Schemas in Java](https://feeds.feedblitz.com/~/787923341/0/baeldung~Programmatic-Generation-of-JSON-Schemas-in-Java)
+  * *Published on 22 Aug 2023*
+* [Creating a Telegram Bot with Spring Boot](https://feeds.feedblitz.com/~/787805726/0/baeldung~Creating-a-Telegram-Bot-with-Spring-Boot)
+  * *Published on 22 Aug 2023*
+* [Inner Classes Vs. Subclasses in Java](https://feeds.feedblitz.com/~/787805729/0/baeldung~Inner-Classes-Vs-Subclasses-in-Java)
+  * *Published on 22 Aug 2023*
+* [Update an Existing Amazon S3 Object Using Java](https://feeds.feedblitz.com/~/787779476/0/baeldung~Update-an-Existing-Amazon-S-Object-Using-Java)
+  * *Published on 22 Aug 2023*
