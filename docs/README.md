@@ -239,6 +239,8 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [How To Rename Files and Folders in Amazon S3](https://feeds.feedblitz.com/~/789033236/0/baeldung~How-To-Rename-Files-and-Folders-in-Amazon-S)
+  * *Published on 24 Aug 2023*
 * [How to Check if a Value Exists in a JSON Array for a Particular Key](https://feeds.feedblitz.com/~/788337794/0/baeldung~How-to-Check-if-a-Value-Exists-in-a-JSON-Array-for-a-Particular-Key)
   * *Published on 23 Aug 2023*
 * [Calculate Distance Between Two Coordinates in Java](https://feeds.feedblitz.com/~/787923338/0/baeldung~Calculate-Distance-Between-Two-Coordinates-in-Java)
@@ -246,6 +248,4 @@ No recent activity
 * [Programmatic Generation of JSON Schemas in Java](https://feeds.feedblitz.com/~/787923341/0/baeldung~Programmatic-Generation-of-JSON-Schemas-in-Java)
   * *Published on 22 Aug 2023*
 * [Creating a Telegram Bot with Spring Boot](https://feeds.feedblitz.com/~/787805726/0/baeldung~Creating-a-Telegram-Bot-with-Spring-Boot)
-  * *Published on 22 Aug 2023*
-* [Inner Classes Vs. Subclasses in Java](https://feeds.feedblitz.com/~/787805729/0/baeldung~Inner-Classes-Vs-Subclasses-in-Java)
   * *Published on 22 Aug 2023*
