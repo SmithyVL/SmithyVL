@@ -239,13 +239,13 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [Get the Indexes of Regex Pattern Matches in Java](https://feeds.feedblitz.com/~/789874781/0/baeldung~Get-the-Indexes-of-Regex-Pattern-Matches-in-Java)
+  * *Published on 26 Aug 2023*
+* [Built-in Testcontainers Support in Spring Boot](https://feeds.feedblitz.com/~/789868073/0/baeldung~Builtin-Testcontainers-Support-in-Spring-Boot)
+  * *Published on 26 Aug 2023*
 * [Generate Models Using OpenAPI With Lombok Annotations](https://feeds.feedblitz.com/~/789532022/0/baeldung~Generate-Models-Using-OpenAPI-With-Lombok-Annotations)
   * *Published on 25 Aug 2023*
 * [Extract Text Between Square Brackets](https://feeds.feedblitz.com/~/789532025/0/baeldung~Extract-Text-Between-Square-Brackets)
   * *Published on 25 Aug 2023*
 * [Java Weekly, Issue 504](https://feeds.feedblitz.com/~/789456680/0/baeldung~Java-Weekly-Issue)
   * *Published on 25 Aug 2023*
-* [How To Rename Files and Folders in Amazon S3](https://feeds.feedblitz.com/~/789033236/0/baeldung~How-To-Rename-Files-and-Folders-in-Amazon-S)
-  * *Published on 24 Aug 2023*
-* [How to Check if a Value Exists in a JSON Array for a Particular Key](https://feeds.feedblitz.com/~/788337794/0/baeldung~How-to-Check-if-a-Value-Exists-in-a-JSON-Array-for-a-Particular-Key)
-  * *Published on 23 Aug 2023*
