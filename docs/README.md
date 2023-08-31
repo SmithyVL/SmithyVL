@@ -239,13 +239,13 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [Reading JSON Documents as Maps and Comparing Them](https://feeds.feedblitz.com/~/791105114/0/baeldung~Reading-JSON-Documents-as-Maps-and-Comparing-Them)
+  * *Published on 30 Aug 2023*
+* [Format Multiple ‘or’ Conditions in an If Statement in Java](https://feeds.feedblitz.com/~/791058017/0/baeldung~Format-Multiple-or-Conditions-in-an-If-Statement-in-Java)
+  * *Published on 30 Aug 2023*
+* [Amazon SNS Vs. Amazon SQS](https://feeds.feedblitz.com/~/791058020/0/baeldung~Amazon-SNS-Vs-Amazon-SQS)
+  * *Published on 30 Aug 2023*
 * [Cartesian Product of Any Number of Sets in Java](https://feeds.feedblitz.com/~/790691957/0/baeldung~Cartesian-Product-of-Any-Number-of-Sets-in-Java)
   * *Published on 29 Aug 2023*
 * [Check if Certificate Is Self-Signed or CA-Signed With Java](https://feeds.feedblitz.com/~/790674050/0/baeldung~Check-if-Certificate-Is-SelfSigned-or-CASigned-With-Java)
   * *Published on 29 Aug 2023*
-* [How to Fix “Error in Opening Zip File” When Running Maven](https://feeds.feedblitz.com/~/790664060/0/baeldung~How-to-Fix-%e2%80%9cError-in-Opening-Zip-File%e2%80%9d-When-Running-Maven)
-  * *Published on 29 Aug 2023*
-* [Get a Random Element From a Set in Java](https://feeds.feedblitz.com/~/790045586/0/baeldung~Get-a-Random-Element-From-a-Set-in-Java)
-  * *Published on 27 Aug 2023*
-* [Get the Indexes of Regex Pattern Matches in Java](https://feeds.feedblitz.com/~/789874781/0/baeldung~Get-the-Indexes-of-Regex-Pattern-Matches-in-Java)
-  * *Published on 26 Aug 2023*
