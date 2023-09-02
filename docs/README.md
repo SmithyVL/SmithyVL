@@ -239,6 +239,8 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [Clamp Function in Java](https://feeds.feedblitz.com/~/791659379/0/baeldung~Clamp-Function-in-Java)
+  * *Published on 1 Sept 2023*
 * [Java Weekly, Issue 505](https://feeds.feedblitz.com/~/791497283/0/baeldung~Java-Weekly-Issue)
   * *Published on 31 Aug 2023*
 * [Reading JSON Documents as Maps and Comparing Them](https://feeds.feedblitz.com/~/791105114/0/baeldung~Reading-JSON-Documents-as-Maps-and-Comparing-Them)
@@ -247,5 +249,3 @@ No recent activity
   * *Published on 30 Aug 2023*
 * [Amazon SNS Vs. Amazon SQS](https://feeds.feedblitz.com/~/791058020/0/baeldung~Amazon-SNS-Vs-Amazon-SQS)
   * *Published on 30 Aug 2023*
-* [Cartesian Product of Any Number of Sets in Java](https://feeds.feedblitz.com/~/790691957/0/baeldung~Cartesian-Product-of-Any-Number-of-Sets-in-Java)
-  * *Published on 29 Aug 2023*
