@@ -239,13 +239,13 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
-* [Clamp Function in Java](https://feeds.feedblitz.com/~/791659379/0/baeldung~Clamp-Function-in-Java)
-  * *Published on 1 Sept 2023*
-* [Java Weekly, Issue 505](https://feeds.feedblitz.com/~/791497283/0/baeldung~Java-Weekly-Issue)
-  * *Published on 31 Aug 2023*
-* [Reading JSON Documents as Maps and Comparing Them](https://feeds.feedblitz.com/~/791105114/0/baeldung~Reading-JSON-Documents-as-Maps-and-Comparing-Them)
-  * *Published on 30 Aug 2023*
-* [Format Multiple ‘or’ Conditions in an If Statement in Java](https://feeds.feedblitz.com/~/791058017/0/baeldung~Format-Multiple-or-Conditions-in-an-If-Statement-in-Java)
-  * *Published on 30 Aug 2023*
-* [Amazon SNS Vs. Amazon SQS](https://feeds.feedblitz.com/~/791058020/0/baeldung~Amazon-SNS-Vs-Amazon-SQS)
-  * *Published on 30 Aug 2023*
+* [Set a Parameter in an HttpServletRequest in Java](https://feeds.feedblitz.com/~/792249893/0/baeldung~Set-a-Parameter-in-an-HttpServletRequest-in-Java)
+  * *Published on 5 Sept 2023*
+* [Stop Executing Further Code in Java](https://feeds.feedblitz.com/~/792247583/0/baeldung~Stop-Executing-Further-Code-in-Java)
+  * *Published on 5 Sept 2023*
+* [Convert int to Long in Java](https://feeds.feedblitz.com/~/792247586/0/baeldung~Convert-int-to-Long-in-Java)
+  * *Published on 5 Sept 2023*
+* [Aggregate Runtime Exceptions in Java Streams](https://feeds.feedblitz.com/~/792142571/0/baeldung~Aggregate-Runtime-Exceptions-in-Java-Streams)
+  * *Published on 4 Sept 2023*
+* [Convert Between Java LocalDate and Epoch](https://feeds.feedblitz.com/~/792142574/0/baeldung~Convert-Between-Java-LocalDate-and-Epoch)
+  * *Published on 4 Sept 2023*
