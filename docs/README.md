@@ -239,13 +239,13 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [Find the Middle Element of an Array in Java](https://feeds.feedblitz.com/~/792375812/0/baeldung~Find-the-Middle-Element-of-an-Array-in-Java)
+  * *Published on 5 Sept 2023*
+* [Maven Multi-Module Project Coverage With Jacoco](https://feeds.feedblitz.com/~/792373688/0/baeldung~Maven-MultiModule-Project-Coverage-With-Jacoco)
+  * *Published on 5 Sept 2023*
+* [Detect Security Vulnerabilities with Snyk](https://feeds.feedblitz.com/~/792371702/0/baeldung~Detect-Security-Vulnerabilities-with-Snyk)
+  * *Published on 5 Sept 2023*
+* [What Does “––&gt;” Mean in Java?](https://feeds.feedblitz.com/~/792281306/0/baeldung~What-Does-Mean-in-Java)
+  * *Published on 5 Sept 2023*
 * [Set a Parameter in an HttpServletRequest in Java](https://feeds.feedblitz.com/~/792249893/0/baeldung~Set-a-Parameter-in-an-HttpServletRequest-in-Java)
   * *Published on 5 Sept 2023*
-* [Stop Executing Further Code in Java](https://feeds.feedblitz.com/~/792247583/0/baeldung~Stop-Executing-Further-Code-in-Java)
-  * *Published on 5 Sept 2023*
-* [Convert int to Long in Java](https://feeds.feedblitz.com/~/792247586/0/baeldung~Convert-int-to-Long-in-Java)
-  * *Published on 5 Sept 2023*
-* [Aggregate Runtime Exceptions in Java Streams](https://feeds.feedblitz.com/~/792142571/0/baeldung~Aggregate-Runtime-Exceptions-in-Java-Streams)
-  * *Published on 4 Sept 2023*
-* [Convert Between Java LocalDate and Epoch](https://feeds.feedblitz.com/~/792142574/0/baeldung~Convert-Between-Java-LocalDate-and-Epoch)
-  * *Published on 4 Sept 2023*
