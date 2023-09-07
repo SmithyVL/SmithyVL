@@ -239,6 +239,8 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [How to Use Conditional Mapping With MapStruct](https://feeds.feedblitz.com/~/792614726/0/baeldung~How-to-Use-Conditional-Mapping-With-MapStruct)
+  * *Published on 7 Sept 2023*
 * [Find the Middle Element of an Array in Java](https://feeds.feedblitz.com/~/792375812/0/baeldung~Find-the-Middle-Element-of-an-Array-in-Java)
   * *Published on 5 Sept 2023*
 * [Maven Multi-Module Project Coverage With Jacoco](https://feeds.feedblitz.com/~/792373688/0/baeldung~Maven-MultiModule-Project-Coverage-With-Jacoco)
@@ -246,6 +248,4 @@ No recent activity
 * [Detect Security Vulnerabilities with Snyk](https://feeds.feedblitz.com/~/792371702/0/baeldung~Detect-Security-Vulnerabilities-with-Snyk)
   * *Published on 5 Sept 2023*
 * [What Does “––&gt;” Mean in Java?](https://feeds.feedblitz.com/~/792281306/0/baeldung~What-Does-Mean-in-Java)
-  * *Published on 5 Sept 2023*
-* [Set a Parameter in an HttpServletRequest in Java](https://feeds.feedblitz.com/~/792249893/0/baeldung~Set-a-Parameter-in-an-HttpServletRequest-in-Java)
   * *Published on 5 Sept 2023*
