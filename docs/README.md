@@ -239,13 +239,13 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [Mock Same Method with Different Parameters](https://feeds.feedblitz.com/~/792876920/0/baeldung~Mock-Same-Method-with-Different-Parameters)
+  * *Published on 9 Sept 2023*
+* [Closing Java IO Streams](https://feeds.feedblitz.com/~/792871736/0/baeldung~Closing-Java-IO-Streams)
+  * *Published on 9 Sept 2023*
 * [Create List of Object From Another Type Using Java 8](https://feeds.feedblitz.com/~/792716822/0/baeldung~Create-List-of-Object-From-Another-Type-Using-Java)
   * *Published on 8 Sept 2023*
 * [Java Weekly, Issue 506](https://feeds.feedblitz.com/~/792700223/0/baeldung~Java-Weekly-Issue)
   * *Published on 7 Sept 2023*
 * [How to Use Conditional Mapping With MapStruct](https://feeds.feedblitz.com/~/792614726/0/baeldung~How-to-Use-Conditional-Mapping-With-MapStruct)
   * *Published on 7 Sept 2023*
-* [Find the Middle Element of an Array in Java](https://feeds.feedblitz.com/~/792375812/0/baeldung~Find-the-Middle-Element-of-an-Array-in-Java)
-  * *Published on 5 Sept 2023*
-* [Maven Multi-Module Project Coverage With Jacoco](https://feeds.feedblitz.com/~/792373688/0/baeldung~Maven-MultiModule-Project-Coverage-With-Jacoco)
-  * *Published on 5 Sept 2023*
