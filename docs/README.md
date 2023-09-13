@@ -239,13 +239,13 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [What Is a TLAB or Thread-Local Allocation Buffer in Java?](https://feeds.feedblitz.com/~/793263644/0/baeldung~What-Is-a-TLAB-or-ThreadLocal-Allocation-Buffer-in-Java)
+  * *Published on 13 Sept 2023*
+* [When to Call System.out.flush() in Java?](https://feeds.feedblitz.com/~/793263647/0/baeldung~When-to-Call-Systemoutflush-in-Java)
+  * *Published on 13 Sept 2023*
+* [JSON File Data Into Kafka Topic](https://feeds.feedblitz.com/~/793262135/0/baeldung~JSON-File-Data-Into-Kafka-Topic)
+  * *Published on 13 Sept 2023*
 * [Extract CN From X509 Certificate in Java](https://feeds.feedblitz.com/~/792993431/0/baeldung~Extract-CN-From-X-Certificate-in-Java)
   * *Published on 10 Sept 2023*
 * [Mock Same Method with Different Parameters](https://feeds.feedblitz.com/~/792876920/0/baeldung~Mock-Same-Method-with-Different-Parameters)
   * *Published on 9 Sept 2023*
-* [Closing Java IO Streams](https://feeds.feedblitz.com/~/792871736/0/baeldung~Closing-Java-IO-Streams)
-  * *Published on 9 Sept 2023*
-* [Create List of Object From Another Type Using Java 8](https://feeds.feedblitz.com/~/792716822/0/baeldung~Create-List-of-Object-From-Another-Type-Using-Java)
-  * *Published on 8 Sept 2023*
-* [Java Weekly, Issue 506](https://feeds.feedblitz.com/~/792700223/0/baeldung~Java-Weekly-Issue)
-  * *Published on 7 Sept 2023*
