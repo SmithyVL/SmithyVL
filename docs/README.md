@@ -238,5 +238,14 @@ No recent activity
 
 
 ## 📰 Новостная лента
-**[🗼 Rss feed from ]()**
-Unexpected error
+**[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [Securing Spring Boot 3 Applications With SSL Bundles](https://feeds.feedblitz.com/~/794101319/0/baeldung~Securing-Spring-Boot-Applications-With-SSL-Bundles)
+  * *Published on 21 Sept 2023*
+* [Invoke Spring @Cacheable from Another Method of Same Bean](https://feeds.feedblitz.com/~/794101322/0/baeldung~Invoke-Spring-Cacheable-from-Another-Method-of-Same-Bean)
+  * *Published on 21 Sept 2023*
+* [Intro to Gradle Lint Plugin](https://feeds.feedblitz.com/~/794101325/0/baeldung~Intro-to-Gradle-Lint-Plugin)
+  * *Published on 21 Sept 2023*
+* [Sequenced Collections in Java 21](https://feeds.feedblitz.com/~/794098973/0/baeldung~Sequenced-Collections-in-Java)
+  * *Published on 21 Sept 2023*
+* [Secure Kubernetes Secrets with Vault](https://feeds.feedblitz.com/~/794098976/0/baeldung~Secure-Kubernetes-Secrets-with-Vault)
+  * *Published on 21 Sept 2023*
