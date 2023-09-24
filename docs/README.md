@@ -239,13 +239,13 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [Value-Based Classes in Java](https://feeds.feedblitz.com/~/794523269/0/baeldung~ValueBased-Classes-in-Java)
+  * *Published on 23 Sept 2023*
+* [Difference Between kubectl apply and kubectl create](https://feeds.feedblitz.com/~/794521052/0/baeldung~Difference-Between-kubectl-apply-and-kubectl-create)
+  * *Published on 23 Sept 2023*
+* [Difference Between permitAll() and anonymous() in Spring Security](https://feeds.feedblitz.com/~/794521055/0/baeldung~Difference-Between-permitAll-and-anonymous-in-Spring-Security)
+  * *Published on 23 Sept 2023*
+* [Merge Two Arrays and Remove Duplicates in Java](https://feeds.feedblitz.com/~/794465537/0/baeldung~Merge-Two-Arrays-and-Remove-Duplicates-in-Java)
+  * *Published on 23 Sept 2023*
 * [How To Convert Excel Data Into List Of Java Objects](https://feeds.feedblitz.com/~/794276657/0/baeldung~How-To-Convert-Excel-Data-Into-List-Of-Java-Objects)
-  * *Published on 22 Sept 2023*
-* [Java Double vs. BigDecimal](https://feeds.feedblitz.com/~/794276660/0/baeldung~Java-Double-vs-BigDecimal)
-  * *Published on 22 Sept 2023*
-* [Double Precision Issue in Java](https://feeds.feedblitz.com/~/794276663/0/baeldung~Double-Precision-Issue-in-Java)
-  * *Published on 22 Sept 2023*
-* [Edit a Kubernetes Deployment Without Modifying the File Manually](https://feeds.feedblitz.com/~/794263787/0/baeldung~Edit-a-Kubernetes-Deployment-Without-Modifying-the-File-Manually)
-  * *Published on 22 Sept 2023*
-* [Detect EOF in Java](https://feeds.feedblitz.com/~/794263790/0/baeldung~Detect-EOF-in-Java)
   * *Published on 22 Sept 2023*
