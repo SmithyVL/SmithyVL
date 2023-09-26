@@ -239,13 +239,13 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [Expand Columns with Apache POI](https://feeds.feedblitz.com/~/795255203/0/baeldung~Expand-Columns-with-Apache-POI)
+  * *Published on 26 Sept 2023*
+* [CATALINA_OPTS vs. JAVA_OPTS in Apache Tomcat](https://feeds.feedblitz.com/~/795241076/0/baeldung~CATALINAOPTS-vs-JAVAOPTS-in-Apache-Tomcat)
+  * *Published on 26 Sept 2023*
+* [Log4j 2 Configuration Using a Properties File](https://feeds.feedblitz.com/~/795241082/0/baeldung~Logj-Configuration-Using-a-Properties-File)
+  * *Published on 26 Sept 2023*
 * [Value-Based Classes in Java](https://feeds.feedblitz.com/~/794523269/0/baeldung~ValueBased-Classes-in-Java)
   * *Published on 23 Sept 2023*
 * [Difference Between kubectl apply and kubectl create](https://feeds.feedblitz.com/~/794521052/0/baeldung~Difference-Between-kubectl-apply-and-kubectl-create)
   * *Published on 23 Sept 2023*
-* [Difference Between permitAll() and anonymous() in Spring Security](https://feeds.feedblitz.com/~/794521055/0/baeldung~Difference-Between-permitAll-and-anonymous-in-Spring-Security)
-  * *Published on 23 Sept 2023*
-* [Merge Two Arrays and Remove Duplicates in Java](https://feeds.feedblitz.com/~/794465537/0/baeldung~Merge-Two-Arrays-and-Remove-Duplicates-in-Java)
-  * *Published on 23 Sept 2023*
-* [How To Convert Excel Data Into List Of Java Objects](https://feeds.feedblitz.com/~/794276657/0/baeldung~How-To-Convert-Excel-Data-Into-List-Of-Java-Objects)
-  * *Published on 22 Sept 2023*
