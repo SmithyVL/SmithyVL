@@ -239,13 +239,13 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [How to Permanently Enable Line Numbers in IntelliJ IDEA?](https://feeds.feedblitz.com/~/795572702/0/baeldung~How-to-Permanently-Enable-Line-Numbers-in-IntelliJ-IDEA)
+  * *Published on 26 Sept 2023*
+* [A Guide to Log4j and the log4j.properties File in Java](https://feeds.feedblitz.com/~/795382517/0/baeldung~A-Guide-to-Logj-and-the-logjproperties-File-in-Java)
+  * *Published on 26 Sept 2023*
 * [Expand Columns with Apache POI](https://feeds.feedblitz.com/~/795255203/0/baeldung~Expand-Columns-with-Apache-POI)
   * *Published on 26 Sept 2023*
 * [CATALINA_OPTS vs. JAVA_OPTS in Apache Tomcat](https://feeds.feedblitz.com/~/795241076/0/baeldung~CATALINAOPTS-vs-JAVAOPTS-in-Apache-Tomcat)
   * *Published on 26 Sept 2023*
 * [Log4j 2 Configuration Using a Properties File](https://feeds.feedblitz.com/~/795241082/0/baeldung~Logj-Configuration-Using-a-Properties-File)
   * *Published on 26 Sept 2023*
-* [Value-Based Classes in Java](https://feeds.feedblitz.com/~/794523269/0/baeldung~ValueBased-Classes-in-Java)
-  * *Published on 23 Sept 2023*
-* [Difference Between kubectl apply and kubectl create](https://feeds.feedblitz.com/~/794521052/0/baeldung~Difference-Between-kubectl-apply-and-kubectl-create)
-  * *Published on 23 Sept 2023*
