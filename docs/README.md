@@ -239,13 +239,13 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
-* [Overview of Mockito MockedConstruction](https://feeds.feedblitz.com/~/796551905/0/baeldung~Overview-of-Mockito-MockedConstruction)
-  * *Published on 28 Sept 2023*
-* [How to Permanently Enable Line Numbers in IntelliJ IDEA?](https://feeds.feedblitz.com/~/795572702/0/baeldung~How-to-Permanently-Enable-Line-Numbers-in-IntelliJ-IDEA)
-  * *Published on 26 Sept 2023*
-* [A Guide to Log4j and the log4j.properties File in Java](https://feeds.feedblitz.com/~/795382517/0/baeldung~A-Guide-to-Logj-and-the-logjproperties-File-in-Java)
-  * *Published on 26 Sept 2023*
-* [Expand Columns with Apache POI](https://feeds.feedblitz.com/~/795255203/0/baeldung~Expand-Columns-with-Apache-POI)
-  * *Published on 26 Sept 2023*
-* [CATALINA_OPTS vs. JAVA_OPTS in Apache Tomcat](https://feeds.feedblitz.com/~/795241076/0/baeldung~CATALINAOPTS-vs-JAVAOPTS-in-Apache-Tomcat)
-  * *Published on 26 Sept 2023*
+* [Java Weekly, Issue 509](https://feeds.feedblitz.com/~/796700855/0/baeldung~Java-Weekly-Issue)
+  * *Published on 29 Sept 2023*
+* [Check if a List Contains a String Element While Ignoring Case](https://feeds.feedblitz.com/~/796685582/0/baeldung~Check-if-a-List-Contains-a-String-Element-While-Ignoring-Case)
+  * *Published on 29 Sept 2023*
+* [How to Stop/Pause a Pod in Kubernetes](https://feeds.feedblitz.com/~/796683113/0/baeldung~How-to-StopPause-a-Pod-in-Kubernetes)
+  * *Published on 29 Sept 2023*
+* [String Templates in Java 21](https://feeds.feedblitz.com/~/796683116/0/baeldung~String-Templates-in-Java)
+  * *Published on 29 Sept 2023*
+* [Spring Boot Application on Liberica Runtime Container](https://feeds.feedblitz.com/~/796683119/0/baeldung~Spring-Boot-Application-on-Liberica-Runtime-Container)
+  * *Published on 29 Sept 2023*
