@@ -239,13 +239,13 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
-* [Java Weekly, Issue 509](https://feeds.feedblitz.com/~/796700855/0/baeldung~Java-Weekly-Issue)
-  * *Published on 29 Sept 2023*
-* [Check if a List Contains a String Element While Ignoring Case](https://feeds.feedblitz.com/~/796685582/0/baeldung~Check-if-a-List-Contains-a-String-Element-While-Ignoring-Case)
-  * *Published on 29 Sept 2023*
-* [How to Stop/Pause a Pod in Kubernetes](https://feeds.feedblitz.com/~/796683113/0/baeldung~How-to-StopPause-a-Pod-in-Kubernetes)
-  * *Published on 29 Sept 2023*
-* [String Templates in Java 21](https://feeds.feedblitz.com/~/796683116/0/baeldung~String-Templates-in-Java)
-  * *Published on 29 Sept 2023*
-* [Spring Boot Application on Liberica Runtime Container](https://feeds.feedblitz.com/~/796683119/0/baeldung~Spring-Boot-Application-on-Liberica-Runtime-Container)
-  * *Published on 29 Sept 2023*
+* [Get File Extension From MIME Type in Java](https://feeds.feedblitz.com/~/797161520/0/baeldung~Get-File-Extension-From-MIME-Type-in-Java)
+  * *Published on 2 Oct 2023*
+* [Skipping the First Iteration in Java](https://feeds.feedblitz.com/~/797161523/0/baeldung~Skipping-the-First-Iteration-in-Java)
+  * *Published on 2 Oct 2023*
+* [How to Detect the Username Using Java](https://feeds.feedblitz.com/~/797161526/0/baeldung~How-to-Detect-the-Username-Using-Java)
+  * *Published on 2 Oct 2023*
+* [Introduction to Apache Kafka](https://feeds.feedblitz.com/~/797161529/0/baeldung~Introduction-to-Apache-Kafka)
+  * *Published on 2 Oct 2023*
+* [Increment Character in Java](https://feeds.feedblitz.com/~/797159933/0/baeldung~Increment-Character-in-Java)
+  * *Published on 2 Oct 2023*
