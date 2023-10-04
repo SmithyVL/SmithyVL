@@ -239,13 +239,13 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
-* [Get File Extension From MIME Type in Java](https://feeds.feedblitz.com/~/797161520/0/baeldung~Get-File-Extension-From-MIME-Type-in-Java)
-  * *Published on 2 Oct 2023*
-* [Skipping the First Iteration in Java](https://feeds.feedblitz.com/~/797161523/0/baeldung~Skipping-the-First-Iteration-in-Java)
-  * *Published on 2 Oct 2023*
-* [How to Detect the Username Using Java](https://feeds.feedblitz.com/~/797161526/0/baeldung~How-to-Detect-the-Username-Using-Java)
-  * *Published on 2 Oct 2023*
-* [Introduction to Apache Kafka](https://feeds.feedblitz.com/~/797161529/0/baeldung~Introduction-to-Apache-Kafka)
-  * *Published on 2 Oct 2023*
-* [Increment Character in Java](https://feeds.feedblitz.com/~/797159933/0/baeldung~Increment-Character-in-Java)
-  * *Published on 2 Oct 2023*
+* [Trunk-Based Development](https://feeds.feedblitz.com/~/797363990/0/baeldung~TrunkBased-Development)
+  * *Published on 3 Oct 2023*
+* [Create a GraalVM Docker Image](https://feeds.feedblitz.com/~/797363993/0/baeldung~Create-a-GraalVM-Docker-Image)
+  * *Published on 3 Oct 2023*
+* [Unnamed Classes and Instance Main Methods in Java 21](https://feeds.feedblitz.com/~/797352695/0/baeldung~Unnamed-Classes-and-Instance-Main-Methods-in-Java)
+  * *Published on 3 Oct 2023*
+* [Testing Interface Contract in Java](https://feeds.feedblitz.com/~/797352698/0/baeldung~Testing-Interface-Contract-in-Java)
+  * *Published on 3 Oct 2023*
+* [RSocket Interface in Spring 6](https://feeds.feedblitz.com/~/797352701/0/baeldung~RSocket-Interface-in-Spring)
+  * *Published on 3 Oct 2023*
