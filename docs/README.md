@@ -239,13 +239,13 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [Create an ArrayList with Multiple Object Types](https://feeds.feedblitz.com/~/797695043/0/baeldung~Create-an-ArrayList-with-Multiple-Object-Types)
+  * *Published on 5 Oct 2023*
+* [Check if a String is Strictly Alphanumeric With Java](https://feeds.feedblitz.com/~/797695046/0/baeldung~Check-if-a-String-is-Strictly-Alphanumeric-With-Java)
+  * *Published on 5 Oct 2023*
+* [Unnamed Patterns and Variables in Java 21](https://feeds.feedblitz.com/~/797695049/0/baeldung~Unnamed-Patterns-and-Variables-in-Java)
+  * *Published on 5 Oct 2023*
 * [Trunk-Based Development](https://feeds.feedblitz.com/~/797363990/0/baeldung~TrunkBased-Development)
   * *Published on 3 Oct 2023*
 * [Create a GraalVM Docker Image](https://feeds.feedblitz.com/~/797363993/0/baeldung~Create-a-GraalVM-Docker-Image)
-  * *Published on 3 Oct 2023*
-* [Unnamed Classes and Instance Main Methods in Java 21](https://feeds.feedblitz.com/~/797352695/0/baeldung~Unnamed-Classes-and-Instance-Main-Methods-in-Java)
-  * *Published on 3 Oct 2023*
-* [Testing Interface Contract in Java](https://feeds.feedblitz.com/~/797352698/0/baeldung~Testing-Interface-Contract-in-Java)
-  * *Published on 3 Oct 2023*
-* [RSocket Interface in Spring 6](https://feeds.feedblitz.com/~/797352701/0/baeldung~RSocket-Interface-in-Spring)
   * *Published on 3 Oct 2023*
