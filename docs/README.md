@@ -239,6 +239,8 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [Java Weekly, Issue 510](https://feeds.feedblitz.com/~/797973233/0/baeldung~Java-Weekly-Issue)
+  * *Published on 6 Oct 2023*
 * [Create an ArrayList with Multiple Object Types](https://feeds.feedblitz.com/~/797695043/0/baeldung~Create-an-ArrayList-with-Multiple-Object-Types)
   * *Published on 5 Oct 2023*
 * [Check if a String is Strictly Alphanumeric With Java](https://feeds.feedblitz.com/~/797695046/0/baeldung~Check-if-a-String-is-Strictly-Alphanumeric-With-Java)
@@ -246,6 +248,4 @@ No recent activity
 * [Unnamed Patterns and Variables in Java 21](https://feeds.feedblitz.com/~/797695049/0/baeldung~Unnamed-Patterns-and-Variables-in-Java)
   * *Published on 5 Oct 2023*
 * [Trunk-Based Development](https://feeds.feedblitz.com/~/797363990/0/baeldung~TrunkBased-Development)
-  * *Published on 3 Oct 2023*
-* [Create a GraalVM Docker Image](https://feeds.feedblitz.com/~/797363993/0/baeldung~Create-a-GraalVM-Docker-Image)
   * *Published on 3 Oct 2023*
