@@ -239,13 +239,13 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [How to Subscribe a Kafka Consumer to Multiple Topics](https://feeds.feedblitz.com/~/798346619/0/baeldung~How-to-Subscribe-a-Kafka-Consumer-to-Multiple-Topics)
+  * *Published on 8 Oct 2023*
+* [Partition a Stream in Java](https://feeds.feedblitz.com/~/798346622/0/baeldung~Partition-a-Stream-in-Java)
+  * *Published on 8 Oct 2023*
+* [Finding the Square Root of a BigInteger in Java](https://feeds.feedblitz.com/~/798344765/0/baeldung~Finding-the-Square-Root-of-a-BigInteger-in-Java)
+  * *Published on 8 Oct 2023*
+* [API Versioning in Micronaut](https://feeds.feedblitz.com/~/798344768/0/baeldung~API-Versioning-in-Micronaut)
+  * *Published on 8 Oct 2023*
 * [Difference Between @Spy and @SpyBean](https://feeds.feedblitz.com/~/798153707/0/baeldung~Difference-Between-Spy-and-SpyBean)
   * *Published on 7 Oct 2023*
-* [SpringRunner vs. SpringBootTest](https://feeds.feedblitz.com/~/798153710/0/baeldung~SpringRunner-vs-SpringBootTest)
-  * *Published on 7 Oct 2023*
-* [How to Support UTF-8 Encoding in Eclipse](https://feeds.feedblitz.com/~/798151847/0/baeldung~How-to-Support-UTF-Encoding-in-Eclipse)
-  * *Published on 7 Oct 2023*
-* [Java Weekly, Issue 510](https://feeds.feedblitz.com/~/797973233/0/baeldung~Java-Weekly-Issue)
-  * *Published on 6 Oct 2023*
-* [Create an ArrayList with Multiple Object Types](https://feeds.feedblitz.com/~/797695043/0/baeldung~Create-an-ArrayList-with-Multiple-Object-Types)
-  * *Published on 5 Oct 2023*
