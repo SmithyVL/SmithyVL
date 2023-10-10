@@ -239,6 +239,8 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [Convert Char Array to Int Array in Java](https://feeds.feedblitz.com/~/798526544/0/baeldung~Convert-Char-Array-to-Int-Array-in-Java)
+  * *Published on 9 Oct 2023*
 * [How to Subscribe a Kafka Consumer to Multiple Topics](https://feeds.feedblitz.com/~/798346619/0/baeldung~How-to-Subscribe-a-Kafka-Consumer-to-Multiple-Topics)
   * *Published on 8 Oct 2023*
 * [Partition a Stream in Java](https://feeds.feedblitz.com/~/798346622/0/baeldung~Partition-a-Stream-in-Java)
@@ -247,5 +249,3 @@ No recent activity
   * *Published on 8 Oct 2023*
 * [API Versioning in Micronaut](https://feeds.feedblitz.com/~/798344768/0/baeldung~API-Versioning-in-Micronaut)
   * *Published on 8 Oct 2023*
-* [Difference Between @Spy and @SpyBean](https://feeds.feedblitz.com/~/798153707/0/baeldung~Difference-Between-Spy-and-SpyBean)
-  * *Published on 7 Oct 2023*
