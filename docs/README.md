@@ -234,11 +234,14 @@
 
 ## 📋 Недавняя активность
 **[📰 Recent activity](https://github.com/SmithyVL)**
-No recent activity
+* 🌟 Starred [FatovDI/acceleration-insertion-postgresql-joker2023](https://github.com/FatovDI/acceleration-insertion-postgresql-joker2023)
+  * *On 13 Oct 2023, 11:33:55*
 
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [Rotate Arrays in Java](https://feeds.feedblitz.com/~/799513961/0/baeldung~Rotate-Arrays-in-Java)
+  * *Published on 14 Oct 2023*
 * [Java Weekly, Issue 511](https://feeds.feedblitz.com/~/799209839/0/baeldung~Java-Weekly-Issue)
   * *Published on 12 Oct 2023*
 * [How to Remove Line Breaks From a File in Java](https://feeds.feedblitz.com/~/799186427/0/baeldung~How-to-Remove-Line-Breaks-From-a-File-in-Java)
@@ -246,6 +249,4 @@ No recent activity
 * [Convert Char Array to Int Array in Java](https://feeds.feedblitz.com/~/798526544/0/baeldung~Convert-Char-Array-to-Int-Array-in-Java)
   * *Published on 9 Oct 2023*
 * [How to Subscribe a Kafka Consumer to Multiple Topics](https://feeds.feedblitz.com/~/798346619/0/baeldung~How-to-Subscribe-a-Kafka-Consumer-to-Multiple-Topics)
-  * *Published on 8 Oct 2023*
-* [Partition a Stream in Java](https://feeds.feedblitz.com/~/798346622/0/baeldung~Partition-a-Stream-in-Java)
   * *Published on 8 Oct 2023*
