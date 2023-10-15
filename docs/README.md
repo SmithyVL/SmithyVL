@@ -240,13 +240,13 @@
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
-* [Rotate Arrays in Java](https://feeds.feedblitz.com/~/799513961/0/baeldung~Rotate-Arrays-in-Java)
+* [Converting from float to BigDecimal in Java](https://feeds.feedblitz.com/~/799775114/0/baeldung~Converting-from-float-to-BigDecimal-in-Java)
   * *Published on 14 Oct 2023*
-* [Java Weekly, Issue 511](https://feeds.feedblitz.com/~/799209839/0/baeldung~Java-Weekly-Issue)
-  * *Published on 12 Oct 2023*
-* [How to Remove Line Breaks From a File in Java](https://feeds.feedblitz.com/~/799186427/0/baeldung~How-to-Remove-Line-Breaks-From-a-File-in-Java)
-  * *Published on 12 Oct 2023*
-* [Convert Char Array to Int Array in Java](https://feeds.feedblitz.com/~/798526544/0/baeldung~Convert-Char-Array-to-Int-Array-in-Java)
-  * *Published on 9 Oct 2023*
-* [How to Subscribe a Kafka Consumer to Multiple Topics](https://feeds.feedblitz.com/~/798346619/0/baeldung~How-to-Subscribe-a-Kafka-Consumer-to-Multiple-Topics)
-  * *Published on 8 Oct 2023*
+* [Convert a String with Unicode Encoding to a String of Letters](https://feeds.feedblitz.com/~/799775117/0/baeldung~Convert-a-String-with-Unicode-Encoding-to-a-String-of-Letters)
+  * *Published on 14 Oct 2023*
+* [Convert HashMap.toString() to HashMap in Java](https://feeds.feedblitz.com/~/799775120/0/baeldung~Convert-HashMaptoString-to-HashMap-in-Java)
+  * *Published on 14 Oct 2023*
+* [Get All Record Fields and Its Values via Reflection](https://feeds.feedblitz.com/~/799760045/0/baeldung~Get-All-Record-Fields-and-Its-Values-via-Reflection)
+  * *Published on 14 Oct 2023*
+* [Is Java Reflection Bad Practice?](https://feeds.feedblitz.com/~/799760057/0/baeldung~Is-Java-Reflection-Bad-Practice)
+  * *Published on 14 Oct 2023*
