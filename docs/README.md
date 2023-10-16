@@ -240,13 +240,13 @@
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [Joining a List&lt;String&gt; in Java With Commas and “and”](https://feeds.feedblitz.com/~/800120780/0/baeldung~Joining-a-ListString-in-Java-With-Commas-and-and)
+  * *Published on 15 Oct 2023*
+* [Difference Between Information Hiding and Encapsulation](https://feeds.feedblitz.com/~/800120783/0/baeldung~Difference-Between-Information-Hiding-and-Encapsulation)
+  * *Published on 15 Oct 2023*
 * [Converting from float to BigDecimal in Java](https://feeds.feedblitz.com/~/799775114/0/baeldung~Converting-from-float-to-BigDecimal-in-Java)
   * *Published on 14 Oct 2023*
 * [Convert a String with Unicode Encoding to a String of Letters](https://feeds.feedblitz.com/~/799775117/0/baeldung~Convert-a-String-with-Unicode-Encoding-to-a-String-of-Letters)
   * *Published on 14 Oct 2023*
 * [Convert HashMap.toString() to HashMap in Java](https://feeds.feedblitz.com/~/799775120/0/baeldung~Convert-HashMaptoString-to-HashMap-in-Java)
-  * *Published on 14 Oct 2023*
-* [Get All Record Fields and Its Values via Reflection](https://feeds.feedblitz.com/~/799760045/0/baeldung~Get-All-Record-Fields-and-Its-Values-via-Reflection)
-  * *Published on 14 Oct 2023*
-* [Is Java Reflection Bad Practice?](https://feeds.feedblitz.com/~/799760057/0/baeldung~Is-Java-Reflection-Bad-Practice)
   * *Published on 14 Oct 2023*
