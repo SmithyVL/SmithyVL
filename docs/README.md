@@ -240,13 +240,13 @@
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [Using zipWhen() with Mono](https://feeds.feedblitz.com/~/800753300/0/baeldung~Using-zipWhen-with-Mono)
+  * *Published on 17 Oct 2023*
+* [Difference Between putIfAbsent() and computeIfAbsent() in Java’s Map](https://feeds.feedblitz.com/~/800712446/0/baeldung~Difference-Between-putIfAbsent-and-computeIfAbsent-in-Javas-Map)
+  * *Published on 17 Oct 2023*
+* [Validate Boolean Type in Spring Boot](https://feeds.feedblitz.com/~/800712449/0/baeldung~Validate-Boolean-Type-in-Spring-Boot)
+  * *Published on 17 Oct 2023*
+* [@FormDataParam vs. @FormParam in Jersey](https://feeds.feedblitz.com/~/800707556/0/baeldung~FormDataParam-vs-FormParam-in-Jersey)
+  * *Published on 17 Oct 2023*
 * [Joining a List&lt;String&gt; in Java With Commas and “and”](https://feeds.feedblitz.com/~/800120780/0/baeldung~Joining-a-ListString-in-Java-With-Commas-and-and)
   * *Published on 15 Oct 2023*
-* [Difference Between Information Hiding and Encapsulation](https://feeds.feedblitz.com/~/800120783/0/baeldung~Difference-Between-Information-Hiding-and-Encapsulation)
-  * *Published on 15 Oct 2023*
-* [Converting from float to BigDecimal in Java](https://feeds.feedblitz.com/~/799775114/0/baeldung~Converting-from-float-to-BigDecimal-in-Java)
-  * *Published on 14 Oct 2023*
-* [Convert a String with Unicode Encoding to a String of Letters](https://feeds.feedblitz.com/~/799775117/0/baeldung~Convert-a-String-with-Unicode-Encoding-to-a-String-of-Letters)
-  * *Published on 14 Oct 2023*
-* [Convert HashMap.toString() to HashMap in Java](https://feeds.feedblitz.com/~/799775120/0/baeldung~Convert-HashMaptoString-to-HashMap-in-Java)
-  * *Published on 14 Oct 2023*
