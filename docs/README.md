@@ -240,13 +240,13 @@
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [How to Reuse Testcontainers in Java](https://feeds.feedblitz.com/~/801410903/0/baeldung~How-to-Reuse-Testcontainers-in-Java)
+  * *Published on 18 Oct 2023*
+* [Using the Apache Commons Lang 3 for Comparing Objects in Java](https://feeds.feedblitz.com/~/801410906/0/baeldung~Using-the-Apache-Commons-Lang-for-Comparing-Objects-in-Java)
+  * *Published on 18 Oct 2023*
 * [Using zipWhen() with Mono](https://feeds.feedblitz.com/~/800753300/0/baeldung~Using-zipWhen-with-Mono)
   * *Published on 17 Oct 2023*
 * [Difference Between putIfAbsent() and computeIfAbsent() in Java’s Map](https://feeds.feedblitz.com/~/800712446/0/baeldung~Difference-Between-putIfAbsent-and-computeIfAbsent-in-Javas-Map)
   * *Published on 17 Oct 2023*
 * [Validate Boolean Type in Spring Boot](https://feeds.feedblitz.com/~/800712449/0/baeldung~Validate-Boolean-Type-in-Spring-Boot)
   * *Published on 17 Oct 2023*
-* [@FormDataParam vs. @FormParam in Jersey](https://feeds.feedblitz.com/~/800707556/0/baeldung~FormDataParam-vs-FormParam-in-Jersey)
-  * *Published on 17 Oct 2023*
-* [Joining a List&lt;String&gt; in Java With Commas and “and”](https://feeds.feedblitz.com/~/800120780/0/baeldung~Joining-a-ListString-in-Java-With-Commas-and-and)
-  * *Published on 15 Oct 2023*
