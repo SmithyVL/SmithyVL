@@ -240,13 +240,13 @@
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [Wrapping a String After a Number of Characters Word-Wise](https://feeds.feedblitz.com/~/802726589/0/baeldung~Wrapping-a-String-After-a-Number-of-Characters-WordWise)
+  * *Published on 21 Oct 2023*
+* [How to Write Hashmap to CSV File](https://feeds.feedblitz.com/~/802715942/0/baeldung~How-to-Write-Hashmap-to-CSV-File)
+  * *Published on 21 Oct 2023*
 * [Java Weekly, Issue 512](https://feeds.feedblitz.com/~/802583357/0/baeldung~Java-Weekly-Issue)
   * *Published on 20 Oct 2023*
 * [Split Java String Into Key-Value Pairs](https://feeds.feedblitz.com/~/802555106/0/baeldung~Split-Java-String-Into-KeyValue-Pairs)
   * *Published on 20 Oct 2023*
 * [Configuring the GlassFish Server in Eclipse](https://feeds.feedblitz.com/~/802555109/0/baeldung~Configuring-the-GlassFish-Server-in-Eclipse)
   * *Published on 20 Oct 2023*
-* [Drawbacks of the Singleton Design Pattern](https://feeds.feedblitz.com/~/802555112/0/baeldung~Drawbacks-of-the-Singleton-Design-Pattern)
-  * *Published on 20 Oct 2023*
-* [How to Reuse Testcontainers in Java](https://feeds.feedblitz.com/~/801410903/0/baeldung~How-to-Reuse-Testcontainers-in-Java)
-  * *Published on 18 Oct 2023*
