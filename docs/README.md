@@ -240,13 +240,13 @@
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
-* [How to Center Text Output in Java](https://feeds.feedblitz.com/~/803013230/0/baeldung~How-to-Center-Text-Output-in-Java)
-  * *Published on 23 Oct 2023*
-* [Why wait() Requires Synchronization?](https://feeds.feedblitz.com/~/803013233/0/baeldung~Why-wait-Requires-Synchronization)
-  * *Published on 23 Oct 2023*
-* [How to Mock Environment Variables in Unit Tests](https://feeds.feedblitz.com/~/803013236/0/baeldung~How-to-Mock-Environment-Variables-in-Unit-Tests)
-  * *Published on 23 Oct 2023*
-* [Wrapping a String After a Number of Characters Word-Wise](https://feeds.feedblitz.com/~/802726589/0/baeldung~Wrapping-a-String-After-a-Number-of-Characters-WordWise)
-  * *Published on 21 Oct 2023*
-* [How to Write Hashmap to CSV File](https://feeds.feedblitz.com/~/802715942/0/baeldung~How-to-Write-Hashmap-to-CSV-File)
-  * *Published on 21 Oct 2023*
+* [Retry Logic with CompletableFuture](https://feeds.feedblitz.com/~/803274290/0/baeldung~Retry-Logic-with-CompletableFuture)
+  * *Published on 26 Oct 2023*
+* [How to Set Up Environment Variables in IntelliJ IDEA](https://feeds.feedblitz.com/~/803274293/0/baeldung~How-to-Set-Up-Environment-Variables-in-IntelliJ-IDEA)
+  * *Published on 26 Oct 2023*
+* [Arrays mismatch() Method in Java](https://feeds.feedblitz.com/~/803274296/0/baeldung~Arrays-mismatch-Method-in-Java)
+  * *Published on 26 Oct 2023*
+* [Remove Elements From a Queue Using Loop](https://feeds.feedblitz.com/~/803273120/0/baeldung~Remove-Elements-From-a-Queue-Using-Loop)
+  * *Published on 26 Oct 2023*
+* [HttpSecurity vs. WebSecurity in Spring Security](https://feeds.feedblitz.com/~/803263682/0/baeldung~HttpSecurity-vs-WebSecurity-in-Spring-Security)
+  * *Published on 26 Oct 2023*
