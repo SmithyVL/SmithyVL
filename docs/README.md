@@ -234,19 +234,18 @@
 
 ## 📋 Недавняя активность
 **[📰 Recent activity](https://github.com/SmithyVL)**
-* 🌟 Starred [FatovDI/acceleration-insertion-postgresql-joker2023](https://github.com/FatovDI/acceleration-insertion-postgresql-joker2023)
-  * *On 13 Oct 2023, 11:33:55*
+No recent activity
 
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
-* [Retry Logic with CompletableFuture](https://feeds.feedblitz.com/~/803274290/0/baeldung~Retry-Logic-with-CompletableFuture)
-  * *Published on 26 Oct 2023*
-* [How to Set Up Environment Variables in IntelliJ IDEA](https://feeds.feedblitz.com/~/803274293/0/baeldung~How-to-Set-Up-Environment-Variables-in-IntelliJ-IDEA)
-  * *Published on 26 Oct 2023*
-* [Arrays mismatch() Method in Java](https://feeds.feedblitz.com/~/803274296/0/baeldung~Arrays-mismatch-Method-in-Java)
-  * *Published on 26 Oct 2023*
-* [Remove Elements From a Queue Using Loop](https://feeds.feedblitz.com/~/803273120/0/baeldung~Remove-Elements-From-a-Queue-Using-Loop)
-  * *Published on 26 Oct 2023*
-* [HttpSecurity vs. WebSecurity in Spring Security](https://feeds.feedblitz.com/~/803263682/0/baeldung~HttpSecurity-vs-WebSecurity-in-Spring-Security)
-  * *Published on 26 Oct 2023*
+* [Check if a String Contains a Number Value in Java](https://feeds.feedblitz.com/~/803329802/0/baeldung~Check-if-a-String-Contains-a-Number-Value-in-Java)
+  * *Published on 27 Oct 2023*
+* [A Guide to RestClient in Spring Boot](https://feeds.feedblitz.com/~/803326802/0/baeldung~A-Guide-to-RestClient-in-Spring-Boot)
+  * *Published on 27 Oct 2023*
+* [Capitalize the First Letter of Each Word in a String](https://feeds.feedblitz.com/~/803326805/0/baeldung~Capitalize-the-First-Letter-of-Each-Word-in-a-String)
+  * *Published on 27 Oct 2023*
+* [How to Create CSV File from POJO with Custom Column Headers and Positions](https://feeds.feedblitz.com/~/803326808/0/baeldung~How-to-Create-CSV-File-from-POJO-with-Custom-Column-Headers-and-Positions)
+  * *Published on 27 Oct 2023*
+* [Java Weekly, Issue 513](https://feeds.feedblitz.com/~/803308334/0/baeldung~Java-Weekly-Issue)
+  * *Published on 27 Oct 2023*
