@@ -239,13 +239,13 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
-* [Passing Strings by Reference in Java](https://feeds.feedblitz.com/~/803560289/0/baeldung~Passing-Strings-by-Reference-in-Java)
-  * *Published on 29 Oct 2023*
-* [Check if a String Contains a Number Value in Java](https://feeds.feedblitz.com/~/803329802/0/baeldung~Check-if-a-String-Contains-a-Number-Value-in-Java)
-  * *Published on 27 Oct 2023*
-* [A Guide to RestClient in Spring Boot](https://feeds.feedblitz.com/~/803326802/0/baeldung~A-Guide-to-RestClient-in-Spring-Boot)
-  * *Published on 27 Oct 2023*
-* [Capitalize the First Letter of Each Word in a String](https://feeds.feedblitz.com/~/803326805/0/baeldung~Capitalize-the-First-Letter-of-Each-Word-in-a-String)
-  * *Published on 27 Oct 2023*
-* [How to Create CSV File from POJO with Custom Column Headers and Positions](https://feeds.feedblitz.com/~/803326808/0/baeldung~How-to-Create-CSV-File-from-POJO-with-Custom-Column-Headers-and-Positions)
-  * *Published on 27 Oct 2023*
+* [Introduction to LangChain](https://feeds.feedblitz.com/~/803945138/0/baeldung~Introduction-to-LangChain)
+  * *Published on 31 Oct 2023*
+* [How to Delete a Kubernetes Service](https://feeds.feedblitz.com/~/803936177/0/baeldung~How-to-Delete-a-Kubernetes-Service)
+  * *Published on 31 Oct 2023*
+* [Difference Between ZipFile and ZipInputStream in Java](https://feeds.feedblitz.com/~/803936180/0/baeldung~Difference-Between-ZipFile-and-ZipInputStream-in-Java)
+  * *Published on 31 Oct 2023*
+* [A Guide to Spring 6 JdbcClient API](https://feeds.feedblitz.com/~/803936183/0/baeldung~A-Guide-to-Spring-JdbcClient-API)
+  * *Published on 31 Oct 2023*
+* [PrintWriter vs. FileWriter in Java](https://feeds.feedblitz.com/~/803927276/0/baeldung~PrintWriter-vs-FileWriter-in-Java)
+  * *Published on 31 Oct 2023*
