@@ -239,13 +239,13 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [Implement Connect 4 Game with Java](https://feeds.feedblitz.com/~/804700265/0/baeldung~Implement-Connect-Game-with-Java)
+  * *Published on 1 Nov 2023*
+* [Overriding Cucumber Option Values](https://feeds.feedblitz.com/~/804700268/0/baeldung~Overriding-Cucumber-Option-Values)
+  * *Published on 31 Oct 2023*
+* [Convert String Containing XML to org.w3c.dom.Document](https://feeds.feedblitz.com/~/804700271/0/baeldung~Convert-String-Containing-XML-to-orgwcdomDocument)
+  * *Published on 31 Oct 2023*
+* [Convert an XML Object to a String in Java](https://feeds.feedblitz.com/~/804685799/0/baeldung~Convert-an-XML-Object-to-a-String-in-Java)
+  * *Published on 31 Oct 2023*
 * [Introduction to LangChain](https://feeds.feedblitz.com/~/803945138/0/baeldung~Introduction-to-LangChain)
-  * *Published on 31 Oct 2023*
-* [How to Delete a Kubernetes Service](https://feeds.feedblitz.com/~/803936177/0/baeldung~How-to-Delete-a-Kubernetes-Service)
-  * *Published on 31 Oct 2023*
-* [Difference Between ZipFile and ZipInputStream in Java](https://feeds.feedblitz.com/~/803936180/0/baeldung~Difference-Between-ZipFile-and-ZipInputStream-in-Java)
-  * *Published on 31 Oct 2023*
-* [A Guide to Spring 6 JdbcClient API](https://feeds.feedblitz.com/~/803936183/0/baeldung~A-Guide-to-Spring-JdbcClient-API)
-  * *Published on 31 Oct 2023*
-* [PrintWriter vs. FileWriter in Java](https://feeds.feedblitz.com/~/803927276/0/baeldung~PrintWriter-vs-FileWriter-in-Java)
   * *Published on 31 Oct 2023*
