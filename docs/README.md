@@ -239,6 +239,8 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [Java Weekly, Issue 514](https://feeds.feedblitz.com/~/809407829/0/baeldung~Java-Weekly-Issue)
+  * *Published on 3 Nov 2023*
 * [Implement Connect 4 Game with Java](https://feeds.feedblitz.com/~/804700265/0/baeldung~Implement-Connect-Game-with-Java)
   * *Published on 1 Nov 2023*
 * [Overriding Cucumber Option Values](https://feeds.feedblitz.com/~/804700268/0/baeldung~Overriding-Cucumber-Option-Values)
@@ -246,6 +248,4 @@ No recent activity
 * [Convert String Containing XML to org.w3c.dom.Document](https://feeds.feedblitz.com/~/804700271/0/baeldung~Convert-String-Containing-XML-to-orgwcdomDocument)
   * *Published on 31 Oct 2023*
 * [Convert an XML Object to a String in Java](https://feeds.feedblitz.com/~/804685799/0/baeldung~Convert-an-XML-Object-to-a-String-in-Java)
-  * *Published on 31 Oct 2023*
-* [Introduction to LangChain](https://feeds.feedblitz.com/~/803945138/0/baeldung~Introduction-to-LangChain)
   * *Published on 31 Oct 2023*
