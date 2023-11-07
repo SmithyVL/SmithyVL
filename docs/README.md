@@ -239,13 +239,13 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
-* [JNDI – What Is java:comp/env?](https://feeds.feedblitz.com/~/816209105/0/baeldung~JNDI-What-Is-javacompenv)
-  * *Published on 5 Nov 2023*
-* [Difference Between “final static” and “static final”](https://feeds.feedblitz.com/~/816134615/0/baeldung~Difference-Between-final-static-and-static-final)
-  * *Published on 5 Nov 2023*
-* [How to Get First or Last Entry From a LinkedHashMap in Java](https://feeds.feedblitz.com/~/816063338/0/baeldung~How-to-Get-First-or-Last-Entry-From-a-LinkedHashMap-in-Java)
-  * *Published on 5 Nov 2023*
-* [How to Iterate Over the String Characters in Java](https://feeds.feedblitz.com/~/813231461/0/baeldung~How-to-Iterate-Over-the-String-Characters-in-Java)
-  * *Published on 5 Nov 2023*
-* [@ConditionalOnThreading Annotation Spring](https://feeds.feedblitz.com/~/813231464/0/baeldung~ConditionalOnThreading-Annotation-Spring)
-  * *Published on 5 Nov 2023*
+* [Working With MathFlux](https://feeds.feedblitz.com/~/817669523/0/baeldung~Working-With-MathFlux)
+  * *Published on 6 Nov 2023*
+* [Intro to Vector Class in Java](https://feeds.feedblitz.com/~/817669526/0/baeldung~Intro-to-Vector-Class-in-Java)
+  * *Published on 6 Nov 2023*
+* [Check if a String Contains Only Unicode Letters](https://feeds.feedblitz.com/~/817669529/0/baeldung~Check-if-a-String-Contains-Only-Unicode-Letters)
+  * *Published on 6 Nov 2023*
+* [Optional as a Record Parameter in Java](https://feeds.feedblitz.com/~/817628852/0/baeldung~Optional-as-a-Record-Parameter-in-Java)
+  * *Published on 6 Nov 2023*
+* [How to Document Generic Type Parameters in Javadoc](https://feeds.feedblitz.com/~/817628855/0/baeldung~How-to-Document-Generic-Type-Parameters-in-Javadoc)
+  * *Published on 6 Nov 2023*
