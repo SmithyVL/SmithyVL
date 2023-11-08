@@ -239,13 +239,13 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
-* [Working With MathFlux](https://feeds.feedblitz.com/~/817669523/0/baeldung~Working-With-MathFlux)
-  * *Published on 6 Nov 2023*
-* [Intro to Vector Class in Java](https://feeds.feedblitz.com/~/817669526/0/baeldung~Intro-to-Vector-Class-in-Java)
-  * *Published on 6 Nov 2023*
-* [Check if a String Contains Only Unicode Letters](https://feeds.feedblitz.com/~/817669529/0/baeldung~Check-if-a-String-Contains-Only-Unicode-Letters)
-  * *Published on 6 Nov 2023*
-* [Optional as a Record Parameter in Java](https://feeds.feedblitz.com/~/817628852/0/baeldung~Optional-as-a-Record-Parameter-in-Java)
-  * *Published on 6 Nov 2023*
-* [How to Document Generic Type Parameters in Javadoc](https://feeds.feedblitz.com/~/817628855/0/baeldung~How-to-Document-Generic-Type-Parameters-in-Javadoc)
-  * *Published on 6 Nov 2023*
+* [Finding the N-th Occurrence of a Substring in a String in Java](https://feeds.feedblitz.com/~/819451220/0/baeldung~Finding-the-Nth-Occurrence-of-a-Substring-in-a-String-in-Java)
+  * *Published on 8 Nov 2023*
+* [Time Conversions Using TimeUnit](https://feeds.feedblitz.com/~/819451226/0/baeldung~Time-Conversions-Using-TimeUnit)
+  * *Published on 8 Nov 2023*
+* [Convert a Stream into a Map or Multimap in Java](https://feeds.feedblitz.com/~/819451232/0/baeldung~Convert-a-Stream-into-a-Map-or-Multimap-in-Java)
+  * *Published on 8 Nov 2023*
+* [Modifying Objects Within Stream While Iterating](https://feeds.feedblitz.com/~/819451238/0/baeldung~Modifying-Objects-Within-Stream-While-Iterating)
+  * *Published on 8 Nov 2023*
+* [Compare StringBuilder Objects in Java](https://feeds.feedblitz.com/~/819451241/0/baeldung~Compare-StringBuilder-Objects-in-Java)
+  * *Published on 8 Nov 2023*
