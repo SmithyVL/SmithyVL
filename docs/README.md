@@ -239,6 +239,8 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [Java Weekly, Issue 515](https://feeds.feedblitz.com/~/824658140/0/baeldung~Java-Weekly-Issue)
+  * *Published on 10 Nov 2023*
 * [Finding the N-th Occurrence of a Substring in a String in Java](https://feeds.feedblitz.com/~/819451220/0/baeldung~Finding-the-Nth-Occurrence-of-a-Substring-in-a-String-in-Java)
   * *Published on 8 Nov 2023*
 * [Time Conversions Using TimeUnit](https://feeds.feedblitz.com/~/819451226/0/baeldung~Time-Conversions-Using-TimeUnit)
@@ -246,6 +248,4 @@ No recent activity
 * [Convert a Stream into a Map or Multimap in Java](https://feeds.feedblitz.com/~/819451232/0/baeldung~Convert-a-Stream-into-a-Map-or-Multimap-in-Java)
   * *Published on 8 Nov 2023*
 * [Modifying Objects Within Stream While Iterating](https://feeds.feedblitz.com/~/819451238/0/baeldung~Modifying-Objects-Within-Stream-While-Iterating)
-  * *Published on 8 Nov 2023*
-* [Compare StringBuilder Objects in Java](https://feeds.feedblitz.com/~/819451241/0/baeldung~Compare-StringBuilder-Objects-in-Java)
   * *Published on 8 Nov 2023*
