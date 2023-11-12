@@ -239,13 +239,13 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [Create a Mutable String in Java](https://feeds.feedblitz.com/~/831433613/0/baeldung~Create-a-Mutable-String-in-Java)
+  * *Published on 12 Nov 2023*
+* [Unreachable Statements in Java](https://feeds.feedblitz.com/~/830900957/0/baeldung~Unreachable-Statements-in-Java)
+  * *Published on 11 Nov 2023*
+* [Convert File to Byte Array in Java](https://feeds.feedblitz.com/~/830900966/0/baeldung~Convert-File-to-Byte-Array-in-Java)
+  * *Published on 11 Nov 2023*
+* [Bill Pugh Singleton Implementation](https://feeds.feedblitz.com/~/830900978/0/baeldung~Bill-Pugh-Singleton-Implementation)
+  * *Published on 11 Nov 2023*
 * [Java Weekly, Issue 515](https://feeds.feedblitz.com/~/824658140/0/baeldung~Java-Weekly-Issue)
   * *Published on 10 Nov 2023*
-* [Finding the N-th Occurrence of a Substring in a String in Java](https://feeds.feedblitz.com/~/819451220/0/baeldung~Finding-the-Nth-Occurrence-of-a-Substring-in-a-String-in-Java)
-  * *Published on 8 Nov 2023*
-* [Time Conversions Using TimeUnit](https://feeds.feedblitz.com/~/819451226/0/baeldung~Time-Conversions-Using-TimeUnit)
-  * *Published on 8 Nov 2023*
-* [Convert a Stream into a Map or Multimap in Java](https://feeds.feedblitz.com/~/819451232/0/baeldung~Convert-a-Stream-into-a-Map-or-Multimap-in-Java)
-  * *Published on 8 Nov 2023*
-* [Modifying Objects Within Stream While Iterating](https://feeds.feedblitz.com/~/819451238/0/baeldung~Modifying-Objects-Within-Stream-While-Iterating)
-  * *Published on 8 Nov 2023*
