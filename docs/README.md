@@ -239,6 +239,8 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [Convert a Hex String to an Integer in Java](https://feeds.feedblitz.com/~/831438182/0/baeldung~Convert-a-Hex-String-to-an-Integer-in-Java)
+  * *Published on 12 Nov 2023*
 * [Create a Mutable String in Java](https://feeds.feedblitz.com/~/831433613/0/baeldung~Create-a-Mutable-String-in-Java)
   * *Published on 12 Nov 2023*
 * [Unreachable Statements in Java](https://feeds.feedblitz.com/~/830900957/0/baeldung~Unreachable-Statements-in-Java)
@@ -247,5 +249,3 @@ No recent activity
   * *Published on 11 Nov 2023*
 * [Bill Pugh Singleton Implementation](https://feeds.feedblitz.com/~/830900978/0/baeldung~Bill-Pugh-Singleton-Implementation)
   * *Published on 11 Nov 2023*
-* [Java Weekly, Issue 515](https://feeds.feedblitz.com/~/824658140/0/baeldung~Java-Weekly-Issue)
-  * *Published on 10 Nov 2023*
