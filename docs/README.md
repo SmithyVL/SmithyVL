@@ -239,13 +239,13 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
-* [Convert a Hex String to an Integer in Java](https://feeds.feedblitz.com/~/831438182/0/baeldung~Convert-a-Hex-String-to-an-Integer-in-Java)
-  * *Published on 12 Nov 2023*
-* [Create a Mutable String in Java](https://feeds.feedblitz.com/~/831433613/0/baeldung~Create-a-Mutable-String-in-Java)
-  * *Published on 12 Nov 2023*
-* [Unreachable Statements in Java](https://feeds.feedblitz.com/~/830900957/0/baeldung~Unreachable-Statements-in-Java)
-  * *Published on 11 Nov 2023*
-* [Convert File to Byte Array in Java](https://feeds.feedblitz.com/~/830900966/0/baeldung~Convert-File-to-Byte-Array-in-Java)
-  * *Published on 11 Nov 2023*
-* [Bill Pugh Singleton Implementation](https://feeds.feedblitz.com/~/830900978/0/baeldung~Bill-Pugh-Singleton-Implementation)
-  * *Published on 11 Nov 2023*
+* [Convert ResultSet Into Map](https://feeds.feedblitz.com/~/832074590/0/baeldung~Convert-ResultSet-Into-Map)
+  * *Published on 13 Nov 2023*
+* [HashSet toArray() Method in Java](https://feeds.feedblitz.com/~/832074593/0/baeldung~HashSet-toArray-Method-in-Java)
+  * *Published on 13 Nov 2023*
+* [Why Is sun.misc.Unsafe.park Actually Unsafe?](https://feeds.feedblitz.com/~/832069901/0/baeldung~Why-Is-sunmiscUnsafepark-Actually-Unsafe)
+  * *Published on 13 Nov 2023*
+* [Switching Between Frames Using Selenium WebDriver in Java](https://feeds.feedblitz.com/~/832069904/0/baeldung~Switching-Between-Frames-Using-Selenium-WebDriver-in-Java)
+  * *Published on 13 Nov 2023*
+* [Comparing the Values of Two Generic Numbers in Java](https://feeds.feedblitz.com/~/832062374/0/baeldung~Comparing-the-Values-of-Two-Generic-Numbers-in-Java)
+  * *Published on 13 Nov 2023*
