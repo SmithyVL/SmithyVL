@@ -239,6 +239,8 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [MongoDB Atlas Search Using the Java Driver and Spring Data](https://feeds.feedblitz.com/~/832895117/0/baeldung~MongoDB-Atlas-Search-Using-the-Java-Driver-and-Spring-Data)
+  * *Published on 15 Nov 2023*
 * [Convert ResultSet Into Map](https://feeds.feedblitz.com/~/832074590/0/baeldung~Convert-ResultSet-Into-Map)
   * *Published on 13 Nov 2023*
 * [HashSet toArray() Method in Java](https://feeds.feedblitz.com/~/832074593/0/baeldung~HashSet-toArray-Method-in-Java)
@@ -246,6 +248,4 @@ No recent activity
 * [Why Is sun.misc.Unsafe.park Actually Unsafe?](https://feeds.feedblitz.com/~/832069901/0/baeldung~Why-Is-sunmiscUnsafepark-Actually-Unsafe)
   * *Published on 13 Nov 2023*
 * [Switching Between Frames Using Selenium WebDriver in Java](https://feeds.feedblitz.com/~/832069904/0/baeldung~Switching-Between-Frames-Using-Selenium-WebDriver-in-Java)
-  * *Published on 13 Nov 2023*
-* [Comparing the Values of Two Generic Numbers in Java](https://feeds.feedblitz.com/~/832062374/0/baeldung~Comparing-the-Values-of-Two-Generic-Numbers-in-Java)
   * *Published on 13 Nov 2023*
