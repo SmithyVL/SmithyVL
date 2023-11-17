@@ -239,13 +239,13 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [Java Weekly, Issue 516](https://feeds.feedblitz.com/~/834496175/0/baeldung~Java-Weekly-Issue)
+  * *Published on 16 Nov 2023*
+* [Sharing Memory Between JVMs](https://feeds.feedblitz.com/~/834339341/0/baeldung~Sharing-Memory-Between-JVMs)
+  * *Published on 16 Nov 2023*
 * [MongoDB Atlas Search Using the Java Driver and Spring Data](https://feeds.feedblitz.com/~/832895117/0/baeldung~MongoDB-Atlas-Search-Using-the-Java-Driver-and-Spring-Data)
   * *Published on 15 Nov 2023*
 * [Convert ResultSet Into Map](https://feeds.feedblitz.com/~/832074590/0/baeldung~Convert-ResultSet-Into-Map)
   * *Published on 13 Nov 2023*
 * [HashSet toArray() Method in Java](https://feeds.feedblitz.com/~/832074593/0/baeldung~HashSet-toArray-Method-in-Java)
-  * *Published on 13 Nov 2023*
-* [Why Is sun.misc.Unsafe.park Actually Unsafe?](https://feeds.feedblitz.com/~/832069901/0/baeldung~Why-Is-sunmiscUnsafepark-Actually-Unsafe)
-  * *Published on 13 Nov 2023*
-* [Switching Between Frames Using Selenium WebDriver in Java](https://feeds.feedblitz.com/~/832069904/0/baeldung~Switching-Between-Frames-Using-Selenium-WebDriver-in-Java)
   * *Published on 13 Nov 2023*
