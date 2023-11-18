@@ -239,13 +239,13 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
-* [Java Weekly, Issue 516](https://feeds.feedblitz.com/~/834496175/0/baeldung~Java-Weekly-Issue)
-  * *Published on 16 Nov 2023*
-* [Sharing Memory Between JVMs](https://feeds.feedblitz.com/~/834339341/0/baeldung~Sharing-Memory-Between-JVMs)
-  * *Published on 16 Nov 2023*
-* [MongoDB Atlas Search Using the Java Driver and Spring Data](https://feeds.feedblitz.com/~/832895117/0/baeldung~MongoDB-Atlas-Search-Using-the-Java-Driver-and-Spring-Data)
-  * *Published on 15 Nov 2023*
-* [Convert ResultSet Into Map](https://feeds.feedblitz.com/~/832074590/0/baeldung~Convert-ResultSet-Into-Map)
-  * *Published on 13 Nov 2023*
-* [HashSet toArray() Method in Java](https://feeds.feedblitz.com/~/832074593/0/baeldung~HashSet-toArray-Method-in-Java)
-  * *Published on 13 Nov 2023*
+* [Ensuring Message Ordering in Kafka: Strategies and Configurations](https://feeds.feedblitz.com/~/834612542/0/baeldung~Ensuring-Message-Ordering-in-Kafka-Strategies-and-Configurations)
+  * *Published on 17 Nov 2023*
+* [How to Avoid NoSuchElementException in Stream API](https://feeds.feedblitz.com/~/834612545/0/baeldung~How-to-Avoid-NoSuchElementException-in-Stream-API)
+  * *Published on 17 Nov 2023*
+* [Representing Furthest Possible Date in Java](https://feeds.feedblitz.com/~/834612548/0/baeldung~Representing-Furthest-Possible-Date-in-Java)
+  * *Published on 17 Nov 2023*
+* [Create Table Using ASCII in a Console in Java](https://feeds.feedblitz.com/~/834612551/0/baeldung~Create-Table-Using-ASCII-in-a-Console-in-Java)
+  * *Published on 17 Nov 2023*
+* [Synchronize a Static Variable Among Different Threads](https://feeds.feedblitz.com/~/834612554/0/baeldung~Synchronize-a-Static-Variable-Among-Different-Threads)
+  * *Published on 17 Nov 2023*
