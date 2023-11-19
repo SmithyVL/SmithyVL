@@ -239,13 +239,13 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [Differences Between * and ? in Cron Expressions](https://feeds.feedblitz.com/~/836117390/0/baeldung~Differences-Between-and-in-Cron-Expressions)
+  * *Published on 18 Nov 2023*
+* [Executable Comments in Java](https://feeds.feedblitz.com/~/836117393/0/baeldung~Executable-Comments-in-Java)
+  * *Published on 18 Nov 2023*
 * [Ensuring Message Ordering in Kafka: Strategies and Configurations](https://feeds.feedblitz.com/~/834612542/0/baeldung~Ensuring-Message-Ordering-in-Kafka-Strategies-and-Configurations)
   * *Published on 17 Nov 2023*
 * [How to Avoid NoSuchElementException in Stream API](https://feeds.feedblitz.com/~/834612545/0/baeldung~How-to-Avoid-NoSuchElementException-in-Stream-API)
   * *Published on 17 Nov 2023*
 * [Representing Furthest Possible Date in Java](https://feeds.feedblitz.com/~/834612548/0/baeldung~Representing-Furthest-Possible-Date-in-Java)
-  * *Published on 17 Nov 2023*
-* [Create Table Using ASCII in a Console in Java](https://feeds.feedblitz.com/~/834612551/0/baeldung~Create-Table-Using-ASCII-in-a-Console-in-Java)
-  * *Published on 17 Nov 2023*
-* [Synchronize a Static Variable Among Different Threads](https://feeds.feedblitz.com/~/834612554/0/baeldung~Synchronize-a-Static-Variable-Among-Different-Threads)
   * *Published on 17 Nov 2023*
