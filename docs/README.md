@@ -239,13 +239,13 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
-* [Manage Kafka Consumer Groups](https://feeds.feedblitz.com/~/836877050/0/baeldung~Manage-Kafka-Consumer-Groups)
-  * *Published on 21 Nov 2023*
-* [Working with Exceptions in Java CompletableFuture](https://feeds.feedblitz.com/~/836795030/0/baeldung~Working-with-Exceptions-in-Java-CompletableFuture)
-  * *Published on 21 Nov 2023*
-* [Overriding Spring Beans in Integration Test](https://feeds.feedblitz.com/~/836769722/0/baeldung~Overriding-Spring-Beans-in-Integration-Test)
-  * *Published on 21 Nov 2023*
-* [Differences Between * and ? in Cron Expressions](https://feeds.feedblitz.com/~/836117390/0/baeldung~Differences-Between-and-in-Cron-Expressions)
-  * *Published on 18 Nov 2023*
-* [Executable Comments in Java](https://feeds.feedblitz.com/~/836117393/0/baeldung~Executable-Comments-in-Java)
-  * *Published on 18 Nov 2023*
+* [Checking if an Object’s Type Is Enum](https://feeds.feedblitz.com/~/840957842/0/baeldung~Checking-if-an-Objects-Type-Is-Enum)
+  * *Published on 23 Nov 2023*
+* [Setting a Spring Bean to Null](https://feeds.feedblitz.com/~/840957110/0/baeldung~Setting-a-Spring-Bean-to-Null)
+  * *Published on 23 Nov 2023*
+* [Context-Specific Deserialization Filters in Java 17](https://feeds.feedblitz.com/~/840957113/0/baeldung~ContextSpecific-Deserialization-Filters-in-Java)
+  * *Published on 23 Nov 2023*
+* [Asserting Nested Map With JUnit](https://feeds.feedblitz.com/~/840956522/0/baeldung~Asserting-Nested-Map-With-JUnit)
+  * *Published on 23 Nov 2023*
+* [Difference Between String isEmpty() and isBlank()](https://feeds.feedblitz.com/~/840956525/0/baeldung~Difference-Between-String-isEmpty-and-isBlank)
+  * *Published on 23 Nov 2023*
