@@ -239,6 +239,8 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [Java Weekly, Issue 517](https://feeds.feedblitz.com/~/841247687/0/baeldung~Java-Weekly-Issue)
+  * *Published on 24 Nov 2023*
 * [Checking if an Object’s Type Is Enum](https://feeds.feedblitz.com/~/840957842/0/baeldung~Checking-if-an-Objects-Type-Is-Enum)
   * *Published on 23 Nov 2023*
 * [Setting a Spring Bean to Null](https://feeds.feedblitz.com/~/840957110/0/baeldung~Setting-a-Spring-Bean-to-Null)
@@ -246,6 +248,4 @@ No recent activity
 * [Context-Specific Deserialization Filters in Java 17](https://feeds.feedblitz.com/~/840957113/0/baeldung~ContextSpecific-Deserialization-Filters-in-Java)
   * *Published on 23 Nov 2023*
 * [Asserting Nested Map With JUnit](https://feeds.feedblitz.com/~/840956522/0/baeldung~Asserting-Nested-Map-With-JUnit)
-  * *Published on 23 Nov 2023*
-* [Difference Between String isEmpty() and isBlank()](https://feeds.feedblitz.com/~/840956525/0/baeldung~Difference-Between-String-isEmpty-and-isBlank)
   * *Published on 23 Nov 2023*
