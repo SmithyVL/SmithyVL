@@ -239,6 +239,8 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [Setup Asynchronous Retry Mechanism in Spring](https://feeds.feedblitz.com/~/842283209/0/baeldung~Setup-Asynchronous-Retry-Mechanism-in-Spring)
+  * *Published on 27 Nov 2023*
 * [Limiting the Max Size of a HashMap in Java](https://feeds.feedblitz.com/~/842148485/0/baeldung~Limiting-the-Max-Size-of-a-HashMap-in-Java)
   * *Published on 27 Nov 2023*
 * [Check Certificate Name and Alias in Keystore File](https://feeds.feedblitz.com/~/842148488/0/baeldung~Check-Certificate-Name-and-Alias-in-Keystore-File)
@@ -247,5 +249,3 @@ No recent activity
   * *Published on 27 Nov 2023*
 * [Gradle Proxy Configuration](https://feeds.feedblitz.com/~/842145086/0/baeldung~Gradle-Proxy-Configuration)
   * *Published on 27 Nov 2023*
-* [Java Weekly, Issue 517](https://feeds.feedblitz.com/~/841247687/0/baeldung~Java-Weekly-Issue)
-  * *Published on 24 Nov 2023*
