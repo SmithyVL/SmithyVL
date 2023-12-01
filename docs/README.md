@@ -239,13 +239,13 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
-* [Setup Asynchronous Retry Mechanism in Spring](https://feeds.feedblitz.com/~/842283209/0/baeldung~Setup-Asynchronous-Retry-Mechanism-in-Spring)
-  * *Published on 27 Nov 2023*
-* [Limiting the Max Size of a HashMap in Java](https://feeds.feedblitz.com/~/842148485/0/baeldung~Limiting-the-Max-Size-of-a-HashMap-in-Java)
-  * *Published on 27 Nov 2023*
-* [Check Certificate Name and Alias in Keystore File](https://feeds.feedblitz.com/~/842148488/0/baeldung~Check-Certificate-Name-and-Alias-in-Keystore-File)
-  * *Published on 27 Nov 2023*
-* [Return First Non-null Value in Java](https://feeds.feedblitz.com/~/842145083/0/baeldung~Return-First-Nonnull-Value-in-Java)
-  * *Published on 27 Nov 2023*
-* [Gradle Proxy Configuration](https://feeds.feedblitz.com/~/842145086/0/baeldung~Gradle-Proxy-Configuration)
-  * *Published on 27 Nov 2023*
+* [How to Use a Custom Font in Java](https://feeds.feedblitz.com/~/843311054/0/baeldung~How-to-Use-a-Custom-Font-in-Java)
+  * *Published on 1 Dec 2023*
+* [How to Increment a Map Value in Java](https://feeds.feedblitz.com/~/843311057/0/baeldung~How-to-Increment-a-Map-Value-in-Java)
+  * *Published on 1 Dec 2023*
+* [Convert Long Timestamp to LocalDateTime in Java](https://feeds.feedblitz.com/~/843311060/0/baeldung~Convert-Long-Timestamp-to-LocalDateTime-in-Java)
+  * *Published on 1 Dec 2023*
+* [How to Sort LinkedHashMap By Values in Java](https://feeds.feedblitz.com/~/843110630/0/baeldung~How-to-Sort-LinkedHashMap-By-Values-in-Java)
+  * *Published on 30 Nov 2023*
+* [Passing JVM Options from Gradle bootRun](https://feeds.feedblitz.com/~/843110633/0/baeldung~Passing-JVM-Options-from-Gradle-bootRun)
+  * *Published on 30 Nov 2023*
