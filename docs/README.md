@@ -239,6 +239,8 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [Java Weekly, Issue 518](https://feeds.feedblitz.com/~/843361190/0/baeldung~Java-Weekly-Issue)
+  * *Published on 1 Dec 2023*
 * [How to Use a Custom Font in Java](https://feeds.feedblitz.com/~/843311054/0/baeldung~How-to-Use-a-Custom-Font-in-Java)
   * *Published on 1 Dec 2023*
 * [How to Increment a Map Value in Java](https://feeds.feedblitz.com/~/843311057/0/baeldung~How-to-Increment-a-Map-Value-in-Java)
@@ -246,6 +248,4 @@ No recent activity
 * [Convert Long Timestamp to LocalDateTime in Java](https://feeds.feedblitz.com/~/843311060/0/baeldung~Convert-Long-Timestamp-to-LocalDateTime-in-Java)
   * *Published on 1 Dec 2023*
 * [How to Sort LinkedHashMap By Values in Java](https://feeds.feedblitz.com/~/843110630/0/baeldung~How-to-Sort-LinkedHashMap-By-Values-in-Java)
-  * *Published on 30 Nov 2023*
-* [Passing JVM Options from Gradle bootRun](https://feeds.feedblitz.com/~/843110633/0/baeldung~Passing-JVM-Options-from-Gradle-bootRun)
   * *Published on 30 Nov 2023*
