@@ -239,13 +239,13 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [How to Convert Byte Array to Char Array](https://feeds.feedblitz.com/~/843701498/0/baeldung~How-to-Convert-Byte-Array-to-Char-Array)
+  * *Published on 3 Dec 2023*
+* [Convert Positive Integer to Negative and Vice Versa in Java](https://feeds.feedblitz.com/~/843701501/0/baeldung~Convert-Positive-Integer-to-Negative-and-Vice-Versa-in-Java)
+  * *Published on 3 Dec 2023*
 * [Java Weekly, Issue 518](https://feeds.feedblitz.com/~/843361190/0/baeldung~Java-Weekly-Issue)
   * *Published on 1 Dec 2023*
 * [How to Use a Custom Font in Java](https://feeds.feedblitz.com/~/843311054/0/baeldung~How-to-Use-a-Custom-Font-in-Java)
   * *Published on 1 Dec 2023*
 * [How to Increment a Map Value in Java](https://feeds.feedblitz.com/~/843311057/0/baeldung~How-to-Increment-a-Map-Value-in-Java)
   * *Published on 1 Dec 2023*
-* [Convert Long Timestamp to LocalDateTime in Java](https://feeds.feedblitz.com/~/843311060/0/baeldung~Convert-Long-Timestamp-to-LocalDateTime-in-Java)
-  * *Published on 1 Dec 2023*
-* [How to Sort LinkedHashMap By Values in Java](https://feeds.feedblitz.com/~/843110630/0/baeldung~How-to-Sort-LinkedHashMap-By-Values-in-Java)
-  * *Published on 30 Nov 2023*
