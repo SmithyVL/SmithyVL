@@ -239,13 +239,13 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
-* [How to Convert Byte Array to Char Array](https://feeds.feedblitz.com/~/843701498/0/baeldung~How-to-Convert-Byte-Array-to-Char-Array)
-  * *Published on 3 Dec 2023*
-* [Convert Positive Integer to Negative and Vice Versa in Java](https://feeds.feedblitz.com/~/843701501/0/baeldung~Convert-Positive-Integer-to-Negative-and-Vice-Versa-in-Java)
-  * *Published on 3 Dec 2023*
-* [Java Weekly, Issue 518](https://feeds.feedblitz.com/~/843361190/0/baeldung~Java-Weekly-Issue)
-  * *Published on 1 Dec 2023*
-* [How to Use a Custom Font in Java](https://feeds.feedblitz.com/~/843311054/0/baeldung~How-to-Use-a-Custom-Font-in-Java)
-  * *Published on 1 Dec 2023*
-* [How to Increment a Map Value in Java](https://feeds.feedblitz.com/~/843311057/0/baeldung~How-to-Increment-a-Map-Value-in-Java)
-  * *Published on 1 Dec 2023*
+* [Retrieving Unix Time in Java](https://feeds.feedblitz.com/~/844018100/0/baeldung~Retrieving-Unix-Time-in-Java)
+  * *Published on 5 Dec 2023*
+* [Working With HarperDB and Java](https://feeds.feedblitz.com/~/844012772/0/baeldung~Working-With-HarperDB-and-Java)
+  * *Published on 5 Dec 2023*
+* [Convert an XML File to CSV File](https://feeds.feedblitz.com/~/844006847/0/baeldung~Convert-an-XML-File-to-CSV-File)
+  * *Published on 5 Dec 2023*
+* [Catch Common Mistakes with Error Prone Library in Java](https://feeds.feedblitz.com/~/843824603/0/baeldung~Catch-Common-Mistakes-with-Error-Prone-Library-in-Java)
+  * *Published on 4 Dec 2023*
+* [Resolving Gson’s “Multiple JSON Fields” Exception](https://feeds.feedblitz.com/~/843822779/0/baeldung~Resolving-Gsons-Multiple-JSON-Fields-Exception)
+  * *Published on 4 Dec 2023*
