@@ -239,13 +239,13 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [HttpSecurity vs. WebSecurity in Spring Security](https://feeds.feedblitz.com/~/803263682/0/baeldung~HttpSecurity-vs-WebSecurity-in-Spring-Security)
+  * *Published on 5 Dec 2023*
+* [Rounding Up a Number to Nearest Multiple of 5 in Java](https://feeds.feedblitz.com/~/844253942/0/baeldung~Rounding-Up-a-Number-to-Nearest-Multiple-of-in-Java)
+  * *Published on 5 Dec 2023*
+* [All The Ways Java Uses the Colon Character](https://feeds.feedblitz.com/~/844253945/0/baeldung~All-The-Ways-Java-Uses-the-Colon-Character)
+  * *Published on 5 Dec 2023*
+* [How to Convert JsonNode to ObjectNode](https://feeds.feedblitz.com/~/844245572/0/baeldung~How-to-Convert-JsonNode-to-ObjectNode)
+  * *Published on 5 Dec 2023*
 * [Retrieving Unix Time in Java](https://feeds.feedblitz.com/~/844018100/0/baeldung~Retrieving-Unix-Time-in-Java)
   * *Published on 5 Dec 2023*
-* [Working With HarperDB and Java](https://feeds.feedblitz.com/~/844012772/0/baeldung~Working-With-HarperDB-and-Java)
-  * *Published on 5 Dec 2023*
-* [Convert an XML File to CSV File](https://feeds.feedblitz.com/~/844006847/0/baeldung~Convert-an-XML-File-to-CSV-File)
-  * *Published on 5 Dec 2023*
-* [Catch Common Mistakes with Error Prone Library in Java](https://feeds.feedblitz.com/~/843824603/0/baeldung~Catch-Common-Mistakes-with-Error-Prone-Library-in-Java)
-  * *Published on 4 Dec 2023*
-* [Resolving Gson’s “Multiple JSON Fields” Exception](https://feeds.feedblitz.com/~/843822779/0/baeldung~Resolving-Gsons-Multiple-JSON-Fields-Exception)
-  * *Published on 4 Dec 2023*
