@@ -243,7 +243,7 @@ No recent activity
   * *Published on 5 Dec 2023*
 * [Rounding Up a Number to Nearest Multiple of 5 in Java](https://feeds.feedblitz.com/~/844253942/0/baeldung~Rounding-Up-a-Number-to-Nearest-Multiple-of-in-Java)
   * *Published on 5 Dec 2023*
-* [All The Ways Java Uses the Colon Character](https://feeds.feedblitz.com/~/844253945/0/baeldung~All-The-Ways-Java-Uses-the-Colon-Character)
+* [All the Ways Java Uses the Colon Character](https://feeds.feedblitz.com/~/844253945/0/baeldung~All-the-Ways-Java-Uses-the-Colon-Character)
   * *Published on 5 Dec 2023*
 * [How to Convert JsonNode to ObjectNode](https://feeds.feedblitz.com/~/844245572/0/baeldung~How-to-Convert-JsonNode-to-ObjectNode)
   * *Published on 5 Dec 2023*
