@@ -239,6 +239,8 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [Java Weekly, Issue 519](https://feeds.feedblitz.com/~/847278461/0/baeldung~Java-Weekly-Issue)
+  * *Published on 8 Dec 2023*
 * [HttpSecurity vs. WebSecurity in Spring Security](https://feeds.feedblitz.com/~/803263682/0/baeldung~HttpSecurity-vs-WebSecurity-in-Spring-Security)
   * *Published on 5 Dec 2023*
 * [Rounding Up a Number to Nearest Multiple of 5 in Java](https://feeds.feedblitz.com/~/844253942/0/baeldung~Rounding-Up-a-Number-to-Nearest-Multiple-of-in-Java)
@@ -246,6 +248,4 @@ No recent activity
 * [All the Ways Java Uses the Colon Character](https://feeds.feedblitz.com/~/844253945/0/baeldung~All-the-Ways-Java-Uses-the-Colon-Character)
   * *Published on 5 Dec 2023*
 * [How to Convert JsonNode to ObjectNode](https://feeds.feedblitz.com/~/844245572/0/baeldung~How-to-Convert-JsonNode-to-ObjectNode)
-  * *Published on 5 Dec 2023*
-* [Retrieving Unix Time in Java](https://feeds.feedblitz.com/~/844018100/0/baeldung~Retrieving-Unix-Time-in-Java)
   * *Published on 5 Dec 2023*
