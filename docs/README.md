@@ -239,13 +239,13 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [Get Index of First Element Matching Boolean Using Java Streams](https://feeds.feedblitz.com/~/849563582/0/baeldung~Get-Index-of-First-Element-Matching-Boolean-Using-Java-Streams)
+  * *Published on 10 Dec 2023*
+* [How to Effectively Unit Test CompletableFuture](https://feeds.feedblitz.com/~/849563585/0/baeldung~How-to-Effectively-Unit-Test-CompletableFuture)
+  * *Published on 10 Dec 2023*
+* [Connect to Database Through Intellij Data Sources and Drivers](https://feeds.feedblitz.com/~/849560444/0/baeldung~Connect-to-Database-Through-Intellij-Data-Sources-and-Drivers)
+  * *Published on 10 Dec 2023*
+* [Inter-Process Communication Methods in Java](https://feeds.feedblitz.com/~/849560447/0/baeldung~InterProcess-Communication-Methods-in-Java)
+  * *Published on 10 Dec 2023*
 * [Java Weekly, Issue 519](https://feeds.feedblitz.com/~/847278461/0/baeldung~Java-Weekly-Issue)
   * *Published on 8 Dec 2023*
-* [HttpSecurity vs. WebSecurity in Spring Security](https://feeds.feedblitz.com/~/803263682/0/baeldung~HttpSecurity-vs-WebSecurity-in-Spring-Security)
-  * *Published on 5 Dec 2023*
-* [Rounding Up a Number to Nearest Multiple of 5 in Java](https://feeds.feedblitz.com/~/844253942/0/baeldung~Rounding-Up-a-Number-to-Nearest-Multiple-of-in-Java)
-  * *Published on 5 Dec 2023*
-* [All the Ways Java Uses the Colon Character](https://feeds.feedblitz.com/~/844253945/0/baeldung~All-the-Ways-Java-Uses-the-Colon-Character)
-  * *Published on 5 Dec 2023*
-* [How to Convert JsonNode to ObjectNode](https://feeds.feedblitz.com/~/844245572/0/baeldung~How-to-Convert-JsonNode-to-ObjectNode)
-  * *Published on 5 Dec 2023*
