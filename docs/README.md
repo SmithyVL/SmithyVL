@@ -239,13 +239,13 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
-* [Get Index of First Element Matching Boolean Using Java Streams](https://feeds.feedblitz.com/~/849563582/0/baeldung~Get-Index-of-First-Element-Matching-Boolean-Using-Java-Streams)
-  * *Published on 10 Dec 2023*
-* [How to Effectively Unit Test CompletableFuture](https://feeds.feedblitz.com/~/849563585/0/baeldung~How-to-Effectively-Unit-Test-CompletableFuture)
-  * *Published on 10 Dec 2023*
-* [Connect to Database Through Intellij Data Sources and Drivers](https://feeds.feedblitz.com/~/849560444/0/baeldung~Connect-to-Database-Through-Intellij-Data-Sources-and-Drivers)
-  * *Published on 10 Dec 2023*
-* [Inter-Process Communication Methods in Java](https://feeds.feedblitz.com/~/849560447/0/baeldung~InterProcess-Communication-Methods-in-Java)
-  * *Published on 10 Dec 2023*
-* [Java Weekly, Issue 519](https://feeds.feedblitz.com/~/847278461/0/baeldung~Java-Weekly-Issue)
-  * *Published on 8 Dec 2023*
+* [Skip Bytes in InputStream in Java](https://feeds.feedblitz.com/~/850509329/0/baeldung~Skip-Bytes-in-InputStream-in-Java)
+  * *Published on 12 Dec 2023*
+* [Handling NullPointerException in findFirst() When the First Element Is Null](https://feeds.feedblitz.com/~/850509332/0/baeldung~Handling-NullPointerException-in-findFirst-When-the-First-Element-Is-Null)
+  * *Published on 12 Dec 2023*
+* [Differences Between Entities and DTOs](https://feeds.feedblitz.com/~/850506539/0/baeldung~Differences-Between-Entities-and-DTOs)
+  * *Published on 12 Dec 2023*
+* [Static Final Variables in Java](https://feeds.feedblitz.com/~/850506542/0/baeldung~Static-Final-Variables-in-Java)
+  * *Published on 12 Dec 2023*
+* [String vs StringBuffer Comparison in Java](https://feeds.feedblitz.com/~/850503293/0/baeldung~String-vs-StringBuffer-Comparison-in-Java)
+  * *Published on 12 Dec 2023*
