@@ -239,6 +239,8 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [Java Weekly, Issue 520](https://feeds.feedblitz.com/~/851553872/0/baeldung~Java-Weekly-Issue)
+  * *Published on 15 Dec 2023*
 * [Skip Bytes in InputStream in Java](https://feeds.feedblitz.com/~/850509329/0/baeldung~Skip-Bytes-in-InputStream-in-Java)
   * *Published on 12 Dec 2023*
 * [Handling NullPointerException in findFirst() When the First Element Is Null](https://feeds.feedblitz.com/~/850509332/0/baeldung~Handling-NullPointerException-in-findFirst-When-the-First-Element-Is-Null)
@@ -246,6 +248,4 @@ No recent activity
 * [Differences Between Entities and DTOs](https://feeds.feedblitz.com/~/850506539/0/baeldung~Differences-Between-Entities-and-DTOs)
   * *Published on 12 Dec 2023*
 * [Static Final Variables in Java](https://feeds.feedblitz.com/~/850506542/0/baeldung~Static-Final-Variables-in-Java)
-  * *Published on 12 Dec 2023*
-* [String vs StringBuffer Comparison in Java](https://feeds.feedblitz.com/~/850503293/0/baeldung~String-vs-StringBuffer-Comparison-in-Java)
   * *Published on 12 Dec 2023*
