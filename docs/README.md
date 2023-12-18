@@ -239,13 +239,13 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [Creating a Kafka Listener Using the Consumer API](https://feeds.feedblitz.com/~/852032144/0/baeldung~Creating-a-Kafka-Listener-Using-the-Consumer-API)
+  * *Published on 18 Dec 2023*
+* [Callbacks in ListenableFuture and CompletableFuture](https://feeds.feedblitz.com/~/851991521/0/baeldung~Callbacks-in-ListenableFuture-and-CompletableFuture)
+  * *Published on 17 Dec 2023*
+* [Convert an OutputStream to a Byte Array in Java](https://feeds.feedblitz.com/~/851989400/0/baeldung~Convert-an-OutputStream-to-a-Byte-Array-in-Java)
+  * *Published on 17 Dec 2023*
+* [BigDecimal.ZERO vs. new BigDecimal(0)](https://feeds.feedblitz.com/~/851884121/0/baeldung~BigDecimalZERO-vs-new-BigDecimal)
+  * *Published on 17 Dec 2023*
 * [Recursively Sum the Integers in an Array](https://feeds.feedblitz.com/~/851882975/0/baeldung~Recursively-Sum-the-Integers-in-an-Array)
   * *Published on 17 Dec 2023*
-* [A Guide to Timefold Solver for Employee Scheduling](https://feeds.feedblitz.com/~/851879960/0/baeldung~A-Guide-to-Timefold-Solver-for-Employee-Scheduling)
-  * *Published on 17 Dec 2023*
-* [Java Weekly, Issue 520](https://feeds.feedblitz.com/~/851553872/0/baeldung~Java-Weekly-Issue)
-  * *Published on 15 Dec 2023*
-* [Skip Bytes in InputStream in Java](https://feeds.feedblitz.com/~/850509329/0/baeldung~Skip-Bytes-in-InputStream-in-Java)
-  * *Published on 12 Dec 2023*
-* [Handling NullPointerException in findFirst() When the First Element Is Null](https://feeds.feedblitz.com/~/850509332/0/baeldung~Handling-NullPointerException-in-findFirst-When-the-First-Element-Is-Null)
-  * *Published on 12 Dec 2023*
