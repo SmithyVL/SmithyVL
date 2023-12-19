@@ -239,6 +239,8 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [Detect the Last Iteration in for Loops in Java](https://feeds.feedblitz.com/~/852034751/0/baeldung~Detect-the-Last-Iteration-in-for-Loops-in-Java)
+  * *Published on 18 Dec 2023*
 * [Creating a Kafka Listener Using the Consumer API](https://feeds.feedblitz.com/~/852032144/0/baeldung~Creating-a-Kafka-Listener-Using-the-Consumer-API)
   * *Published on 18 Dec 2023*
 * [Callbacks in ListenableFuture and CompletableFuture](https://feeds.feedblitz.com/~/851991521/0/baeldung~Callbacks-in-ListenableFuture-and-CompletableFuture)
@@ -246,6 +248,4 @@ No recent activity
 * [Convert an OutputStream to a Byte Array in Java](https://feeds.feedblitz.com/~/851989400/0/baeldung~Convert-an-OutputStream-to-a-Byte-Array-in-Java)
   * *Published on 17 Dec 2023*
 * [BigDecimal.ZERO vs. new BigDecimal(0)](https://feeds.feedblitz.com/~/851884121/0/baeldung~BigDecimalZERO-vs-new-BigDecimal)
-  * *Published on 17 Dec 2023*
-* [Recursively Sum the Integers in an Array](https://feeds.feedblitz.com/~/851882975/0/baeldung~Recursively-Sum-the-Integers-in-an-Array)
   * *Published on 17 Dec 2023*
