@@ -239,13 +239,13 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
-* [Detect the Last Iteration in for Loops in Java](https://feeds.feedblitz.com/~/852034751/0/baeldung~Detect-the-Last-Iteration-in-for-Loops-in-Java)
-  * *Published on 18 Dec 2023*
-* [Creating a Kafka Listener Using the Consumer API](https://feeds.feedblitz.com/~/852032144/0/baeldung~Creating-a-Kafka-Listener-Using-the-Consumer-API)
-  * *Published on 18 Dec 2023*
-* [Callbacks in ListenableFuture and CompletableFuture](https://feeds.feedblitz.com/~/851991521/0/baeldung~Callbacks-in-ListenableFuture-and-CompletableFuture)
-  * *Published on 17 Dec 2023*
-* [Convert an OutputStream to a Byte Array in Java](https://feeds.feedblitz.com/~/851989400/0/baeldung~Convert-an-OutputStream-to-a-Byte-Array-in-Java)
-  * *Published on 17 Dec 2023*
-* [BigDecimal.ZERO vs. new BigDecimal(0)](https://feeds.feedblitz.com/~/851884121/0/baeldung~BigDecimalZERO-vs-new-BigDecimal)
-  * *Published on 17 Dec 2023*
+* [Find Files by Extension in Specified Directory in Java](https://feeds.feedblitz.com/~/852281600/0/baeldung~Find-Files-by-Extension-in-Specified-Directory-in-Java)
+  * *Published on 20 Dec 2023*
+* [Convert Excel Files to PDF Using Java](https://feeds.feedblitz.com/~/852281603/0/baeldung~Convert-Excel-Files-to-PDF-Using-Java)
+  * *Published on 20 Dec 2023*
+* [What Does It Mean to Hydrate an Object?](https://feeds.feedblitz.com/~/852281606/0/baeldung~What-Does-It-Mean-to-Hydrate-an-Object)
+  * *Published on 20 Dec 2023*
+* [Reactor WebFlux vs Virtual Threads](https://feeds.feedblitz.com/~/852279863/0/baeldung~Reactor-WebFlux-vs-Virtual-Threads)
+  * *Published on 20 Dec 2023*
+* [Lazy Field Initialization with Lambdas](https://feeds.feedblitz.com/~/852279866/0/baeldung~Lazy-Field-Initialization-with-Lambdas)
+  * *Published on 20 Dec 2023*
