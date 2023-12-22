@@ -239,13 +239,13 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [Java Weekly, Issue 521](https://feeds.feedblitz.com/~/852420842/0/baeldung~Java-Weekly-Issue)
+  * *Published on 21 Dec 2023*
+* [How to Get Last Record in Spring Data JPA](https://feeds.feedblitz.com/~/852395393/0/baeldung~How-to-Get-Last-Record-in-Spring-Data-JPA)
+  * *Published on 21 Dec 2023*
 * [Find Files by Extension in Specified Directory in Java](https://feeds.feedblitz.com/~/852281600/0/baeldung~Find-Files-by-Extension-in-Specified-Directory-in-Java)
   * *Published on 20 Dec 2023*
 * [Convert Excel Files to PDF Using Java](https://feeds.feedblitz.com/~/852281603/0/baeldung~Convert-Excel-Files-to-PDF-Using-Java)
   * *Published on 20 Dec 2023*
 * [What Does It Mean to Hydrate an Object?](https://feeds.feedblitz.com/~/852281606/0/baeldung~What-Does-It-Mean-to-Hydrate-an-Object)
-  * *Published on 20 Dec 2023*
-* [Reactor WebFlux vs Virtual Threads](https://feeds.feedblitz.com/~/852279863/0/baeldung~Reactor-WebFlux-vs-Virtual-Threads)
-  * *Published on 20 Dec 2023*
-* [Lazy Field Initialization with Lambdas](https://feeds.feedblitz.com/~/852279866/0/baeldung~Lazy-Field-Initialization-with-Lambdas)
   * *Published on 20 Dec 2023*
