@@ -239,13 +239,13 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [Read a File and Split it Into Multiple Files in Java](https://feeds.feedblitz.com/~/853408601/0/baeldung~Read-a-File-and-Split-it-Into-Multiple-Files-in-Java)
+  * *Published on 25 Dec 2023*
+* [Comparing One String With Multiple Values in One Expression in Java](https://feeds.feedblitz.com/~/853403666/0/baeldung~Comparing-One-String-With-Multiple-Values-in-One-Expression-in-Java)
+  * *Published on 25 Dec 2023*
+* [Format LocalDate to ISO 8601 With T and Z](https://feeds.feedblitz.com/~/853403669/0/baeldung~Format-LocalDate-to-ISO-With-T-and-Z)
+  * *Published on 25 Dec 2023*
 * [Java Weekly, Issue 521](https://feeds.feedblitz.com/~/852420842/0/baeldung~Java-Weekly-Issue)
   * *Published on 21 Dec 2023*
 * [How to Get Last Record in Spring Data JPA](https://feeds.feedblitz.com/~/852395393/0/baeldung~How-to-Get-Last-Record-in-Spring-Data-JPA)
   * *Published on 21 Dec 2023*
-* [Find Files by Extension in Specified Directory in Java](https://feeds.feedblitz.com/~/852281600/0/baeldung~Find-Files-by-Extension-in-Specified-Directory-in-Java)
-  * *Published on 20 Dec 2023*
-* [Convert Excel Files to PDF Using Java](https://feeds.feedblitz.com/~/852281603/0/baeldung~Convert-Excel-Files-to-PDF-Using-Java)
-  * *Published on 20 Dec 2023*
-* [What Does It Mean to Hydrate an Object?](https://feeds.feedblitz.com/~/852281606/0/baeldung~What-Does-It-Mean-to-Hydrate-an-Object)
-  * *Published on 20 Dec 2023*
