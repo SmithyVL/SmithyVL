@@ -239,7 +239,7 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
-* [Read a File and Split it Into Multiple Files in Java](https://feeds.feedblitz.com/~/853408601/0/baeldung~Read-a-File-and-Split-it-Into-Multiple-Files-in-Java)
+* [Read a File and Split It Into Multiple Files in Java](https://feeds.feedblitz.com/~/853408601/0/baeldung~Read-a-File-and-Split-It-Into-Multiple-Files-in-Java)
   * *Published on 25 Dec 2023*
 * [Comparing One String With Multiple Values in One Expression in Java](https://feeds.feedblitz.com/~/853403666/0/baeldung~Comparing-One-String-With-Multiple-Values-in-One-Expression-in-Java)
   * *Published on 25 Dec 2023*
