@@ -239,13 +239,13 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
-* [Read a File and Split It Into Multiple Files in Java](https://feeds.feedblitz.com/~/853408601/0/baeldung~Read-a-File-and-Split-It-Into-Multiple-Files-in-Java)
-  * *Published on 25 Dec 2023*
-* [Comparing One String With Multiple Values in One Expression in Java](https://feeds.feedblitz.com/~/853403666/0/baeldung~Comparing-One-String-With-Multiple-Values-in-One-Expression-in-Java)
-  * *Published on 25 Dec 2023*
-* [Format LocalDate to ISO 8601 With T and Z](https://feeds.feedblitz.com/~/853403669/0/baeldung~Format-LocalDate-to-ISO-With-T-and-Z)
-  * *Published on 25 Dec 2023*
-* [Java Weekly, Issue 521](https://feeds.feedblitz.com/~/852420842/0/baeldung~Java-Weekly-Issue)
-  * *Published on 21 Dec 2023*
-* [How to Get Last Record in Spring Data JPA](https://feeds.feedblitz.com/~/852395393/0/baeldung~How-to-Get-Last-Record-in-Spring-Data-JPA)
-  * *Published on 21 Dec 2023*
+* [@Query Definitions With SpEL Support in Spring Data JPA](https://feeds.feedblitz.com/~/855826241/0/baeldung~Query-Definitions-With-SpEL-Support-in-Spring-Data-JPA)
+  * *Published on 28 Dec 2023*
+* [Check If a Java StringBuilder Object Contains a Character](https://feeds.feedblitz.com/~/855826244/0/baeldung~Check-If-a-Java-StringBuilder-Object-Contains-a-Character)
+  * *Published on 28 Dec 2023*
+* [Sorting One List Based on Another List in Java](https://feeds.feedblitz.com/~/855826247/0/baeldung~Sorting-One-List-Based-on-Another-List-in-Java)
+  * *Published on 28 Dec 2023*
+* [Get Client Information From HTTP Request in Java](https://feeds.feedblitz.com/~/855788321/0/baeldung~Get-Client-Information-From-HTTP-Request-in-Java)
+  * *Published on 28 Dec 2023*
+* [Rotating a Java String By n Characters](https://feeds.feedblitz.com/~/855788324/0/baeldung~Rotating-a-Java-String-By-n-Characters)
+  * *Published on 28 Dec 2023*
