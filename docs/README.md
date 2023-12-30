@@ -239,6 +239,8 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [Java Weekly, Issue 522](https://feeds.feedblitz.com/~/856132067/0/baeldung~Java-Weekly-Issue)
+  * *Published on 29 Dec 2023*
 * [@Query Definitions With SpEL Support in Spring Data JPA](https://feeds.feedblitz.com/~/855826241/0/baeldung~Query-Definitions-With-SpEL-Support-in-Spring-Data-JPA)
   * *Published on 28 Dec 2023*
 * [Check If a Java StringBuilder Object Contains a Character](https://feeds.feedblitz.com/~/855826244/0/baeldung~Check-If-a-Java-StringBuilder-Object-Contains-a-Character)
@@ -246,6 +248,4 @@ No recent activity
 * [Sorting One List Based on Another List in Java](https://feeds.feedblitz.com/~/855826247/0/baeldung~Sorting-One-List-Based-on-Another-List-in-Java)
   * *Published on 28 Dec 2023*
 * [Get Client Information From HTTP Request in Java](https://feeds.feedblitz.com/~/855788321/0/baeldung~Get-Client-Information-From-HTTP-Request-in-Java)
-  * *Published on 28 Dec 2023*
-* [Rotating a Java String By n Characters](https://feeds.feedblitz.com/~/855788324/0/baeldung~Rotating-a-Java-String-By-n-Characters)
   * *Published on 28 Dec 2023*
