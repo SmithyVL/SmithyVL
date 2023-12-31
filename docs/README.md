@@ -239,13 +239,13 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [Dead Letter Queue for Kafka With Spring](https://feeds.feedblitz.com/~/856291460/0/baeldung~Dead-Letter-Queue-for-Kafka-With-Spring)
+  * *Published on 30 Dec 2023*
+* [Java System.currentTimeMillis() Vs. System.nanoTime()](https://feeds.feedblitz.com/~/856288847/0/baeldung~Java-SystemcurrentTimeMillis-Vs-SystemnanoTime)
+  * *Published on 30 Dec 2023*
+* [Determine the Class of a Generic Type in Java](https://feeds.feedblitz.com/~/856288850/0/baeldung~Determine-the-Class-of-a-Generic-Type-in-Java)
+  * *Published on 30 Dec 2023*
 * [Java Weekly, Issue 522](https://feeds.feedblitz.com/~/856132067/0/baeldung~Java-Weekly-Issue)
   * *Published on 29 Dec 2023*
 * [@Query Definitions With SpEL Support in Spring Data JPA](https://feeds.feedblitz.com/~/855826241/0/baeldung~Query-Definitions-With-SpEL-Support-in-Spring-Data-JPA)
-  * *Published on 28 Dec 2023*
-* [Check If a Java StringBuilder Object Contains a Character](https://feeds.feedblitz.com/~/855826244/0/baeldung~Check-If-a-Java-StringBuilder-Object-Contains-a-Character)
-  * *Published on 28 Dec 2023*
-* [Sorting One List Based on Another List in Java](https://feeds.feedblitz.com/~/855826247/0/baeldung~Sorting-One-List-Based-on-Another-List-in-Java)
-  * *Published on 28 Dec 2023*
-* [Get Client Information From HTTP Request in Java](https://feeds.feedblitz.com/~/855788321/0/baeldung~Get-Client-Information-From-HTTP-Request-in-Java)
   * *Published on 28 Dec 2023*
