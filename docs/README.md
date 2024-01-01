@@ -239,13 +239,13 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [Return Map instead of List in Spring Data JPA](https://feeds.feedblitz.com/~/856563095/0/baeldung~Return-Map-instead-of-List-in-Spring-Data-JPA)
+  * *Published on 31 Dec 2023*
+* [Using XML in @RequestBody in Spring REST](https://feeds.feedblitz.com/~/856563098/0/baeldung~Using-XML-in-RequestBody-in-Spring-REST)
+  * *Published on 31 Dec 2023*
 * [Dead Letter Queue for Kafka With Spring](https://feeds.feedblitz.com/~/856291460/0/baeldung~Dead-Letter-Queue-for-Kafka-With-Spring)
   * *Published on 30 Dec 2023*
 * [Java System.currentTimeMillis() Vs. System.nanoTime()](https://feeds.feedblitz.com/~/856288847/0/baeldung~Java-SystemcurrentTimeMillis-Vs-SystemnanoTime)
   * *Published on 30 Dec 2023*
 * [Determine the Class of a Generic Type in Java](https://feeds.feedblitz.com/~/856288850/0/baeldung~Determine-the-Class-of-a-Generic-Type-in-Java)
   * *Published on 30 Dec 2023*
-* [Java Weekly, Issue 522](https://feeds.feedblitz.com/~/856132067/0/baeldung~Java-Weekly-Issue)
-  * *Published on 29 Dec 2023*
-* [@Query Definitions With SpEL Support in Spring Data JPA](https://feeds.feedblitz.com/~/855826241/0/baeldung~Query-Definitions-With-SpEL-Support-in-Spring-Data-JPA)
-  * *Published on 28 Dec 2023*
