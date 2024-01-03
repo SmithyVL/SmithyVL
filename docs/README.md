@@ -247,5 +247,5 @@ No recent activity
   * *Published on 1 Jan 2024*
 * [Compress and Uncompress Byte Array Using Deflater/Inflater](https://feeds.feedblitz.com/~/856612796/0/baeldung~Compress-and-Uncompress-Byte-Array-Using-DeflaterInflater)
   * *Published on 1 Jan 2024*
-* [Return Map instead of List in Spring Data JPA](https://feeds.feedblitz.com/~/856563095/0/baeldung~Return-Map-instead-of-List-in-Spring-Data-JPA)
+* [Return Map Instead of List in Spring Data JPA](https://feeds.feedblitz.com/~/856563095/0/baeldung~Return-Map-Instead-of-List-in-Spring-Data-JPA)
   * *Published on 31 Dec 2023*
