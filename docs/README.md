@@ -239,13 +239,13 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [Java’s String.length() and String.getBytes().length](https://feeds.feedblitz.com/~/857711558/0/baeldung~Javas-Stringlength-and-StringgetByteslength)
+  * *Published on 3 Jan 2024*
+* [Convert String to long or Long in Java](https://feeds.feedblitz.com/~/857699561/0/baeldung~Convert-String-to-long-or-Long-in-Java)
+  * *Published on 3 Jan 2024*
+* [Fixing Hibernate QueryException: Named Parameter Not Bound](https://feeds.feedblitz.com/~/857681828/0/baeldung~Fixing-Hibernate-QueryException-Named-Parameter-Not-Bound)
+  * *Published on 3 Jan 2024*
 * [Bind Case Insensitive @Value to Enum in Spring Boot](https://feeds.feedblitz.com/~/856613354/0/baeldung~Bind-Case-Insensitive-Value-to-Enum-in-Spring-Boot)
   * *Published on 1 Jan 2024*
 * [When to Use the getReferenceById() and findById() Methods in Spring Data JPA](https://feeds.feedblitz.com/~/856613357/0/baeldung~When-to-Use-the-getReferenceById-and-findById-Methods-in-Spring-Data-JPA)
   * *Published on 1 Jan 2024*
-* [Difference Between 1L and (long) 1](https://feeds.feedblitz.com/~/856612793/0/baeldung~Difference-Between-L-and-long)
-  * *Published on 1 Jan 2024*
-* [Compress and Uncompress Byte Array Using Deflater/Inflater](https://feeds.feedblitz.com/~/856612796/0/baeldung~Compress-and-Uncompress-Byte-Array-Using-DeflaterInflater)
-  * *Published on 1 Jan 2024*
-* [Return Map Instead of List in Spring Data JPA](https://feeds.feedblitz.com/~/856563095/0/baeldung~Return-Map-Instead-of-List-in-Spring-Data-JPA)
-  * *Published on 31 Dec 2023*
