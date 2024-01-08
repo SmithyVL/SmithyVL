@@ -239,13 +239,13 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
-* [Java Weekly, Issue 523](https://feeds.feedblitz.com/~/858886967/0/baeldung~Java-Weekly-Issue)
-  * *Published on 5 Jan 2024*
-* [Sending Data to a Specific Partition in Kafka](https://feeds.feedblitz.com/~/858748604/0/baeldung~Sending-Data-to-a-Specific-Partition-in-Kafka)
-  * *Published on 4 Jan 2024*
-* [Java’s String.length() and String.getBytes().length](https://feeds.feedblitz.com/~/857711558/0/baeldung~Javas-Stringlength-and-StringgetByteslength)
-  * *Published on 3 Jan 2024*
-* [Convert String to long or Long in Java](https://feeds.feedblitz.com/~/857699561/0/baeldung~Convert-String-to-long-or-Long-in-Java)
-  * *Published on 3 Jan 2024*
-* [Fixing Hibernate QueryException: Named Parameter Not Bound](https://feeds.feedblitz.com/~/857681828/0/baeldung~Fixing-Hibernate-QueryException-Named-Parameter-Not-Bound)
-  * *Published on 3 Jan 2024*
+* [Read Multiple Messages with Apache Kafka](https://feeds.feedblitz.com/~/859407251/0/baeldung~Read-Multiple-Messages-with-Apache-Kafka)
+  * *Published on 7 Jan 2024*
+* [Creating Reactive APIs With Micronaut and MongoDB](https://feeds.feedblitz.com/~/859406315/0/baeldung~Creating-Reactive-APIs-With-Micronaut-and-MongoDB)
+  * *Published on 7 Jan 2024*
+* [Introduction to Spring AI](https://feeds.feedblitz.com/~/859406318/0/baeldung~Introduction-to-Spring-AI)
+  * *Published on 7 Jan 2024*
+* [Difference Between Xmx and MaxRAM JVM Parameters](https://feeds.feedblitz.com/~/859404512/0/baeldung~Difference-Between-Xmx-and-MaxRAM-JVM-Parameters)
+  * *Published on 7 Jan 2024*
+* [Remove Null Objects in JSON Response When Using Spring and Jackson](https://feeds.feedblitz.com/~/859404515/0/baeldung~Remove-Null-Objects-in-JSON-Response-When-Using-Spring-and-Jackson)
+  * *Published on 7 Jan 2024*
