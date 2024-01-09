@@ -239,13 +239,13 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [Check if List Contains at Least One Enum](https://feeds.feedblitz.com/~/859624124/0/baeldung~Check-if-List-Contains-at-Least-One-Enum)
+  * *Published on 8 Jan 2024*
+* [Remove Characters From a String That Are in the Other String](https://feeds.feedblitz.com/~/859582691/0/baeldung~Remove-Characters-From-a-String-That-Are-in-the-Other-String)
+  * *Published on 8 Jan 2024*
+* [What Happens When the JVM Runs Out of Memory to Allocate During Runtime?](https://feeds.feedblitz.com/~/859577183/0/baeldung~What-Happens-When-the-JVM-Runs-Out-of-Memory-to-Allocate-During-Runtime)
+  * *Published on 8 Jan 2024*
 * [Read Multiple Messages with Apache Kafka](https://feeds.feedblitz.com/~/859407251/0/baeldung~Read-Multiple-Messages-with-Apache-Kafka)
   * *Published on 7 Jan 2024*
 * [Creating Reactive APIs With Micronaut and MongoDB](https://feeds.feedblitz.com/~/859406315/0/baeldung~Creating-Reactive-APIs-With-Micronaut-and-MongoDB)
-  * *Published on 7 Jan 2024*
-* [Introduction to Spring AI](https://feeds.feedblitz.com/~/859406318/0/baeldung~Introduction-to-Spring-AI)
-  * *Published on 7 Jan 2024*
-* [Difference Between Xmx and MaxRAM JVM Parameters](https://feeds.feedblitz.com/~/859404512/0/baeldung~Difference-Between-Xmx-and-MaxRAM-JVM-Parameters)
-  * *Published on 7 Jan 2024*
-* [Remove Null Objects in JSON Response When Using Spring and Jackson](https://feeds.feedblitz.com/~/859404515/0/baeldung~Remove-Null-Objects-in-JSON-Response-When-Using-Spring-and-Jackson)
   * *Published on 7 Jan 2024*
