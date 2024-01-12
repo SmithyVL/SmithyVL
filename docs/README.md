@@ -239,13 +239,13 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
-* [Check if List Contains at Least One Enum](https://feeds.feedblitz.com/~/859624124/0/baeldung~Check-if-List-Contains-at-Least-One-Enum)
-  * *Published on 8 Jan 2024*
-* [Remove Characters From a String That Are in the Other String](https://feeds.feedblitz.com/~/859582691/0/baeldung~Remove-Characters-From-a-String-That-Are-in-the-Other-String)
-  * *Published on 8 Jan 2024*
-* [What Happens When the JVM Runs Out of Memory to Allocate During Runtime?](https://feeds.feedblitz.com/~/859577183/0/baeldung~What-Happens-When-the-JVM-Runs-Out-of-Memory-to-Allocate-During-Runtime)
-  * *Published on 8 Jan 2024*
-* [Read Multiple Messages with Apache Kafka](https://feeds.feedblitz.com/~/859407251/0/baeldung~Read-Multiple-Messages-with-Apache-Kafka)
-  * *Published on 7 Jan 2024*
-* [Creating Reactive APIs With Micronaut and MongoDB](https://feeds.feedblitz.com/~/859406315/0/baeldung~Creating-Reactive-APIs-With-Micronaut-and-MongoDB)
-  * *Published on 7 Jan 2024*
+* [Add Authorities as Custom Claims in JWT Access Tokens in Spring Authorization Server](https://feeds.feedblitz.com/~/860298623/0/baeldung~Add-Authorities-as-Custom-Claims-in-JWT-Access-Tokens-in-Spring-Authorization-Server)
+  * *Published on 11 Jan 2024*
+* [Java 8 Stream Operation on the Empty List](https://feeds.feedblitz.com/~/860262743/0/baeldung~Java-Stream-Operation-on-the-Empty-List)
+  * *Published on 11 Jan 2024*
+* [Difference Between a Future and a Promise in Java](https://feeds.feedblitz.com/~/860262746/0/baeldung~Difference-Between-a-Future-and-a-Promise-in-Java)
+  * *Published on 11 Jan 2024*
+* [Implementing Persistable-Only Entities in Spring Data JPA](https://feeds.feedblitz.com/~/860261468/0/baeldung~Implementing-PersistableOnly-Entities-in-Spring-Data-JPA)
+  * *Published on 11 Jan 2024*
+* [Generational ZGC in Java 21](https://feeds.feedblitz.com/~/860261471/0/baeldung~Generational-ZGC-in-Java)
+  * *Published on 11 Jan 2024*
