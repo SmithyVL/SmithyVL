@@ -239,6 +239,8 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [Java Weekly, Issue 524](https://feeds.feedblitz.com/~/860396177/0/baeldung~Java-Weekly-Issue)
+  * *Published on 12 Jan 2024*
 * [Add Authorities as Custom Claims in JWT Access Tokens in Spring Authorization Server](https://feeds.feedblitz.com/~/860298623/0/baeldung~Add-Authorities-as-Custom-Claims-in-JWT-Access-Tokens-in-Spring-Authorization-Server)
   * *Published on 11 Jan 2024*
 * [Java 8 Stream Operation on the Empty List](https://feeds.feedblitz.com/~/860262743/0/baeldung~Java-Stream-Operation-on-the-Empty-List)
@@ -246,6 +248,4 @@ No recent activity
 * [Difference Between a Future and a Promise in Java](https://feeds.feedblitz.com/~/860262746/0/baeldung~Difference-Between-a-Future-and-a-Promise-in-Java)
   * *Published on 11 Jan 2024*
 * [Implementing Persistable-Only Entities in Spring Data JPA](https://feeds.feedblitz.com/~/860261468/0/baeldung~Implementing-PersistableOnly-Entities-in-Spring-Data-JPA)
-  * *Published on 11 Jan 2024*
-* [Generational ZGC in Java 21](https://feeds.feedblitz.com/~/860261471/0/baeldung~Generational-ZGC-in-Java)
   * *Published on 11 Jan 2024*
