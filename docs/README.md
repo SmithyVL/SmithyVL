@@ -239,13 +239,13 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
-* [Java Weekly, Issue 524](https://feeds.feedblitz.com/~/860396177/0/baeldung~Java-Weekly-Issue)
-  * *Published on 12 Jan 2024*
-* [Add Authorities as Custom Claims in JWT Access Tokens in Spring Authorization Server](https://feeds.feedblitz.com/~/860298623/0/baeldung~Add-Authorities-as-Custom-Claims-in-JWT-Access-Tokens-in-Spring-Authorization-Server)
-  * *Published on 11 Jan 2024*
-* [Java 8 Stream Operation on the Empty List](https://feeds.feedblitz.com/~/860262743/0/baeldung~Java-Stream-Operation-on-the-Empty-List)
-  * *Published on 11 Jan 2024*
-* [Difference Between a Future and a Promise in Java](https://feeds.feedblitz.com/~/860262746/0/baeldung~Difference-Between-a-Future-and-a-Promise-in-Java)
-  * *Published on 11 Jan 2024*
-* [Implementing Persistable-Only Entities in Spring Data JPA](https://feeds.feedblitz.com/~/860261468/0/baeldung~Implementing-PersistableOnly-Entities-in-Spring-Data-JPA)
-  * *Published on 11 Jan 2024*
+* [Solving the ParameterResolutionException in JUnit 5](https://feeds.feedblitz.com/~/860706281/0/baeldung~Solving-the-ParameterResolutionException-in-JUnit)
+  * *Published on 14 Jan 2024*
+* [Convert Joda-Time DateTime to Date and Vice Versa](https://feeds.feedblitz.com/~/860706284/0/baeldung~Convert-JodaTime-DateTime-to-Date-and-Vice-Versa)
+  * *Published on 14 Jan 2024*
+* [Converting Integer to BigDecimal in Java](https://feeds.feedblitz.com/~/860706287/0/baeldung~Converting-Integer-to-BigDecimal-in-Java)
+  * *Published on 14 Jan 2024*
+* [Create Kubernetes Operators with the Java Operator SDK](https://feeds.feedblitz.com/~/860705714/0/baeldung~Create-Kubernetes-Operators-with-the-Java-Operator-SDK)
+  * *Published on 14 Jan 2024*
+* [Call a Method on Each Element of a List in Java](https://feeds.feedblitz.com/~/860705717/0/baeldung~Call-a-Method-on-Each-Element-of-a-List-in-Java)
+  * *Published on 14 Jan 2024*
