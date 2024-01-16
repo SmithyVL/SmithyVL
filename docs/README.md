@@ -239,13 +239,13 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
-* [Solving the ParameterResolutionException in JUnit 5](https://feeds.feedblitz.com/~/860706281/0/baeldung~Solving-the-ParameterResolutionException-in-JUnit)
-  * *Published on 14 Jan 2024*
-* [Convert Joda-Time DateTime to Date and Vice Versa](https://feeds.feedblitz.com/~/860706284/0/baeldung~Convert-JodaTime-DateTime-to-Date-and-Vice-Versa)
-  * *Published on 14 Jan 2024*
-* [Converting Integer to BigDecimal in Java](https://feeds.feedblitz.com/~/860706287/0/baeldung~Converting-Integer-to-BigDecimal-in-Java)
-  * *Published on 14 Jan 2024*
-* [Create Kubernetes Operators with the Java Operator SDK](https://feeds.feedblitz.com/~/860705714/0/baeldung~Create-Kubernetes-Operators-with-the-Java-Operator-SDK)
-  * *Published on 14 Jan 2024*
-* [Call a Method on Each Element of a List in Java](https://feeds.feedblitz.com/~/860705717/0/baeldung~Call-a-Method-on-Each-Element-of-a-List-in-Java)
-  * *Published on 14 Jan 2024*
+* [Read Input Character-by-Character in Java](https://feeds.feedblitz.com/~/860822705/0/baeldung~Read-Input-CharacterbyCharacter-in-Java)
+  * *Published on 15 Jan 2024*
+* [Maven Dependencies Failing With a 501 Error “HTTPS Required”](https://feeds.feedblitz.com/~/860822708/0/baeldung~Maven-Dependencies-Failing-With-a-Error-HTTPS-Required)
+  * *Published on 15 Jan 2024*
+* [Difference Between flush() and close() in Java FileWriter](https://feeds.feedblitz.com/~/860820947/0/baeldung~Difference-Between-flush-and-close-in-Java-FileWriter)
+  * *Published on 15 Jan 2024*
+* [What Is the Error: “Non-static method cannot be referenced from a static context”?](https://feeds.feedblitz.com/~/860819921/0/baeldung~What-Is-the-Error-Nonstatic-method-cannot-be-referenced-from-a-static-context)
+  * *Published on 15 Jan 2024*
+* [Using a Custom TrustStore in Java](https://feeds.feedblitz.com/~/860818877/0/baeldung~Using-a-Custom-TrustStore-in-Java)
+  * *Published on 15 Jan 2024*
