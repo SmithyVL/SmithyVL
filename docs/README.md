@@ -239,6 +239,8 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [Java Weekly, Issue 525](https://feeds.feedblitz.com/~/863879792/0/baeldung~Java-Weekly-Issue)
+  * *Published on 19 Jan 2024*
 * [Read Input Character-by-Character in Java](https://feeds.feedblitz.com/~/860822705/0/baeldung~Read-Input-CharacterbyCharacter-in-Java)
   * *Published on 15 Jan 2024*
 * [Maven Dependencies Failing With a 501 Error “HTTPS Required”](https://feeds.feedblitz.com/~/860822708/0/baeldung~Maven-Dependencies-Failing-With-a-Error-HTTPS-Required)
@@ -246,6 +248,4 @@ No recent activity
 * [Difference Between flush() and close() in Java FileWriter](https://feeds.feedblitz.com/~/860820947/0/baeldung~Difference-Between-flush-and-close-in-Java-FileWriter)
   * *Published on 15 Jan 2024*
 * [What Is the Error: “Non-static method cannot be referenced from a static context”?](https://feeds.feedblitz.com/~/860819921/0/baeldung~What-Is-the-Error-Nonstatic-method-cannot-be-referenced-from-a-static-context)
-  * *Published on 15 Jan 2024*
-* [Using a Custom TrustStore in Java](https://feeds.feedblitz.com/~/860818877/0/baeldung~Using-a-Custom-TrustStore-in-Java)
   * *Published on 15 Jan 2024*
