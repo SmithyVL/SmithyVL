@@ -239,13 +239,13 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
-* [Java Weekly, Issue 525](https://feeds.feedblitz.com/~/863879792/0/baeldung~Java-Weekly-Issue)
+* [Upload Multiple Files Using WebFlux](https://feeds.feedblitz.com/~/864053483/0/baeldung~Upload-Multiple-Files-Using-WebFlux)
   * *Published on 19 Jan 2024*
-* [Read Input Character-by-Character in Java](https://feeds.feedblitz.com/~/860822705/0/baeldung~Read-Input-CharacterbyCharacter-in-Java)
-  * *Published on 15 Jan 2024*
-* [Maven Dependencies Failing With a 501 Error “HTTPS Required”](https://feeds.feedblitz.com/~/860822708/0/baeldung~Maven-Dependencies-Failing-With-a-Error-HTTPS-Required)
-  * *Published on 15 Jan 2024*
-* [Difference Between flush() and close() in Java FileWriter](https://feeds.feedblitz.com/~/860820947/0/baeldung~Difference-Between-flush-and-close-in-Java-FileWriter)
-  * *Published on 15 Jan 2024*
-* [What Is the Error: “Non-static method cannot be referenced from a static context”?](https://feeds.feedblitz.com/~/860819921/0/baeldung~What-Is-the-Error-Nonstatic-method-cannot-be-referenced-from-a-static-context)
-  * *Published on 15 Jan 2024*
+* [Introduction to Spring Cloud AWS 3.0 – SQS Integration](https://feeds.feedblitz.com/~/864051224/0/baeldung~Introduction-to-Spring-Cloud-AWS-SQS-Integration)
+  * *Published on 19 Jan 2024*
+* [Validate if a String Is a Valid Geo Coordinate](https://feeds.feedblitz.com/~/864051227/0/baeldung~Validate-if-a-String-Is-a-Valid-Geo-Coordinate)
+  * *Published on 19 Jan 2024*
+* [PriorityQueue iterator() Method in Java](https://feeds.feedblitz.com/~/864047585/0/baeldung~PriorityQueue-iterator-Method-in-Java)
+  * *Published on 19 Jan 2024*
+* [Global Exception Handling with Spring Cloud Gateway](https://feeds.feedblitz.com/~/864047588/0/baeldung~Global-Exception-Handling-with-Spring-Cloud-Gateway)
+  * *Published on 19 Jan 2024*
