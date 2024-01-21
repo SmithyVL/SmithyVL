@@ -239,13 +239,13 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [Getting Query String Parameters from HttpServletRequest](https://feeds.feedblitz.com/~/864365033/0/baeldung~Getting-Query-String-Parameters-from-HttpServletRequest)
+  * *Published on 20 Jan 2024*
+* [Introduction to Apache Calcite](https://feeds.feedblitz.com/~/864364016/0/baeldung~Introduction-to-Apache-Calcite)
+  * *Published on 20 Jan 2024*
 * [Upload Multiple Files Using WebFlux](https://feeds.feedblitz.com/~/864053483/0/baeldung~Upload-Multiple-Files-Using-WebFlux)
   * *Published on 19 Jan 2024*
 * [Introduction to Spring Cloud AWS 3.0 – SQS Integration](https://feeds.feedblitz.com/~/864051224/0/baeldung~Introduction-to-Spring-Cloud-AWS-SQS-Integration)
   * *Published on 19 Jan 2024*
 * [Validate if a String Is a Valid Geo Coordinate](https://feeds.feedblitz.com/~/864051227/0/baeldung~Validate-if-a-String-Is-a-Valid-Geo-Coordinate)
-  * *Published on 19 Jan 2024*
-* [PriorityQueue iterator() Method in Java](https://feeds.feedblitz.com/~/864047585/0/baeldung~PriorityQueue-iterator-Method-in-Java)
-  * *Published on 19 Jan 2024*
-* [Global Exception Handling with Spring Cloud Gateway](https://feeds.feedblitz.com/~/864047588/0/baeldung~Global-Exception-Handling-with-Spring-Cloud-Gateway)
   * *Published on 19 Jan 2024*
