@@ -239,13 +239,13 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
-* [Getting Query String Parameters from HttpServletRequest](https://feeds.feedblitz.com/~/864365033/0/baeldung~Getting-Query-String-Parameters-from-HttpServletRequest)
-  * *Published on 20 Jan 2024*
-* [Introduction to Apache Calcite](https://feeds.feedblitz.com/~/864364016/0/baeldung~Introduction-to-Apache-Calcite)
-  * *Published on 20 Jan 2024*
-* [Upload Multiple Files Using WebFlux](https://feeds.feedblitz.com/~/864053483/0/baeldung~Upload-Multiple-Files-Using-WebFlux)
-  * *Published on 19 Jan 2024*
-* [Introduction to Spring Cloud AWS 3.0 – SQS Integration](https://feeds.feedblitz.com/~/864051224/0/baeldung~Introduction-to-Spring-Cloud-AWS-SQS-Integration)
-  * *Published on 19 Jan 2024*
-* [Validate if a String Is a Valid Geo Coordinate](https://feeds.feedblitz.com/~/864051227/0/baeldung~Validate-if-a-String-Is-a-Valid-Geo-Coordinate)
-  * *Published on 19 Jan 2024*
+* [Setting up and Using Spock With Gradle](https://feeds.feedblitz.com/~/864598133/0/baeldung~Setting-up-and-Using-Spock-With-Gradle)
+  * *Published on 23 Jan 2024*
+* [Simple Morse Code Translation in Java](https://feeds.feedblitz.com/~/864592811/0/baeldung~Simple-Morse-Code-Translation-in-Java)
+  * *Published on 22 Jan 2024*
+* [Convert byte to int Type in Java](https://feeds.feedblitz.com/~/864520826/0/baeldung~Convert-byte-to-int-Type-in-Java)
+  * *Published on 22 Jan 2024*
+* [Introduction to Postman](https://feeds.feedblitz.com/~/864520829/0/baeldung~Introduction-to-Postman)
+  * *Published on 22 Jan 2024*
+* [Printing Message on Console without Using main() Method in Java](https://feeds.feedblitz.com/~/864519749/0/baeldung~Printing-Message-on-Console-without-Using-main-Method-in-Java)
+  * *Published on 22 Jan 2024*
