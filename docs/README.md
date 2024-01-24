@@ -239,13 +239,13 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
-* [Setting up and Using Spock With Gradle](https://feeds.feedblitz.com/~/864598133/0/baeldung~Setting-up-and-Using-Spock-With-Gradle)
-  * *Published on 23 Jan 2024*
-* [Simple Morse Code Translation in Java](https://feeds.feedblitz.com/~/864592811/0/baeldung~Simple-Morse-Code-Translation-in-Java)
-  * *Published on 22 Jan 2024*
-* [Convert byte to int Type in Java](https://feeds.feedblitz.com/~/864520826/0/baeldung~Convert-byte-to-int-Type-in-Java)
-  * *Published on 22 Jan 2024*
-* [Introduction to Postman](https://feeds.feedblitz.com/~/864520829/0/baeldung~Introduction-to-Postman)
-  * *Published on 22 Jan 2024*
-* [Printing Message on Console without Using main() Method in Java](https://feeds.feedblitz.com/~/864519749/0/baeldung~Printing-Message-on-Console-without-Using-main-Method-in-Java)
-  * *Published on 22 Jan 2024*
+* [Check if Two Date Ranges Overlap](https://feeds.feedblitz.com/~/864855341/0/baeldung~Check-if-Two-Date-Ranges-Overlap)
+  * *Published on 24 Jan 2024*
+* [Apply Bold Text Style for an Entire Row Using Apache POI](https://feeds.feedblitz.com/~/864855344/0/baeldung~Apply-Bold-Text-Style-for-an-Entire-Row-Using-Apache-POI)
+  * *Published on 24 Jan 2024*
+* [How to Catch Deserialization Errors in Spring-Kafka?](https://feeds.feedblitz.com/~/864852176/0/baeldung~How-to-Catch-Deserialization-Errors-in-SpringKafka)
+  * *Published on 24 Jan 2024*
+* [Difference Between mvn install and mvn verify](https://feeds.feedblitz.com/~/864852188/0/baeldung~Difference-Between-mvn-install-and-mvn-verify)
+  * *Published on 24 Jan 2024*
+* [JFR View Command in Java 21](https://feeds.feedblitz.com/~/864852200/0/baeldung~JFR-View-Command-in-Java)
+  * *Published on 24 Jan 2024*
