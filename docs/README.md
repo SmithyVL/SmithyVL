@@ -239,13 +239,13 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
-* [Check if Two Date Ranges Overlap](https://feeds.feedblitz.com/~/864855341/0/baeldung~Check-if-Two-Date-Ranges-Overlap)
-  * *Published on 24 Jan 2024*
-* [Apply Bold Text Style for an Entire Row Using Apache POI](https://feeds.feedblitz.com/~/864855344/0/baeldung~Apply-Bold-Text-Style-for-an-Entire-Row-Using-Apache-POI)
-  * *Published on 24 Jan 2024*
-* [How to Catch Deserialization Errors in Spring-Kafka?](https://feeds.feedblitz.com/~/864852176/0/baeldung~How-to-Catch-Deserialization-Errors-in-SpringKafka)
-  * *Published on 24 Jan 2024*
-* [Difference Between mvn install and mvn verify](https://feeds.feedblitz.com/~/864852188/0/baeldung~Difference-Between-mvn-install-and-mvn-verify)
-  * *Published on 24 Jan 2024*
-* [JFR View Command in Java 21](https://feeds.feedblitz.com/~/864852200/0/baeldung~JFR-View-Command-in-Java)
-  * *Published on 24 Jan 2024*
+* [Calculating the Power of Any Number in Java Without Using Math pow() Method](https://feeds.feedblitz.com/~/865381643/0/baeldung~Calculating-the-Power-of-Any-Number-in-Java-Without-Using-Math-pow-Method)
+  * *Published on 25 Jan 2024*
+* [Difference between ZoneOffset.UTC and ZoneId.of(“UTC”)](https://feeds.feedblitz.com/~/865371173/0/baeldung~Difference-between-ZoneOffsetUTC-and-ZoneIdofUTC)
+  * *Published on 25 Jan 2024*
+* [How to Determine if a String Contains Invalid Encoded Characters](https://feeds.feedblitz.com/~/865371179/0/baeldung~How-to-Determine-if-a-String-Contains-Invalid-Encoded-Characters)
+  * *Published on 25 Jan 2024*
+* [List vs. Set in @OneToMany JPA](https://feeds.feedblitz.com/~/865356308/0/baeldung~List-vs-Set-in-OneToMany-JPA)
+  * *Published on 25 Jan 2024*
+* [Rotate a Vertex Around a Certain Point in Java](https://feeds.feedblitz.com/~/865356311/0/baeldung~Rotate-a-Vertex-Around-a-Certain-Point-in-Java)
+  * *Published on 25 Jan 2024*
