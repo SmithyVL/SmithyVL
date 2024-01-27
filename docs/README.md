@@ -239,13 +239,13 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
-* [Calculating the Power of Any Number in Java Without Using Math pow() Method](https://feeds.feedblitz.com/~/865381643/0/baeldung~Calculating-the-Power-of-Any-Number-in-Java-Without-Using-Math-pow-Method)
-  * *Published on 25 Jan 2024*
-* [Difference between ZoneOffset.UTC and ZoneId.of(“UTC”)](https://feeds.feedblitz.com/~/865371173/0/baeldung~Difference-between-ZoneOffsetUTC-and-ZoneIdofUTC)
-  * *Published on 25 Jan 2024*
-* [How to Determine if a String Contains Invalid Encoded Characters](https://feeds.feedblitz.com/~/865371179/0/baeldung~How-to-Determine-if-a-String-Contains-Invalid-Encoded-Characters)
-  * *Published on 25 Jan 2024*
-* [List vs. Set in @OneToMany JPA](https://feeds.feedblitz.com/~/865356308/0/baeldung~List-vs-Set-in-OneToMany-JPA)
-  * *Published on 25 Jan 2024*
-* [Rotate a Vertex Around a Certain Point in Java](https://feeds.feedblitz.com/~/865356311/0/baeldung~Rotate-a-Vertex-Around-a-Certain-Point-in-Java)
-  * *Published on 25 Jan 2024*
+* [Java Weekly, Issue 526](https://feeds.feedblitz.com/~/865975163/0/baeldung~Java-Weekly-Issue)
+  * *Published on 26 Jan 2024*
+* [Introduction to gRPC with Spring Boot](https://feeds.feedblitz.com/~/865957010/0/baeldung~Introduction-to-gRPC-with-Spring-Boot)
+  * *Published on 26 Jan 2024*
+* [How to Find the URL of a Service in Kubernetes](https://feeds.feedblitz.com/~/865954826/0/baeldung~How-to-Find-the-URL-of-a-Service-in-Kubernetes)
+  * *Published on 26 Jan 2024*
+* [Event Externalization with Spring Modulith](https://feeds.feedblitz.com/~/865952933/0/baeldung~Event-Externalization-with-Spring-Modulith)
+  * *Published on 26 Jan 2024*
+* [Improving Test Coverage and Readability With Spock’s Data Pipes and Tables](https://feeds.feedblitz.com/~/865948478/0/baeldung~Improving-Test-Coverage-and-Readability-With-Spocks-Data-Pipes-and-Tables)
+  * *Published on 26 Jan 2024*
