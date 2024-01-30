@@ -239,13 +239,13 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
-* [Java Weekly, Issue 526](https://feeds.feedblitz.com/~/865975163/0/baeldung~Java-Weekly-Issue)
-  * *Published on 26 Jan 2024*
-* [Introduction to gRPC with Spring Boot](https://feeds.feedblitz.com/~/865957010/0/baeldung~Introduction-to-gRPC-with-Spring-Boot)
-  * *Published on 26 Jan 2024*
-* [How to Find the URL of a Service in Kubernetes](https://feeds.feedblitz.com/~/865954826/0/baeldung~How-to-Find-the-URL-of-a-Service-in-Kubernetes)
-  * *Published on 26 Jan 2024*
-* [Event Externalization with Spring Modulith](https://feeds.feedblitz.com/~/865952933/0/baeldung~Event-Externalization-with-Spring-Modulith)
-  * *Published on 26 Jan 2024*
-* [Improving Test Coverage and Readability With Spock’s Data Pipes and Tables](https://feeds.feedblitz.com/~/865948478/0/baeldung~Improving-Test-Coverage-and-Readability-With-Spocks-Data-Pipes-and-Tables)
-  * *Published on 26 Jan 2024*
+* [Convert Long to Date in Java](https://feeds.feedblitz.com/~/866317082/0/baeldung~Convert-Long-to-Date-in-Java)
+  * *Published on 29 Jan 2024*
+* [Regular Expression for Password Validation in Java](https://feeds.feedblitz.com/~/866317085/0/baeldung~Regular-Expression-for-Password-Validation-in-Java)
+  * *Published on 29 Jan 2024*
+* [N+1 Problem in Hibernate and Spring Data JPA](https://feeds.feedblitz.com/~/866317088/0/baeldung~N-Problem-in-Hibernate-and-Spring-Data-JPA)
+  * *Published on 29 Jan 2024*
+* [Creating Unicode Character From Its Code Point Hex String](https://feeds.feedblitz.com/~/866315660/0/baeldung~Creating-Unicode-Character-From-Its-Code-Point-Hex-String)
+  * *Published on 29 Jan 2024*
+* [Convert Gregorian to Hijri Date in Java](https://feeds.feedblitz.com/~/866315663/0/baeldung~Convert-Gregorian-to-Hijri-Date-in-Java)
+  * *Published on 29 Jan 2024*
