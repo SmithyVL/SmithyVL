@@ -239,6 +239,8 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [Java Weekly, Issue 527](https://feeds.feedblitz.com/~/867478175/0/baeldung~Java-Weekly-Issue)
+  * *Published on 2 Feb 2024*
 * [Custom JSON Deserialization Using Spring WebClient](https://feeds.feedblitz.com/~/867373676/0/baeldung~Custom-JSON-Deserialization-Using-Spring-WebClient)
   * *Published on 2 Feb 2024*
 * [Access Job Parameters From ItemReader in Spring Batch](https://feeds.feedblitz.com/~/867373679/0/baeldung~Access-Job-Parameters-From-ItemReader-in-Spring-Batch)
@@ -246,6 +248,4 @@ No recent activity
 * [Storing PostgreSQL JSONB Using Spring Boot and JPA](https://feeds.feedblitz.com/~/867370661/0/baeldung~Storing-PostgreSQL-JSONB-Using-Spring-Boot-and-JPA)
   * *Published on 2 Feb 2024*
 * [Difference Between “mvn verify” and “mvn test”](https://feeds.feedblitz.com/~/867370664/0/baeldung~Difference-Between-mvn-verify-and-mvn-test)
-  * *Published on 2 Feb 2024*
-* [Structured Logging in Java](https://feeds.feedblitz.com/~/867370667/0/baeldung~Structured-Logging-in-Java)
   * *Published on 2 Feb 2024*
