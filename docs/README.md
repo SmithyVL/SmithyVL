@@ -239,13 +239,13 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
-* [Java Weekly, Issue 527](https://feeds.feedblitz.com/~/867478175/0/baeldung~Java-Weekly-Issue)
-  * *Published on 2 Feb 2024*
-* [Custom JSON Deserialization Using Spring WebClient](https://feeds.feedblitz.com/~/867373676/0/baeldung~Custom-JSON-Deserialization-Using-Spring-WebClient)
-  * *Published on 2 Feb 2024*
-* [Access Job Parameters From ItemReader in Spring Batch](https://feeds.feedblitz.com/~/867373679/0/baeldung~Access-Job-Parameters-From-ItemReader-in-Spring-Batch)
-  * *Published on 2 Feb 2024*
-* [Storing PostgreSQL JSONB Using Spring Boot and JPA](https://feeds.feedblitz.com/~/867370661/0/baeldung~Storing-PostgreSQL-JSONB-Using-Spring-Boot-and-JPA)
-  * *Published on 2 Feb 2024*
-* [Difference Between “mvn verify” and “mvn test”](https://feeds.feedblitz.com/~/867370664/0/baeldung~Difference-Between-mvn-verify-and-mvn-test)
-  * *Published on 2 Feb 2024*
+* [Generating Unique Positive Long Using SecureRandom in Java](https://feeds.feedblitz.com/~/868649627/0/baeldung~Generating-Unique-Positive-Long-Using-SecureRandom-in-Java)
+  * *Published on 5 Feb 2024*
+* [Normalize a URL in Java](https://feeds.feedblitz.com/~/868641065/0/baeldung~Normalize-a-URL-in-Java)
+  * *Published on 5 Feb 2024*
+* [Convert String Date to XMLGregorianCalendar in Java](https://feeds.feedblitz.com/~/868641068/0/baeldung~Convert-String-Date-to-XMLGregorianCalendar-in-Java)
+  * *Published on 5 Feb 2024*
+* [Display Image With Thymeleaf](https://feeds.feedblitz.com/~/868633250/0/baeldung~Display-Image-With-Thymeleaf)
+  * *Published on 5 Feb 2024*
+* [Shutting Down on OutOfMemoryError in Java](https://feeds.feedblitz.com/~/868633253/0/baeldung~Shutting-Down-on-OutOfMemoryError-in-Java)
+  * *Published on 5 Feb 2024*
