@@ -239,13 +239,13 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
-* [Generating Unique Positive Long Using SecureRandom in Java](https://feeds.feedblitz.com/~/868649627/0/baeldung~Generating-Unique-Positive-Long-Using-SecureRandom-in-Java)
-  * *Published on 5 Feb 2024*
-* [Normalize a URL in Java](https://feeds.feedblitz.com/~/868641065/0/baeldung~Normalize-a-URL-in-Java)
-  * *Published on 5 Feb 2024*
-* [Convert String Date to XMLGregorianCalendar in Java](https://feeds.feedblitz.com/~/868641068/0/baeldung~Convert-String-Date-to-XMLGregorianCalendar-in-Java)
-  * *Published on 5 Feb 2024*
-* [Display Image With Thymeleaf](https://feeds.feedblitz.com/~/868633250/0/baeldung~Display-Image-With-Thymeleaf)
-  * *Published on 5 Feb 2024*
-* [Shutting Down on OutOfMemoryError in Java](https://feeds.feedblitz.com/~/868633253/0/baeldung~Shutting-Down-on-OutOfMemoryError-in-Java)
-  * *Published on 5 Feb 2024*
+* [Injecting @Mock and @Captor in JUnit 5 Method Parameters](https://feeds.feedblitz.com/~/869066564/0/baeldung~Injecting-Mock-and-Captor-in-JUnit-Method-Parameters)
+  * *Published on 6 Feb 2024*
+* [Storing UUID as Base64 String in Java](https://feeds.feedblitz.com/~/869066567/0/baeldung~Storing-UUID-as-Base-String-in-Java)
+  * *Published on 6 Feb 2024*
+* [Calculate Weighted Mean in Java](https://feeds.feedblitz.com/~/869042681/0/baeldung~Calculate-Weighted-Mean-in-Java)
+  * *Published on 6 Feb 2024*
+* [Instantiate an Inner Class With Reflection in Java](https://feeds.feedblitz.com/~/869041772/0/baeldung~Instantiate-an-Inner-Class-With-Reflection-in-Java)
+  * *Published on 6 Feb 2024*
+* [CountDownLatch vs. Semaphore](https://feeds.feedblitz.com/~/869040494/0/baeldung~CountDownLatch-vs-Semaphore)
+  * *Published on 6 Feb 2024*
