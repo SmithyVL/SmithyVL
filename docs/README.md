@@ -239,13 +239,13 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
-* [Injecting @Mock and @Captor in JUnit 5 Method Parameters](https://feeds.feedblitz.com/~/869066564/0/baeldung~Injecting-Mock-and-Captor-in-JUnit-Method-Parameters)
-  * *Published on 6 Feb 2024*
-* [Storing UUID as Base64 String in Java](https://feeds.feedblitz.com/~/869066567/0/baeldung~Storing-UUID-as-Base-String-in-Java)
-  * *Published on 6 Feb 2024*
-* [Calculate Weighted Mean in Java](https://feeds.feedblitz.com/~/869042681/0/baeldung~Calculate-Weighted-Mean-in-Java)
-  * *Published on 6 Feb 2024*
-* [Instantiate an Inner Class With Reflection in Java](https://feeds.feedblitz.com/~/869041772/0/baeldung~Instantiate-an-Inner-Class-With-Reflection-in-Java)
-  * *Published on 6 Feb 2024*
-* [CountDownLatch vs. Semaphore](https://feeds.feedblitz.com/~/869040494/0/baeldung~CountDownLatch-vs-Semaphore)
-  * *Published on 6 Feb 2024*
+* [Introduction to OpenGrok](https://feeds.feedblitz.com/~/869500208/0/baeldung~Introduction-to-OpenGrok)
+  * *Published on 9 Feb 2024*
+* [A Guide to the @SoftDelete Annotation in Hibernate](https://feeds.feedblitz.com/~/869496764/0/baeldung~A-Guide-to-the-SoftDelete-Annotation-in-Hibernate)
+  * *Published on 9 Feb 2024*
+* [Run Maven From Java Code](https://feeds.feedblitz.com/~/869490926/0/baeldung~Run-Maven-From-Java-Code)
+  * *Published on 9 Feb 2024*
+* [Understanding “Raw type. References to generic types should be parameterized” Error](https://feeds.feedblitz.com/~/869490929/0/baeldung~Understanding-Raw-type-References-to-generic-types-should-be-parameterized-Error)
+  * *Published on 9 Feb 2024*
+* [Pagination With JDBC](https://feeds.feedblitz.com/~/869490932/0/baeldung~Pagination-With-JDBC)
+  * *Published on 9 Feb 2024*
