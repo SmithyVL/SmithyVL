@@ -239,13 +239,13 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [How to Check if a Variable is Defined in Thymeleaf](https://feeds.feedblitz.com/~/869590550/0/baeldung~How-to-Check-if-a-Variable-is-Defined-in-Thymeleaf)
+  * *Published on 11 Feb 2024*
+* [Convert Infix to Postfix Expressions in Java](https://feeds.feedblitz.com/~/869590553/0/baeldung~Convert-Infix-to-Postfix-Expressions-in-Java)
+  * *Published on 11 Feb 2024*
+* [Get All Results at Once in a Spring Boot Paged Query Method](https://feeds.feedblitz.com/~/869590556/0/baeldung~Get-All-Results-at-Once-in-a-Spring-Boot-Paged-Query-Method)
+  * *Published on 11 Feb 2024*
+* [Mutable vs. Immutable Objects in Java](https://feeds.feedblitz.com/~/869589785/0/baeldung~Mutable-vs-Immutable-Objects-in-Java)
+  * *Published on 11 Feb 2024*
 * [Introduction to OpenGrok](https://feeds.feedblitz.com/~/869500208/0/baeldung~Introduction-to-OpenGrok)
-  * *Published on 9 Feb 2024*
-* [A Guide to the @SoftDelete Annotation in Hibernate](https://feeds.feedblitz.com/~/869496764/0/baeldung~A-Guide-to-the-SoftDelete-Annotation-in-Hibernate)
-  * *Published on 9 Feb 2024*
-* [Run Maven From Java Code](https://feeds.feedblitz.com/~/869490926/0/baeldung~Run-Maven-From-Java-Code)
-  * *Published on 9 Feb 2024*
-* [Understanding “Raw type. References to generic types should be parameterized” Error](https://feeds.feedblitz.com/~/869490929/0/baeldung~Understanding-Raw-type-References-to-generic-types-should-be-parameterized-Error)
-  * *Published on 9 Feb 2024*
-* [Pagination With JDBC](https://feeds.feedblitz.com/~/869490932/0/baeldung~Pagination-With-JDBC)
   * *Published on 9 Feb 2024*
