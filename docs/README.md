@@ -239,13 +239,13 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [Find the First Non-repeating Element of a List](https://feeds.feedblitz.com/~/869693915/0/baeldung~Find-the-First-Nonrepeating-Element-of-a-List)
+  * *Published on 12 Feb 2024*
+* [Moves Zeros to the End of an Array in Java](https://feeds.feedblitz.com/~/869692841/0/baeldung~Moves-Zeros-to-the-End-of-an-Array-in-Java)
+  * *Published on 12 Feb 2024*
 * [How to Check if a Variable is Defined in Thymeleaf](https://feeds.feedblitz.com/~/869590550/0/baeldung~How-to-Check-if-a-Variable-is-Defined-in-Thymeleaf)
   * *Published on 11 Feb 2024*
 * [Convert Infix to Postfix Expressions in Java](https://feeds.feedblitz.com/~/869590553/0/baeldung~Convert-Infix-to-Postfix-Expressions-in-Java)
   * *Published on 11 Feb 2024*
 * [Get All Results at Once in a Spring Boot Paged Query Method](https://feeds.feedblitz.com/~/869590556/0/baeldung~Get-All-Results-at-Once-in-a-Spring-Boot-Paged-Query-Method)
   * *Published on 11 Feb 2024*
-* [Mutable vs. Immutable Objects in Java](https://feeds.feedblitz.com/~/869589785/0/baeldung~Mutable-vs-Immutable-Objects-in-Java)
-  * *Published on 11 Feb 2024*
-* [Introduction to OpenGrok](https://feeds.feedblitz.com/~/869500208/0/baeldung~Introduction-to-OpenGrok)
-  * *Published on 9 Feb 2024*
