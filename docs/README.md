@@ -239,13 +239,13 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [Collect Stream of entrySet() to a LinkedHashMap](https://feeds.feedblitz.com/~/869822924/0/baeldung~Collect-Stream-of-entrySet-to-a-LinkedHashMap)
+  * *Published on 14 Feb 2024*
 * [Guide to System.in.read()](https://feeds.feedblitz.com/~/869739233/0/baeldung~Guide-to-Systeminread)
   * *Published on 13 Feb 2024*
 * [Find the First Non-repeating Element of a List](https://feeds.feedblitz.com/~/869693915/0/baeldung~Find-the-First-Nonrepeating-Element-of-a-List)
   * *Published on 12 Feb 2024*
 * [Moves Zeros to the End of an Array in Java](https://feeds.feedblitz.com/~/869692841/0/baeldung~Moves-Zeros-to-the-End-of-an-Array-in-Java)
   * *Published on 12 Feb 2024*
-* [How to Check if a Variable is Defined in Thymeleaf](https://feeds.feedblitz.com/~/869590550/0/baeldung~How-to-Check-if-a-Variable-is-Defined-in-Thymeleaf)
-  * *Published on 11 Feb 2024*
-* [Convert Infix to Postfix Expressions in Java](https://feeds.feedblitz.com/~/869590553/0/baeldung~Convert-Infix-to-Postfix-Expressions-in-Java)
+* [How to Check if a Variable Is Defined in Thymeleaf](https://feeds.feedblitz.com/~/869590550/0/baeldung~How-to-Check-if-a-Variable-Is-Defined-in-Thymeleaf)
   * *Published on 11 Feb 2024*
