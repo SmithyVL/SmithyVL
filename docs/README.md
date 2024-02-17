@@ -239,13 +239,13 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [Logging With AOP in Spring](https://feeds.feedblitz.com/~/870584930/0/baeldung~Logging-With-AOP-in-Spring)
+  * *Published on 16 Feb 2024*
+* [Mask an Email Address and Phone Number in Java](https://feeds.feedblitz.com/~/870579500/0/baeldung~Mask-an-Email-Address-and-Phone-Number-in-Java)
+  * *Published on 16 Feb 2024*
 * [Java Weekly, Issue 529](https://feeds.feedblitz.com/~/870393536/0/baeldung~Java-Weekly-Issue)
   * *Published on 15 Feb 2024*
 * [Preventing Gson from Expressing Integers as Floats](https://feeds.feedblitz.com/~/870274454/0/baeldung~Preventing-Gson-from-Expressing-Integers-as-Floats)
   * *Published on 15 Feb 2024*
 * [How to Collect All Results and Handle Exceptions With CompletableFuture in a Loop](https://feeds.feedblitz.com/~/870264167/0/baeldung~How-to-Collect-All-Results-and-Handle-Exceptions-With-CompletableFuture-in-a-Loop)
   * *Published on 15 Feb 2024*
-* [Count Uppercase and Lowercase Letters in a String](https://feeds.feedblitz.com/~/870264170/0/baeldung~Count-Uppercase-and-Lowercase-Letters-in-a-String)
-  * *Published on 15 Feb 2024*
-* [Collect Stream of entrySet() to a LinkedHashMap](https://feeds.feedblitz.com/~/869822924/0/baeldung~Collect-Stream-of-entrySet-to-a-LinkedHashMap)
-  * *Published on 14 Feb 2024*
