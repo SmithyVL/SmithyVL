@@ -239,6 +239,8 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [Java Weekly, Issue 530](https://feeds.feedblitz.com/~/872012798/0/baeldung~Java-Weekly-Issue)
+  * *Published on 23 Feb 2024*
 * [Understanding Kafka InstanceAlreadyExistsException in Java](https://feeds.feedblitz.com/~/871904378/0/baeldung~Understanding-Kafka-InstanceAlreadyExistsException-in-Java)
   * *Published on 22 Feb 2024*
 * [Add Camel Route at Runtime in Java](https://feeds.feedblitz.com/~/871904381/0/baeldung~Add-Camel-Route-at-Runtime-in-Java)
@@ -247,5 +249,3 @@ No recent activity
   * *Published on 22 Feb 2024*
 * [View Kafka Headers in Java](https://feeds.feedblitz.com/~/871798235/0/baeldung~View-Kafka-Headers-in-Java)
   * *Published on 20 Feb 2024*
-* [Logging With AOP in Spring](https://feeds.feedblitz.com/~/870584930/0/baeldung~Logging-With-AOP-in-Spring)
-  * *Published on 16 Feb 2024*
