@@ -239,13 +239,13 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
-* [Java Weekly, Issue 530](https://feeds.feedblitz.com/~/872012798/0/baeldung~Java-Weekly-Issue)
-  * *Published on 23 Feb 2024*
-* [Understanding Kafka InstanceAlreadyExistsException in Java](https://feeds.feedblitz.com/~/871904378/0/baeldung~Understanding-Kafka-InstanceAlreadyExistsException-in-Java)
-  * *Published on 22 Feb 2024*
-* [Add Camel Route at Runtime in Java](https://feeds.feedblitz.com/~/871904381/0/baeldung~Add-Camel-Route-at-Runtime-in-Java)
-  * *Published on 22 Feb 2024*
-* [How To Use findBy() With Multiple Columns in JPA](https://feeds.feedblitz.com/~/871904384/0/baeldung~How-To-Use-findBy-With-Multiple-Columns-in-JPA)
-  * *Published on 22 Feb 2024*
-* [View Kafka Headers in Java](https://feeds.feedblitz.com/~/871798235/0/baeldung~View-Kafka-Headers-in-Java)
-  * *Published on 20 Feb 2024*
+* [OAuth2 Backend for Frontend With Spring Cloud Gateway](https://feeds.feedblitz.com/~/872088956/0/baeldung)
+  * *Published on 24 Feb 2024*
+* [Install OpenJDK on Windows](https://feeds.feedblitz.com/~/872087492/0/baeldung)
+  * *Published on 24 Feb 2024*
+* [Check if String is Base64 Encoded](https://feeds.feedblitz.com/~/872085860/0/baeldung)
+  * *Published on 24 Feb 2024*
+* [Check if Two Strings Are Rotations of Each Other](https://feeds.feedblitz.com/~/872085863/0/baeldung)
+  * *Published on 24 Feb 2024*
+* [Difference Between thenApply() and thenApplyAsync() in CompletableFuture](https://feeds.feedblitz.com/~/872085866/0/baeldung)
+  * *Published on 24 Feb 2024*
