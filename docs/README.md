@@ -239,13 +239,13 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
-* [OAuth2 Backend for Frontend With Spring Cloud Gateway](https://feeds.feedblitz.com/~/872088956/0/baeldung)
-  * *Published on 24 Feb 2024*
-* [Install OpenJDK on Windows](https://feeds.feedblitz.com/~/872087492/0/baeldung)
-  * *Published on 24 Feb 2024*
-* [Check if String is Base64 Encoded](https://feeds.feedblitz.com/~/872085860/0/baeldung)
-  * *Published on 24 Feb 2024*
-* [Check if Two Strings Are Rotations of Each Other](https://feeds.feedblitz.com/~/872085863/0/baeldung)
-  * *Published on 24 Feb 2024*
-* [Difference Between thenApply() and thenApplyAsync() in CompletableFuture](https://feeds.feedblitz.com/~/872085866/0/baeldung)
-  * *Published on 24 Feb 2024*
+* [How to Pretty-Print a Map in Java](https://feeds.feedblitz.com/~/872149916/0/baeldung)
+  * *Published on 25 Feb 2024*
+* [Increase the Memory Size Limit on IntelliJ IDEA](https://feeds.feedblitz.com/~/872149919/0/baeldung)
+  * *Published on 25 Feb 2024*
+* [Create JavaType From Class with Jackson](https://feeds.feedblitz.com/~/872148983/0/baeldung)
+  * *Published on 25 Feb 2024*
+* [Find an Unique Email Address in a List](https://feeds.feedblitz.com/~/872148986/0/baeldung)
+  * *Published on 25 Feb 2024*
+* [Message Acknowledgement in Spring Cloud AWS SQS v3](https://feeds.feedblitz.com/~/872148989/0/baeldung)
+  * *Published on 25 Feb 2024*
