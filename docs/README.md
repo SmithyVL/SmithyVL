@@ -239,6 +239,8 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [Working With Microsoft Excel in Java](https://feeds.feedblitz.com/~/872275883/0/baeldung)
+  * *Published on 27 Feb 2024*
 * [How to Pretty-Print a Map in Java](https://feeds.feedblitz.com/~/872149916/0/baeldung)
   * *Published on 25 Feb 2024*
 * [Increase the Memory Size Limit on IntelliJ IDEA](https://feeds.feedblitz.com/~/872149919/0/baeldung)
@@ -246,6 +248,4 @@ No recent activity
 * [Create JavaType From Class with Jackson](https://feeds.feedblitz.com/~/872148983/0/baeldung)
   * *Published on 25 Feb 2024*
 * [Find an Unique Email Address in a List](https://feeds.feedblitz.com/~/872148986/0/baeldung)
-  * *Published on 25 Feb 2024*
-* [Message Acknowledgement in Spring Cloud AWS SQS v3](https://feeds.feedblitz.com/~/872148989/0/baeldung)
   * *Published on 25 Feb 2024*
