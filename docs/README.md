@@ -239,13 +239,13 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [Get First n Characters in a String in Java](https://feeds.feedblitz.com/~/872651990/0/baeldung)
+  * *Published on 28 Feb 2024*
+* [Difference Between GroupId and ConsumerId in Apache Kafka](https://feeds.feedblitz.com/~/872634485/0/baeldung)
+  * *Published on 28 Feb 2024*
+* [Testcontainers Desktop](https://feeds.feedblitz.com/~/872634488/0/baeldung)
+  * *Published on 28 Feb 2024*
+* [@DataJpaTest and Repository Class in JUnit](https://feeds.feedblitz.com/~/872634491/0/baeldung)
+  * *Published on 28 Feb 2024*
 * [Working With Microsoft Excel in Java](https://feeds.feedblitz.com/~/872275883/0/baeldung)
   * *Published on 27 Feb 2024*
-* [How to Pretty-Print a Map in Java](https://feeds.feedblitz.com/~/872149916/0/baeldung)
-  * *Published on 25 Feb 2024*
-* [Increase the Memory Size Limit on IntelliJ IDEA](https://feeds.feedblitz.com/~/872149919/0/baeldung)
-  * *Published on 25 Feb 2024*
-* [Create JavaType From Class with Jackson](https://feeds.feedblitz.com/~/872148983/0/baeldung)
-  * *Published on 25 Feb 2024*
-* [Find an Unique Email Address in a List](https://feeds.feedblitz.com/~/872148986/0/baeldung)
-  * *Published on 25 Feb 2024*
