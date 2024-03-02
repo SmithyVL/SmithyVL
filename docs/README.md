@@ -239,13 +239,13 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
-* [Get First n Characters in a String in Java](https://feeds.feedblitz.com/~/872651990/0/baeldung)
+* [Java Weekly, Issue 531](https://feeds.feedblitz.com/~/872834636/0/baeldung~Java-Weekly-Issue)
+  * *Published on 1 Mar 2024*
+* [Get First n Characters in a String in Java](https://feeds.feedblitz.com/~/872651990/0/baeldung~Get-First-n-Characters-in-a-String-in-Java)
   * *Published on 28 Feb 2024*
-* [Difference Between GroupId and ConsumerId in Apache Kafka](https://feeds.feedblitz.com/~/872634485/0/baeldung)
+* [Difference Between GroupId and ConsumerId in Apache Kafka](https://feeds.feedblitz.com/~/872634485/0/baeldung~Difference-Between-GroupId-and-ConsumerId-in-Apache-Kafka)
   * *Published on 28 Feb 2024*
-* [Testcontainers Desktop](https://feeds.feedblitz.com/~/872634488/0/baeldung)
+* [Testcontainers Desktop](https://feeds.feedblitz.com/~/872634488/0/baeldung~Testcontainers-Desktop)
   * *Published on 28 Feb 2024*
-* [@DataJpaTest and Repository Class in JUnit](https://feeds.feedblitz.com/~/872634491/0/baeldung)
+* [@DataJpaTest and Repository Class in JUnit](https://feeds.feedblitz.com/~/872634491/0/baeldung~DataJpaTest-and-Repository-Class-in-JUnit)
   * *Published on 28 Feb 2024*
-* [Working With Microsoft Excel in Java](https://feeds.feedblitz.com/~/872275883/0/baeldung)
-  * *Published on 27 Feb 2024*
