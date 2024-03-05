@@ -239,13 +239,13 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
-* [Java Weekly, Issue 531](https://feeds.feedblitz.com/~/872834636/0/baeldung~Java-Weekly-Issue)
-  * *Published on 1 Mar 2024*
-* [Get First n Characters in a String in Java](https://feeds.feedblitz.com/~/872651990/0/baeldung~Get-First-n-Characters-in-a-String-in-Java)
-  * *Published on 28 Feb 2024*
-* [Difference Between GroupId and ConsumerId in Apache Kafka](https://feeds.feedblitz.com/~/872634485/0/baeldung~Difference-Between-GroupId-and-ConsumerId-in-Apache-Kafka)
-  * *Published on 28 Feb 2024*
-* [Testcontainers Desktop](https://feeds.feedblitz.com/~/872634488/0/baeldung~Testcontainers-Desktop)
-  * *Published on 28 Feb 2024*
-* [@DataJpaTest and Repository Class in JUnit](https://feeds.feedblitz.com/~/872634491/0/baeldung~DataJpaTest-and-Repository-Class-in-JUnit)
-  * *Published on 28 Feb 2024*
+* [Find the Largest Prime Under the Given Number in Java](https://feeds.feedblitz.com/~/872984069/0/baeldung~Find-the-Largest-Prime-Under-the-Given-Number-in-Java)
+  * *Published on 4 Mar 2024*
+* [Gson TypeToken With Dynamic List Item Type](https://feeds.feedblitz.com/~/872982374/0/baeldung~Gson-TypeToken-With-Dynamic-List-Item-Type)
+  * *Published on 4 Mar 2024*
+* [Skip Select Before Insert in Spring Data JPA](https://feeds.feedblitz.com/~/872982377/0/baeldung~Skip-Select-Before-Insert-in-Spring-Data-JPA)
+  * *Published on 4 Mar 2024*
+* [Spring Data JPA Repository for Database View](https://feeds.feedblitz.com/~/872981783/0/baeldung~Spring-Data-JPA-Repository-for-Database-View)
+  * *Published on 4 Mar 2024*
+* [Remove Only Trailing Spaces or Whitespace From a String in Java](https://feeds.feedblitz.com/~/872981786/0/baeldung~Remove-Only-Trailing-Spaces-or-Whitespace-From-a-String-in-Java)
+  * *Published on 4 Mar 2024*
