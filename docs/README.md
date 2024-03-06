@@ -239,13 +239,13 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
-* [Find the Largest Prime Under the Given Number in Java](https://feeds.feedblitz.com/~/872984069/0/baeldung~Find-the-Largest-Prime-Under-the-Given-Number-in-Java)
-  * *Published on 4 Mar 2024*
-* [Gson TypeToken With Dynamic List Item Type](https://feeds.feedblitz.com/~/872982374/0/baeldung~Gson-TypeToken-With-Dynamic-List-Item-Type)
-  * *Published on 4 Mar 2024*
-* [Skip Select Before Insert in Spring Data JPA](https://feeds.feedblitz.com/~/872982377/0/baeldung~Skip-Select-Before-Insert-in-Spring-Data-JPA)
-  * *Published on 4 Mar 2024*
-* [Spring Data JPA Repository for Database View](https://feeds.feedblitz.com/~/872981783/0/baeldung~Spring-Data-JPA-Repository-for-Database-View)
-  * *Published on 4 Mar 2024*
-* [Remove Only Trailing Spaces or Whitespace From a String in Java](https://feeds.feedblitz.com/~/872981786/0/baeldung~Remove-Only-Trailing-Spaces-or-Whitespace-From-a-String-in-Java)
-  * *Published on 4 Mar 2024*
+* [Generate Juggler Sequence in Java](https://feeds.feedblitz.com/~/873067985/0/baeldung~Generate-Juggler-Sequence-in-Java)
+  * *Published on 5 Mar 2024*
+* [Query Hints in Spring Data JPA](https://feeds.feedblitz.com/~/873063875/0/baeldung~Query-Hints-in-Spring-Data-JPA)
+  * *Published on 5 Mar 2024*
+* [Count the Number of Unique Digits in an Integer using Java](https://feeds.feedblitz.com/~/873062684/0/baeldung~Count-the-Number-of-Unique-Digits-in-an-Integer-using-Java)
+  * *Published on 5 Mar 2024*
+* [Modify and Print List Items With Java Streams](https://feeds.feedblitz.com/~/873039368/0/baeldung~Modify-and-Print-List-Items-With-Java-Streams)
+  * *Published on 5 Mar 2024*
+* [Implementing GraphQL Mutation Without Returning Data](https://feeds.feedblitz.com/~/873039371/0/baeldung~Implementing-GraphQL-Mutation-Without-Returning-Data)
+  * *Published on 5 Mar 2024*
