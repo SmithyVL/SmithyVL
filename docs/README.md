@@ -239,6 +239,8 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [Java Weekly, Issue 532](https://feeds.feedblitz.com/~/873303020/0/baeldung~Java-Weekly-Issue)
+  * *Published on 8 Mar 2024*
 * [Generate Juggler Sequence in Java](https://feeds.feedblitz.com/~/873067985/0/baeldung~Generate-Juggler-Sequence-in-Java)
   * *Published on 5 Mar 2024*
 * [Query Hints in Spring Data JPA](https://feeds.feedblitz.com/~/873063875/0/baeldung~Query-Hints-in-Spring-Data-JPA)
@@ -246,6 +248,4 @@ No recent activity
 * [Count the Number of Unique Digits in an Integer using Java](https://feeds.feedblitz.com/~/873062684/0/baeldung~Count-the-Number-of-Unique-Digits-in-an-Integer-using-Java)
   * *Published on 5 Mar 2024*
 * [Modify and Print List Items With Java Streams](https://feeds.feedblitz.com/~/873039368/0/baeldung~Modify-and-Print-List-Items-With-Java-Streams)
-  * *Published on 5 Mar 2024*
-* [Implementing GraphQL Mutation Without Returning Data](https://feeds.feedblitz.com/~/873039371/0/baeldung~Implementing-GraphQL-Mutation-Without-Returning-Data)
   * *Published on 5 Mar 2024*
