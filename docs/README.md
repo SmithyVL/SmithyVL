@@ -239,13 +239,13 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
-* [Java Weekly, Issue 532](https://feeds.feedblitz.com/~/873303020/0/baeldung~Java-Weekly-Issue)
-  * *Published on 8 Mar 2024*
-* [Generate Juggler Sequence in Java](https://feeds.feedblitz.com/~/873067985/0/baeldung~Generate-Juggler-Sequence-in-Java)
-  * *Published on 5 Mar 2024*
-* [Query Hints in Spring Data JPA](https://feeds.feedblitz.com/~/873063875/0/baeldung~Query-Hints-in-Spring-Data-JPA)
-  * *Published on 5 Mar 2024*
-* [Count the Number of Unique Digits in an Integer using Java](https://feeds.feedblitz.com/~/873062684/0/baeldung~Count-the-Number-of-Unique-Digits-in-an-Integer-using-Java)
-  * *Published on 5 Mar 2024*
-* [Modify and Print List Items With Java Streams](https://feeds.feedblitz.com/~/873039368/0/baeldung~Modify-and-Print-List-Items-With-Java-Streams)
-  * *Published on 5 Mar 2024*
+* [Blowfish Encryption Algorithm](https://feeds.feedblitz.com/~/873425753/0/baeldung~Blowfish-Encryption-Algorithm)
+  * *Published on 10 Mar 2024*
+* [Simplified Array Operations on JsonNode Without Typecasting in Jackson](https://feeds.feedblitz.com/~/873425756/0/baeldung~Simplified-Array-Operations-on-JsonNode-Without-Typecasting-in-Jackson)
+  * *Published on 10 Mar 2024*
+* [Get the Initials of a Name in Java](https://feeds.feedblitz.com/~/873425018/0/baeldung~Get-the-Initials-of-a-Name-in-Java)
+  * *Published on 10 Mar 2024*
+* [Serialization with FlatBuffers in Java](https://feeds.feedblitz.com/~/873425021/0/baeldung~Serialization-with-FlatBuffers-in-Java)
+  * *Published on 10 Mar 2024*
+* [How to Mock Amazon S3 for Integration Test](https://feeds.feedblitz.com/~/873424442/0/baeldung~How-to-Mock-Amazon-S-for-Integration-Test)
+  * *Published on 10 Mar 2024*
