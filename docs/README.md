@@ -239,13 +239,13 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [OpenAPI Generator Custom Templates](https://feeds.feedblitz.com/~/873477107/0/baeldung~OpenAPI-Generator-Custom-Templates)
+  * *Published on 11 Mar 2024*
+* [Spring Security AuthorizationManager](https://feeds.feedblitz.com/~/873477110/0/baeldung~Spring-Security-AuthorizationManager)
+  * *Published on 11 Mar 2024*
 * [Blowfish Encryption Algorithm](https://feeds.feedblitz.com/~/873425753/0/baeldung~Blowfish-Encryption-Algorithm)
   * *Published on 10 Mar 2024*
 * [Simplified Array Operations on JsonNode Without Typecasting in Jackson](https://feeds.feedblitz.com/~/873425756/0/baeldung~Simplified-Array-Operations-on-JsonNode-Without-Typecasting-in-Jackson)
   * *Published on 10 Mar 2024*
 * [Get the Initials of a Name in Java](https://feeds.feedblitz.com/~/873425018/0/baeldung~Get-the-Initials-of-a-Name-in-Java)
-  * *Published on 10 Mar 2024*
-* [Serialization with FlatBuffers in Java](https://feeds.feedblitz.com/~/873425021/0/baeldung~Serialization-with-FlatBuffers-in-Java)
-  * *Published on 10 Mar 2024*
-* [How to Mock Amazon S3 for Integration Test](https://feeds.feedblitz.com/~/873424442/0/baeldung~How-to-Mock-Amazon-S-for-Integration-Test)
   * *Published on 10 Mar 2024*
