@@ -239,13 +239,13 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
-* [OpenAPI Generator Custom Templates](https://feeds.feedblitz.com/~/873477107/0/baeldung~OpenAPI-Generator-Custom-Templates)
-  * *Published on 11 Mar 2024*
-* [Spring Security AuthorizationManager](https://feeds.feedblitz.com/~/873477110/0/baeldung~Spring-Security-AuthorizationManager)
-  * *Published on 11 Mar 2024*
-* [Blowfish Encryption Algorithm](https://feeds.feedblitz.com/~/873425753/0/baeldung~Blowfish-Encryption-Algorithm)
-  * *Published on 10 Mar 2024*
-* [Simplified Array Operations on JsonNode Without Typecasting in Jackson](https://feeds.feedblitz.com/~/873425756/0/baeldung~Simplified-Array-Operations-on-JsonNode-Without-Typecasting-in-Jackson)
-  * *Published on 10 Mar 2024*
-* [Get the Initials of a Name in Java](https://feeds.feedblitz.com/~/873425018/0/baeldung~Get-the-Initials-of-a-Name-in-Java)
-  * *Published on 10 Mar 2024*
+* [RGB Representation as an Integer in Java](https://feeds.feedblitz.com/~/873637988/0/baeldung)
+  * *Published on 15 Mar 2024*
+* [Capturing Method Arguments When Running Spock Tests](https://feeds.feedblitz.com/~/873636707/0/baeldung)
+  * *Published on 14 Mar 2024*
+* [How to Autowire a Spring Bean in a Servlet Filter](https://feeds.feedblitz.com/~/873635585/0/baeldung)
+  * *Published on 14 Mar 2024*
+* [Introduction to Redpanda](https://feeds.feedblitz.com/~/873635591/0/baeldung)
+  * *Published on 14 Mar 2024*
+* [Check if a Number Is a Happy Number in Java](https://feeds.feedblitz.com/~/873635597/0/baeldung)
+  * *Published on 14 Mar 2024*
