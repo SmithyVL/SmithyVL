@@ -239,13 +239,13 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
-* [Parsing HTML Table in Java With Jsoup](https://feeds.feedblitz.com/~/873728714/0/baeldung)
+* [Find the Largest Number Possible After Removing k Digits of a Number](https://feeds.feedblitz.com/~/873832877/0/baeldung~Find-the-Largest-Number-Possible-After-Removing-k-Digits-of-a-Number)
+  * *Published on 17 Mar 2024*
+* [Commit Offsets in Kafka](https://feeds.feedblitz.com/~/873832880/0/baeldung~Commit-Offsets-in-Kafka)
+  * *Published on 17 Mar 2024*
+* [Refresh and Fetch an Entity After Save in JPA](https://feeds.feedblitz.com/~/873831506/0/baeldung~Refresh-and-Fetch-an-Entity-After-Save-in-JPA)
+  * *Published on 17 Mar 2024*
+* [Parsing HTML Table in Java With Jsoup](https://feeds.feedblitz.com/~/873728714/0/baeldung~Parsing-HTML-Table-in-Java-With-Jsoup)
   * *Published on 16 Mar 2024*
-* [Java Weekly, Issue 533](https://feeds.feedblitz.com/~/873682838/0/baeldung)
+* [Java Weekly, Issue 533](https://feeds.feedblitz.com/~/873682838/0/baeldung~Java-Weekly-Issue)
   * *Published on 15 Mar 2024*
-* [RGB Representation as an Integer in Java](https://feeds.feedblitz.com/~/873637988/0/baeldung)
-  * *Published on 15 Mar 2024*
-* [Capturing Method Arguments When Running Spock Tests](https://feeds.feedblitz.com/~/873636707/0/baeldung)
-  * *Published on 14 Mar 2024*
-* [How to Autowire a Spring Bean in a Servlet Filter](https://feeds.feedblitz.com/~/873635585/0/baeldung)
-  * *Published on 14 Mar 2024*
