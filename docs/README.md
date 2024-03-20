@@ -239,13 +239,13 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
-* [Find the Largest Number Possible After Removing k Digits of a Number](https://feeds.feedblitz.com/~/873832877/0/baeldung~Find-the-Largest-Number-Possible-After-Removing-k-Digits-of-a-Number)
-  * *Published on 17 Mar 2024*
-* [Commit Offsets in Kafka](https://feeds.feedblitz.com/~/873832880/0/baeldung~Commit-Offsets-in-Kafka)
-  * *Published on 17 Mar 2024*
-* [Refresh and Fetch an Entity After Save in JPA](https://feeds.feedblitz.com/~/873831506/0/baeldung~Refresh-and-Fetch-an-Entity-After-Save-in-JPA)
-  * *Published on 17 Mar 2024*
-* [Parsing HTML Table in Java With Jsoup](https://feeds.feedblitz.com/~/873728714/0/baeldung~Parsing-HTML-Table-in-Java-With-Jsoup)
-  * *Published on 16 Mar 2024*
-* [Java Weekly, Issue 533](https://feeds.feedblitz.com/~/873682838/0/baeldung~Java-Weekly-Issue)
-  * *Published on 15 Mar 2024*
+* [Dynamically Managing Kafka Listeners in Spring Boot](https://feeds.feedblitz.com/~/873999593/0/baeldung~Dynamically-Managing-Kafka-Listeners-in-Spring-Boot)
+  * *Published on 20 Mar 2024*
+* [Querydsl vs. JPA Criteria](https://feeds.feedblitz.com/~/873998891/0/baeldung~Querydsl-vs-JPA-Criteria)
+  * *Published on 20 Mar 2024*
+* [Representation of Integers at a Bit Level in Java](https://feeds.feedblitz.com/~/873953819/0/baeldung~Representation-of-Integers-at-a-Bit-Level-in-Java)
+  * *Published on 19 Mar 2024*
+* [Adding Elements to a Collection During Iteration](https://feeds.feedblitz.com/~/873952736/0/baeldung~Adding-Elements-to-a-Collection-During-Iteration)
+  * *Published on 19 Mar 2024*
+* [Calculate Percentiles in Java](https://feeds.feedblitz.com/~/873952739/0/baeldung~Calculate-Percentiles-in-Java)
+  * *Published on 19 Mar 2024*
