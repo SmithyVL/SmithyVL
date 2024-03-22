@@ -239,13 +239,13 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
-* [Dynamically Managing Kafka Listeners in Spring Boot](https://feeds.feedblitz.com/~/873999593/0/baeldung~Dynamically-Managing-Kafka-Listeners-in-Spring-Boot)
-  * *Published on 20 Mar 2024*
-* [Querydsl vs. JPA Criteria](https://feeds.feedblitz.com/~/873998891/0/baeldung~Querydsl-vs-JPA-Criteria)
-  * *Published on 20 Mar 2024*
-* [Representation of Integers at a Bit Level in Java](https://feeds.feedblitz.com/~/873953819/0/baeldung~Representation-of-Integers-at-a-Bit-Level-in-Java)
-  * *Published on 19 Mar 2024*
-* [Adding Elements to a Collection During Iteration](https://feeds.feedblitz.com/~/873952736/0/baeldung~Adding-Elements-to-a-Collection-During-Iteration)
-  * *Published on 19 Mar 2024*
-* [Calculate Percentiles in Java](https://feeds.feedblitz.com/~/873952739/0/baeldung~Calculate-Percentiles-in-Java)
-  * *Published on 19 Mar 2024*
+* [Java Weekly, Issue 534 – All About Java 22](https://feeds.feedblitz.com/~/874110794/0/baeldung~Java-Weekly-Issue-All-About-Java)
+  * *Published on 21 Mar 2024*
+* [Guide to ExecutorService vs. CompletableFuture](https://feeds.feedblitz.com/~/874075697/0/baeldung~Guide-to-ExecutorService-vs-CompletableFuture)
+  * *Published on 21 Mar 2024*
+* [Check if a Given Time Lies Between Two Times Regardless of Date](https://feeds.feedblitz.com/~/874075700/0/baeldung~Check-if-a-Given-Time-Lies-Between-Two-Times-Regardless-of-Date)
+  * *Published on 21 Mar 2024*
+* [Implement Two-Level Cache With Spring](https://feeds.feedblitz.com/~/874074356/0/baeldung~Implement-TwoLevel-Cache-With-Spring)
+  * *Published on 21 Mar 2024*
+* [Checking if a Date Object Equals Yesterday](https://feeds.feedblitz.com/~/874074359/0/baeldung~Checking-if-a-Date-Object-Equals-Yesterday)
+  * *Published on 21 Mar 2024*
