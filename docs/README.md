@@ -239,6 +239,8 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [Dynamically Register Spring Beans Based on Properties](https://feeds.feedblitz.com/~/874197497/0/baeldung~Dynamically-Register-Spring-Beans-Based-on-Properties)
+  * *Published on 23 Mar 2024*
 * [Creating a Spring Security Key for Signing a JWT Token](https://feeds.feedblitz.com/~/874146302/0/baeldung~Creating-a-Spring-Security-Key-for-Signing-a-JWT-Token)
   * *Published on 22 Mar 2024*
 * [Invalid Characters in XML](https://feeds.feedblitz.com/~/874146305/0/baeldung~Invalid-Characters-in-XML)
@@ -246,6 +248,4 @@ No recent activity
 * [How to Convert Excel to JSON in Java](https://feeds.feedblitz.com/~/874140500/0/baeldung~How-to-Convert-Excel-to-JSON-in-Java)
   * *Published on 22 Mar 2024*
 * [Java Weekly, Issue 534 – All About Java 22](https://feeds.feedblitz.com/~/874110794/0/baeldung~Java-Weekly-Issue-All-About-Java)
-  * *Published on 21 Mar 2024*
-* [Guide to ExecutorService vs. CompletableFuture](https://feeds.feedblitz.com/~/874075697/0/baeldung~Guide-to-ExecutorService-vs-CompletableFuture)
   * *Published on 21 Mar 2024*
