@@ -239,13 +239,13 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
-* [Creating PostgreSQL Schema Before Liquibase Execution](https://feeds.feedblitz.com/~/874316855/0/baeldung~Creating-PostgreSQL-Schema-Before-Liquibase-Execution)
-  * *Published on 24 Mar 2024*
-* [Flatten a Stream of Maps to a Single Map in Java](https://feeds.feedblitz.com/~/874282082/0/baeldung~Flatten-a-Stream-of-Maps-to-a-Single-Map-in-Java)
-  * *Published on 24 Mar 2024*
-* [Add One Element to an Immutable List in Java](https://feeds.feedblitz.com/~/874282085/0/baeldung~Add-One-Element-to-an-Immutable-List-in-Java)
-  * *Published on 24 Mar 2024*
-* [Dynamically Register Spring Beans Based on Properties](https://feeds.feedblitz.com/~/874197497/0/baeldung~Dynamically-Register-Spring-Beans-Based-on-Properties)
-  * *Published on 23 Mar 2024*
-* [Creating a Spring Security Key for Signing a JWT Token](https://feeds.feedblitz.com/~/874146302/0/baeldung~Creating-a-Spring-Security-Key-for-Signing-a-JWT-Token)
-  * *Published on 22 Mar 2024*
+* [When to Use Setter Methods or Constructors for Setting a Variable’s Value in Java](https://feeds.feedblitz.com/~/874447466/0/baeldung~When-to-Use-Setter-Methods-or-Constructors-for-Setting-a-Variables-Value-in-Java)
+  * *Published on 26 Mar 2024*
+* [Converting UTF-8 to ISO-8859-1 in Java](https://feeds.feedblitz.com/~/874446803/0/baeldung~Converting-UTF-to-ISO-in-Java)
+  * *Published on 26 Mar 2024*
+* [Normalizing the EOL Character in Java](https://feeds.feedblitz.com/~/874446806/0/baeldung~Normalizing-the-EOL-Character-in-Java)
+  * *Published on 26 Mar 2024*
+* [Reading a .gz File Line by Line Using GZIPInputStream](https://feeds.feedblitz.com/~/874382666/0/baeldung~Reading-a-gz-File-Line-by-Line-Using-GZIPInputStream)
+  * *Published on 25 Mar 2024*
+* [Vigenère Cipher in Java](https://feeds.feedblitz.com/~/874382669/0/baeldung~Vigen%c3%a8re-Cipher-in-Java)
+  * *Published on 25 Mar 2024*
