@@ -239,13 +239,13 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [Saga Pattern in Microservices Architecture](https://feeds.feedblitz.com/~/874549433/0/baeldung~Saga-Pattern-in-Microservices-Architecture)
+  * *Published on 27 Mar 2024*
+* [Create Spring Prototype Scope Bean with Runtime Arguments](https://feeds.feedblitz.com/~/874527896/0/baeldung~Create-Spring-Prototype-Scope-Bean-with-Runtime-Arguments)
+  * *Published on 27 Mar 2024*
+* [Java InputStream vs. InputStreamReader](https://feeds.feedblitz.com/~/874527899/0/baeldung~Java-InputStream-vs-InputStreamReader)
+  * *Published on 27 Mar 2024*
+* [Get List of Entity From Database in Hibernate](https://feeds.feedblitz.com/~/874521833/0/baeldung~Get-List-of-Entity-From-Database-in-Hibernate)
+  * *Published on 27 Mar 2024*
 * [When to Use Setter Methods or Constructors for Setting a Variable’s Value in Java](https://feeds.feedblitz.com/~/874447466/0/baeldung~When-to-Use-Setter-Methods-or-Constructors-for-Setting-a-Variables-Value-in-Java)
   * *Published on 26 Mar 2024*
-* [Converting UTF-8 to ISO-8859-1 in Java](https://feeds.feedblitz.com/~/874446803/0/baeldung~Converting-UTF-to-ISO-in-Java)
-  * *Published on 26 Mar 2024*
-* [Normalizing the EOL Character in Java](https://feeds.feedblitz.com/~/874446806/0/baeldung~Normalizing-the-EOL-Character-in-Java)
-  * *Published on 26 Mar 2024*
-* [Reading a .gz File Line by Line Using GZIPInputStream](https://feeds.feedblitz.com/~/874382666/0/baeldung~Reading-a-gz-File-Line-by-Line-Using-GZIPInputStream)
-  * *Published on 25 Mar 2024*
-* [Vigenère Cipher in Java](https://feeds.feedblitz.com/~/874382669/0/baeldung~Vigen%c3%a8re-Cipher-in-Java)
-  * *Published on 25 Mar 2024*
