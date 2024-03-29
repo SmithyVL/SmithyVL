@@ -239,13 +239,13 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [@Subselect Annotation in Hibernate](https://feeds.feedblitz.com/~/874597835/0/baeldung~Subselect-Annotation-in-Hibernate)
+  * *Published on 28 Mar 2024*
+* [Include null Value in JSON Serialization](https://feeds.feedblitz.com/~/874597838/0/baeldung~Include-null-Value-in-JSON-Serialization)
+  * *Published on 28 Mar 2024*
+* [Fix Ambiguous Method Call Error in Mockito](https://feeds.feedblitz.com/~/874597106/0/baeldung~Fix-Ambiguous-Method-Call-Error-in-Mockito)
+  * *Published on 28 Mar 2024*
+* [Java Arrays Tutorial](https://feeds.feedblitz.com/~/874596197/0/baeldung~Java-Arrays-Tutorial)
+  * *Published on 28 Mar 2024*
 * [Saga Pattern in Microservices Architecture](https://feeds.feedblitz.com/~/874549433/0/baeldung~Saga-Pattern-in-Microservices-Architecture)
   * *Published on 27 Mar 2024*
-* [Create Spring Prototype Scope Bean with Runtime Arguments](https://feeds.feedblitz.com/~/874527896/0/baeldung~Create-Spring-Prototype-Scope-Bean-with-Runtime-Arguments)
-  * *Published on 27 Mar 2024*
-* [Java InputStream vs. InputStreamReader](https://feeds.feedblitz.com/~/874527899/0/baeldung~Java-InputStream-vs-InputStreamReader)
-  * *Published on 27 Mar 2024*
-* [Get List of Entity From Database in Hibernate](https://feeds.feedblitz.com/~/874521833/0/baeldung~Get-List-of-Entity-From-Database-in-Hibernate)
-  * *Published on 27 Mar 2024*
-* [When to Use Setter Methods or Constructors for Setting a Variable’s Value in Java](https://feeds.feedblitz.com/~/874447466/0/baeldung~When-to-Use-Setter-Methods-or-Constructors-for-Setting-a-Variables-Value-in-Java)
-  * *Published on 26 Mar 2024*
