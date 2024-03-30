@@ -239,13 +239,13 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [Finding Element by Attribute in Selenium](https://feeds.feedblitz.com/~/874674734/0/baeldung~Finding-Element-by-Attribute-in-Selenium)
+  * *Published on 29 Mar 2024*
+* [Merge Overlapping Intervals in a Java Collection](https://feeds.feedblitz.com/~/874674737/0/baeldung~Merge-Overlapping-Intervals-in-a-Java-Collection)
+  * *Published on 29 Mar 2024*
+* [Find Map Keys with Duplicate Values in Java](https://feeds.feedblitz.com/~/874673645/0/baeldung~Find-Map-Keys-with-Duplicate-Values-in-Java)
+  * *Published on 29 Mar 2024*
+* [Java Weekly, Issue 535 – Out with the RestTemplate (again)](https://feeds.feedblitz.com/~/874655420/0/baeldung~Java-Weekly-Issue-Out-with-the-RestTemplate-again)
+  * *Published on 29 Mar 2024*
 * [@Subselect Annotation in Hibernate](https://feeds.feedblitz.com/~/874597835/0/baeldung~Subselect-Annotation-in-Hibernate)
   * *Published on 28 Mar 2024*
-* [Include null Value in JSON Serialization](https://feeds.feedblitz.com/~/874597838/0/baeldung~Include-null-Value-in-JSON-Serialization)
-  * *Published on 28 Mar 2024*
-* [Fix Ambiguous Method Call Error in Mockito](https://feeds.feedblitz.com/~/874597106/0/baeldung~Fix-Ambiguous-Method-Call-Error-in-Mockito)
-  * *Published on 28 Mar 2024*
-* [Java Arrays Tutorial](https://feeds.feedblitz.com/~/874596197/0/baeldung~Java-Arrays-Tutorial)
-  * *Published on 28 Mar 2024*
-* [Saga Pattern in Microservices Architecture](https://feeds.feedblitz.com/~/874549433/0/baeldung~Saga-Pattern-in-Microservices-Architecture)
-  * *Published on 27 Mar 2024*
