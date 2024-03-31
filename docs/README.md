@@ -239,6 +239,8 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [The @Struct Annotation Type in Hibernate – Structured User-Defined Types](https://feeds.feedblitz.com/~/874714505/0/baeldung~The-Struct-Annotation-Type-in-Hibernate-Structured-UserDefined-Types)
+  * *Published on 30 Mar 2024*
 * [Finding Element by Attribute in Selenium](https://feeds.feedblitz.com/~/874674734/0/baeldung~Finding-Element-by-Attribute-in-Selenium)
   * *Published on 29 Mar 2024*
 * [Merge Overlapping Intervals in a Java Collection](https://feeds.feedblitz.com/~/874674737/0/baeldung~Merge-Overlapping-Intervals-in-a-Java-Collection)
@@ -247,5 +249,3 @@ No recent activity
   * *Published on 29 Mar 2024*
 * [Java Weekly, Issue 535 – Out with the RestTemplate (again)](https://feeds.feedblitz.com/~/874655420/0/baeldung~Java-Weekly-Issue-Out-with-the-RestTemplate-again)
   * *Published on 29 Mar 2024*
-* [@Subselect Annotation in Hibernate](https://feeds.feedblitz.com/~/874597835/0/baeldung~Subselect-Annotation-in-Hibernate)
-  * *Published on 28 Mar 2024*
