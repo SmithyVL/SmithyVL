@@ -239,6 +239,8 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [Check if an Element Is Present in a Set in Java](https://feeds.feedblitz.com/~/874863674/0/baeldung~Check-if-an-Element-Is-Present-in-a-Set-in-Java)
+  * *Published on 2 Apr 2024*
 * [Logging in Spring Boot With Loki](https://feeds.feedblitz.com/~/874770506/0/baeldung~Logging-in-Spring-Boot-With-Loki)
   * *Published on 31 Mar 2024*
 * [Get Last n Characters From a String](https://feeds.feedblitz.com/~/874764995/0/baeldung~Get-Last-n-Characters-From-a-String)
@@ -246,6 +248,4 @@ No recent activity
 * [The @Struct Annotation Type in Hibernate – Structured User-Defined Types](https://feeds.feedblitz.com/~/874714505/0/baeldung~The-Struct-Annotation-Type-in-Hibernate-Structured-UserDefined-Types)
   * *Published on 30 Mar 2024*
 * [Finding Element by Attribute in Selenium](https://feeds.feedblitz.com/~/874674734/0/baeldung~Finding-Element-by-Attribute-in-Selenium)
-  * *Published on 29 Mar 2024*
-* [Merge Overlapping Intervals in a Java Collection](https://feeds.feedblitz.com/~/874674737/0/baeldung~Merge-Overlapping-Intervals-in-a-Java-Collection)
   * *Published on 29 Mar 2024*
