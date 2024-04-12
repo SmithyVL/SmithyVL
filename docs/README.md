@@ -239,13 +239,13 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
-* [Disable @Cacheable in Spring Boot](https://feeds.feedblitz.com/~/875443247/0/baeldung~Disable-Cacheable-in-Spring-Boot)
-  * *Published on 8 Apr 2024*
-* [Statements Before super() in Java](https://feeds.feedblitz.com/~/875443250/0/baeldung~Statements-Before-super-in-Java)
-  * *Published on 8 Apr 2024*
-* [Opening HTML File Using Java](https://feeds.feedblitz.com/~/875443253/0/baeldung~Opening-HTML-File-Using-Java)
-  * *Published on 8 Apr 2024*
-* [Immutable vs Unmodifiable Collection in Java](https://feeds.feedblitz.com/~/875443256/0/baeldung~Immutable-vs-Unmodifiable-Collection-in-Java)
-  * *Published on 8 Apr 2024*
-* [Multiple-Level Mock Injection Into Mockito Spy Objects](https://feeds.feedblitz.com/~/875441384/0/baeldung~MultipleLevel-Mock-Injection-Into-Mockito-Spy-Objects)
-  * *Published on 8 Apr 2024*
+* [How to Scale a Bufferedimage in Java?](https://feeds.feedblitz.com/~/878922398/0/baeldung~How-to-Scale-a-Bufferedimage-in-Java)
+  * *Published on 12 Apr 2024*
+* [Introduction to Light-4J](https://feeds.feedblitz.com/~/878918000/0/baeldung~Introduction-to-LightJ)
+  * *Published on 12 Apr 2024*
+* [The Difference Between Throwing an Exception and Mono.error() in Spring Webflux](https://feeds.feedblitz.com/~/878918003/0/baeldung~The-Difference-Between-Throwing-an-Exception-and-Monoerror-in-Spring-Webflux)
+  * *Published on 12 Apr 2024*
+* [Convert a Phone Number in Words to Number with Java](https://feeds.feedblitz.com/~/878918006/0/baeldung~Convert-a-Phone-Number-in-Words-to-Number-with-Java)
+  * *Published on 12 Apr 2024*
+* [Fix the PSQLException: “FATAL: sorry, too many clients already”](https://feeds.feedblitz.com/~/878913761/0/baeldung~Fix-the-PSQLException-FATAL-sorry-too-many-clients-already)
+  * *Published on 12 Apr 2024*
