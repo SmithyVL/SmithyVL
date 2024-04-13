@@ -239,13 +239,13 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [New Features in Java 21](https://feeds.feedblitz.com/~/879005120/0/baeldung~New-Features-in-Java)
+  * *Published on 12 Apr 2024*
+* [Java Weekly, Issue 537](https://feeds.feedblitz.com/~/878983682/0/baeldung~Java-Weekly-Issue)
+  * *Published on 12 Apr 2024*
 * [How to Scale a Bufferedimage in Java?](https://feeds.feedblitz.com/~/878922398/0/baeldung~How-to-Scale-a-Bufferedimage-in-Java)
   * *Published on 12 Apr 2024*
 * [Introduction to Light-4J](https://feeds.feedblitz.com/~/878918000/0/baeldung~Introduction-to-LightJ)
   * *Published on 12 Apr 2024*
 * [The Difference Between Throwing an Exception and Mono.error() in Spring Webflux](https://feeds.feedblitz.com/~/878918003/0/baeldung~The-Difference-Between-Throwing-an-Exception-and-Monoerror-in-Spring-Webflux)
-  * *Published on 12 Apr 2024*
-* [Convert a Phone Number in Words to Number with Java](https://feeds.feedblitz.com/~/878918006/0/baeldung~Convert-a-Phone-Number-in-Words-to-Number-with-Java)
-  * *Published on 12 Apr 2024*
-* [Fix the PSQLException: “FATAL: sorry, too many clients already”](https://feeds.feedblitz.com/~/878913761/0/baeldung~Fix-the-PSQLException-FATAL-sorry-too-many-clients-already)
   * *Published on 12 Apr 2024*
