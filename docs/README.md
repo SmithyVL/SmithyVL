@@ -239,13 +239,13 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
-* [New Features in Java 21](https://feeds.feedblitz.com/~/879005120/0/baeldung~New-Features-in-Java)
-  * *Published on 12 Apr 2024*
-* [Java Weekly, Issue 537](https://feeds.feedblitz.com/~/878983682/0/baeldung~Java-Weekly-Issue)
-  * *Published on 12 Apr 2024*
-* [How to Scale a Bufferedimage in Java?](https://feeds.feedblitz.com/~/878922398/0/baeldung~How-to-Scale-a-Bufferedimage-in-Java)
-  * *Published on 12 Apr 2024*
-* [Introduction to Light-4J](https://feeds.feedblitz.com/~/878918000/0/baeldung~Introduction-to-LightJ)
-  * *Published on 12 Apr 2024*
-* [The Difference Between Throwing an Exception and Mono.error() in Spring Webflux](https://feeds.feedblitz.com/~/878918003/0/baeldung~The-Difference-Between-Throwing-an-Exception-and-Monoerror-in-Spring-Webflux)
-  * *Published on 12 Apr 2024*
+* [Code Coverage vs. Test Coverage](https://feeds.feedblitz.com/~/879272639/0/baeldung~Code-Coverage-vs-Test-Coverage)
+  * *Published on 13 Apr 2024*
+* [Introduction to Brave](https://feeds.feedblitz.com/~/879271025/0/baeldung~Introduction-to-Brave)
+  * *Published on 13 Apr 2024*
+* [Can @Transactional and @Async Work Together?](https://feeds.feedblitz.com/~/879271028/0/baeldung~Can-Transactional-and-Async-Work-Together)
+  * *Published on 13 Apr 2024*
+* [Get the Response Body in Spring Boot Filter](https://feeds.feedblitz.com/~/879268745/0/baeldung~Get-the-Response-Body-in-Spring-Boot-Filter)
+  * *Published on 13 Apr 2024*
+* [Intro to the Apache Commons Compress Project](https://feeds.feedblitz.com/~/879268748/0/baeldung~Intro-to-the-Apache-Commons-Compress-Project)
+  * *Published on 13 Apr 2024*
