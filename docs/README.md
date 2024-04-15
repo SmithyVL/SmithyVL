@@ -239,13 +239,13 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
-* [Code Coverage vs. Test Coverage](https://feeds.feedblitz.com/~/879272639/0/baeldung~Code-Coverage-vs-Test-Coverage)
-  * *Published on 13 Apr 2024*
-* [Introduction to Brave](https://feeds.feedblitz.com/~/879271025/0/baeldung~Introduction-to-Brave)
-  * *Published on 13 Apr 2024*
-* [Can @Transactional and @Async Work Together?](https://feeds.feedblitz.com/~/879271028/0/baeldung~Can-Transactional-and-Async-Work-Together)
-  * *Published on 13 Apr 2024*
-* [Get the Response Body in Spring Boot Filter](https://feeds.feedblitz.com/~/879268745/0/baeldung~Get-the-Response-Body-in-Spring-Boot-Filter)
-  * *Published on 13 Apr 2024*
-* [Intro to the Apache Commons Compress Project](https://feeds.feedblitz.com/~/879268748/0/baeldung~Intro-to-the-Apache-Commons-Compress-Project)
-  * *Published on 13 Apr 2024*
+* [Exploring Complex Number Arithmetic Operations in Java](https://feeds.feedblitz.com/~/879653051/0/baeldung~Exploring-Complex-Number-Arithmetic-Operations-in-Java)
+  * *Published on 15 Apr 2024*
+* [Polymorphism with Gson](https://feeds.feedblitz.com/~/879653054/0/baeldung~Polymorphism-with-Gson)
+  * *Published on 15 Apr 2024*
+* [SkipList Implementation in Java](https://feeds.feedblitz.com/~/879653057/0/baeldung~SkipList-Implementation-in-Java)
+  * *Published on 15 Apr 2024*
+* [Parallel Collection Processing with Parallel Collectors and Virtual Threads](https://feeds.feedblitz.com/~/879641144/0/baeldung~Parallel-Collection-Processing-with-Parallel-Collectors-and-Virtual-Threads)
+  * *Published on 15 Apr 2024*
+* [Introduction to DuckDB](https://feeds.feedblitz.com/~/879535463/0/baeldung~Introduction-to-DuckDB)
+  * *Published on 14 Apr 2024*
