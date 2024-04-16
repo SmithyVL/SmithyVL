@@ -239,13 +239,13 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
-* [Exploring Complex Number Arithmetic Operations in Java](https://feeds.feedblitz.com/~/879653051/0/baeldung~Exploring-Complex-Number-Arithmetic-Operations-in-Java)
-  * *Published on 15 Apr 2024*
-* [Polymorphism with Gson](https://feeds.feedblitz.com/~/879653054/0/baeldung~Polymorphism-with-Gson)
-  * *Published on 15 Apr 2024*
-* [SkipList Implementation in Java](https://feeds.feedblitz.com/~/879653057/0/baeldung~SkipList-Implementation-in-Java)
-  * *Published on 15 Apr 2024*
-* [Parallel Collection Processing with Parallel Collectors and Virtual Threads](https://feeds.feedblitz.com/~/879641144/0/baeldung~Parallel-Collection-Processing-with-Parallel-Collectors-and-Virtual-Threads)
-  * *Published on 15 Apr 2024*
-* [Introduction to DuckDB](https://feeds.feedblitz.com/~/879535463/0/baeldung~Introduction-to-DuckDB)
-  * *Published on 14 Apr 2024*
+* [Finding the Redirected URL of a URL in Java](https://feeds.feedblitz.com/~/881036624/0/baeldung~Finding-the-Redirected-URL-of-a-URL-in-Java)
+  * *Published on 16 Apr 2024*
+* [Print the Default Value When Overriding toString() Method](https://feeds.feedblitz.com/~/881036633/0/baeldung~Print-the-Default-Value-When-Overriding-toString-Method)
+  * *Published on 16 Apr 2024*
+* [Find the Length of the Longest Symmetric Substring](https://feeds.feedblitz.com/~/881036639/0/baeldung~Find-the-Length-of-the-Longest-Symmetric-Substring)
+  * *Published on 16 Apr 2024*
+* [Download File from S3 Given a URL](https://feeds.feedblitz.com/~/880981700/0/baeldung~Download-File-from-S-Given-a-URL)
+  * *Published on 16 Apr 2024*
+* [How to Specify the logback.xml Location](https://feeds.feedblitz.com/~/880981706/0/baeldung~How-to-Specify-the-logbackxml-Location)
+  * *Published on 16 Apr 2024*
