@@ -239,6 +239,8 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [Java Weekly, Issue 538](https://feeds.feedblitz.com/~/881947007/0/baeldung~Java-Weekly-Issue)
+  * *Published on 19 Apr 2024*
 * [Find the Date of Easter Sunday for the Given Year](https://feeds.feedblitz.com/~/881373233/0/baeldung~Find-the-Date-of-Easter-Sunday-for-the-Given-Year)
   * *Published on 16 Apr 2024*
 * [Different Ways to Use Limit and Skip in MongoRepository](https://feeds.feedblitz.com/~/881373236/0/baeldung~Different-Ways-to-Use-Limit-and-Skip-in-MongoRepository)
@@ -246,6 +248,4 @@ No recent activity
 * [Finding the Redirected URL of a URL in Java](https://feeds.feedblitz.com/~/881036624/0/baeldung~Finding-the-Redirected-URL-of-a-URL-in-Java)
   * *Published on 16 Apr 2024*
 * [Print the Default Value When Overriding toString() Method](https://feeds.feedblitz.com/~/881036633/0/baeldung~Print-the-Default-Value-When-Overriding-toString-Method)
-  * *Published on 16 Apr 2024*
-* [Find the Length of the Longest Symmetric Substring](https://feeds.feedblitz.com/~/881036639/0/baeldung~Find-the-Length-of-the-Longest-Symmetric-Substring)
   * *Published on 16 Apr 2024*
