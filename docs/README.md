@@ -239,13 +239,13 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [Compress and Create a Byte Array Using GZip](https://feeds.feedblitz.com/~/882129158/0/baeldung~Compress-and-Create-a-Byte-Array-Using-GZip)
+  * *Published on 21 Apr 2024*
+* [“Not a Managed Type” Exception in Spring Data JPA](https://feeds.feedblitz.com/~/882128618/0/baeldung~%e2%80%9cNot-a-Managed-Type%e2%80%9d-Exception-in-Spring-Data-JPA)
+  * *Published on 21 Apr 2024*
+* [Introduction to Simple Java Mail](https://feeds.feedblitz.com/~/882128621/0/baeldung~Introduction-to-Simple-Java-Mail)
+  * *Published on 21 Apr 2024*
 * [Java Weekly, Issue 538](https://feeds.feedblitz.com/~/881947007/0/baeldung~Java-Weekly-Issue)
   * *Published on 19 Apr 2024*
 * [Find the Date of Easter Sunday for the Given Year](https://feeds.feedblitz.com/~/881373233/0/baeldung~Find-the-Date-of-Easter-Sunday-for-the-Given-Year)
-  * *Published on 16 Apr 2024*
-* [Different Ways to Use Limit and Skip in MongoRepository](https://feeds.feedblitz.com/~/881373236/0/baeldung~Different-Ways-to-Use-Limit-and-Skip-in-MongoRepository)
-  * *Published on 16 Apr 2024*
-* [Finding the Redirected URL of a URL in Java](https://feeds.feedblitz.com/~/881036624/0/baeldung~Finding-the-Redirected-URL-of-a-URL-in-Java)
-  * *Published on 16 Apr 2024*
-* [Print the Default Value When Overriding toString() Method](https://feeds.feedblitz.com/~/881036633/0/baeldung~Print-the-Default-Value-When-Overriding-toString-Method)
   * *Published on 16 Apr 2024*
