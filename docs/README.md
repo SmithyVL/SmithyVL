@@ -239,13 +239,13 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [Convert String to OffsetDateTime](https://feeds.feedblitz.com/~/882204233/0/baeldung~Convert-String-to-OffsetDateTime)
+  * *Published on 23 Apr 2024*
+* [Implement the Builder Pattern in Java 8](https://feeds.feedblitz.com/~/882204236/0/baeldung~Implement-the-Builder-Pattern-in-Java)
+  * *Published on 23 Apr 2024*
+* [Difference Between Casting to String and String.valueOf()](https://feeds.feedblitz.com/~/882204239/0/baeldung~Difference-Between-Casting-to-String-and-StringvalueOf)
+  * *Published on 23 Apr 2024*
+* [Implement Update-Or-Insert in Spring Data JPA](https://feeds.feedblitz.com/~/882199895/0/baeldung~Implement-UpdateOrInsert-in-Spring-Data-JPA)
+  * *Published on 22 Apr 2024*
 * [Compress and Create a Byte Array Using GZip](https://feeds.feedblitz.com/~/882129158/0/baeldung~Compress-and-Create-a-Byte-Array-Using-GZip)
   * *Published on 21 Apr 2024*
-* [“Not a Managed Type” Exception in Spring Data JPA](https://feeds.feedblitz.com/~/882128618/0/baeldung~%e2%80%9cNot-a-Managed-Type%e2%80%9d-Exception-in-Spring-Data-JPA)
-  * *Published on 21 Apr 2024*
-* [Introduction to Simple Java Mail](https://feeds.feedblitz.com/~/882128621/0/baeldung~Introduction-to-Simple-Java-Mail)
-  * *Published on 21 Apr 2024*
-* [Java Weekly, Issue 538](https://feeds.feedblitz.com/~/881947007/0/baeldung~Java-Weekly-Issue)
-  * *Published on 19 Apr 2024*
-* [Find the Date of Easter Sunday for the Given Year](https://feeds.feedblitz.com/~/881373233/0/baeldung~Find-the-Date-of-Easter-Sunday-for-the-Given-Year)
-  * *Published on 16 Apr 2024*
