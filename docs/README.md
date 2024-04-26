@@ -239,13 +239,13 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [Calculating Moving Averages in Java](https://feeds.feedblitz.com/~/882438500/0/baeldung~Calculating-Moving-Averages-in-Java)
+  * *Published on 25 Apr 2024*
+* [PersistenceUnit vs. PersistenceContext](https://feeds.feedblitz.com/~/882438503/0/baeldung~PersistenceUnit-vs-PersistenceContext)
+  * *Published on 25 Apr 2024*
 * [Convert String to OffsetDateTime](https://feeds.feedblitz.com/~/882204233/0/baeldung~Convert-String-to-OffsetDateTime)
   * *Published on 23 Apr 2024*
 * [Implement the Builder Pattern in Java 8](https://feeds.feedblitz.com/~/882204236/0/baeldung~Implement-the-Builder-Pattern-in-Java)
   * *Published on 23 Apr 2024*
 * [Difference Between Casting to String and String.valueOf()](https://feeds.feedblitz.com/~/882204239/0/baeldung~Difference-Between-Casting-to-String-and-StringvalueOf)
   * *Published on 23 Apr 2024*
-* [Implement Update-Or-Insert in Spring Data JPA](https://feeds.feedblitz.com/~/882199895/0/baeldung~Implement-UpdateOrInsert-in-Spring-Data-JPA)
-  * *Published on 22 Apr 2024*
-* [Compress and Create a Byte Array Using GZip](https://feeds.feedblitz.com/~/882129158/0/baeldung~Compress-and-Create-a-Byte-Array-Using-GZip)
-  * *Published on 21 Apr 2024*
