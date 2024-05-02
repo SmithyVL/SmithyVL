@@ -239,13 +239,13 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [How to Fix EOFException in Java](https://feeds.feedblitz.com/~/890365937/0/baeldung~How-to-Fix-EOFException-in-Java)
+  * *Published on 2 May 2024*
+* [Converting Image to BufferedImage in Java](https://feeds.feedblitz.com/~/890365943/0/baeldung~Converting-Image-to-BufferedImage-in-Java)
+  * *Published on 2 May 2024*
 * [Java Weekly, Issue 539](https://feeds.feedblitz.com/~/882765509/0/baeldung~Java-Weekly-Issue)
   * *Published on 26 Apr 2024*
 * [Calculating Moving Averages in Java](https://feeds.feedblitz.com/~/882438500/0/baeldung~Calculating-Moving-Averages-in-Java)
   * *Published on 25 Apr 2024*
 * [PersistenceUnit vs. PersistenceContext](https://feeds.feedblitz.com/~/882438503/0/baeldung~PersistenceUnit-vs-PersistenceContext)
   * *Published on 25 Apr 2024*
-* [Convert String to OffsetDateTime](https://feeds.feedblitz.com/~/882204233/0/baeldung~Convert-String-to-OffsetDateTime)
-  * *Published on 23 Apr 2024*
-* [Implement the Builder Pattern in Java 8](https://feeds.feedblitz.com/~/882204236/0/baeldung~Implement-the-Builder-Pattern-in-Java)
-  * *Published on 23 Apr 2024*
