@@ -239,13 +239,13 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
-* [How to Fix EOFException in Java](https://feeds.feedblitz.com/~/890365937/0/baeldung~How-to-Fix-EOFException-in-Java)
+* [Spring WebClient exchange() vs retrieve()](https://feeds.feedblitz.com/~/890510609/0/baeldung~Spring-WebClient-exchange-vs-retrieve)
   * *Published on 2 May 2024*
-* [Converting Image to BufferedImage in Java](https://feeds.feedblitz.com/~/890365943/0/baeldung~Converting-Image-to-BufferedImage-in-Java)
+* [Resolving Security Exception: java.security.UnrecoverableKeyException: Cannot Recover Key](https://feeds.feedblitz.com/~/890510612/0/baeldung~Resolving-Security-Exception-javasecurityUnrecoverableKeyException-Cannot-Recover-Key)
   * *Published on 2 May 2024*
-* [Java Weekly, Issue 539](https://feeds.feedblitz.com/~/882765509/0/baeldung~Java-Weekly-Issue)
-  * *Published on 26 Apr 2024*
-* [Calculating Moving Averages in Java](https://feeds.feedblitz.com/~/882438500/0/baeldung~Calculating-Moving-Averages-in-Java)
-  * *Published on 25 Apr 2024*
-* [PersistenceUnit vs. PersistenceContext](https://feeds.feedblitz.com/~/882438503/0/baeldung~PersistenceUnit-vs-PersistenceContext)
-  * *Published on 25 Apr 2024*
+* [Intro to Apache Commons Configuration Project](https://feeds.feedblitz.com/~/890510615/0/baeldung~Intro-to-Apache-Commons-Configuration-Project)
+  * *Published on 2 May 2024*
+* [Get Nextval From Sequence With Spring JPA](https://feeds.feedblitz.com/~/890510618/0/baeldung~Get-Nextval-From-Sequence-With-Spring-JPA)
+  * *Published on 2 May 2024*
+* [Setting Default TimeZone in Spring Boot Application](https://feeds.feedblitz.com/~/890469467/0/baeldung~Setting-Default-TimeZone-in-Spring-Boot-Application)
+  * *Published on 2 May 2024*
