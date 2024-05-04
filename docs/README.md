@@ -239,13 +239,13 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
-* [Spring WebClient exchange() vs retrieve()](https://feeds.feedblitz.com/~/890510609/0/baeldung~Spring-WebClient-exchange-vs-retrieve)
-  * *Published on 2 May 2024*
-* [Resolving Security Exception: java.security.UnrecoverableKeyException: Cannot Recover Key](https://feeds.feedblitz.com/~/890510612/0/baeldung~Resolving-Security-Exception-javasecurityUnrecoverableKeyException-Cannot-Recover-Key)
-  * *Published on 2 May 2024*
-* [Intro to Apache Commons Configuration Project](https://feeds.feedblitz.com/~/890510615/0/baeldung~Intro-to-Apache-Commons-Configuration-Project)
-  * *Published on 2 May 2024*
-* [Get Nextval From Sequence With Spring JPA](https://feeds.feedblitz.com/~/890510618/0/baeldung~Get-Nextval-From-Sequence-With-Spring-JPA)
-  * *Published on 2 May 2024*
-* [Setting Default TimeZone in Spring Boot Application](https://feeds.feedblitz.com/~/890469467/0/baeldung~Setting-Default-TimeZone-in-Spring-Boot-Application)
-  * *Published on 2 May 2024*
+* [How to Test a Spring AOP Aspect](https://feeds.feedblitz.com/~/895782524/0/baeldung~How-to-Test-a-Spring-AOP-Aspect)
+  * *Published on 4 May 2024*
+* [Convert 2D Array Into 1D Array](https://feeds.feedblitz.com/~/895782527/0/baeldung~Convert-D-Array-Into-D-Array)
+  * *Published on 4 May 2024*
+* [Finding The Index of the Smallest Element in an Array](https://feeds.feedblitz.com/~/895782530/0/baeldung~Finding-The-Index-of-the-Smallest-Element-in-an-Array)
+  * *Published on 4 May 2024*
+* [Remove All Characters Before a Specific Character in Java](https://feeds.feedblitz.com/~/895782533/0/baeldung~Remove-All-Characters-Before-a-Specific-Character-in-Java)
+  * *Published on 4 May 2024*
+* [Authenticate Using Social Login in Spring Authorization Server](https://feeds.feedblitz.com/~/895780871/0/baeldung~Authenticate-Using-Social-Login-in-Spring-Authorization-Server)
+  * *Published on 4 May 2024*
