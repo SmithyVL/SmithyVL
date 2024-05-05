@@ -239,6 +239,8 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [Generate Java Classes From Avro Schemas Using Gradle](https://feeds.feedblitz.com/~/895783241/0/baeldung~Generate-Java-Classes-From-Avro-Schemas-Using-Gradle)
+  * *Published on 4 May 2024*
 * [How to Test a Spring AOP Aspect](https://feeds.feedblitz.com/~/895782524/0/baeldung~How-to-Test-a-Spring-AOP-Aspect)
   * *Published on 4 May 2024*
 * [Convert 2D Array Into 1D Array](https://feeds.feedblitz.com/~/895782527/0/baeldung~Convert-D-Array-Into-D-Array)
@@ -246,6 +248,4 @@ No recent activity
 * [Finding The Index of the Smallest Element in an Array](https://feeds.feedblitz.com/~/895782530/0/baeldung~Finding-The-Index-of-the-Smallest-Element-in-an-Array)
   * *Published on 4 May 2024*
 * [Remove All Characters Before a Specific Character in Java](https://feeds.feedblitz.com/~/895782533/0/baeldung~Remove-All-Characters-Before-a-Specific-Character-in-Java)
-  * *Published on 4 May 2024*
-* [Authenticate Using Social Login in Spring Authorization Server](https://feeds.feedblitz.com/~/895780871/0/baeldung~Authenticate-Using-Social-Login-in-Spring-Authorization-Server)
   * *Published on 4 May 2024*
