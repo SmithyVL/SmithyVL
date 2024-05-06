@@ -239,13 +239,13 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
-* [Generate Java Classes From Avro Schemas Using Gradle](https://feeds.feedblitz.com/~/895783241/0/baeldung~Generate-Java-Classes-From-Avro-Schemas-Using-Gradle)
-  * *Published on 4 May 2024*
-* [How to Test a Spring AOP Aspect](https://feeds.feedblitz.com/~/895782524/0/baeldung~How-to-Test-a-Spring-AOP-Aspect)
-  * *Published on 4 May 2024*
-* [Convert 2D Array Into 1D Array](https://feeds.feedblitz.com/~/895782527/0/baeldung~Convert-D-Array-Into-D-Array)
-  * *Published on 4 May 2024*
-* [Finding The Index of the Smallest Element in an Array](https://feeds.feedblitz.com/~/895782530/0/baeldung~Finding-The-Index-of-the-Smallest-Element-in-an-Array)
-  * *Published on 4 May 2024*
-* [Remove All Characters Before a Specific Character in Java](https://feeds.feedblitz.com/~/895782533/0/baeldung~Remove-All-Characters-Before-a-Specific-Character-in-Java)
-  * *Published on 4 May 2024*
+* [Inheritance vs. Composition in JPA](https://feeds.feedblitz.com/~/895922714/0/baeldung~Inheritance-vs-Composition-in-JPA)
+  * *Published on 6 May 2024*
+* [Converting short to byte[] in Java](https://feeds.feedblitz.com/~/895922063/0/baeldung~Converting-short-to-byte-in-Java)
+  * *Published on 6 May 2024*
+* [OpenAPI Custom Generator](https://feeds.feedblitz.com/~/895921010/0/baeldung~OpenAPI-Custom-Generator)
+  * *Published on 6 May 2024*
+* [Save Child Objects Automatically Using JPA](https://feeds.feedblitz.com/~/895921013/0/baeldung~Save-Child-Objects-Automatically-Using-JPA)
+  * *Published on 6 May 2024*
+* [Fix Spring Boot H2 JdbcSQLSyntaxErrorException “Table not found”](https://feeds.feedblitz.com/~/895921016/0/baeldung~Fix-Spring-Boot-H-JdbcSQLSyntaxErrorException-Table-not-found)
+  * *Published on 6 May 2024*
