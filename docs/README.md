@@ -239,13 +239,13 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
-* [Inheritance vs. Composition in JPA](https://feeds.feedblitz.com/~/895922714/0/baeldung~Inheritance-vs-Composition-in-JPA)
-  * *Published on 6 May 2024*
-* [Converting short to byte[] in Java](https://feeds.feedblitz.com/~/895922063/0/baeldung~Converting-short-to-byte-in-Java)
-  * *Published on 6 May 2024*
-* [OpenAPI Custom Generator](https://feeds.feedblitz.com/~/895921010/0/baeldung~OpenAPI-Custom-Generator)
-  * *Published on 6 May 2024*
-* [Save Child Objects Automatically Using JPA](https://feeds.feedblitz.com/~/895921013/0/baeldung~Save-Child-Objects-Automatically-Using-JPA)
-  * *Published on 6 May 2024*
-* [Fix Spring Boot H2 JdbcSQLSyntaxErrorException “Table not found”](https://feeds.feedblitz.com/~/895921016/0/baeldung~Fix-Spring-Boot-H-JdbcSQLSyntaxErrorException-Table-not-found)
-  * *Published on 6 May 2024*
+* [Convert Jackson JsonNode to Typed Collection](https://feeds.feedblitz.com/~/896021405/0/baeldung~Convert-Jackson-JsonNode-to-Typed-Collection)
+  * *Published on 7 May 2024*
+* [How to Iterate a List of Maps in Java](https://feeds.feedblitz.com/~/896021408/0/baeldung~How-to-Iterate-a-List-of-Maps-in-Java)
+  * *Published on 7 May 2024*
+* [Convert an Optional to an ArrayList in Java](https://feeds.feedblitz.com/~/896021411/0/baeldung~Convert-an-Optional-to-an-ArrayList-in-Java)
+  * *Published on 7 May 2024*
+* [Using Reactor Mono.cache() for Memoization](https://feeds.feedblitz.com/~/896019875/0/baeldung~Using-Reactor-Monocache-for-Memoization)
+  * *Published on 7 May 2024*
+* [Full and Partial Text Search in MongoDB](https://feeds.feedblitz.com/~/896019881/0/baeldung~Full-and-Partial-Text-Search-in-MongoDB)
+  * *Published on 7 May 2024*
