@@ -239,6 +239,8 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [Convert a Queue to a List](https://feeds.feedblitz.com/~/896100500/0/baeldung~Convert-a-Queue-to-a-List)
+  * *Published on 8 May 2024*
 * [Convert Jackson JsonNode to Typed Collection](https://feeds.feedblitz.com/~/896021405/0/baeldung~Convert-Jackson-JsonNode-to-Typed-Collection)
   * *Published on 7 May 2024*
 * [How to Iterate a List of Maps in Java](https://feeds.feedblitz.com/~/896021408/0/baeldung~How-to-Iterate-a-List-of-Maps-in-Java)
@@ -246,6 +248,4 @@ No recent activity
 * [Convert an Optional to an ArrayList in Java](https://feeds.feedblitz.com/~/896021411/0/baeldung~Convert-an-Optional-to-an-ArrayList-in-Java)
   * *Published on 7 May 2024*
 * [Using Reactor Mono.cache() for Memoization](https://feeds.feedblitz.com/~/896019875/0/baeldung~Using-Reactor-Monocache-for-Memoization)
-  * *Published on 7 May 2024*
-* [Full and Partial Text Search in MongoDB](https://feeds.feedblitz.com/~/896019881/0/baeldung~Full-and-Partial-Text-Search-in-MongoDB)
   * *Published on 7 May 2024*
