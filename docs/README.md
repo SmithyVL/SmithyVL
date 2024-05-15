@@ -239,13 +239,13 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [Supply Enum Value to an Annotation From a Constant in Java](https://feeds.feedblitz.com/~/896575463/0/baeldung~Supply-Enum-Value-to-an-Annotation-From-a-Constant-in-Java)
+  * *Published on 14 May 2024*
+* [Monads in Java](https://feeds.feedblitz.com/~/724717715/0/baeldung~Monads-in-Java)
+  * *Published on 14 May 2024*
+* [Check if a Number Is Power of 2 in Java](https://feeds.feedblitz.com/~/896563292/0/baeldung~Check-if-a-Number-Is-Power-of-in-Java)
+  * *Published on 14 May 2024*
+* [Finding the Second Smallest Integer in an Array in Java](https://feeds.feedblitz.com/~/896563295/0/baeldung~Finding-the-Second-Smallest-Integer-in-an-Array-in-Java)
+  * *Published on 14 May 2024*
 * [Introduction to JavaParser](https://feeds.feedblitz.com/~/896429228/0/baeldung~Introduction-to-JavaParser)
-  * *Published on 12 May 2024*
-* [Get the First and the Last Elements From an Array in Java](https://feeds.feedblitz.com/~/896422973/0/baeldung~Get-the-First-and-the-Last-Elements-From-an-Array-in-Java)
-  * *Published on 12 May 2024*
-* [Configuring Retry Policy for gRPC Request](https://feeds.feedblitz.com/~/896422976/0/baeldung~Configuring-Retry-Policy-for-gRPC-Request)
-  * *Published on 12 May 2024*
-* [Convert InputStream to Stream in Java](https://feeds.feedblitz.com/~/896421905/0/baeldung~Convert-InputStream-to-Stream-in-Java)
-  * *Published on 12 May 2024*
-* [Introduction to SSHJ](https://feeds.feedblitz.com/~/896421908/0/baeldung~Introduction-to-SSHJ)
   * *Published on 12 May 2024*
