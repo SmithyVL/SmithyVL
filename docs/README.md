@@ -239,13 +239,13 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
-* [Supply Enum Value to an Annotation From a Constant in Java](https://feeds.feedblitz.com/~/896575463/0/baeldung~Supply-Enum-Value-to-an-Annotation-From-a-Constant-in-Java)
-  * *Published on 14 May 2024*
-* [Monads in Java](https://feeds.feedblitz.com/~/724717715/0/baeldung~Monads-in-Java)
-  * *Published on 14 May 2024*
-* [Check if a Number Is Power of 2 in Java](https://feeds.feedblitz.com/~/896563292/0/baeldung~Check-if-a-Number-Is-Power-of-in-Java)
-  * *Published on 14 May 2024*
-* [Finding the Second Smallest Integer in an Array in Java](https://feeds.feedblitz.com/~/896563295/0/baeldung~Finding-the-Second-Smallest-Integer-in-an-Array-in-Java)
-  * *Published on 14 May 2024*
-* [Introduction to JavaParser](https://feeds.feedblitz.com/~/896429228/0/baeldung~Introduction-to-JavaParser)
-  * *Published on 12 May 2024*
+* [Add an Aggregation to an Elasticsearch Query](https://feeds.feedblitz.com/~/896673584/0/baeldung~Add-an-Aggregation-to-an-Elasticsearch-Query)
+  * *Published on 16 May 2024*
+* [Understanding Maven Dependency Graph or Tree](https://feeds.feedblitz.com/~/896672894/0/baeldung~Understanding-Maven-Dependency-Graph-or-Tree)
+  * *Published on 16 May 2024*
+* [Check if Two Strings Are Permutations of Each Other in Java](https://feeds.feedblitz.com/~/896672897/0/baeldung~Check-if-Two-Strings-Are-Permutations-of-Each-Other-in-Java)
+  * *Published on 16 May 2024*
+* [Git Integration in IntelliJ IDEA](https://feeds.feedblitz.com/~/896672900/0/baeldung~Git-Integration-in-IntelliJ-IDEA)
+  * *Published on 16 May 2024*
+* [Logging SQL Queries to the Console in Mybatis](https://feeds.feedblitz.com/~/896672273/0/baeldung~Logging-SQL-Queries-to-the-Console-in-Mybatis)
+  * *Published on 16 May 2024*
