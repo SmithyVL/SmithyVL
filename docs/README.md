@@ -239,13 +239,13 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
-* [Add an Aggregation to an Elasticsearch Query](https://feeds.feedblitz.com/~/896673584/0/baeldung~Add-an-Aggregation-to-an-Elasticsearch-Query)
-  * *Published on 16 May 2024*
-* [Understanding Maven Dependency Graph or Tree](https://feeds.feedblitz.com/~/896672894/0/baeldung~Understanding-Maven-Dependency-Graph-or-Tree)
-  * *Published on 16 May 2024*
-* [Check if Two Strings Are Permutations of Each Other in Java](https://feeds.feedblitz.com/~/896672897/0/baeldung~Check-if-Two-Strings-Are-Permutations-of-Each-Other-in-Java)
-  * *Published on 16 May 2024*
-* [Git Integration in IntelliJ IDEA](https://feeds.feedblitz.com/~/896672900/0/baeldung~Git-Integration-in-IntelliJ-IDEA)
-  * *Published on 16 May 2024*
-* [Logging SQL Queries to the Console in Mybatis](https://feeds.feedblitz.com/~/896672273/0/baeldung~Logging-SQL-Queries-to-the-Console-in-Mybatis)
-  * *Published on 16 May 2024*
+* [How to Compile Java to WASM (Web Assembly)](https://feeds.feedblitz.com/~/896806535/0/baeldung~How-to-Compile-Java-to-WASM-Web-Assembly)
+  * *Published on 17 May 2024*
+* [Extract Text From a HTML Tag with Regex](https://feeds.feedblitz.com/~/896805077/0/baeldung~Extract-Text-From-a-HTML-Tag-with-Regex)
+  * *Published on 17 May 2024*
+* [How to Set JVM Arguments in IntelliJ IDEA?](https://feeds.feedblitz.com/~/896805080/0/baeldung~How-to-Set-JVM-Arguments-in-IntelliJ-IDEA)
+  * *Published on 17 May 2024*
+* [The Difference Between doAnswer() and thenReturn() in Mockito](https://feeds.feedblitz.com/~/896805083/0/baeldung~The-Difference-Between-doAnswer-and-thenReturn-in-Mockito)
+  * *Published on 17 May 2024*
+* [How to Make Multiple REST Calls in CompletableFuture](https://feeds.feedblitz.com/~/896804147/0/baeldung~How-to-Make-Multiple-REST-Calls-in-CompletableFuture)
+  * *Published on 17 May 2024*
