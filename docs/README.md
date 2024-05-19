@@ -239,13 +239,13 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
-* [How to Compile Java to WASM (Web Assembly)](https://feeds.feedblitz.com/~/896806535/0/baeldung~How-to-Compile-Java-to-WASM-Web-Assembly)
-  * *Published on 17 May 2024*
-* [Extract Text From a HTML Tag with Regex](https://feeds.feedblitz.com/~/896805077/0/baeldung~Extract-Text-From-a-HTML-Tag-with-Regex)
-  * *Published on 17 May 2024*
-* [How to Set JVM Arguments in IntelliJ IDEA?](https://feeds.feedblitz.com/~/896805080/0/baeldung~How-to-Set-JVM-Arguments-in-IntelliJ-IDEA)
-  * *Published on 17 May 2024*
-* [The Difference Between doAnswer() and thenReturn() in Mockito](https://feeds.feedblitz.com/~/896805083/0/baeldung~The-Difference-Between-doAnswer-and-thenReturn-in-Mockito)
-  * *Published on 17 May 2024*
-* [How to Make Multiple REST Calls in CompletableFuture](https://feeds.feedblitz.com/~/896804147/0/baeldung~How-to-Make-Multiple-REST-Calls-in-CompletableFuture)
-  * *Published on 17 May 2024*
+* [Difference Between Optional.of() and Optional.ofNullable() in Java](https://feeds.feedblitz.com/~/896855108/0/baeldung~Difference-Between-Optionalof-and-OptionalofNullable-in-Java)
+  * *Published on 18 May 2024*
+* [Mocking Protected Method in Java](https://feeds.feedblitz.com/~/896855111/0/baeldung~Mocking-Protected-Method-in-Java)
+  * *Published on 18 May 2024*
+* [Add Global Exception Interceptor in gRPC Server](https://feeds.feedblitz.com/~/896855114/0/baeldung~Add-Global-Exception-Interceptor-in-gRPC-Server)
+  * *Published on 18 May 2024*
+* [Fault Tolerance in Java Using Failsafe](https://feeds.feedblitz.com/~/896855117/0/baeldung~Fault-Tolerance-in-Java-Using-Failsafe)
+  * *Published on 18 May 2024*
+* [Disable Logging From a Specific Class in Logback](https://feeds.feedblitz.com/~/896855120/0/baeldung~Disable-Logging-From-a-Specific-Class-in-Logback)
+  * *Published on 18 May 2024*
