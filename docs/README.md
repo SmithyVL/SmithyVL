@@ -239,6 +239,8 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [How to Check if Optional Contains Value Equal to T Object](https://feeds.feedblitz.com/~/896953277/0/baeldung~How-to-Check-if-Optional-Contains-Value-Equal-to-T-Object)
+  * *Published on 19 May 2024*
 * [Difference Between Optional.of() and Optional.ofNullable() in Java](https://feeds.feedblitz.com/~/896855108/0/baeldung~Difference-Between-Optionalof-and-OptionalofNullable-in-Java)
   * *Published on 18 May 2024*
 * [Mocking Protected Method in Java](https://feeds.feedblitz.com/~/896855111/0/baeldung~Mocking-Protected-Method-in-Java)
@@ -246,6 +248,4 @@ No recent activity
 * [Add Global Exception Interceptor in gRPC Server](https://feeds.feedblitz.com/~/896855114/0/baeldung~Add-Global-Exception-Interceptor-in-gRPC-Server)
   * *Published on 18 May 2024*
 * [Fault Tolerance in Java Using Failsafe](https://feeds.feedblitz.com/~/896855117/0/baeldung~Fault-Tolerance-in-Java-Using-Failsafe)
-  * *Published on 18 May 2024*
-* [Disable Logging From a Specific Class in Logback](https://feeds.feedblitz.com/~/896855120/0/baeldung~Disable-Logging-From-a-Specific-Class-in-Logback)
   * *Published on 18 May 2024*
