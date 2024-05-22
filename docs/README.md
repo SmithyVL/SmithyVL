@@ -239,13 +239,13 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
-* [Monitor a Spring Boot App Using Prometheus](https://feeds.feedblitz.com/~/897096065/0/baeldung~Monitor-a-Spring-Boot-App-Using-Prometheus)
-  * *Published on 20 May 2024*
-* [Clear Managed Entities in JPA/Hibernate](https://feeds.feedblitz.com/~/897096068/0/baeldung~Clear-Managed-Entities-in-JPAHibernate)
-  * *Published on 20 May 2024*
-* [Convert Between CLOB and String in Java](https://feeds.feedblitz.com/~/897096071/0/baeldung~Convert-Between-CLOB-and-String-in-Java)
-  * *Published on 20 May 2024*
-* [How to Convert XML to PDF](https://feeds.feedblitz.com/~/897096074/0/baeldung~How-to-Convert-XML-to-PDF)
-  * *Published on 20 May 2024*
-* [Get the Indices of an Array After Sorting in Java](https://feeds.feedblitz.com/~/897096077/0/baeldung~Get-the-Indices-of-an-Array-After-Sorting-in-Java)
-  * *Published on 20 May 2024*
+* [Solving Spring Data JPA ConverterNotFoundException: No converter found](https://feeds.feedblitz.com/~/897230171/0/baeldung~Solving-Spring-Data-JPA-ConverterNotFoundException-No-converter-found)
+  * *Published on 21 May 2024*
+* [Map LocalDateTime to Instant in MapStruct](https://feeds.feedblitz.com/~/897230174/0/baeldung~Map-LocalDateTime-to-Instant-in-MapStruct)
+  * *Published on 21 May 2024*
+* [Merge Multiple PDF Files Into a Single PDF Using Java](https://feeds.feedblitz.com/~/897230177/0/baeldung~Merge-Multiple-PDF-Files-Into-a-Single-PDF-Using-Java)
+  * *Published on 21 May 2024*
+* [Comparison Between Flux.map() and Flux.doOnNext()](https://feeds.feedblitz.com/~/897229055/0/baeldung~Comparison-Between-Fluxmap-and-FluxdoOnNext)
+  * *Published on 21 May 2024*
+* [Using @Autowired and @InjectMocks in Spring Boot Tests](https://feeds.feedblitz.com/~/897229058/0/baeldung~Using-Autowired-and-InjectMocks-in-Spring-Boot-Tests)
+  * *Published on 21 May 2024*
