@@ -239,13 +239,13 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
-* [Solving Spring Data JPA ConverterNotFoundException: No converter found](https://feeds.feedblitz.com/~/897230171/0/baeldung~Solving-Spring-Data-JPA-ConverterNotFoundException-No-converter-found)
-  * *Published on 21 May 2024*
-* [Map LocalDateTime to Instant in MapStruct](https://feeds.feedblitz.com/~/897230174/0/baeldung~Map-LocalDateTime-to-Instant-in-MapStruct)
-  * *Published on 21 May 2024*
-* [Merge Multiple PDF Files Into a Single PDF Using Java](https://feeds.feedblitz.com/~/897230177/0/baeldung~Merge-Multiple-PDF-Files-Into-a-Single-PDF-Using-Java)
-  * *Published on 21 May 2024*
-* [Comparison Between Flux.map() and Flux.doOnNext()](https://feeds.feedblitz.com/~/897229055/0/baeldung~Comparison-Between-Fluxmap-and-FluxdoOnNext)
-  * *Published on 21 May 2024*
-* [Using @Autowired and @InjectMocks in Spring Boot Tests](https://feeds.feedblitz.com/~/897229058/0/baeldung~Using-Autowired-and-InjectMocks-in-Spring-Boot-Tests)
-  * *Published on 21 May 2024*
+* [Replacing Strings in Java Using Regex: Back Reference vs. Lookaround](https://feeds.feedblitz.com/~/897342410/0/baeldung~Replacing-Strings-in-Java-Using-Regex-Back-Reference-vs-Lookaround)
+  * *Published on 23 May 2024*
+* [Static Code Analysis Using Infer](https://feeds.feedblitz.com/~/897342413/0/baeldung~Static-Code-Analysis-Using-Infer)
+  * *Published on 23 May 2024*
+* [CompletableFuture vs. Mono](https://feeds.feedblitz.com/~/897312110/0/baeldung~CompletableFuture-vs-Mono)
+  * *Published on 22 May 2024*
+* [Using Comparator.nullsLast() to Avoid NullPointerException When Sorting](https://feeds.feedblitz.com/~/897312113/0/baeldung~Using-ComparatornullsLast-to-Avoid-NullPointerException-When-Sorting)
+  * *Published on 22 May 2024*
+* [Convert Decimal to Fraction in Java](https://feeds.feedblitz.com/~/897312116/0/baeldung~Convert-Decimal-to-Fraction-in-Java)
+  * *Published on 22 May 2024*
