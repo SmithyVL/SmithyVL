@@ -239,13 +239,13 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [Extracting Text Between Parentheses in Java](https://feeds.feedblitz.com/~/897538343/0/baeldung~Extracting-Text-Between-Parentheses-in-Java)
+  * *Published on 25 May 2024*
+* [Consumer Processing of Kafka Messages With Delay](https://feeds.feedblitz.com/~/897538346/0/baeldung~Consumer-Processing-of-Kafka-Messages-With-Delay)
+  * *Published on 25 May 2024*
+* [OpenAI API Client in Java](https://feeds.feedblitz.com/~/897535991/0/baeldung~OpenAI-API-Client-in-Java)
+  * *Published on 25 May 2024*
+* [Java Weekly, Issue 543](https://feeds.feedblitz.com/~/897486614/0/baeldung~Java-Weekly-Issue)
+  * *Published on 24 May 2024*
 * [Replacing Strings in Java Using Regex: Back Reference vs. Lookaround](https://feeds.feedblitz.com/~/897342410/0/baeldung~Replacing-Strings-in-Java-Using-Regex-Back-Reference-vs-Lookaround)
   * *Published on 23 May 2024*
-* [Static Code Analysis Using Infer](https://feeds.feedblitz.com/~/897342413/0/baeldung~Static-Code-Analysis-Using-Infer)
-  * *Published on 23 May 2024*
-* [CompletableFuture vs. Mono](https://feeds.feedblitz.com/~/897312110/0/baeldung~CompletableFuture-vs-Mono)
-  * *Published on 22 May 2024*
-* [Using Comparator.nullsLast() to Avoid NullPointerException When Sorting](https://feeds.feedblitz.com/~/897312113/0/baeldung~Using-ComparatornullsLast-to-Avoid-NullPointerException-When-Sorting)
-  * *Published on 22 May 2024*
-* [Convert Decimal to Fraction in Java](https://feeds.feedblitz.com/~/897312116/0/baeldung~Convert-Decimal-to-Fraction-in-Java)
-  * *Published on 22 May 2024*
