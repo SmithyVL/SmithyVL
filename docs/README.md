@@ -239,13 +239,13 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [How to Convert org.w3c.dom.Document to String in Java](https://feeds.feedblitz.com/~/897762899/0/baeldung~How-to-Convert-orgwcdomDocument-to-String-in-Java)
+  * *Published on 27 May 2024*
+* [Reading CSV Headers Into a List](https://feeds.feedblitz.com/~/897762905/0/baeldung~Reading-CSV-Headers-Into-a-List)
+  * *Published on 27 May 2024*
 * [Extracting Text Between Parentheses in Java](https://feeds.feedblitz.com/~/897538343/0/baeldung~Extracting-Text-Between-Parentheses-in-Java)
   * *Published on 25 May 2024*
 * [Consumer Processing of Kafka Messages With Delay](https://feeds.feedblitz.com/~/897538346/0/baeldung~Consumer-Processing-of-Kafka-Messages-With-Delay)
   * *Published on 25 May 2024*
 * [OpenAI API Client in Java](https://feeds.feedblitz.com/~/897535991/0/baeldung~OpenAI-API-Client-in-Java)
   * *Published on 25 May 2024*
-* [Java Weekly, Issue 543](https://feeds.feedblitz.com/~/897486614/0/baeldung~Java-Weekly-Issue)
-  * *Published on 24 May 2024*
-* [Replacing Strings in Java Using Regex: Back Reference vs. Lookaround](https://feeds.feedblitz.com/~/897342410/0/baeldung~Replacing-Strings-in-Java-Using-Regex-Back-Reference-vs-Lookaround)
-  * *Published on 23 May 2024*
