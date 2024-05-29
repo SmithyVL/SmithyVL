@@ -239,13 +239,13 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [Removing Bracket Characters in a Java String](https://feeds.feedblitz.com/~/897875549/0/baeldung~Removing-Bracket-Characters-in-a-Java-String)
+  * *Published on 28 May 2024*
+* [Autowiring an Interface With Multiple Implementations](https://feeds.feedblitz.com/~/897875552/0/baeldung~Autowiring-an-Interface-With-Multiple-Implementations)
+  * *Published on 28 May 2024*
+* [gRPC Authentication in Java Using Application Layer Transport Security (ALTS)](https://feeds.feedblitz.com/~/897875555/0/baeldung~gRPC-Authentication-in-Java-Using-Application-Layer-Transport-Security-ALTS)
+  * *Published on 28 May 2024*
 * [How to Convert org.w3c.dom.Document to String in Java](https://feeds.feedblitz.com/~/897762899/0/baeldung~How-to-Convert-orgwcdomDocument-to-String-in-Java)
   * *Published on 27 May 2024*
 * [Reading CSV Headers Into a List](https://feeds.feedblitz.com/~/897762905/0/baeldung~Reading-CSV-Headers-Into-a-List)
   * *Published on 27 May 2024*
-* [Extracting Text Between Parentheses in Java](https://feeds.feedblitz.com/~/897538343/0/baeldung~Extracting-Text-Between-Parentheses-in-Java)
-  * *Published on 25 May 2024*
-* [Consumer Processing of Kafka Messages With Delay](https://feeds.feedblitz.com/~/897538346/0/baeldung~Consumer-Processing-of-Kafka-Messages-With-Delay)
-  * *Published on 25 May 2024*
-* [OpenAI API Client in Java](https://feeds.feedblitz.com/~/897535991/0/baeldung~OpenAI-API-Client-in-Java)
-  * *Published on 25 May 2024*
