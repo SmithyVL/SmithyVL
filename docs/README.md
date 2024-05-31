@@ -239,13 +239,13 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [Introduction to Apache Nutch](https://feeds.feedblitz.com/~/898039223/0/baeldung~Introduction-to-Apache-Nutch)
+  * *Published on 30 May 2024*
+* [Effective Scaling of Hot Application Instances with OpenJDK CRaC Help in Containers](https://feeds.feedblitz.com/~/898038056/0/baeldung~Effective-Scaling-of-Hot-Application-Instances-with-OpenJDK-CRaC-Help-in-Containers)
+  * *Published on 30 May 2024*
 * [Removing Bracket Characters in a Java String](https://feeds.feedblitz.com/~/897875549/0/baeldung~Removing-Bracket-Characters-in-a-Java-String)
   * *Published on 28 May 2024*
 * [Autowiring an Interface With Multiple Implementations](https://feeds.feedblitz.com/~/897875552/0/baeldung~Autowiring-an-Interface-With-Multiple-Implementations)
   * *Published on 28 May 2024*
 * [gRPC Authentication in Java Using Application Layer Transport Security (ALTS)](https://feeds.feedblitz.com/~/897875555/0/baeldung~gRPC-Authentication-in-Java-Using-Application-Layer-Transport-Security-ALTS)
   * *Published on 28 May 2024*
-* [How to Convert org.w3c.dom.Document to String in Java](https://feeds.feedblitz.com/~/897762899/0/baeldung~How-to-Convert-orgwcdomDocument-to-String-in-Java)
-  * *Published on 27 May 2024*
-* [Reading CSV Headers Into a List](https://feeds.feedblitz.com/~/897762905/0/baeldung~Reading-CSV-Headers-Into-a-List)
-  * *Published on 27 May 2024*
