@@ -239,13 +239,13 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [Java Weekly, Issue 544](https://feeds.feedblitz.com/~/898077680/0/baeldung~Java-Weekly-Issue)
+  * *Published on 31 May 2024*
+* [Introduction to BitcoinJ](https://feeds.feedblitz.com/~/898064579/0/baeldung~Introduction-to-BitcoinJ)
+  * *Published on 31 May 2024*
+* [concat() vs. merge() Operators in RxJava Observables](https://feeds.feedblitz.com/~/898064582/0/baeldung~concat-vs-merge-Operators-in-RxJava-Observables)
+  * *Published on 31 May 2024*
+* [Return Auto Generated ID From Insert With MyBatis and Spring](https://feeds.feedblitz.com/~/898064585/0/baeldung~Return-Auto-Generated-ID-From-Insert-With-MyBatis-and-Spring)
+  * *Published on 31 May 2024*
 * [Introduction to Apache Nutch](https://feeds.feedblitz.com/~/898039223/0/baeldung~Introduction-to-Apache-Nutch)
   * *Published on 30 May 2024*
-* [Effective Scaling of Hot Application Instances with OpenJDK CRaC Help in Containers](https://feeds.feedblitz.com/~/898038056/0/baeldung~Effective-Scaling-of-Hot-Application-Instances-with-OpenJDK-CRaC-Help-in-Containers)
-  * *Published on 30 May 2024*
-* [Removing Bracket Characters in a Java String](https://feeds.feedblitz.com/~/897875549/0/baeldung~Removing-Bracket-Characters-in-a-Java-String)
-  * *Published on 28 May 2024*
-* [Autowiring an Interface With Multiple Implementations](https://feeds.feedblitz.com/~/897875552/0/baeldung~Autowiring-an-Interface-With-Multiple-Implementations)
-  * *Published on 28 May 2024*
-* [gRPC Authentication in Java Using Application Layer Transport Security (ALTS)](https://feeds.feedblitz.com/~/897875555/0/baeldung~gRPC-Authentication-in-Java-Using-Application-Layer-Transport-Security-ALTS)
-  * *Published on 28 May 2024*
