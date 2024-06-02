@@ -239,13 +239,13 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [A Guide to Micrometer in Quarkus](https://feeds.feedblitz.com/~/898254290/0/baeldung~A-Guide-to-Micrometer-in-Quarkus)
+  * *Published on 1 Jun 2024*
+* [Removing BOM Characters When Reading from File](https://feeds.feedblitz.com/~/898252874/0/baeldung~Removing-BOM-Characters-When-Reading-from-File)
+  * *Published on 1 Jun 2024*
 * [Java Weekly, Issue 544](https://feeds.feedblitz.com/~/898077680/0/baeldung~Java-Weekly-Issue)
   * *Published on 31 May 2024*
 * [Introduction to BitcoinJ](https://feeds.feedblitz.com/~/898064579/0/baeldung~Introduction-to-BitcoinJ)
   * *Published on 31 May 2024*
 * [concat() vs. merge() Operators in RxJava Observables](https://feeds.feedblitz.com/~/898064582/0/baeldung~concat-vs-merge-Operators-in-RxJava-Observables)
   * *Published on 31 May 2024*
-* [Return Auto Generated ID From Insert With MyBatis and Spring](https://feeds.feedblitz.com/~/898064585/0/baeldung~Return-Auto-Generated-ID-From-Insert-With-MyBatis-and-Spring)
-  * *Published on 31 May 2024*
-* [Introduction to Apache Nutch](https://feeds.feedblitz.com/~/898039223/0/baeldung~Introduction-to-Apache-Nutch)
-  * *Published on 30 May 2024*
