@@ -239,13 +239,13 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
-* [A Guide to Micrometer in Quarkus](https://feeds.feedblitz.com/~/898254290/0/baeldung~A-Guide-to-Micrometer-in-Quarkus)
-  * *Published on 1 Jun 2024*
-* [Removing BOM Characters When Reading from File](https://feeds.feedblitz.com/~/898252874/0/baeldung~Removing-BOM-Characters-When-Reading-from-File)
-  * *Published on 1 Jun 2024*
-* [Java Weekly, Issue 544](https://feeds.feedblitz.com/~/898077680/0/baeldung~Java-Weekly-Issue)
-  * *Published on 31 May 2024*
-* [Introduction to BitcoinJ](https://feeds.feedblitz.com/~/898064579/0/baeldung~Introduction-to-BitcoinJ)
-  * *Published on 31 May 2024*
-* [concat() vs. merge() Operators in RxJava Observables](https://feeds.feedblitz.com/~/898064582/0/baeldung~concat-vs-merge-Operators-in-RxJava-Observables)
-  * *Published on 31 May 2024*
+* [Injecting a Mock as a Spring Bean in a Spock Spring Test](https://feeds.feedblitz.com/~/898925432/0/baeldung~Injecting-a-Mock-as-a-Spring-Bean-in-a-Spock-Spring-Test)
+  * *Published on 5 Jun 2024*
+* [Using Enum in Spring Data JPA Queries](https://feeds.feedblitz.com/~/898924541/0/baeldung~Using-Enum-in-Spring-Data-JPA-Queries)
+  * *Published on 5 Jun 2024*
+* [UDP Messaging Using Aeron](https://feeds.feedblitz.com/~/898924544/0/baeldung~UDP-Messaging-Using-Aeron)
+  * *Published on 5 Jun 2024*
+* [Converting java.sql.Timestamp to java.util.Calendar](https://feeds.feedblitz.com/~/898924547/0/baeldung~Converting-javasqlTimestamp-to-javautilCalendar)
+  * *Published on 5 Jun 2024*
+* [Embedded PostgreSQL for Spring Boot Tests](https://feeds.feedblitz.com/~/898923692/0/baeldung~Embedded-PostgreSQL-for-Spring-Boot-Tests)
+  * *Published on 5 Jun 2024*
