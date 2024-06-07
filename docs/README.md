@@ -239,13 +239,13 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
-* [Injecting a Mock as a Spring Bean in a Spock Spring Test](https://feeds.feedblitz.com/~/898925432/0/baeldung~Injecting-a-Mock-as-a-Spring-Bean-in-a-Spock-Spring-Test)
-  * *Published on 5 Jun 2024*
-* [Using Enum in Spring Data JPA Queries](https://feeds.feedblitz.com/~/898924541/0/baeldung~Using-Enum-in-Spring-Data-JPA-Queries)
-  * *Published on 5 Jun 2024*
-* [UDP Messaging Using Aeron](https://feeds.feedblitz.com/~/898924544/0/baeldung~UDP-Messaging-Using-Aeron)
-  * *Published on 5 Jun 2024*
-* [Converting java.sql.Timestamp to java.util.Calendar](https://feeds.feedblitz.com/~/898924547/0/baeldung~Converting-javasqlTimestamp-to-javautilCalendar)
-  * *Published on 5 Jun 2024*
-* [Embedded PostgreSQL for Spring Boot Tests](https://feeds.feedblitz.com/~/898923692/0/baeldung~Embedded-PostgreSQL-for-Spring-Boot-Tests)
-  * *Published on 5 Jun 2024*
+* [load() vs. get() in Hibernate](https://feeds.feedblitz.com/~/899062121/0/baeldung~load-vs-get-in-Hibernate)
+  * *Published on 7 Jun 2024*
+* [Clear the Scanner Buffer in Java](https://feeds.feedblitz.com/~/899061377/0/baeldung~Clear-the-Scanner-Buffer-in-Java)
+  * *Published on 7 Jun 2024*
+* [Java Weekly, Issue 545](https://feeds.feedblitz.com/~/899041505/0/baeldung~Java-Weekly-Issue)
+  * *Published on 6 Jun 2024*
+* [Convert a Map to a Spring MultiValueMap](https://feeds.feedblitz.com/~/899019923/0/baeldung~Convert-a-Map-to-a-Spring-MultiValueMap)
+  * *Published on 6 Jun 2024*
+* [The Difference Between JUnit and Mockito](https://feeds.feedblitz.com/~/899019926/0/baeldung~The-Difference-Between-JUnit-and-Mockito)
+  * *Published on 6 Jun 2024*
