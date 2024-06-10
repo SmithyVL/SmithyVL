@@ -239,13 +239,13 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
-* [load() vs. get() in Hibernate](https://feeds.feedblitz.com/~/899062121/0/baeldung~load-vs-get-in-Hibernate)
-  * *Published on 7 Jun 2024*
-* [Clear the Scanner Buffer in Java](https://feeds.feedblitz.com/~/899061377/0/baeldung~Clear-the-Scanner-Buffer-in-Java)
-  * *Published on 7 Jun 2024*
-* [Java Weekly, Issue 545](https://feeds.feedblitz.com/~/899041505/0/baeldung~Java-Weekly-Issue)
-  * *Published on 6 Jun 2024*
-* [Convert a Map to a Spring MultiValueMap](https://feeds.feedblitz.com/~/899019923/0/baeldung~Convert-a-Map-to-a-Spring-MultiValueMap)
-  * *Published on 6 Jun 2024*
-* [The Difference Between JUnit and Mockito](https://feeds.feedblitz.com/~/899019926/0/baeldung~The-Difference-Between-JUnit-and-Mockito)
-  * *Published on 6 Jun 2024*
+* [Introduction to Hibernate Reactive](https://feeds.feedblitz.com/~/899183825/0/baeldung~Introduction-to-Hibernate-Reactive)
+  * *Published on 9 Jun 2024*
+* [TestContainers With MongoDB in Java](https://feeds.feedblitz.com/~/899183423/0/baeldung~TestContainers-With-MongoDB-in-Java)
+  * *Published on 9 Jun 2024*
+* [Count Queries In JPA Using CriteriaQuery](https://feeds.feedblitz.com/~/899183426/0/baeldung~Count-Queries-In-JPA-Using-CriteriaQuery)
+  * *Published on 9 Jun 2024*
+* [Validating Linux Folder Paths using Regex in Java](https://feeds.feedblitz.com/~/899183429/0/baeldung~Validating-Linux-Folder-Paths-using-Regex-in-Java)
+  * *Published on 9 Jun 2024*
+* [Java 21 Improved Emoji Support](https://feeds.feedblitz.com/~/899182841/0/baeldung~Java-Improved-Emoji-Support)
+  * *Published on 9 Jun 2024*
