@@ -239,13 +239,13 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
-* [Introduction to Hibernate Reactive](https://feeds.feedblitz.com/~/899183825/0/baeldung~Introduction-to-Hibernate-Reactive)
-  * *Published on 9 Jun 2024*
-* [TestContainers With MongoDB in Java](https://feeds.feedblitz.com/~/899183423/0/baeldung~TestContainers-With-MongoDB-in-Java)
-  * *Published on 9 Jun 2024*
-* [Count Queries In JPA Using CriteriaQuery](https://feeds.feedblitz.com/~/899183426/0/baeldung~Count-Queries-In-JPA-Using-CriteriaQuery)
-  * *Published on 9 Jun 2024*
-* [Validating Linux Folder Paths using Regex in Java](https://feeds.feedblitz.com/~/899183429/0/baeldung~Validating-Linux-Folder-Paths-using-Regex-in-Java)
-  * *Published on 9 Jun 2024*
-* [Java 21 Improved Emoji Support](https://feeds.feedblitz.com/~/899182841/0/baeldung~Java-Improved-Emoji-Support)
-  * *Published on 9 Jun 2024*
+* [Monitoring Hibernate Events With Java Flight Recorder](https://feeds.feedblitz.com/~/899288831/0/baeldung~Monitoring-Hibernate-Events-With-Java-Flight-Recorder)
+  * *Published on 11 Jun 2024*
+* [@Valid Annotation on Child Objects](https://feeds.feedblitz.com/~/899288834/0/baeldung~Valid-Annotation-on-Child-Objects)
+  * *Published on 11 Jun 2024*
+* [Create an Instance of Generic Type in Java](https://feeds.feedblitz.com/~/899288837/0/baeldung~Create-an-Instance-of-Generic-Type-in-Java)
+  * *Published on 11 Jun 2024*
+* [Calculate One’s Complement of a Number](https://feeds.feedblitz.com/~/899288840/0/baeldung~Calculate-Ones-Complement-of-a-Number)
+  * *Published on 11 Jun 2024*
+* [Checking Write Permissions of a Directory in Java](https://feeds.feedblitz.com/~/899288843/0/baeldung~Checking-Write-Permissions-of-a-Directory-in-Java)
+  * *Published on 11 Jun 2024*
