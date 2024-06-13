@@ -239,13 +239,13 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
-* [Monitoring Hibernate Events With Java Flight Recorder](https://feeds.feedblitz.com/~/899288831/0/baeldung~Monitoring-Hibernate-Events-With-Java-Flight-Recorder)
-  * *Published on 11 Jun 2024*
-* [@Valid Annotation on Child Objects](https://feeds.feedblitz.com/~/899288834/0/baeldung~Valid-Annotation-on-Child-Objects)
-  * *Published on 11 Jun 2024*
-* [Create an Instance of Generic Type in Java](https://feeds.feedblitz.com/~/899288837/0/baeldung~Create-an-Instance-of-Generic-Type-in-Java)
-  * *Published on 11 Jun 2024*
-* [Calculate One’s Complement of a Number](https://feeds.feedblitz.com/~/899288840/0/baeldung~Calculate-Ones-Complement-of-a-Number)
-  * *Published on 11 Jun 2024*
-* [Checking Write Permissions of a Directory in Java](https://feeds.feedblitz.com/~/899288843/0/baeldung~Checking-Write-Permissions-of-a-Directory-in-Java)
-  * *Published on 11 Jun 2024*
+* [How to Insert an Emoji in a Java String](https://feeds.feedblitz.com/~/899389754/0/baeldung~How-to-Insert-an-Emoji-in-a-Java-String)
+  * *Published on 13 Jun 2024*
+* [Packed Repeated Fields in Protobuf in Java](https://feeds.feedblitz.com/~/899389157/0/baeldung~Packed-Repeated-Fields-in-Protobuf-in-Java)
+  * *Published on 13 Jun 2024*
+* [Introduction to JetCache](https://feeds.feedblitz.com/~/899389160/0/baeldung~Introduction-to-JetCache)
+  * *Published on 13 Jun 2024*
+* [How to Serialize and Deserialize java.sql.Blob With Jackson](https://feeds.feedblitz.com/~/899389163/0/baeldung~How-to-Serialize-and-Deserialize-javasqlBlob-With-Jackson)
+  * *Published on 13 Jun 2024*
+* [Implement Bulk and Batch API in Spring](https://feeds.feedblitz.com/~/899389166/0/baeldung~Implement-Bulk-and-Batch-API-in-Spring)
+  * *Published on 13 Jun 2024*
