@@ -239,13 +239,13 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
-* [How to Insert an Emoji in a Java String](https://feeds.feedblitz.com/~/899389754/0/baeldung~How-to-Insert-an-Emoji-in-a-Java-String)
-  * *Published on 13 Jun 2024*
-* [Packed Repeated Fields in Protobuf in Java](https://feeds.feedblitz.com/~/899389157/0/baeldung~Packed-Repeated-Fields-in-Protobuf-in-Java)
-  * *Published on 13 Jun 2024*
-* [Introduction to JetCache](https://feeds.feedblitz.com/~/899389160/0/baeldung~Introduction-to-JetCache)
-  * *Published on 13 Jun 2024*
-* [How to Serialize and Deserialize java.sql.Blob With Jackson](https://feeds.feedblitz.com/~/899389163/0/baeldung~How-to-Serialize-and-Deserialize-javasqlBlob-With-Jackson)
-  * *Published on 13 Jun 2024*
-* [Implement Bulk and Batch API in Spring](https://feeds.feedblitz.com/~/899389166/0/baeldung~Implement-Bulk-and-Batch-API-in-Spring)
-  * *Published on 13 Jun 2024*
+* [Avoid Inserting Duplicates in ArrayList in Java](https://feeds.feedblitz.com/~/899455739/0/baeldung~Avoid-Inserting-Duplicates-in-ArrayList-in-Java)
+  * *Published on 14 Jun 2024*
+* [Using MapStruct With Lombok](https://feeds.feedblitz.com/~/899455052/0/baeldung~Using-MapStruct-With-Lombok)
+  * *Published on 14 Jun 2024*
+* [How to Pass Method as Parameter in Java](https://feeds.feedblitz.com/~/899455055/0/baeldung~How-to-Pass-Method-as-Parameter-in-Java)
+  * *Published on 14 Jun 2024*
+* [Upcasting Vs. Downcasting in Java](https://feeds.feedblitz.com/~/899455058/0/baeldung~Upcasting-Vs-Downcasting-in-Java)
+  * *Published on 14 Jun 2024*
+* [Avoid “No Multipart Boundary Was Found” in Spring](https://feeds.feedblitz.com/~/899455061/0/baeldung~Avoid-%e2%80%9cNo-Multipart-Boundary-Was-Found%e2%80%9d-in-Spring)
+  * *Published on 14 Jun 2024*
