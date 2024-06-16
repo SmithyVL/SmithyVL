@@ -239,13 +239,13 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
-* [Avoid Inserting Duplicates in ArrayList in Java](https://feeds.feedblitz.com/~/899455739/0/baeldung~Avoid-Inserting-Duplicates-in-ArrayList-in-Java)
-  * *Published on 14 Jun 2024*
-* [Using MapStruct With Lombok](https://feeds.feedblitz.com/~/899455052/0/baeldung~Using-MapStruct-With-Lombok)
-  * *Published on 14 Jun 2024*
-* [How to Pass Method as Parameter in Java](https://feeds.feedblitz.com/~/899455055/0/baeldung~How-to-Pass-Method-as-Parameter-in-Java)
-  * *Published on 14 Jun 2024*
-* [Upcasting Vs. Downcasting in Java](https://feeds.feedblitz.com/~/899455058/0/baeldung~Upcasting-Vs-Downcasting-in-Java)
-  * *Published on 14 Jun 2024*
-* [Avoid “No Multipart Boundary Was Found” in Spring](https://feeds.feedblitz.com/~/899455061/0/baeldung~Avoid-%e2%80%9cNo-Multipart-Boundary-Was-Found%e2%80%9d-in-Spring)
-  * *Published on 14 Jun 2024*
+* [Run Queries From a File in H2 Database](https://feeds.feedblitz.com/~/899524115/0/baeldung~Run-Queries-From-a-File-in-H-Database)
+  * *Published on 15 Jun 2024*
+* [Introduction to Apache Pinot](https://feeds.feedblitz.com/~/899524118/0/baeldung~Introduction-to-Apache-Pinot)
+  * *Published on 15 Jun 2024*
+* [Integration Testing Spring WebClient Using WireMock](https://feeds.feedblitz.com/~/899524121/0/baeldung~Integration-Testing-Spring-WebClient-Using-WireMock)
+  * *Published on 15 Jun 2024*
+* [How to Remove Digits From a String](https://feeds.feedblitz.com/~/899524124/0/baeldung~How-to-Remove-Digits-From-a-String)
+  * *Published on 15 Jun 2024*
+* [Java Weekly, Issue 546](https://feeds.feedblitz.com/~/899513186/0/baeldung~Java-Weekly-Issue)
+  * *Published on 15 Jun 2024*
