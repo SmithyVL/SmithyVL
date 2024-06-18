@@ -239,13 +239,13 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
-* [Run Queries From a File in H2 Database](https://feeds.feedblitz.com/~/899524115/0/baeldung~Run-Queries-From-a-File-in-H-Database)
-  * *Published on 15 Jun 2024*
-* [Introduction to Apache Pinot](https://feeds.feedblitz.com/~/899524118/0/baeldung~Introduction-to-Apache-Pinot)
-  * *Published on 15 Jun 2024*
-* [Integration Testing Spring WebClient Using WireMock](https://feeds.feedblitz.com/~/899524121/0/baeldung~Integration-Testing-Spring-WebClient-Using-WireMock)
-  * *Published on 15 Jun 2024*
-* [How to Remove Digits From a String](https://feeds.feedblitz.com/~/899524124/0/baeldung~How-to-Remove-Digits-From-a-String)
-  * *Published on 15 Jun 2024*
-* [Java Weekly, Issue 546](https://feeds.feedblitz.com/~/899513186/0/baeldung~Java-Weekly-Issue)
-  * *Published on 15 Jun 2024*
+* [Convert int to Unsigned byte in Java](https://feeds.feedblitz.com/~/899625176/0/baeldung~Convert-int-to-Unsigned-byte-in-Java)
+  * *Published on 17 Jun 2024*
+* [Detecting Compromised Passwords Using Spring Security](https://feeds.feedblitz.com/~/899624474/0/baeldung~Detecting-Compromised-Passwords-Using-Spring-Security)
+  * *Published on 17 Jun 2024*
+* [Set Format for Instant Using ObjectMapper](https://feeds.feedblitz.com/~/899612693/0/baeldung~Set-Format-for-Instant-Using-ObjectMapper)
+  * *Published on 17 Jun 2024*
+* [Zero-Downtime Web Application Upgrade in Tomcat With Parallel Deployment](https://feeds.feedblitz.com/~/899593826/0/baeldung~ZeroDowntime-Web-Application-Upgrade-in-Tomcat-With-Parallel-Deployment)
+  * *Published on 17 Jun 2024*
+* [Finding the Mode of Integers in an Array in Java](https://feeds.feedblitz.com/~/899593445/0/baeldung~Finding-the-Mode-of-Integers-in-an-Array-in-Java)
+  * *Published on 17 Jun 2024*
