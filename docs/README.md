@@ -239,6 +239,8 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [Find the Closest Number to Zero in a Java Array](https://feeds.feedblitz.com/~/899820356/0/baeldung~Find-the-Closest-Number-to-Zero-in-a-Java-Array)
+  * *Published on 21 Jun 2024*
 * [Split a String Based on the Last Occurrence of a Character](https://feeds.feedblitz.com/~/899764361/0/baeldung~Split-a-String-Based-on-the-Last-Occurrence-of-a-Character)
   * *Published on 20 Jun 2024*
 * [Find the Index of the Largest Value in an Array](https://feeds.feedblitz.com/~/899764364/0/baeldung~Find-the-Index-of-the-Largest-Value-in-an-Array)
@@ -246,6 +248,4 @@ No recent activity
 * [Properties in BeanFactoryPostProcessor](https://feeds.feedblitz.com/~/899678402/0/baeldung~Properties-in-BeanFactoryPostProcessor)
   * *Published on 18 Jun 2024*
 * [Convert int to Unsigned byte in Java](https://feeds.feedblitz.com/~/899625176/0/baeldung~Convert-int-to-Unsigned-byte-in-Java)
-  * *Published on 17 Jun 2024*
-* [Detecting Compromised Passwords Using Spring Security](https://feeds.feedblitz.com/~/899624474/0/baeldung~Detecting-Compromised-Passwords-Using-Spring-Security)
   * *Published on 17 Jun 2024*
