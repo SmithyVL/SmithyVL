@@ -239,13 +239,13 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
-* [Java Enums, JPA and PostgreSQL Enums](https://feeds.feedblitz.com/~/899910836/0/baeldung~Java-Enums-JPA-and-PostgreSQL-Enums)
-  * *Published on 23 Jun 2024*
-* [How to Pass JVM Arguments via Maven](https://feeds.feedblitz.com/~/899910839/0/baeldung~How-to-Pass-JVM-Arguments-via-Maven)
-  * *Published on 23 Jun 2024*
-* [Fixing the “Could Not Determine Recommended JdbcType for Class” Error in JPA](https://feeds.feedblitz.com/~/899865476/0/baeldung~Fixing-the-Could-Not-Determine-Recommended-JdbcType-for-Class-Error-in-JPA)
-  * *Published on 22 Jun 2024*
-* [Java Weekly, Issue 547](https://feeds.feedblitz.com/~/899913611/0/baeldung~Java-Weekly-Issue)
-  * *Published on 21 Jun 2024*
-* [Find the Closest Number to Zero in a Java Array](https://feeds.feedblitz.com/~/899820356/0/baeldung~Find-the-Closest-Number-to-Zero-in-a-Java-Array)
-  * *Published on 21 Jun 2024*
+* [Store File or byte[] as SQL Blob in Java (Store and Load)](https://feeds.feedblitz.com/~/900107306/0/baeldung~Store-File-or-byte-as-SQL-Blob-in-Java-Store-and-Load)
+  * *Published on 26 Jun 2024*
+* [Vertical Slice Architecture](https://feeds.feedblitz.com/~/900107309/0/baeldung~Vertical-Slice-Architecture)
+  * *Published on 26 Jun 2024*
+* [HTTP Request and Response Logging Using Logbook in Spring](https://feeds.feedblitz.com/~/900107312/0/baeldung~HTTP-Request-and-Response-Logging-Using-Logbook-in-Spring)
+  * *Published on 26 Jun 2024*
+* [How to Delay a Stubbed Method Response With Mockito](https://feeds.feedblitz.com/~/900107315/0/baeldung~How-to-Delay-a-Stubbed-Method-Response-With-Mockito)
+  * *Published on 26 Jun 2024*
+* [Finding the Max Value in Spring Data JPA](https://feeds.feedblitz.com/~/900106193/0/baeldung~Finding-the-Max-Value-in-Spring-Data-JPA)
+  * *Published on 26 Jun 2024*
