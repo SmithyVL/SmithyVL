@@ -239,13 +239,13 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [Check if a Variable Is Null Using Hamcrest](https://feeds.feedblitz.com/~/900188045/0/baeldung~Check-if-a-Variable-Is-Null-Using-Hamcrest)
+  * *Published on 27 Jun 2024*
+* [Define Multiple Repositories With Maven](https://feeds.feedblitz.com/~/900188048/0/baeldung~Define-Multiple-Repositories-With-Maven)
+  * *Published on 27 Jun 2024*
+* [Introduction to TigerBeetle Transactions Database](https://feeds.feedblitz.com/~/900187157/0/baeldung~Introduction-to-TigerBeetle-Transactions-Database)
+  * *Published on 27 Jun 2024*
 * [Store File or byte[] as SQL Blob in Java (Store and Load)](https://feeds.feedblitz.com/~/900107306/0/baeldung~Store-File-or-byte-as-SQL-Blob-in-Java-Store-and-Load)
   * *Published on 26 Jun 2024*
 * [Vertical Slice Architecture](https://feeds.feedblitz.com/~/900107309/0/baeldung~Vertical-Slice-Architecture)
-  * *Published on 26 Jun 2024*
-* [HTTP Request and Response Logging Using Logbook in Spring](https://feeds.feedblitz.com/~/900107312/0/baeldung~HTTP-Request-and-Response-Logging-Using-Logbook-in-Spring)
-  * *Published on 26 Jun 2024*
-* [How to Delay a Stubbed Method Response With Mockito](https://feeds.feedblitz.com/~/900107315/0/baeldung~How-to-Delay-a-Stubbed-Method-Response-With-Mockito)
-  * *Published on 26 Jun 2024*
-* [Finding the Max Value in Spring Data JPA](https://feeds.feedblitz.com/~/900106193/0/baeldung~Finding-the-Max-Value-in-Spring-Data-JPA)
   * *Published on 26 Jun 2024*
