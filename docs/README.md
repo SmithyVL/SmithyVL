@@ -239,13 +239,13 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [Java Weekly, Issue 548](https://feeds.feedblitz.com/~/900229760/0/baeldung~Java-Weekly-Issue)
+  * *Published on 28 Jun 2024*
+* [Guide to CompletableFuture join() vs get()](https://feeds.feedblitz.com/~/900224879/0/baeldung~Guide-to-CompletableFuture-join-vs-get)
+  * *Published on 28 Jun 2024*
+* [Arithmetic Operations on Arbitrary-Length Binary Integers in Java](https://feeds.feedblitz.com/~/900224882/0/baeldung~Arithmetic-Operations-on-ArbitraryLength-Binary-Integers-in-Java)
+  * *Published on 28 Jun 2024*
+* [Difference Between hasItems(), contains(), and containsInAnyOrder() in Hamcrest](https://feeds.feedblitz.com/~/900224885/0/baeldung~Difference-Between-hasItems-contains-and-containsInAnyOrder-in-Hamcrest)
+  * *Published on 28 Jun 2024*
 * [Check if a Variable Is Null Using Hamcrest](https://feeds.feedblitz.com/~/900188045/0/baeldung~Check-if-a-Variable-Is-Null-Using-Hamcrest)
   * *Published on 27 Jun 2024*
-* [Define Multiple Repositories With Maven](https://feeds.feedblitz.com/~/900188048/0/baeldung~Define-Multiple-Repositories-With-Maven)
-  * *Published on 27 Jun 2024*
-* [Introduction to TigerBeetle Transactions Database](https://feeds.feedblitz.com/~/900187157/0/baeldung~Introduction-to-TigerBeetle-Transactions-Database)
-  * *Published on 27 Jun 2024*
-* [Store File or byte[] as SQL Blob in Java (Store and Load)](https://feeds.feedblitz.com/~/900107306/0/baeldung~Store-File-or-byte-as-SQL-Blob-in-Java-Store-and-Load)
-  * *Published on 26 Jun 2024*
-* [Vertical Slice Architecture](https://feeds.feedblitz.com/~/900107309/0/baeldung~Vertical-Slice-Architecture)
-  * *Published on 26 Jun 2024*
