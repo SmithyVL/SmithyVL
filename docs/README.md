@@ -17,17 +17,12 @@
     </a>
   </div><br />
 
-  <div>
-      <a href="https://discord.com/users/238233865129295875">
-          <img width="361" alt="discord-profile" src="https://lanyard-profile-readme.vercel.app/api/238233865129295875"/>
-      </a>
-  </div>
-
-<img width="361" alt="streaks" src="https://github-readme-streak-stats.herokuapp.com/?user=SmithyVL&hide_border=true&theme=dark" /><br />
+  <img width="361" alt="streaks" src="https://github-readme-streak-stats.herokuapp.com/?user=SmithyVL&hide_border=true&theme=dark" /><br />
 
   <div align="center">
       <img src="https://komarev.com/ghpvc/?username=SmithyVL&color=1A4730&label=PROFILE+VIEWS" height="25" alt="profile-views" />
-      <img src="https://wakatime.com/badge/github/SmithyVL/SmithyVL.svg" height="25" alt="time-with-code" />
+      <img src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white" height="25" alt="profile-views" />
+      <img src="http://ForTheBadge.com/images/badges/built-with-love.svg" height="25" alt="profile-views" />
   </div>
 
   <h3>
@@ -38,14 +33,14 @@
 </div>
 
 ## Рад видеть тебя здесь!
-📈 **Я занимаюсь back-end разработкой** на Java, но в последнее время начал задумываться о Kotlin. Так же немного знаком с C++.
+📈 **Я занимаюсь back-end разработкой** на Kotlin/Java. Так же немного знаком с C++.
 
 ⚡️ **Основной стэк технологий**:
 
-- Языки программирования: Java 11-17/Kotlin;
+- Языки программирования: Kotlin/Java 11-17;
 - Spring: Boot/Data/Cloud/Webflux/Kafka/Security;
 - Базы данных: Postgres/MongoDB, LiquiBase (для версионирования);
-- Дополнительно: Maven, Git, Intellij Idea.
+- Дополнительно: Gradle/Maven, Git, Intellij Idea Ultimate.
 
 🔎 **Хочу получше познакомиться** с CI/CD, kubernetes и другими актуальными, современными языками программирования и технологиями, которые используются в back-end разработке. Буду рад заниматься глубокой оптимизацией приложений и работать с многопоточностью.
 
@@ -53,28 +48,26 @@
 
 🥇 **Для меня важен продукт**, над которым работаю и чтобы была возможность самосовершенствоваться в своем деле.
 
-🌇 **В свободное время люблю** читать статьи на хабре, заниматься пет-проектами на Github и участвовать в хакатонах (с командой заняли первое место во внутреннем хакатоне компании).
-
-🏐 **Веду активный образ жизни** (тренажерный зал, волейбол).
+🌇 **В свободное время люблю** читать статьи на хабре, заниматься пет-проектами на Github и участвовать в хакатонах (с командой заняли первое место во внутреннем хакатоне компании "ЛАНИТ").
 
 💻 **Ищу удаленную работу**. Предпочитаю ноутбуки на Windows.
 
 🚂 **К переездам не готов**, но люблю ездить в гости.
 
-👨‍👩‍👧 _Женат, есть ребенок, кошка и **"алиса"**_ :)
+👨‍👩‍👧 _Женат, есть ребенок, пара кошек и **"алиса"**_ :)
 
 <img style="margin-top: 27px; margin-left: 25px; margin-bottom: 12px" align="right" alt="profile-gif" src="https://raw.githubusercontent.com/SmithyVL/SmithyVL/master/assets/profile.gif" />
 
 ## ⭐️ Говоря о личном
-- 📔 &nbsp; Работаю с Java, Spring Boot, микро-сервисами и т.д;
-- 🔌 &nbsp; Изучаю **back-end** разработку;
+- 📔 &nbsp; Предпочитаю **Kotlin**, **Spring Boot** и **микро-сервисы**;
+- 🔌 &nbsp; Занимаюсь **back-end** разработкой;
 - 💡 &nbsp; Ты можешь посмотреть мое резюме **[здесь](https://career.habr.com/smithy-vl/print)**;
 - 💬 &nbsp; Спроси меня о чем угодно **[здесь](https://github.com/SmithyVL/SmithyVL/discussions/6)**! Я буду рад помочь.
 
 ## 🌌 Мои хобби
 - 💻 &nbsp; Я люблю изучать новые технологии и создавать крутые приложения;
 - 📰 &nbsp; По возможности читаю технические блоги, статьи и т.д;
-- 🏐 &nbsp; Волейбол, тренажерный зал;
+- 🪄 &nbsp; Своя гильдия;
 - 📚 &nbsp; Чтение книг.
 
 ## 🏆 Достижения
@@ -89,7 +82,7 @@
 <a href="https://kafka.apache.org/quickstart" target="_blank"><img src="https://raw.githubusercontent.com/SmithyVL/SmithyVL/master/assets/technologies/kafka.svg" alt="kafka" height="48px"/></a> &nbsp; &nbsp; &nbsp;
 <a href="https://www.elastic.co/guide/en/elasticsearch/reference/current/getting-started.html" target="_blank"><img src="https://raw.githubusercontent.com/SmithyVL/SmithyVL/master/assets/technologies/elastic.svg" alt="elasticsearch" height="48px"/></a> &nbsp; &nbsp; &nbsp;
 <a href="https://www.mongodb.com/basics/get-started" target="_blank"><img src="https://raw.githubusercontent.com/SmithyVL/SmithyVL/master/assets/technologies/mongodb.svg" alt="mongo-db" height="48px"/></a> &nbsp; &nbsp; &nbsp;
-<a href="https://www.postgresqltutorial.com/postgresql-getting-started/" target="_blank"><img src="https://raw.githubusercontent.com/SmithyVL/SmithyVL/master/assets/tools/postgres.svg" alt="postgres" height="48px"/></a>  &nbsp;
+<a href="https://www.postgresqltutorial.com/postgresql-getting-started/" target="_blank"><img src="https://raw.githubusercontent.com/SmithyVL/SmithyVL/master/assets/technologies/postgres.svg" alt="postgres" height="48px"/></a>  &nbsp;
 
 ## 🧰 Инструменты
 <a href="https://www.microsoft.com/ru-ru/software-download/windows10" target="_blank"><img src="https://raw.githubusercontent.com/SmithyVL/SmithyVL/master/assets/tools/windows-10.svg" alt="windows" height="48px"/></a>  &nbsp; &nbsp;

@@ -2,7 +2,7 @@ name: RSS and Activity [RU]
 
 on:
   schedule:
-    - cron: "30 3 * * *"
+    - cron: "0 6 * * *"
 
 jobs:
   github-metrics:

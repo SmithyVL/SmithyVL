@@ -2,7 +2,7 @@ name: Achievements
 
 on:
   schedule:
-    - cron: "15 3 * * *"
+    - cron: "0 2 * * 5"
 
 jobs:
   github-metrics:
