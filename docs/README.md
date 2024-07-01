@@ -239,13 +239,13 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
-* [Java Weekly, Issue 548](https://feeds.feedblitz.com/~/900229760/0/baeldung~Java-Weekly-Issue)
-  * *Published on 28 Jun 2024*
-* [Guide to CompletableFuture join() vs get()](https://feeds.feedblitz.com/~/900224879/0/baeldung~Guide-to-CompletableFuture-join-vs-get)
-  * *Published on 28 Jun 2024*
-* [Arithmetic Operations on Arbitrary-Length Binary Integers in Java](https://feeds.feedblitz.com/~/900224882/0/baeldung~Arithmetic-Operations-on-ArbitraryLength-Binary-Integers-in-Java)
-  * *Published on 28 Jun 2024*
-* [Difference Between hasItems(), contains(), and containsInAnyOrder() in Hamcrest](https://feeds.feedblitz.com/~/900224885/0/baeldung~Difference-Between-hasItems-contains-and-containsInAnyOrder-in-Hamcrest)
-  * *Published on 28 Jun 2024*
-* [Check if a Variable Is Null Using Hamcrest](https://feeds.feedblitz.com/~/900188045/0/baeldung~Check-if-a-Variable-Is-Null-Using-Hamcrest)
-  * *Published on 27 Jun 2024*
+* [Containerize a Spring Boot Application With Podman Desktop](https://feeds.feedblitz.com/~/900336296/0/baeldung~Containerize-a-Spring-Boot-Application-With-Podman-Desktop)
+  * *Published on 30 Jun 2024*
+* [Guide to FileWriter vs. BufferedWriter](https://feeds.feedblitz.com/~/900336299/0/baeldung~Guide-to-FileWriter-vs-BufferedWriter)
+  * *Published on 30 Jun 2024*
+* [Testing CORS in Spring Boot](https://feeds.feedblitz.com/~/900336305/0/baeldung~Testing-CORS-in-Spring-Boot)
+  * *Published on 30 Jun 2024*
+* [How to Fix PSQLException: Operator Does Not Exist: Character Varying = UUID](https://feeds.feedblitz.com/~/900335747/0/baeldung~How-to-Fix-PSQLException-Operator-Does-Not-Exist-Character-Varying-UUID)
+  * *Published on 30 Jun 2024*
+* [Read Last N Lines From File in Java](https://feeds.feedblitz.com/~/900335750/0/baeldung~Read-Last-N-Lines-From-File-in-Java)
+  * *Published on 30 Jun 2024*
