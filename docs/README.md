@@ -26,7 +26,7 @@
   </div>
 
   <h3>
-    ⚡ Владислав Кузнецов | 💻 Back-end [JAVA/KOTLIN] Разработчик | Россия, Киров 🏰 
+    ⚡ Владислав Кузнецов | 💻 Back-end [KOTLIN/JAVA] Разработчик | Россия, Киров 🏰 
   </h3>
 
 <i>"Я не доверяю людям, которые пишут SQL-запросы в верхнем регистре"</i>
@@ -67,7 +67,7 @@
 ## 🌌 Мои хобби
 - 💻 &nbsp; Я люблю изучать новые технологии и создавать крутые приложения;
 - 📰 &nbsp; По возможности читаю технические блоги, статьи и т.д;
-- 🪄 &nbsp; Своя гильдия;
+- 🪄 &nbsp; Своя гильдия по игре "Harry Potter: Magic Awakened";
 - 📚 &nbsp; Чтение книг.
 
 ## 🏆 Достижения
@@ -82,7 +82,10 @@
 <a href="https://kafka.apache.org/quickstart" target="_blank"><img src="https://raw.githubusercontent.com/SmithyVL/SmithyVL/master/assets/technologies/kafka.svg" alt="kafka" height="48px"/></a> &nbsp; &nbsp; &nbsp;
 <a href="https://www.elastic.co/guide/en/elasticsearch/reference/current/getting-started.html" target="_blank"><img src="https://raw.githubusercontent.com/SmithyVL/SmithyVL/master/assets/technologies/elastic.svg" alt="elasticsearch" height="48px"/></a> &nbsp; &nbsp; &nbsp;
 <a href="https://www.mongodb.com/basics/get-started" target="_blank"><img src="https://raw.githubusercontent.com/SmithyVL/SmithyVL/master/assets/technologies/mongodb.svg" alt="mongo-db" height="48px"/></a> &nbsp; &nbsp; &nbsp;
-<a href="https://www.postgresqltutorial.com/postgresql-getting-started/" target="_blank"><img src="https://raw.githubusercontent.com/SmithyVL/SmithyVL/master/assets/technologies/postgres.svg" alt="postgres" height="48px"/></a>  &nbsp;
+<a href="https://www.postgresqltutorial.com/postgresql-getting-started/" target="_blank"><img src="https://raw.githubusercontent.com/SmithyVL/SmithyVL/master/assets/technologies/postgres.svg" alt="postgres" height="48px"/></a>  &nbsp; &nbsp; &nbsp;
+<a href="https://docs.camunda.org/get-started/quick-start/" target="_blank"><img src="https://raw.githubusercontent.com/SmithyVL/SmithyVL/master/assets/technologies/camunda.svg" alt="camunda" height="48px"/></a>  &nbsp; &nbsp; &nbsp;
+<a href="https://www.rabbitmq.com/tutorials" target="_blank"><img src="https://raw.githubusercontent.com/SmithyVL/SmithyVL/master/assets/technologies/rabbitmq.svg" alt="rabbitmq" height="48px"/></a>  &nbsp; &nbsp; &nbsp;
+<a href="https://docs.gradle.org/current/userguide/quick_start.html" target="_blank"><img src="https://raw.githubusercontent.com/SmithyVL/SmithyVL/master/assets/technologies/gradle.svg" alt="gradle" height="48px"/></a>  &nbsp;
 
 ## 🧰 Инструменты
 <a href="https://www.microsoft.com/ru-ru/software-download/windows10" target="_blank"><img src="https://raw.githubusercontent.com/SmithyVL/SmithyVL/master/assets/tools/windows-10.svg" alt="windows" height="48px"/></a>  &nbsp; &nbsp;
@@ -90,7 +93,8 @@
 <a href="https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup" target="_blank"><img src="https://raw.githubusercontent.com/SmithyVL/SmithyVL/master/assets/tools/git.svg" alt="git" height="48px"/></a> &nbsp; &nbsp;
 <a href="https://www.docker.com/get-started" target="_blank"><img src="https://raw.githubusercontent.com/SmithyVL/SmithyVL/master/assets/tools/docker.svg" alt="docker" height="48px"/></a> &nbsp; &nbsp; &nbsp;
 <a href="https://www.postman.com/downloads/" target="_blank"><img src="https://raw.githubusercontent.com/SmithyVL/SmithyVL/master/assets/tools/postman.svg" alt="postman" height="48px"/></a> &nbsp; &nbsp; &nbsp;
-<a href="https://www.jetbrains.com/ru-ru/idea/download/#section=windows" target="_blank"><img src="https://raw.githubusercontent.com/SmithyVL/SmithyVL/master/assets/tools/jetbrains.svg" alt="jetbrains" height="48px"/></a>
+<a href="https://www.jetbrains.com/ru-ru/idea/download/#section=windows" target="_blank"><img src="https://raw.githubusercontent.com/SmithyVL/SmithyVL/master/assets/tools/jetbrains.svg" alt="jetbrains" height="48px"/></a> &nbsp; &nbsp; &nbsp;
+<a href="https://about.gitlab.com/" target="_blank"><img src="https://raw.githubusercontent.com/SmithyVL/SmithyVL/master/assets/tools/gitlab.svg" alt="gitlab" height="48px"/></a>
 
 ## ⚙️ Еще про разработку
 <details style="margin-left: 40px">
