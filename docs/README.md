@@ -227,18 +227,20 @@
 
 ## 📋 Недавняя активность
 **[📰 Recent activity](https://github.com/SmithyVL)**
-No recent activity
+* ➡️ Pushed 1 commit in [SmithyVL/SmithyVL](https://github.com/SmithyVL/SmithyVL) on branch `master`
+  * [#6bcd5f8](https://github.com/SmithyVL/SmithyVL/commit/6bcd5f8) 3.1.0. Remove actions for gists and small update readme.
+  * *On 2 Jul 2024, 01:54:19*
 
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [Insert JSON Object into PostgreSQL using Java preparedStatement](https://feeds.feedblitz.com/~/900423602/0/baeldung~Insert-JSON-Object-into-PostgreSQL-using-Java-preparedStatement)
+  * *Published on 1 Jul 2024*
+* [Protobuf vs. gRPC](https://feeds.feedblitz.com/~/900387560/0/baeldung~Protobuf-vs-gRPC)
+  * *Published on 1 Jul 2024*
+* [A Guide to Structured Output in Spring AI](https://feeds.feedblitz.com/~/900387563/0/baeldung~A-Guide-to-Structured-Output-in-Spring-AI)
+  * *Published on 1 Jul 2024*
+* [Fixing UnsupportedTemporalTypeException: Unsupported Field: InstantSeconds](https://feeds.feedblitz.com/~/900386726/0/baeldung~Fixing-UnsupportedTemporalTypeException-Unsupported-Field-InstantSeconds)
+  * *Published on 1 Jul 2024*
 * [Containerize a Spring Boot Application With Podman Desktop](https://feeds.feedblitz.com/~/900336296/0/baeldung~Containerize-a-Spring-Boot-Application-With-Podman-Desktop)
-  * *Published on 30 Jun 2024*
-* [Guide to FileWriter vs. BufferedWriter](https://feeds.feedblitz.com/~/900336299/0/baeldung~Guide-to-FileWriter-vs-BufferedWriter)
-  * *Published on 30 Jun 2024*
-* [Testing CORS in Spring Boot](https://feeds.feedblitz.com/~/900336305/0/baeldung~Testing-CORS-in-Spring-Boot)
-  * *Published on 30 Jun 2024*
-* [How to Fix PSQLException: Operator Does Not Exist: Character Varying = UUID](https://feeds.feedblitz.com/~/900335747/0/baeldung~How-to-Fix-PSQLException-Operator-Does-Not-Exist-Character-Varying-UUID)
-  * *Published on 30 Jun 2024*
-* [Read Last N Lines From File in Java](https://feeds.feedblitz.com/~/900335750/0/baeldung~Read-Last-N-Lines-From-File-in-Java)
   * *Published on 30 Jun 2024*
