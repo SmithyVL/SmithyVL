@@ -248,19 +248,31 @@
 ## 📋 Недавняя активность
 **[📰 Recent activity](https://github.com/SmithyVL)**
 * ➡️ Pushed 1 commit in [SmithyVL/SmithyVL](https://github.com/SmithyVL/SmithyVL) on branch `master`
-  * [#6bcd5f8](https://github.com/SmithyVL/SmithyVL/commit/6bcd5f8) 3.1.0. Remove actions for gists and small update readme.
-  * *On 2 Jul 2024, 01:54:19*
+  * [#5c464a4](https://github.com/SmithyVL/SmithyVL/commit/5c464a4) 4.0.0. Актуализация опыта работы, моих проектов, рабочего окружения и участия в конференциях. Удаление статистики написания кода на Github.
+  * *On 2 Jul 2024, 19:14:34*
+* ➡️ Pushed 1 commit in [SmithyVL/SmithyVL](https://github.com/SmithyVL/SmithyVL) on branch `master`
+  * [#2d710c8](https://github.com/SmithyVL/SmithyVL/commit/2d710c8) 3.2.2. Test signing for commit.
+  * *On 2 Jul 2024, 12:48:18*
+* ➡️ Pushed 1 commit in [SmithyVL/SmithyVL](https://github.com/SmithyVL/SmithyVL) on branch `master`
+  * [#9e6cf5f](https://github.com/SmithyVL/SmithyVL/commit/9e6cf5f) 3.2.1. Test signing for commit.
+  * *On 2 Jul 2024, 12:38:56*
+* ➡️ Pushed 1 commit in [SmithyVL/SmithyVL](https://github.com/SmithyVL/SmithyVL) on branch `master`
+  * [#7820252](https://github.com/SmithyVL/SmithyVL/commit/7820252) 3.2.0. Add new technologies and tools.
+  * *On 2 Jul 2024, 12:25:08*
+* ➡️ Pushed 1 commit in [SmithyVL/SmithyVL](https://github.com/SmithyVL/SmithyVL) on branch `master`
+  * [#467a3d0](https://github.com/SmithyVL/SmithyVL/commit/467a3d0) 3.2.0. Add new technologies and tools.
+  * *On 2 Jul 2024, 12:08:15*
 
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [Guide to getResourceAsStream() and FileInputStream in Java](https://feeds.feedblitz.com/~/900466925/0/baeldung~Guide-to-getResourceAsStream-and-FileInputStream-in-Java)
+  * *Published on 2 Jul 2024*
+* [Resolving PostgreSQL JSON Type Mismatch Errors in JPA](https://feeds.feedblitz.com/~/900466928/0/baeldung~Resolving-PostgreSQL-JSON-Type-Mismatch-Errors-in-JPA)
+  * *Published on 2 Jul 2024*
+* [Create a RAG (Retrieval Augmented Generation) Application with Redis and Spring AI](https://feeds.feedblitz.com/~/900465572/0/baeldung~Create-a-RAG-Retrieval-Augmented-Generation-Application-with-Redis-and-Spring-AI)
+  * *Published on 2 Jul 2024*
+* [Message Conversion in Spring Cloud AWS v3](https://feeds.feedblitz.com/~/900465575/0/baeldung~Message-Conversion-in-Spring-Cloud-AWS-v)
+  * *Published on 2 Jul 2024*
 * [Insert JSON Object into PostgreSQL using Java preparedStatement](https://feeds.feedblitz.com/~/900423602/0/baeldung~Insert-JSON-Object-into-PostgreSQL-using-Java-preparedStatement)
   * *Published on 1 Jul 2024*
-* [Protobuf vs. gRPC](https://feeds.feedblitz.com/~/900387560/0/baeldung~Protobuf-vs-gRPC)
-  * *Published on 1 Jul 2024*
-* [A Guide to Structured Output in Spring AI](https://feeds.feedblitz.com/~/900387563/0/baeldung~A-Guide-to-Structured-Output-in-Spring-AI)
-  * *Published on 1 Jul 2024*
-* [Fixing UnsupportedTemporalTypeException: Unsupported Field: InstantSeconds](https://feeds.feedblitz.com/~/900386726/0/baeldung~Fixing-UnsupportedTemporalTypeException-Unsupported-Field-InstantSeconds)
-  * *Published on 1 Jul 2024*
-* [Containerize a Spring Boot Application With Podman Desktop](https://feeds.feedblitz.com/~/900336296/0/baeldung~Containerize-a-Spring-Boot-Application-With-Podman-Desktop)
-  * *Published on 30 Jun 2024*
