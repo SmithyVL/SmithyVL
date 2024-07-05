@@ -247,6 +247,8 @@
 
 ## 📋 Недавняя активность
 **[📰 Recent activity](https://github.com/SmithyVL)**
+* #️⃣ Opened [#4 Изменение цели проекта с обычного бота на бота гильдии &#34;Protego Totalum&#34;](https://github.com/HogwartsSchoolOfMagic/ProtegoTotalumBot/issues/4) in [HogwartsSchoolOfMagic/ProtegoTotalumBot](https://github.com/HogwartsSchoolOfMagic/ProtegoTotalumBot)
+  * *On 4 Jul 2024, 18:09:23*
 * ➡️ Pushed 1 commit in [SmithyVL/SmithyVL](https://github.com/SmithyVL/SmithyVL) on branch `master`
   * [#5c464a4](https://github.com/SmithyVL/SmithyVL/commit/5c464a4) 4.0.0. Актуализация опыта работы, моих проектов, рабочего окружения и участия в конференциях. Удаление статистики написания кода на Github.
   * *On 2 Jul 2024, 19:14:34*
@@ -259,13 +261,12 @@
 * ➡️ Pushed 1 commit in [SmithyVL/SmithyVL](https://github.com/SmithyVL/SmithyVL) on branch `master`
   * [#7820252](https://github.com/SmithyVL/SmithyVL/commit/7820252) 3.2.0. Add new technologies and tools.
   * *On 2 Jul 2024, 12:25:08*
-* ➡️ Pushed 1 commit in [SmithyVL/SmithyVL](https://github.com/SmithyVL/SmithyVL) on branch `master`
-  * [#467a3d0](https://github.com/SmithyVL/SmithyVL/commit/467a3d0) 3.2.0. Add new technologies and tools.
-  * *On 2 Jul 2024, 12:08:15*
 
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [Check Whether a Collection Contains an Element or Not Using Hamcrest](https://feeds.feedblitz.com/~/900599828/0/baeldung~Check-Whether-a-Collection-Contains-an-Element-or-Not-Using-Hamcrest)
+  * *Published on 4 Jul 2024*
 * [Guide to getResourceAsStream() and FileInputStream in Java](https://feeds.feedblitz.com/~/900466925/0/baeldung~Guide-to-getResourceAsStream-and-FileInputStream-in-Java)
   * *Published on 2 Jul 2024*
 * [Resolving PostgreSQL JSON Type Mismatch Errors in JPA](https://feeds.feedblitz.com/~/900466928/0/baeldung~Resolving-PostgreSQL-JSON-Type-Mismatch-Errors-in-JPA)
@@ -274,5 +275,3 @@
   * *Published on 2 Jul 2024*
 * [Message Conversion in Spring Cloud AWS v3](https://feeds.feedblitz.com/~/900465575/0/baeldung~Message-Conversion-in-Spring-Cloud-AWS-v)
   * *Published on 2 Jul 2024*
-* [Insert JSON Object into PostgreSQL using Java preparedStatement](https://feeds.feedblitz.com/~/900423602/0/baeldung~Insert-JSON-Object-into-PostgreSQL-using-Java-preparedStatement)
-  * *Published on 1 Jul 2024*
