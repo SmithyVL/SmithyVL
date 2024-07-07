@@ -247,27 +247,30 @@
 
 ## 📋 Недавняя активность
 **[📰 Recent activity](https://github.com/SmithyVL)**
+* ➡️ Pushed 1 commit in [HogwartsSchoolOfMagic/ProtegoTotalumBot](https://github.com/HogwartsSchoolOfMagic/ProtegoTotalumBot) on branch `master`
+  * [#cf98e4d](https://github.com/HogwartsSchoolOfMagic/ProtegoTotalumBot/commit/cf98e4d) Корректировка запуска docker-compose и spring boot application.
+  * *On 6 Jul 2024, 11:47:43*
+* ➡️ Pushed 1 commit in [HogwartsSchoolOfMagic/ProtegoTotalumBot](https://github.com/HogwartsSchoolOfMagic/ProtegoTotalumBot) on branch `master`
+  * [#7895892](https://github.com/HogwartsSchoolOfMagic/ProtegoTotalumBot/commit/7895892) Корректировка запуска docker-compose и spring boot application.
+  * *On 6 Jul 2024, 11:25:58*
+* ➡️ Pushed 1 commit in [HogwartsSchoolOfMagic/ProtegoTotalumBot](https://github.com/HogwartsSchoolOfMagic/ProtegoTotalumBot) on branch `master`
+  * [#d04593b](https://github.com/HogwartsSchoolOfMagic/ProtegoTotalumBot/commit/d04593b) Корректировка запуска docker-compose и spring boot application.
+  * *On 6 Jul 2024, 11:23:06*
 * 🌟 Starred [HogwartsSchoolOfMagic/ProtegoTotalumBot](https://github.com/HogwartsSchoolOfMagic/ProtegoTotalumBot)
   * *On 5 Jul 2024, 21:16:56*
 * 💬 Commented on [#6 Создание структуры БД на основе гильдии &#34;Protego Totalum&#34;](https://github.com/HogwartsSchoolOfMagic/ProtegoTotalumBot/issues/6) from [HogwartsSchoolOfMagic/ProtegoTotalumBot](https://github.com/HogwartsSchoolOfMagic/ProtegoTotalumBot)
   * *On 5 Jul 2024, 18:57:39*
-* #️⃣ Opened [#11 Добавить тесты репозиториев. Для сервисов из-за отсутствия логики кроме вызовов репозиториев - пока не требуется.](https://github.com/HogwartsSchoolOfMagic/ProtegoTotalumBot/issues/11) in [HogwartsSchoolOfMagic/ProtegoTotalumBot](https://github.com/HogwartsSchoolOfMagic/ProtegoTotalumBot)
-  * *On 5 Jul 2024, 18:07:52*
-* #️⃣ Opened [#10 Добавить сервисные классы для работы с репозиториями;](https://github.com/HogwartsSchoolOfMagic/ProtegoTotalumBot/issues/10) in [HogwartsSchoolOfMagic/ProtegoTotalumBot](https://github.com/HogwartsSchoolOfMagic/ProtegoTotalumBot)
-  * *On 5 Jul 2024, 18:07:50*
-* #️⃣ Opened [#9 Добавить репозитории для работы с таблицами БД;](https://github.com/HogwartsSchoolOfMagic/ProtegoTotalumBot/issues/9) in [HogwartsSchoolOfMagic/ProtegoTotalumBot](https://github.com/HogwartsSchoolOfMagic/ProtegoTotalumBot)
-  * *On 5 Jul 2024, 18:07:47*
 
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [Getting the Insert ID in JDBC](https://feeds.feedblitz.com/~/900747233/0/baeldung~Getting-the-Insert-ID-in-JDBC)
+  * *Published on 6 Jul 2024*
+* [List All Files on the Remote Server in Java](https://feeds.feedblitz.com/~/900747236/0/baeldung~List-All-Files-on-the-Remote-Server-in-Java)
+  * *Published on 6 Jul 2024*
 * [Java Weekly, Issue 549](https://feeds.feedblitz.com/~/900655679/0/baeldung~Java-Weekly-Issue)
   * *Published on 5 Jul 2024*
 * [How to Fix Hibernate UnknownEntityException: Could not resolve root entity](https://feeds.feedblitz.com/~/900652349/0/baeldung~How-to-Fix-Hibernate-UnknownEntityException-Could-not-resolve-root-entity)
   * *Published on 5 Jul 2024*
 * [Finding Max and Min Date in List Using Streams](https://feeds.feedblitz.com/~/900651629/0/baeldung~Finding-Max-and-Min-Date-in-List-Using-Streams)
   * *Published on 5 Jul 2024*
-* [Check Whether a Collection Contains an Element or Not Using Hamcrest](https://feeds.feedblitz.com/~/900599828/0/baeldung~Check-Whether-a-Collection-Contains-an-Element-or-Not-Using-Hamcrest)
-  * *Published on 4 Jul 2024*
-* [Guide to getResourceAsStream() and FileInputStream in Java](https://feeds.feedblitz.com/~/900466925/0/baeldung~Guide-to-getResourceAsStream-and-FileInputStream-in-Java)
-  * *Published on 2 Jul 2024*
