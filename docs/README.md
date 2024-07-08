@@ -264,6 +264,8 @@
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [Naming Executor Service Threads and Thread Pool in Java](https://feeds.feedblitz.com/~/900787328/0/baeldung~Naming-Executor-Service-Threads-and-Thread-Pool-in-Java)
+  * *Published on 7 Jul 2024*
 * [Getting the Insert ID in JDBC](https://feeds.feedblitz.com/~/900747233/0/baeldung~Getting-the-Insert-ID-in-JDBC)
   * *Published on 6 Jul 2024*
 * [List All Files on the Remote Server in Java](https://feeds.feedblitz.com/~/900747236/0/baeldung~List-All-Files-on-the-Remote-Server-in-Java)
@@ -271,6 +273,4 @@
 * [Java Weekly, Issue 549](https://feeds.feedblitz.com/~/900655679/0/baeldung~Java-Weekly-Issue)
   * *Published on 5 Jul 2024*
 * [How to Fix Hibernate UnknownEntityException: Could not resolve root entity](https://feeds.feedblitz.com/~/900652349/0/baeldung~How-to-Fix-Hibernate-UnknownEntityException-Could-not-resolve-root-entity)
-  * *Published on 5 Jul 2024*
-* [Finding Max and Min Date in List Using Streams](https://feeds.feedblitz.com/~/900651629/0/baeldung~Finding-Max-and-Min-Date-in-List-Using-Streams)
   * *Published on 5 Jul 2024*
