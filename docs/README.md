@@ -264,13 +264,13 @@
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
-* [Naming Executor Service Threads and Thread Pool in Java](https://feeds.feedblitz.com/~/900787328/0/baeldung~Naming-Executor-Service-Threads-and-Thread-Pool-in-Java)
-  * *Published on 7 Jul 2024*
-* [Getting the Insert ID in JDBC](https://feeds.feedblitz.com/~/900747233/0/baeldung~Getting-the-Insert-ID-in-JDBC)
-  * *Published on 6 Jul 2024*
-* [List All Files on the Remote Server in Java](https://feeds.feedblitz.com/~/900747236/0/baeldung~List-All-Files-on-the-Remote-Server-in-Java)
-  * *Published on 6 Jul 2024*
-* [Java Weekly, Issue 549](https://feeds.feedblitz.com/~/900655679/0/baeldung~Java-Weekly-Issue)
-  * *Published on 5 Jul 2024*
-* [How to Fix Hibernate UnknownEntityException: Could not resolve root entity](https://feeds.feedblitz.com/~/900652349/0/baeldung~How-to-Fix-Hibernate-UnknownEntityException-Could-not-resolve-root-entity)
-  * *Published on 5 Jul 2024*
+* [Blazing Fast Serialization Using Apache Fury](https://feeds.feedblitz.com/~/900846551/0/baeldung~Blazing-Fast-Serialization-Using-Apache-Fury)
+  * *Published on 8 Jul 2024*
+* [Testing Quarkus With Citrus](https://feeds.feedblitz.com/~/900846554/0/baeldung~Testing-Quarkus-With-Citrus)
+  * *Published on 8 Jul 2024*
+* [Counting an Occurrence in an Array](https://feeds.feedblitz.com/~/900846557/0/baeldung~Counting-an-Occurrence-in-an-Array)
+  * *Published on 8 Jul 2024*
+* [IncompatibleClassChangeError in Java](https://feeds.feedblitz.com/~/900846560/0/baeldung~IncompatibleClassChangeError-in-Java)
+  * *Published on 8 Jul 2024*
+* [Consumer Acknowledgments and Publisher Confirms with RabbitMQ](https://feeds.feedblitz.com/~/900846563/0/baeldung~Consumer-Acknowledgments-and-Publisher-Confirms-with-RabbitMQ)
+  * *Published on 8 Jul 2024*
