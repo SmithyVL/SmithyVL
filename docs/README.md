@@ -264,13 +264,13 @@
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
-* [Blazing Fast Serialization Using Apache Fury](https://feeds.feedblitz.com/~/900846551/0/baeldung~Blazing-Fast-Serialization-Using-Apache-Fury)
-  * *Published on 8 Jul 2024*
-* [Testing Quarkus With Citrus](https://feeds.feedblitz.com/~/900846554/0/baeldung~Testing-Quarkus-With-Citrus)
-  * *Published on 8 Jul 2024*
-* [Counting an Occurrence in an Array](https://feeds.feedblitz.com/~/900846557/0/baeldung~Counting-an-Occurrence-in-an-Array)
-  * *Published on 8 Jul 2024*
-* [IncompatibleClassChangeError in Java](https://feeds.feedblitz.com/~/900846560/0/baeldung~IncompatibleClassChangeError-in-Java)
-  * *Published on 8 Jul 2024*
-* [Consumer Acknowledgments and Publisher Confirms with RabbitMQ](https://feeds.feedblitz.com/~/900846563/0/baeldung~Consumer-Acknowledgments-and-Publisher-Confirms-with-RabbitMQ)
-  * *Published on 8 Jul 2024*
+* [Using Amazon Athena With Spring Boot to Query S3 Data](https://feeds.feedblitz.com/~/900897128/0/baeldung~Using-Amazon-Athena-With-Spring-Boot-to-Query-S-Data)
+  * *Published on 9 Jul 2024*
+* [Testcontainers JDBC Support](https://feeds.feedblitz.com/~/900897131/0/baeldung~Testcontainers-JDBC-Support)
+  * *Published on 9 Jul 2024*
+* [Upload Files With GraphQL in Java](https://feeds.feedblitz.com/~/900897134/0/baeldung~Upload-Files-With-GraphQL-in-Java)
+  * *Published on 9 Jul 2024*
+* [How to Handle Default Values in Avro](https://feeds.feedblitz.com/~/900897137/0/baeldung~How-to-Handle-Default-Values-in-Avro)
+  * *Published on 9 Jul 2024*
+* [Check if a List Contains Elements With Certain Properties in Hamcrest](https://feeds.feedblitz.com/~/900897140/0/baeldung~Check-if-a-List-Contains-Elements-With-Certain-Properties-in-Hamcrest)
+  * *Published on 9 Jul 2024*
