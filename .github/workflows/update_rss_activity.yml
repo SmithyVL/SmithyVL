@@ -27,5 +27,5 @@ jobs:
           plugin_activity_filter: all
           plugin_activity_timestamps: yes
           plugin_rss: yes
-          plugin_rss_source: https://feeds.feedblitz.com/baeldung
-          plugin_rss_limit: 5
+          plugin_rss_source: https://habr.com/ru/rss/feed/243aceb23dd0da0d28f7cc4a656548a3?fl=ru&rating=10&types%5B%5D=article&types%5B%5D=post&types%5B%5D=news
+          plugin_rss_limit: 10
