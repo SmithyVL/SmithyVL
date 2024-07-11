@@ -247,6 +247,9 @@
 
 ## 📋 Недавняя активность
 **[📰 Recent activity](https://github.com/SmithyVL)**
+* ➡️ Pushed 1 commit in [SmithyVL/SmithyVL](https://github.com/SmithyVL/SmithyVL) on branch `master`
+  * [#e29b8af](https://github.com/SmithyVL/SmithyVL/commit/e29b8af) 4.1.0. Замена источника RSS ленты с Baeldung на Habr.
+  * *On 11 Jul 2024, 00:54:10*
 * ➡️ Pushed 1 commit in [HogwartsSchoolOfMagic/ProtegoTotalumBot](https://github.com/HogwartsSchoolOfMagic/ProtegoTotalumBot) on branch `master`
   * [#cf98e4d](https://github.com/HogwartsSchoolOfMagic/ProtegoTotalumBot/commit/cf98e4d) Корректировка запуска docker-compose и spring boot application.
   * *On 6 Jul 2024, 11:47:43*
@@ -258,19 +261,27 @@
   * *On 6 Jul 2024, 11:23:06*
 * 🌟 Starred [HogwartsSchoolOfMagic/ProtegoTotalumBot](https://github.com/HogwartsSchoolOfMagic/ProtegoTotalumBot)
   * *On 5 Jul 2024, 21:16:56*
-* 💬 Commented on [#6 Создание структуры БД на основе гильдии &#34;Protego Totalum&#34;](https://github.com/HogwartsSchoolOfMagic/ProtegoTotalumBot/issues/6) from [HogwartsSchoolOfMagic/ProtegoTotalumBot](https://github.com/HogwartsSchoolOfMagic/ProtegoTotalumBot)
-  * *On 5 Jul 2024, 18:57:39*
 
 
 ## 📰 Новостная лента
-**[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
-* [Using Amazon Athena With Spring Boot to Query S3 Data](https://feeds.feedblitz.com/~/900897128/0/baeldung~Using-Amazon-Athena-With-Spring-Boot-to-Query-S-Data)
+**[🗼 Rss feed from Публикации по подписке](https://habr.com/ru/feed/)**
+* [Кем работать в IT 2024: мантейнер](https://habr.com/ru/companies/habr_career/articles/827740/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=827740)
   * *Published on 9 Jul 2024*
-* [Testcontainers JDBC Support](https://feeds.feedblitz.com/~/900897131/0/baeldung~Testcontainers-JDBC-Support)
+* [Как обеспечить цифровую доступность по всем правилам: опыт Яндекс Капчи](https://habr.com/ru/companies/yandex/articles/826936/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=826936)
   * *Published on 9 Jul 2024*
-* [Upload Files With GraphQL in Java](https://feeds.feedblitz.com/~/900897134/0/baeldung~Upload-Files-With-GraphQL-in-Java)
-  * *Published on 9 Jul 2024*
-* [How to Handle Default Values in Avro](https://feeds.feedblitz.com/~/900897137/0/baeldung~How-to-Handle-Default-Values-in-Avro)
-  * *Published on 9 Jul 2024*
-* [Check if a List Contains Elements With Certain Properties in Hamcrest](https://feeds.feedblitz.com/~/900897140/0/baeldung~Check-if-a-List-Contains-Elements-With-Certain-Properties-in-Hamcrest)
-  * *Published on 9 Jul 2024*
+* [Markdown в IntelliJ IDEA как отдельный вид искусства. Рисуем диаграммы и вызываем bash команды](https://habr.com/ru/companies/spring_aio/articles/826930/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=826930)
+  * *Published on 5 Jul 2024*
+* [[Перевод] Новый компилятор K2 в Kotlin. Часть 2. Гайд по миграции](https://habr.com/ru/companies/spring_aio/articles/826660/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=826660)
+  * *Published on 4 Jul 2024*
+* [Нейросети помогут исправить и улучшить текст в Яндекс Клавиатуре](https://habr.com/ru/companies/yandex/news/826574/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=826574)
+  * *Published on 4 Jul 2024*
+* [Git. Скачем между ветками как древесные лягушки](https://habr.com/ru/articles/826260/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=826260)
+  * *Published on 2 Jul 2024*
+* [Как мы создавали PaaS-платформу App.Farm — цифровое сердце РСХБ](https://habr.com/ru/companies/rshb/articles/825816/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=825816)
+  * *Published on 1 Jul 2024*
+* [Как IT-специалисту составить резюме: советы рекрутеров](https://habr.com/ru/companies/habr_career/articles/825844/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=825844)
+  * *Published on 1 Jul 2024*
+* [Как я написал загрузчик YouTube видео на Ktor + HTMX. Убийца React?](https://habr.com/ru/articles/825646/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=825646)
+  * *Published on 30 Jun 2024*
+* [Подключаем GigaCode к мобильной разработке](https://habr.com/ru/companies/usetech/articles/825470/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=825470)
+  * *Published on 29 Jun 2024*
