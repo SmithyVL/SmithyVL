@@ -265,6 +265,10 @@
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Публикации по подписке](https://habr.com/ru/feed/)**
+* [Kotlin Coroutines под капотом](https://habr.com/ru/articles/827866/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=827866)
+  * *Published on 11 Jul 2024*
+* [Зарплаты IT-специалистов в первой половине 2024: +8% по всей России](https://habr.com/ru/specials/827990/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=827990)
+  * *Published on 11 Jul 2024*
 * [Кем работать в IT 2024: мантейнер](https://habr.com/ru/companies/habr_career/articles/827740/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=827740)
   * *Published on 9 Jul 2024*
 * [Как обеспечить цифровую доступность по всем правилам: опыт Яндекс Капчи](https://habr.com/ru/companies/yandex/articles/826936/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=826936)
@@ -281,7 +285,3 @@
   * *Published on 1 Jul 2024*
 * [Как IT-специалисту составить резюме: советы рекрутеров](https://habr.com/ru/companies/habr_career/articles/825844/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=825844)
   * *Published on 1 Jul 2024*
-* [Как я написал загрузчик YouTube видео на Ktor + HTMX. Убийца React?](https://habr.com/ru/articles/825646/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=825646)
-  * *Published on 30 Jun 2024*
-* [Подключаем GigaCode к мобильной разработке](https://habr.com/ru/companies/usetech/articles/825470/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=825470)
-  * *Published on 29 Jun 2024*
