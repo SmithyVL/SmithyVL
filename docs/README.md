@@ -265,6 +265,8 @@
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Публикации по подписке](https://habr.com/ru/feed/)**
+* [Пайплайны Gitlab CI: моя коллекция граблей](https://habr.com/ru/companies/kuper/articles/827988/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=827988)
+  * *Published on 12 Jul 2024*
 * [Kotlin Coroutines под капотом](https://habr.com/ru/articles/827866/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=827866)
   * *Published on 11 Jul 2024*
 * [Зарплаты IT-специалистов в первой половине 2024: +8% по всей России](https://habr.com/ru/specials/827990/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=827990)
@@ -282,6 +284,4 @@
 * [Git. Скачем между ветками как древесные лягушки](https://habr.com/ru/articles/826260/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=826260)
   * *Published on 2 Jul 2024*
 * [Как мы создавали PaaS-платформу App.Farm — цифровое сердце РСХБ](https://habr.com/ru/companies/rshb/articles/825816/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=825816)
-  * *Published on 1 Jul 2024*
-* [Как IT-специалисту составить резюме: советы рекрутеров](https://habr.com/ru/companies/habr_career/articles/825844/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=825844)
   * *Published on 1 Jul 2024*
