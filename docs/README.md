@@ -275,6 +275,8 @@
   * *Published on 9 Jul 2024*
 * [Как обеспечить цифровую доступность по всем правилам: опыт Яндекс Капчи](https://habr.com/ru/companies/yandex/articles/826936/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=826936)
   * *Published on 9 Jul 2024*
+* [Java Digest #14](https://habr.com/ru/companies/tbank/articles/827368/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=827368)
+  * *Published on 8 Jul 2024*
 * [Markdown в IntelliJ IDEA как отдельный вид искусства. Рисуем диаграммы и вызываем bash команды](https://habr.com/ru/companies/spring_aio/articles/826930/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=826930)
   * *Published on 5 Jul 2024*
 * [[Перевод] Новый компилятор K2 в Kotlin. Часть 2. Гайд по миграции](https://habr.com/ru/companies/spring_aio/articles/826660/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=826660)
@@ -283,5 +285,3 @@
   * *Published on 4 Jul 2024*
 * [Git. Скачем между ветками как древесные лягушки](https://habr.com/ru/articles/826260/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=826260)
   * *Published on 2 Jul 2024*
-* [Как мы создавали PaaS-платформу App.Farm — цифровое сердце РСХБ](https://habr.com/ru/companies/rshb/articles/825816/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=825816)
-  * *Published on 1 Jul 2024*
