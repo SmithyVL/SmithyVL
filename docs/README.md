@@ -265,6 +265,10 @@
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Публикации по подписке](https://habr.com/ru/feed/)**
+* [Вышла новая версия платформы разработки программного обеспечения GitFlic 3.2.0](https://habr.com/ru/news/829066/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=829066)
+  * *Published on 15 Jul 2024*
+* [Представлена открытая лёгковесная библиотека gpu.cpp для проведения низкоуровневых вычислений на GPU с помощью C++](https://habr.com/ru/news/828706/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=828706)
+  * *Published on 14 Jul 2024*
 * [Пайплайны Gitlab CI: моя коллекция граблей](https://habr.com/ru/companies/kuper/articles/827988/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=827988)
   * *Published on 12 Jul 2024*
 * [Kotlin Coroutines под капотом](https://habr.com/ru/articles/827866/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=827866)
@@ -281,7 +285,3 @@
   * *Published on 5 Jul 2024*
 * [[Перевод] Новый компилятор K2 в Kotlin. Часть 2. Гайд по миграции](https://habr.com/ru/companies/spring_aio/articles/826660/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=826660)
   * *Published on 4 Jul 2024*
-* [Нейросети помогут исправить и улучшить текст в Яндекс Клавиатуре](https://habr.com/ru/companies/yandex/news/826574/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=826574)
-  * *Published on 4 Jul 2024*
-* [Git. Скачем между ветками как древесные лягушки](https://habr.com/ru/articles/826260/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=826260)
-  * *Published on 2 Jul 2024*
