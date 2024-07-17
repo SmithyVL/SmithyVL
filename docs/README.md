@@ -265,6 +265,8 @@
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Публикации по подписке](https://habr.com/ru/feed/)**
+* [Активность найма на IT-рынке во 2 квартале 2024](https://habr.com/ru/companies/habr_career/articles/829182/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=829182)
+  * *Published on 16 Jul 2024*
 * [Вышла новая версия платформы разработки программного обеспечения GitFlic 3.2.0](https://habr.com/ru/news/829066/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=829066)
   * *Published on 15 Jul 2024*
 * [Представлена открытая лёгковесная библиотека gpu.cpp для проведения низкоуровневых вычислений на GPU с помощью C++](https://habr.com/ru/news/828706/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=828706)
@@ -283,5 +285,3 @@
   * *Published on 8 Jul 2024*
 * [Markdown в IntelliJ IDEA как отдельный вид искусства. Рисуем диаграммы и вызываем bash команды](https://habr.com/ru/companies/spring_aio/articles/826930/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=826930)
   * *Published on 5 Jul 2024*
-* [[Перевод] Новый компилятор K2 в Kotlin. Часть 2. Гайд по миграции](https://habr.com/ru/companies/spring_aio/articles/826660/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=826660)
-  * *Published on 4 Jul 2024*
