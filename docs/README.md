@@ -265,7 +265,13 @@
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Публикации по подписке](https://habr.com/ru/feed/)**
+* [Обзор GigaIDE от СБЕРа | Российская IntelliJ IDEA | Поддержка Spring вместе с Amplicode](https://habr.com/ru/companies/haulmont/articles/828828/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=828828)
+  * *Published on 17 Jul 2024*
+* [Как ломаются большие системы и как их траблшутить — инсайты из интенсива ШАДа Яндекса](https://habr.com/ru/companies/yandex/articles/828168/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=828168)
+  * *Published on 17 Jul 2024*
 * [Активность найма на IT-рынке во 2 квартале 2024](https://habr.com/ru/companies/habr_career/articles/829182/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=829182)
+  * *Published on 16 Jul 2024*
+* [Как работает генерация видео в open source проекте Wunjo CE](https://habr.com/ru/articles/828752/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=828752)
   * *Published on 16 Jul 2024*
 * [Вышла новая версия платформы разработки программного обеспечения GitFlic 3.2.0](https://habr.com/ru/news/829066/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=829066)
   * *Published on 15 Jul 2024*
@@ -279,9 +285,3 @@
   * *Published on 11 Jul 2024*
 * [Кем работать в IT 2024: мантейнер](https://habr.com/ru/companies/habr_career/articles/827740/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=827740)
   * *Published on 9 Jul 2024*
-* [Как обеспечить цифровую доступность по всем правилам: опыт Яндекс Капчи](https://habr.com/ru/companies/yandex/articles/826936/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=826936)
-  * *Published on 9 Jul 2024*
-* [Java Digest #14](https://habr.com/ru/companies/tbank/articles/827368/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=827368)
-  * *Published on 8 Jul 2024*
-* [Markdown в IntelliJ IDEA как отдельный вид искусства. Рисуем диаграммы и вызываем bash команды](https://habr.com/ru/companies/spring_aio/articles/826930/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=826930)
-  * *Published on 5 Jul 2024*
