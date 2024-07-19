@@ -265,6 +265,10 @@
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Публикации по подписке](https://habr.com/ru/feed/)**
+* [Declarative Gradle: рывок или прорыв?](https://habr.com/ru/companies/spring_aio/articles/829702/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=829702)
+  * *Published on 18 Jul 2024*
+* [Работает — не трожь: зачем обновлять Python в долгоживущих проектах](https://habr.com/ru/companies/yandex/articles/828956/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=828956)
+  * *Published on 18 Jul 2024*
 * [Обзор GigaIDE от СБЕРа | Российская IntelliJ IDEA | Поддержка Spring вместе с Amplicode](https://habr.com/ru/companies/haulmont/articles/828828/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=828828)
   * *Published on 17 Jul 2024*
 * [Как ломаются большие системы и как их траблшутить — инсайты из интенсива ШАДа Яндекса](https://habr.com/ru/companies/yandex/articles/828168/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=828168)
@@ -281,7 +285,3 @@
   * *Published on 12 Jul 2024*
 * [Kotlin Coroutines под капотом](https://habr.com/ru/articles/827866/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=827866)
   * *Published on 11 Jul 2024*
-* [Зарплаты IT-специалистов в первой половине 2024: +8% по всей России](https://habr.com/ru/specials/827990/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=827990)
-  * *Published on 11 Jul 2024*
-* [Кем работать в IT 2024: мантейнер](https://habr.com/ru/companies/habr_career/articles/827740/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=827740)
-  * *Published on 9 Jul 2024*
