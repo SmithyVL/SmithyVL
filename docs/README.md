@@ -259,12 +259,12 @@
 * ➡️ Pushed 1 commit in [HogwartsSchoolOfMagic/ProtegoTotalumBot](https://github.com/HogwartsSchoolOfMagic/ProtegoTotalumBot) on branch `master`
   * [#d04593b](https://github.com/HogwartsSchoolOfMagic/ProtegoTotalumBot/commit/d04593b) Корректировка запуска docker-compose и spring boot application.
   * *On 6 Jul 2024, 11:23:06*
-* 🌟 Starred [HogwartsSchoolOfMagic/ProtegoTotalumBot](https://github.com/HogwartsSchoolOfMagic/ProtegoTotalumBot)
-  * *On 5 Jul 2024, 21:16:56*
 
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Публикации по подписке](https://habr.com/ru/feed/)**
+* [Пост @habr_career — Блог компании Хабр Карьера (+3) — 18.07.2024 18:06](https://habr.com/ru/companies/habr_career/posts/829806/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=829806)
+  * *Published on 18 Jul 2024*
 * [Declarative Gradle: рывок или прорыв?](https://habr.com/ru/companies/spring_aio/articles/829702/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=829702)
   * *Published on 18 Jul 2024*
 * [Работает — не трожь: зачем обновлять Python в долгоживущих проектах](https://habr.com/ru/companies/yandex/articles/828956/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=828956)
@@ -283,5 +283,3 @@
   * *Published on 14 Jul 2024*
 * [Пайплайны Gitlab CI: моя коллекция граблей](https://habr.com/ru/companies/kuper/articles/827988/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=827988)
   * *Published on 12 Jul 2024*
-* [Kotlin Coroutines под капотом](https://habr.com/ru/articles/827866/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=827866)
-  * *Published on 11 Jul 2024*
