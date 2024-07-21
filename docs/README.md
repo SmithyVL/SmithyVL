@@ -250,21 +250,14 @@
 * ➡️ Pushed 1 commit in [SmithyVL/SmithyVL](https://github.com/SmithyVL/SmithyVL) on branch `master`
   * [#e29b8af](https://github.com/SmithyVL/SmithyVL/commit/e29b8af) 4.1.0. Замена источника RSS ленты с Baeldung на Habr.
   * *On 11 Jul 2024, 00:54:10*
-* ➡️ Pushed 1 commit in [HogwartsSchoolOfMagic/ProtegoTotalumBot](https://github.com/HogwartsSchoolOfMagic/ProtegoTotalumBot) on branch `master`
-  * [#cf98e4d](https://github.com/HogwartsSchoolOfMagic/ProtegoTotalumBot/commit/cf98e4d) Корректировка запуска docker-compose и spring boot application.
-  * *On 6 Jul 2024, 11:47:43*
-* ➡️ Pushed 1 commit in [HogwartsSchoolOfMagic/ProtegoTotalumBot](https://github.com/HogwartsSchoolOfMagic/ProtegoTotalumBot) on branch `master`
-  * [#7895892](https://github.com/HogwartsSchoolOfMagic/ProtegoTotalumBot/commit/7895892) Корректировка запуска docker-compose и spring boot application.
-  * *On 6 Jul 2024, 11:25:58*
-* ➡️ Pushed 1 commit in [HogwartsSchoolOfMagic/ProtegoTotalumBot](https://github.com/HogwartsSchoolOfMagic/ProtegoTotalumBot) on branch `master`
-  * [#d04593b](https://github.com/HogwartsSchoolOfMagic/ProtegoTotalumBot/commit/d04593b) Корректировка запуска docker-compose и spring boot application.
-  * *On 6 Jul 2024, 11:23:06*
 
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Публикации по подписке](https://habr.com/ru/feed/)**
 * [Пост @habr_career — Блог компании Хабр Карьера (+3) — 18.07.2024 18:06](https://habr.com/ru/companies/habr_career/posts/829806/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=829806)
   * *Published on 18 Jul 2024*
+* [Как вырастить динозавра: масштабирование платформы YTsaurus от 200 до 20 000 хостов. Доклад Яндекса](https://habr.com/ru/companies/yandex/articles/829654/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=829654)
+  * *Published on 19 Jul 2024*
 * [Declarative Gradle: рывок или прорыв?](https://habr.com/ru/companies/spring_aio/articles/829702/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=829702)
   * *Published on 18 Jul 2024*
 * [Работает — не трожь: зачем обновлять Python в долгоживущих проектах](https://habr.com/ru/companies/yandex/articles/828956/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=828956)
@@ -281,5 +274,3 @@
   * *Published on 15 Jul 2024*
 * [Представлена открытая лёгковесная библиотека gpu.cpp для проведения низкоуровневых вычислений на GPU с помощью C++](https://habr.com/ru/news/828706/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=828706)
   * *Published on 14 Jul 2024*
-* [Пайплайны Gitlab CI: моя коллекция граблей](https://habr.com/ru/companies/kuper/articles/827988/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=827988)
-  * *Published on 12 Jul 2024*
