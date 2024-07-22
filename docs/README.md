@@ -254,6 +254,8 @@
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Публикации по подписке](https://habr.com/ru/feed/)**
+* [Управляем нашей лодкой прямо с веб-страницы на телефоне](https://habr.com/ru/articles/828938/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=828938)
+  * *Published on 19 Jul 2024*
 * [Пост @habr_career — Блог компании Хабр Карьера (+3) — 18.07.2024 18:06](https://habr.com/ru/companies/habr_career/posts/829806/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=829806)
   * *Published on 18 Jul 2024*
 * [Как вырастить динозавра: масштабирование платформы YTsaurus от 200 до 20 000 хостов. Доклад Яндекса](https://habr.com/ru/companies/yandex/articles/829654/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=829654)
@@ -272,5 +274,3 @@
   * *Published on 16 Jul 2024*
 * [Вышла новая версия платформы разработки программного обеспечения GitFlic 3.2.0](https://habr.com/ru/news/829066/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=829066)
   * *Published on 15 Jul 2024*
-* [Представлена открытая лёгковесная библиотека gpu.cpp для проведения низкоуровневых вычислений на GPU с помощью C++](https://habr.com/ru/news/828706/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=828706)
-  * *Published on 14 Jul 2024*
