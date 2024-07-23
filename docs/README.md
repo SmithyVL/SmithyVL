@@ -254,6 +254,8 @@
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Публикации по подписке](https://habr.com/ru/feed/)**
+* [Как Яндекс учит Алису понимать пользователей с особенностями речи](https://habr.com/ru/companies/yandex/articles/829396/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=829396)
+  * *Published on 22 Jul 2024*
 * [Управляем нашей лодкой прямо с веб-страницы на телефоне](https://habr.com/ru/articles/828938/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=828938)
   * *Published on 19 Jul 2024*
 * [Пост @habr_career — Блог компании Хабр Карьера (+3) — 18.07.2024 18:06](https://habr.com/ru/companies/habr_career/posts/829806/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=829806)
@@ -272,5 +274,3 @@
   * *Published on 16 Jul 2024*
 * [Как работает генерация видео в open source проекте Wunjo CE](https://habr.com/ru/articles/828752/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=828752)
   * *Published on 16 Jul 2024*
-* [Вышла новая версия платформы разработки программного обеспечения GitFlic 3.2.0](https://habr.com/ru/news/829066/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=829066)
-  * *Published on 15 Jul 2024*
