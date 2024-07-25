@@ -247,13 +247,15 @@
 
 ## 📋 Недавняя активность
 **[📰 Recent activity](https://github.com/SmithyVL)**
-* ➡️ Pushed 1 commit in [SmithyVL/SmithyVL](https://github.com/SmithyVL/SmithyVL) on branch `master`
-  * [#e29b8af](https://github.com/SmithyVL/SmithyVL/commit/e29b8af) 4.1.0. Замена источника RSS ленты с Baeldung на Habr.
-  * *On 11 Jul 2024, 00:54:10*
+No recent activity
 
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Публикации по подписке](https://habr.com/ru/feed/)**
+* [Пост @nastyasich — Блог компании Хабр Карьера (+3) — 24.07.2024 17:11](https://habr.com/ru/companies/habr_career/posts/831186/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=831186)
+  * *Published on 24 Jul 2024*
+* [Как публиковать библиотеку в Maven Central Portal в 2024 году](https://habr.com/ru/articles/830630/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=830630)
+  * *Published on 23 Jul 2024*
 * [Как развивалась технология экстремального сжатия LLM: от QuIP до AQLM с PV-tuning](https://habr.com/ru/companies/yandex/articles/830410/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=830410)
   * *Published on 23 Jul 2024*
 * [Как Яндекс учит Алису понимать пользователей с особенностями речи](https://habr.com/ru/companies/yandex/articles/829396/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=829396)
@@ -270,7 +272,3 @@
   * *Published on 18 Jul 2024*
 * [Обзор GigaIDE от СБЕРа | Российская IntelliJ IDEA | Поддержка Spring вместе с Amplicode](https://habr.com/ru/companies/haulmont/articles/828828/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=828828)
   * *Published on 17 Jul 2024*
-* [Как ломаются большие системы и как их траблшутить — инсайты из интенсива ШАДа Яндекса](https://habr.com/ru/companies/yandex/articles/828168/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=828168)
-  * *Published on 17 Jul 2024*
-* [Активность найма на IT-рынке во 2 квартале 2024](https://habr.com/ru/companies/habr_career/articles/829182/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=829182)
-  * *Published on 16 Jul 2024*
