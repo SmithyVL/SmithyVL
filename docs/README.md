@@ -252,6 +252,12 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Публикации по подписке](https://habr.com/ru/feed/)**
+* [Тот, кто поможет — обучение с менторами](https://habr.com/ru/companies/habr_career/articles/831336/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=831336)
+  * *Published on 25 Jul 2024*
+* [Как обеспечить масштабируемость проекта со старта и подстроить CI/CD под свои цели? Основано на реальных событиях](https://habr.com/ru/companies/clevertec/articles/830852/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=830852)
+  * *Published on 25 Jul 2024*
+* [Пост @habr_career — Блог компании Хабр Карьера (+3) — 23.07.2024 15:48](https://habr.com/ru/companies/habr_career/posts/830900/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=830900)
+  * *Published on 23 Jul 2024*
 * [Пост @nastyasich — Блог компании Хабр Карьера (+3) — 24.07.2024 17:11](https://habr.com/ru/companies/habr_career/posts/831186/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=831186)
   * *Published on 24 Jul 2024*
 * [Как публиковать библиотеку в Maven Central Portal в 2024 году](https://habr.com/ru/articles/830630/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=830630)
@@ -266,9 +272,3 @@ No recent activity
   * *Published on 18 Jul 2024*
 * [Как вырастить динозавра: масштабирование платформы YTsaurus от 200 до 20 000 хостов. Доклад Яндекса](https://habr.com/ru/companies/yandex/articles/829654/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=829654)
   * *Published on 19 Jul 2024*
-* [Declarative Gradle: рывок или прорыв?](https://habr.com/ru/companies/spring_aio/articles/829702/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=829702)
-  * *Published on 18 Jul 2024*
-* [Работает — не трожь: зачем обновлять Python в долгоживущих проектах](https://habr.com/ru/companies/yandex/articles/828956/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=828956)
-  * *Published on 18 Jul 2024*
-* [Обзор GigaIDE от СБЕРа | Российская IntelliJ IDEA | Поддержка Spring вместе с Amplicode](https://habr.com/ru/companies/haulmont/articles/828828/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=828828)
-  * *Published on 17 Jul 2024*
