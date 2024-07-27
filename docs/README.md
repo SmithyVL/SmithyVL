@@ -252,6 +252,8 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Публикации по подписке](https://habr.com/ru/feed/)**
+* [Я победил замедление YouTube](https://habr.com/ru/articles/831846/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=831846)
+  * *Published on 27 Jul 2024*
 * [Тот, кто поможет — обучение с менторами](https://habr.com/ru/companies/habr_career/articles/831336/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=831336)
   * *Published on 25 Jul 2024*
 * [Как обеспечить масштабируемость проекта со старта и подстроить CI/CD под свои цели? Основано на реальных событиях](https://habr.com/ru/companies/clevertec/articles/830852/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=830852)
@@ -270,5 +272,3 @@ No recent activity
   * *Published on 19 Jul 2024*
 * [Пост @habr_career — Блог компании Хабр Карьера (+3) — 18.07.2024 18:06](https://habr.com/ru/companies/habr_career/posts/829806/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=829806)
   * *Published on 18 Jul 2024*
-* [Как вырастить динозавра: масштабирование платформы YTsaurus от 200 до 20 000 хостов. Доклад Яндекса](https://habr.com/ru/companies/yandex/articles/829654/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=829654)
-  * *Published on 19 Jul 2024*
