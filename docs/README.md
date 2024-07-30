@@ -252,6 +252,10 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Публикации по подписке](https://habr.com/ru/feed/)**
+* [Тысяча и одна библиотека С++](https://habr.com/ru/articles/831754/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=831754)
+  * *Published on 29 Jul 2024*
+* [PinLockSreen на основе KeyStore. Kotlin. Jetpack Compose](https://habr.com/ru/articles/831914/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=831914)
+  * *Published on 27 Jul 2024*
 * [Я победил замедление YouTube](https://habr.com/ru/articles/831846/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=831846)
   * *Published on 27 Jul 2024*
 * [Тот, кто поможет — обучение с менторами](https://habr.com/ru/companies/habr_career/articles/831336/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=831336)
@@ -268,7 +272,3 @@ No recent activity
   * *Published on 23 Jul 2024*
 * [Как Яндекс учит Алису понимать пользователей с особенностями речи](https://habr.com/ru/companies/yandex/articles/829396/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=829396)
   * *Published on 22 Jul 2024*
-* [Управляем нашей лодкой прямо с веб-страницы на телефоне](https://habr.com/ru/articles/828938/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=828938)
-  * *Published on 19 Jul 2024*
-* [Пост @habr_career — Блог компании Хабр Карьера (+3) — 18.07.2024 18:06](https://habr.com/ru/companies/habr_career/posts/829806/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=829806)
-  * *Published on 18 Jul 2024*
