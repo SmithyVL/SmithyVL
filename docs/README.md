@@ -252,6 +252,14 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Публикации по подписке](https://habr.com/ru/feed/)**
+* [[Перевод] Генерация HTTP клиентов для Spring Boot приложения по OpenAPI спецификации](https://habr.com/ru/companies/spring_aio/articles/833096/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=833096)
+  * *Published on 1 Aug 2024*
+* [Настраиваем approve rules для merge request в бесплатной версии GitLab CE](https://habr.com/ru/companies/nixys/articles/822329/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=822329)
+  * *Published on 1 Aug 2024*
+* [Спидран в реальности: история робота, который быстрее всех в мире собирает кубик Рубика](https://habr.com/ru/companies/yandex/articles/831708/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=831708)
+  * *Published on 1 Aug 2024*
+* [Gradle + GitLab: эффективный и бесплатный билд-кэш](https://habr.com/ru/articles/832976/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=832976)
+  * *Published on 31 Jul 2024*
 * [Тысяча и одна библиотека С++](https://habr.com/ru/articles/831754/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=831754)
   * *Published on 29 Jul 2024*
 * [PinLockSreen на основе KeyStore. Kotlin. Jetpack Compose](https://habr.com/ru/articles/831914/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=831914)
@@ -264,11 +272,3 @@ No recent activity
   * *Published on 25 Jul 2024*
 * [Пост @habr_career — Блог компании Хабр Карьера (+3) — 23.07.2024 15:48](https://habr.com/ru/companies/habr_career/posts/830900/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=830900)
   * *Published on 23 Jul 2024*
-* [Пост @nastyasich — Блог компании Хабр Карьера (+3) — 24.07.2024 17:11](https://habr.com/ru/companies/habr_career/posts/831186/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=831186)
-  * *Published on 24 Jul 2024*
-* [Как публиковать библиотеку в Maven Central Portal в 2024 году](https://habr.com/ru/articles/830630/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=830630)
-  * *Published on 23 Jul 2024*
-* [Как развивалась технология экстремального сжатия LLM: от QuIP до AQLM с PV-tuning](https://habr.com/ru/companies/yandex/articles/830410/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=830410)
-  * *Published on 23 Jul 2024*
-* [Как Яндекс учит Алису понимать пользователей с особенностями речи](https://habr.com/ru/companies/yandex/articles/829396/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=829396)
-  * *Published on 22 Jul 2024*
