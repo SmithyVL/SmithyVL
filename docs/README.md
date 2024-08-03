@@ -252,6 +252,12 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Публикации по подписке](https://habr.com/ru/feed/)**
+* [Как мы прогнозируем спрос на заказы в Яндекс Лавке, чтобы эффективнее распределить нагрузку на курьеров. Доклад Яндекса](https://habr.com/ru/companies/yandex/articles/831534/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=831534)
+  * *Published on 2 Aug 2024*
+* [GitHub представила Models — маркетплейс моделей машинного обучения](https://habr.com/ru/news/833256/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=833256)
+  * *Published on 2 Aug 2024*
+* [Git, Gitflow и ветка develop. Продолжаем разбираться в основах программирования](https://habr.com/ru/companies/beeline_cloud/articles/833228/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=833228)
+  * *Published on 1 Aug 2024*
 * [[Перевод] Генерация HTTP клиентов для Spring Boot приложения по OpenAPI спецификации](https://habr.com/ru/companies/spring_aio/articles/833096/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=833096)
   * *Published on 1 Aug 2024*
 * [Настраиваем approve rules для merge request в бесплатной версии GitLab CE](https://habr.com/ru/companies/nixys/articles/822329/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=822329)
@@ -266,9 +272,3 @@ No recent activity
   * *Published on 27 Jul 2024*
 * [Я победил замедление YouTube](https://habr.com/ru/articles/831846/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=831846)
   * *Published on 27 Jul 2024*
-* [Тот, кто поможет — обучение с менторами](https://habr.com/ru/companies/habr_career/articles/831336/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=831336)
-  * *Published on 25 Jul 2024*
-* [Как обеспечить масштабируемость проекта со старта и подстроить CI/CD под свои цели? Основано на реальных событиях](https://habr.com/ru/companies/clevertec/articles/830852/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=830852)
-  * *Published on 25 Jul 2024*
-* [Пост @habr_career — Блог компании Хабр Карьера (+3) — 23.07.2024 15:48](https://habr.com/ru/companies/habr_career/posts/830900/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=830900)
-  * *Published on 23 Jul 2024*
