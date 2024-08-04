@@ -252,6 +252,8 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Публикации по подписке](https://habr.com/ru/feed/)**
+* [Разработчик воссоздал алгоритм Shazam с помощью Go](https://habr.com/ru/news/833288/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=833288)
+  * *Published on 2 Aug 2024*
 * [Как мы прогнозируем спрос на заказы в Яндекс Лавке, чтобы эффективнее распределить нагрузку на курьеров. Доклад Яндекса](https://habr.com/ru/companies/yandex/articles/831534/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=831534)
   * *Published on 2 Aug 2024*
 * [GitHub представила Models — маркетплейс моделей машинного обучения](https://habr.com/ru/news/833256/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=833256)
@@ -269,6 +271,4 @@ No recent activity
 * [Тысяча и одна библиотека С++](https://habr.com/ru/articles/831754/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=831754)
   * *Published on 29 Jul 2024*
 * [PinLockSreen на основе KeyStore. Kotlin. Jetpack Compose](https://habr.com/ru/articles/831914/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=831914)
-  * *Published on 27 Jul 2024*
-* [Я победил замедление YouTube](https://habr.com/ru/articles/831846/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=831846)
   * *Published on 27 Jul 2024*
