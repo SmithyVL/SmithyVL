@@ -252,6 +252,12 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Публикации по подписке](https://habr.com/ru/feed/)**
+* [[Перевод] Состояние Spring в 2024 году](https://habr.com/ru/companies/spring_aio/articles/834050/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=834050)
+  * *Published on 6 Aug 2024*
+* [Что нового в Amplicode 2024.2](https://habr.com/ru/companies/haulmont/articles/834164/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=834164)
+  * *Published on 6 Aug 2024*
+* [Стартовал Вайб-чек для аналитиков на Хабр Карьере](https://habr.com/ru/companies/habr_career/news/833370/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=833370)
+  * *Published on 5 Aug 2024*
 * [Разработчик воссоздал алгоритм Shazam с помощью Go](https://habr.com/ru/news/833288/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=833288)
   * *Published on 2 Aug 2024*
 * [Как мы прогнозируем спрос на заказы в Яндекс Лавке, чтобы эффективнее распределить нагрузку на курьеров. Доклад Яндекса](https://habr.com/ru/companies/yandex/articles/831534/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=831534)
@@ -266,9 +272,3 @@ No recent activity
   * *Published on 1 Aug 2024*
 * [Спидран в реальности: история робота, который быстрее всех в мире собирает кубик Рубика](https://habr.com/ru/companies/yandex/articles/831708/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=831708)
   * *Published on 1 Aug 2024*
-* [Gradle + GitLab: эффективный и бесплатный билд-кэш](https://habr.com/ru/articles/832976/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=832976)
-  * *Published on 31 Jul 2024*
-* [Тысяча и одна библиотека С++](https://habr.com/ru/articles/831754/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=831754)
-  * *Published on 29 Jul 2024*
-* [PinLockSreen на основе KeyStore. Kotlin. Jetpack Compose](https://habr.com/ru/articles/831914/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=831914)
-  * *Published on 27 Jul 2024*
