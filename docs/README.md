@@ -252,6 +252,8 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Публикации по подписке](https://habr.com/ru/feed/)**
+* [Автоматическая установка приложений из GitHub-релизов](https://habr.com/ru/articles/834656/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=834656)
+  * *Published on 8 Aug 2024*
 * [Софтмакс Гумбеля: как устроен и для каких нейронных сетей полезен](https://habr.com/ru/companies/yandex/articles/834262/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=834262)
   * *Published on 7 Aug 2024*
 * [[Перевод] Состояние Spring в 2024 году](https://habr.com/ru/companies/spring_aio/articles/834050/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=834050)
@@ -269,6 +271,4 @@ No recent activity
 * [Git, Gitflow и ветка develop. Продолжаем разбираться в основах программирования](https://habr.com/ru/companies/beeline_cloud/articles/833228/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=833228)
   * *Published on 1 Aug 2024*
 * [[Перевод] Генерация HTTP клиентов для Spring Boot приложения по OpenAPI спецификации](https://habr.com/ru/companies/spring_aio/articles/833096/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=833096)
-  * *Published on 1 Aug 2024*
-* [Настраиваем approve rules для merge request в бесплатной версии GitLab CE](https://habr.com/ru/companies/nixys/articles/822329/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=822329)
   * *Published on 1 Aug 2024*
