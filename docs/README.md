@@ -252,6 +252,10 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Публикации по подписке](https://habr.com/ru/feed/)**
+* [Свой плеер для DASH: вошли и вышли, приключение на 20 минут. Доклад Яндекса](https://habr.com/ru/companies/yandex/articles/833946/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=833946)
+  * *Published on 9 Aug 2024*
+* [Книга: «Программирование на Python с помощью GitHub Copilot и ChatGPT.»](https://habr.com/ru/companies/piter/articles/834562/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=834562)
+  * *Published on 8 Aug 2024*
 * [Автоматическая установка приложений из GitHub-релизов](https://habr.com/ru/articles/834656/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=834656)
   * *Published on 8 Aug 2024*
 * [Софтмакс Гумбеля: как устроен и для каких нейронных сетей полезен](https://habr.com/ru/companies/yandex/articles/834262/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=834262)
@@ -268,7 +272,3 @@ No recent activity
   * *Published on 2 Aug 2024*
 * [GitHub представила Models — маркетплейс моделей машинного обучения](https://habr.com/ru/news/833256/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=833256)
   * *Published on 2 Aug 2024*
-* [Git, Gitflow и ветка develop. Продолжаем разбираться в основах программирования](https://habr.com/ru/companies/beeline_cloud/articles/833228/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=833228)
-  * *Published on 1 Aug 2024*
-* [[Перевод] Генерация HTTP клиентов для Spring Boot приложения по OpenAPI спецификации](https://habr.com/ru/companies/spring_aio/articles/833096/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=833096)
-  * *Published on 1 Aug 2024*
