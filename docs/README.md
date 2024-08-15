@@ -252,6 +252,8 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Публикации по подписке](https://habr.com/ru/feed/)**
+* [JPA Entity. Загрузи меня не полностью](https://habr.com/ru/companies/spring_aio/articles/833918/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=833918)
+  * *Published on 14 Aug 2024*
 * [[Перевод] Любой может получить доступ к удалённым и приватным данным репозиториев GitHub](https://habr.com/ru/companies/ruvds/articles/835448/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=835448)
   * *Published on 12 Aug 2024*
 * [Свой плеер для DASH: вошли и вышли, приключение на 20 минут. Доклад Яндекса](https://habr.com/ru/companies/yandex/articles/833946/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=833946)
@@ -269,6 +271,4 @@ No recent activity
 * [Стартовал Вайб-чек для аналитиков на Хабр Карьере](https://habr.com/ru/companies/habr_career/news/833370/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=833370)
   * *Published on 5 Aug 2024*
 * [Разработчик воссоздал алгоритм Shazam с помощью Go](https://habr.com/ru/news/833288/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=833288)
-  * *Published on 2 Aug 2024*
-* [Как мы прогнозируем спрос на заказы в Яндекс Лавке, чтобы эффективнее распределить нагрузку на курьеров. Доклад Яндекса](https://habr.com/ru/companies/yandex/articles/831534/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=831534)
   * *Published on 2 Aug 2024*
