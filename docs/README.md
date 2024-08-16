@@ -252,6 +252,8 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Публикации по подписке](https://habr.com/ru/feed/)**
+* [Telegram Боты на Aiogram 3.x: Простой бот на вебхуках с локальным запуском и деплоем](https://habr.com/ru/companies/amvera/articles/836032/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=836032)
+  * *Published on 15 Aug 2024*
 * [JPA Entity. Загрузи меня не полностью](https://habr.com/ru/companies/spring_aio/articles/833918/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=833918)
   * *Published on 14 Aug 2024*
 * [[Перевод] Любой может получить доступ к удалённым и приватным данным репозиториев GitHub](https://habr.com/ru/companies/ruvds/articles/835448/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=835448)
@@ -270,5 +272,3 @@ No recent activity
   * *Published on 6 Aug 2024*
 * [Стартовал Вайб-чек для аналитиков на Хабр Карьере](https://habr.com/ru/companies/habr_career/news/833370/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=833370)
   * *Published on 5 Aug 2024*
-* [Разработчик воссоздал алгоритм Shazam с помощью Go](https://habr.com/ru/news/833288/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=833288)
-  * *Published on 2 Aug 2024*
