@@ -252,6 +252,10 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Публикации по подписке](https://habr.com/ru/feed/)**
+* [Математика надёжности. Доклад Яндекса](https://habr.com/ru/companies/yandex/articles/835112/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=835112)
+  * *Published on 16 Aug 2024*
+* [[Перевод] Забытая история Java: версия Патрика Ноутона](https://habr.com/ru/articles/831426/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=831426)
+  * *Published on 14 Aug 2024*
 * [Telegram Боты на Aiogram 3.x: Простой бот на вебхуках с локальным запуском и деплоем](https://habr.com/ru/companies/amvera/articles/836032/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=836032)
   * *Published on 15 Aug 2024*
 * [JPA Entity. Загрузи меня не полностью](https://habr.com/ru/companies/spring_aio/articles/833918/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=833918)
@@ -268,7 +272,3 @@ No recent activity
   * *Published on 7 Aug 2024*
 * [[Перевод] Состояние Spring в 2024 году](https://habr.com/ru/companies/spring_aio/articles/834050/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=834050)
   * *Published on 6 Aug 2024*
-* [Что нового в Amplicode 2024.2](https://habr.com/ru/companies/haulmont/articles/834164/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=834164)
-  * *Published on 6 Aug 2024*
-* [Стартовал Вайб-чек для аналитиков на Хабр Карьере](https://habr.com/ru/companies/habr_career/news/833370/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=833370)
-  * *Published on 5 Aug 2024*
