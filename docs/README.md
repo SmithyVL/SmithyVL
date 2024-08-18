@@ -252,6 +252,8 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Публикации по подписке](https://habr.com/ru/feed/)**
+* [Поиск секретов в программном коде (по энтропии)](https://habr.com/ru/companies/globalsign/articles/836622/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=836622)
+  * *Published on 16 Aug 2024*
 * [Математика надёжности. Доклад Яндекса](https://habr.com/ru/companies/yandex/articles/835112/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=835112)
   * *Published on 16 Aug 2024*
 * [[Перевод] Забытая история Java: версия Патрика Ноутона](https://habr.com/ru/articles/831426/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=831426)
@@ -270,5 +272,3 @@ No recent activity
   * *Published on 8 Aug 2024*
 * [Софтмакс Гумбеля: как устроен и для каких нейронных сетей полезен](https://habr.com/ru/companies/yandex/articles/834262/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=834262)
   * *Published on 7 Aug 2024*
-* [[Перевод] Состояние Spring в 2024 году](https://habr.com/ru/companies/spring_aio/articles/834050/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=834050)
-  * *Published on 6 Aug 2024*
