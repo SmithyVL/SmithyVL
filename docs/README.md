@@ -256,6 +256,8 @@ No recent activity
   * *Published on 16 Aug 2024*
 * [Математика надёжности. Доклад Яндекса](https://habr.com/ru/companies/yandex/articles/835112/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=835112)
   * *Published on 16 Aug 2024*
+* [Где работать в IT в 2024: X5 Tech](https://habr.com/ru/companies/habr_career/articles/836494/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=836494)
+  * *Published on 16 Aug 2024*
 * [[Перевод] Забытая история Java: версия Патрика Ноутона](https://habr.com/ru/articles/831426/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=831426)
   * *Published on 14 Aug 2024*
 * [Telegram Боты на Aiogram 3.x: Простой бот на вебхуках с локальным запуском и деплоем](https://habr.com/ru/companies/amvera/articles/836032/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=836032)
@@ -270,5 +272,3 @@ No recent activity
   * *Published on 8 Aug 2024*
 * [Автоматическая установка приложений из GitHub-релизов](https://habr.com/ru/articles/834656/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=834656)
   * *Published on 8 Aug 2024*
-* [Софтмакс Гумбеля: как устроен и для каких нейронных сетей полезен](https://habr.com/ru/companies/yandex/articles/834262/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=834262)
-  * *Published on 7 Aug 2024*
