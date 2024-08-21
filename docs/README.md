@@ -252,6 +252,12 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Публикации по подписке](https://habr.com/ru/feed/)**
+* [[Перевод] Глубокое погружение в Sealed классы и интерфейсы](https://habr.com/ru/companies/spring_aio/articles/837262/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=837262)
+  * *Published on 20 Aug 2024*
+* [Как Яндекс создал технологию эмоционального синтеза в Алисе](https://habr.com/ru/companies/yandex/articles/835528/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=835528)
+  * *Published on 20 Aug 2024*
+* [Spring Boot 3.3: повышение производительности, безопасности и  observability](https://habr.com/ru/companies/spring_aio/articles/836506/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=836506)
+  * *Published on 16 Aug 2024*
 * [Поиск секретов в программном коде (по энтропии)](https://habr.com/ru/companies/globalsign/articles/836622/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=836622)
   * *Published on 16 Aug 2024*
 * [Математика надёжности. Доклад Яндекса](https://habr.com/ru/companies/yandex/articles/835112/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=835112)
@@ -266,9 +272,3 @@ No recent activity
   * *Published on 14 Aug 2024*
 * [[Перевод] Любой может получить доступ к удалённым и приватным данным репозиториев GitHub](https://habr.com/ru/companies/ruvds/articles/835448/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=835448)
   * *Published on 12 Aug 2024*
-* [Свой плеер для DASH: вошли и вышли, приключение на 20 минут. Доклад Яндекса](https://habr.com/ru/companies/yandex/articles/833946/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=833946)
-  * *Published on 9 Aug 2024*
-* [Книга: «Программирование на Python с помощью GitHub Copilot и ChatGPT.»](https://habr.com/ru/companies/piter/articles/834562/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=834562)
-  * *Published on 8 Aug 2024*
-* [Автоматическая установка приложений из GitHub-релизов](https://habr.com/ru/articles/834656/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=834656)
-  * *Published on 8 Aug 2024*
