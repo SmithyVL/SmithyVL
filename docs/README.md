@@ -252,6 +252,10 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Публикации по подписке](https://habr.com/ru/feed/)**
+* [Джуны в IT: зарплаты в компаниях, вакансии и отклики](https://habr.com/ru/companies/habr_career/articles/837596/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=837596)
+  * *Published on 21 Aug 2024*
+* [Проект Bypass Paywalls Clean и все его форки убрали с GitHub по требованию DMCA](https://habr.com/ru/news/837438/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=837438)
+  * *Published on 21 Aug 2024*
 * [[Перевод] Глубокое погружение в Sealed классы и интерфейсы](https://habr.com/ru/companies/spring_aio/articles/837262/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=837262)
   * *Published on 20 Aug 2024*
 * [Как Яндекс создал технологию эмоционального синтеза в Алисе](https://habr.com/ru/companies/yandex/articles/835528/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=835528)
@@ -268,7 +272,3 @@ No recent activity
   * *Published on 14 Aug 2024*
 * [Telegram Боты на Aiogram 3.x: Простой бот на вебхуках с локальным запуском и деплоем](https://habr.com/ru/companies/amvera/articles/836032/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=836032)
   * *Published on 15 Aug 2024*
-* [JPA Entity. Загрузи меня не полностью](https://habr.com/ru/companies/spring_aio/articles/833918/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=833918)
-  * *Published on 14 Aug 2024*
-* [[Перевод] Любой может получить доступ к удалённым и приватным данным репозиториев GitHub](https://habr.com/ru/companies/ruvds/articles/835448/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=835448)
-  * *Published on 12 Aug 2024*
