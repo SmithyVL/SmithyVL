@@ -252,6 +252,8 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Публикации по подписке](https://habr.com/ru/feed/)**
+* [Встречаем OmniCast — технологию, которая повысит точность прогноза температуры с помощью пользовательских метеостанций](https://habr.com/ru/companies/yandex/articles/834124/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=834124)
+  * *Published on 22 Aug 2024*
 * [Джуны в IT: зарплаты в компаниях, вакансии и отклики](https://habr.com/ru/companies/habr_career/articles/837596/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=837596)
   * *Published on 21 Aug 2024*
 * [Проект Bypass Paywalls Clean и все его форки убрали с GitHub по требованию DMCA](https://habr.com/ru/news/837438/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=837438)
@@ -270,5 +272,3 @@ No recent activity
   * *Published on 16 Aug 2024*
 * [[Перевод] Забытая история Java: версия Патрика Ноутона](https://habr.com/ru/articles/831426/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=831426)
   * *Published on 14 Aug 2024*
-* [Telegram Боты на Aiogram 3.x: Простой бот на вебхуках с локальным запуском и деплоем](https://habr.com/ru/companies/amvera/articles/836032/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=836032)
-  * *Published on 15 Aug 2024*
