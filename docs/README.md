@@ -252,6 +252,8 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Публикации по подписке](https://habr.com/ru/feed/)**
+* [ICML 2024: как это было и куда движется индустрия](https://habr.com/ru/companies/yandex/articles/837360/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=837360)
+  * *Published on 23 Aug 2024*
 * [Встречаем OmniCast — технологию, которая повысит точность прогноза температуры с помощью пользовательских метеостанций](https://habr.com/ru/companies/yandex/articles/834124/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=834124)
   * *Published on 22 Aug 2024*
 * [Джуны в IT: зарплаты в компаниях, вакансии и отклики](https://habr.com/ru/companies/habr_career/articles/837596/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=837596)
@@ -270,5 +272,3 @@ No recent activity
   * *Published on 16 Aug 2024*
 * [Где работать в IT в 2024: X5 Tech](https://habr.com/ru/companies/habr_career/articles/836494/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=836494)
   * *Published on 16 Aug 2024*
-* [[Перевод] Забытая история Java: версия Патрика Ноутона](https://habr.com/ru/articles/831426/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=831426)
-  * *Published on 14 Aug 2024*
