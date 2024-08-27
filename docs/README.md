@@ -252,6 +252,10 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Публикации по подписке](https://habr.com/ru/feed/)**
+* [Пост @habr_career — Блог компании Хабр Карьера (+3) — 23.08.2024 14:19](https://habr.com/ru/companies/habr_career/posts/838082/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=838082)
+  * *Published on 23 Aug 2024*
+* [Телеграм бот на C# с использованием Yandex Cloud Functions](https://habr.com/ru/articles/838220/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=838220)
+  * *Published on 24 Aug 2024*
 * [ICML 2024: как это было и куда движется индустрия](https://habr.com/ru/companies/yandex/articles/837360/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=837360)
   * *Published on 23 Aug 2024*
 * [Встречаем OmniCast — технологию, которая повысит точность прогноза температуры с помощью пользовательских метеостанций](https://habr.com/ru/companies/yandex/articles/834124/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=834124)
@@ -267,8 +271,4 @@ No recent activity
 * [Spring Boot 3.3: повышение производительности, безопасности и  observability](https://habr.com/ru/companies/spring_aio/articles/836506/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=836506)
   * *Published on 16 Aug 2024*
 * [Поиск секретов в программном коде (по энтропии)](https://habr.com/ru/companies/globalsign/articles/836622/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=836622)
-  * *Published on 16 Aug 2024*
-* [Математика надёжности. Доклад Яндекса](https://habr.com/ru/companies/yandex/articles/835112/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=835112)
-  * *Published on 16 Aug 2024*
-* [Где работать в IT в 2024: X5 Tech](https://habr.com/ru/companies/habr_career/articles/836494/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=836494)
   * *Published on 16 Aug 2024*
