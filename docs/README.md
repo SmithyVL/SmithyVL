@@ -252,6 +252,8 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Публикации по подписке](https://habr.com/ru/feed/)**
+* [Как просить повышение зарплаты](https://habr.com/ru/companies/habr_career/articles/838954/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=838954)
+  * *Published on 27 Aug 2024*
 * [Пост @habr_career — Блог компании Хабр Карьера (+3) — 23.08.2024 14:19](https://habr.com/ru/companies/habr_career/posts/838082/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=838082)
   * *Published on 23 Aug 2024*
 * [Телеграм бот на C# с использованием Yandex Cloud Functions](https://habr.com/ru/articles/838220/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=838220)
@@ -269,6 +271,4 @@ No recent activity
 * [Как Яндекс создал технологию эмоционального синтеза в Алисе](https://habr.com/ru/companies/yandex/articles/835528/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=835528)
   * *Published on 20 Aug 2024*
 * [Spring Boot 3.3: повышение производительности, безопасности и  observability](https://habr.com/ru/companies/spring_aio/articles/836506/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=836506)
-  * *Published on 16 Aug 2024*
-* [Поиск секретов в программном коде (по энтропии)](https://habr.com/ru/companies/globalsign/articles/836622/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=836622)
   * *Published on 16 Aug 2024*
