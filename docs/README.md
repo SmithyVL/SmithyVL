@@ -252,6 +252,16 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Публикации по подписке](https://habr.com/ru/feed/)**
+* [Зарплаты разработчиков в первом полугодии 2024: языки и квалификации](https://habr.com/ru/companies/habr_career/articles/839252/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=839252)
+  * *Published on 28 Aug 2024*
+* [[Перевод] Workspaces в IntelliJ IDEA](https://habr.com/ru/companies/spring_aio/articles/839228/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=839228)
+  * *Published on 28 Aug 2024*
+* [Автообновление через GitHub releases с помощью Hilt и Retrofit в Android](https://habr.com/ru/articles/839008/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=839008)
+  * *Published on 27 Aug 2024*
+* [От десятков до сотен тысяч RPS: как мы создали API, который развивается 10 лет без дропа обратной совместимости](https://habr.com/ru/companies/yandex/articles/839198/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=839198)
+  * *Published on 28 Aug 2024*
+* [Kotlin Coroutines. От А до Я](https://habr.com/ru/articles/838974/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=838974)
+  * *Published on 27 Aug 2024*
 * [Как просить повышение зарплаты](https://habr.com/ru/companies/habr_career/articles/838954/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=838954)
   * *Published on 27 Aug 2024*
 * [Пост @habr_career — Блог компании Хабр Карьера (+3) — 23.08.2024 14:19](https://habr.com/ru/companies/habr_career/posts/838082/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=838082)
@@ -262,13 +272,3 @@ No recent activity
   * *Published on 23 Aug 2024*
 * [Встречаем OmniCast — технологию, которая повысит точность прогноза температуры с помощью пользовательских метеостанций](https://habr.com/ru/companies/yandex/articles/834124/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=834124)
   * *Published on 22 Aug 2024*
-* [Джуны в IT: зарплаты в компаниях, вакансии и отклики](https://habr.com/ru/companies/habr_career/articles/837596/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=837596)
-  * *Published on 21 Aug 2024*
-* [Проект Bypass Paywalls Clean и все его форки убрали с GitHub по требованию DMCA](https://habr.com/ru/news/837438/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=837438)
-  * *Published on 21 Aug 2024*
-* [[Перевод] Глубокое погружение в Sealed классы и интерфейсы](https://habr.com/ru/companies/spring_aio/articles/837262/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=837262)
-  * *Published on 20 Aug 2024*
-* [Как Яндекс создал технологию эмоционального синтеза в Алисе](https://habr.com/ru/companies/yandex/articles/835528/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=835528)
-  * *Published on 20 Aug 2024*
-* [Spring Boot 3.3: повышение производительности, безопасности и  observability](https://habr.com/ru/companies/spring_aio/articles/836506/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=836506)
-  * *Published on 16 Aug 2024*
