@@ -252,6 +252,12 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Публикации по подписке](https://habr.com/ru/feed/)**
+* [Amplicode – конвейер для Spring-приложений прямо в IntelliJ IDEA](https://habr.com/ru/companies/haulmont/news/839536/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=839536)
+  * *Published on 29 Aug 2024*
+* [Ваши git и там и тут передают: как синхронизировать репозитории на мастере и репликах](https://habr.com/ru/companies/sberbank/articles/839350/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=839350)
+  * *Published on 28 Aug 2024*
+* [Как студенты МИФИ призывали Шиву на Eurobot 2024, часть 2](https://habr.com/ru/articles/839368/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=839368)
+  * *Published on 28 Aug 2024*
 * [Зарплаты разработчиков в первом полугодии 2024: языки и квалификации](https://habr.com/ru/companies/habr_career/articles/839252/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=839252)
   * *Published on 28 Aug 2024*
 * [[Перевод] Workspaces в IntelliJ IDEA](https://habr.com/ru/companies/spring_aio/articles/839228/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=839228)
@@ -266,9 +272,3 @@ No recent activity
   * *Published on 27 Aug 2024*
 * [Пост @habr_career — Блог компании Хабр Карьера (+3) — 23.08.2024 14:19](https://habr.com/ru/companies/habr_career/posts/838082/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=838082)
   * *Published on 23 Aug 2024*
-* [Телеграм бот на C# с использованием Yandex Cloud Functions](https://habr.com/ru/articles/838220/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=838220)
-  * *Published on 24 Aug 2024*
-* [ICML 2024: как это было и куда движется индустрия](https://habr.com/ru/companies/yandex/articles/837360/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=837360)
-  * *Published on 23 Aug 2024*
-* [Встречаем OmniCast — технологию, которая повысит точность прогноза температуры с помощью пользовательских метеостанций](https://habr.com/ru/companies/yandex/articles/834124/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=834124)
-  * *Published on 22 Aug 2024*
