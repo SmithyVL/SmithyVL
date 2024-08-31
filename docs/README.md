@@ -252,9 +252,15 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Публикации по подписке](https://habr.com/ru/feed/)**
+* [Как базовой инфраструктуре удобно жить на железе в 2к24. Доклад Яндекса](https://habr.com/ru/companies/yandex/articles/839508/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=839508)
+  * *Published on 30 Aug 2024*
+* [Что нового в IntelliJ IDEA 2024.2](https://habr.com/ru/companies/haulmont/articles/839454/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=839454)
+  * *Published on 30 Aug 2024*
 * [Amplicode – конвейер для Spring-приложений прямо в IntelliJ IDEA](https://habr.com/ru/companies/haulmont/news/839536/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=839536)
   * *Published on 29 Aug 2024*
 * [Ваши git и там и тут передают: как синхронизировать репозитории на мастере и репликах](https://habr.com/ru/companies/sberbank/articles/839350/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=839350)
+  * *Published on 28 Aug 2024*
+* [Кем работать в IT в 2024: пентестер](https://habr.com/ru/companies/habr_career/articles/839122/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=839122)
   * *Published on 28 Aug 2024*
 * [Как студенты МИФИ призывали Шиву на Eurobot 2024, часть 2](https://habr.com/ru/articles/839368/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=839368)
   * *Published on 28 Aug 2024*
@@ -266,9 +272,3 @@ No recent activity
   * *Published on 27 Aug 2024*
 * [От десятков до сотен тысяч RPS: как мы создали API, который развивается 10 лет без дропа обратной совместимости](https://habr.com/ru/companies/yandex/articles/839198/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=839198)
   * *Published on 28 Aug 2024*
-* [Kotlin Coroutines. От А до Я](https://habr.com/ru/articles/838974/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=838974)
-  * *Published on 27 Aug 2024*
-* [Как просить повышение зарплаты](https://habr.com/ru/companies/habr_career/articles/838954/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=838954)
-  * *Published on 27 Aug 2024*
-* [Пост @habr_career — Блог компании Хабр Карьера (+3) — 23.08.2024 14:19](https://habr.com/ru/companies/habr_career/posts/838082/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=838082)
-  * *Published on 23 Aug 2024*
