@@ -262,8 +262,6 @@ No recent activity
   * *Published on 28 Aug 2024*
 * [Кем работать в IT в 2024: пентестер](https://habr.com/ru/companies/habr_career/articles/839122/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=839122)
   * *Published on 28 Aug 2024*
-* [Как студенты МИФИ призывали Шиву на Eurobot 2024, часть 2](https://habr.com/ru/articles/839368/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=839368)
-  * *Published on 28 Aug 2024*
 * [Зарплаты разработчиков в первом полугодии 2024: языки и квалификации](https://habr.com/ru/companies/habr_career/articles/839252/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=839252)
   * *Published on 28 Aug 2024*
 * [[Перевод] Workspaces в IntelliJ IDEA](https://habr.com/ru/companies/spring_aio/articles/839228/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=839228)
@@ -272,3 +270,5 @@ No recent activity
   * *Published on 27 Aug 2024*
 * [От десятков до сотен тысяч RPS: как мы создали API, который развивается 10 лет без дропа обратной совместимости](https://habr.com/ru/companies/yandex/articles/839198/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=839198)
   * *Published on 28 Aug 2024*
+* [Kotlin Coroutines. От А до Я](https://habr.com/ru/articles/838974/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=838974)
+  * *Published on 27 Aug 2024*
