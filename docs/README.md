@@ -252,6 +252,16 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Публикации по подписке](https://habr.com/ru/feed/)**
+* [Комментарии GitHub стали применять для распространения вредоноса Lumma Stealer](https://habr.com/ru/news/840238/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=840238)
+  * *Published on 2 Sept 2024*
+* [YRGB 2024 — конкурс по созданию игр для ZX Spectrum](https://habr.com/ru/companies/yandex/articles/839612/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=839612)
+  * *Published on 2 Sept 2024*
+* [Бложим как фрики](https://habr.com/ru/articles/840218/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=840218)
+  * *Published on 2 Sept 2024*
+* [Как переход на AGP&amp;amp;Gradle 8.* изменил взгляд на работу с производительностью сборки](https://habr.com/ru/companies/vk/articles/838772/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=838772)
+  * *Published on 28 Aug 2024*
+* [Git Hooks не так страшны, как их малюют](https://habr.com/ru/companies/2gis/articles/838966/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=838966)
+  * *Published on 30 Aug 2024*
 * [Как базовой инфраструктуре удобно жить на железе в 2к24. Доклад Яндекса](https://habr.com/ru/companies/yandex/articles/839508/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=839508)
   * *Published on 30 Aug 2024*
 * [Что нового в IntelliJ IDEA 2024.2](https://habr.com/ru/companies/haulmont/articles/839454/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=839454)
@@ -262,13 +272,3 @@ No recent activity
   * *Published on 28 Aug 2024*
 * [Кем работать в IT в 2024: пентестер](https://habr.com/ru/companies/habr_career/articles/839122/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=839122)
   * *Published on 28 Aug 2024*
-* [Зарплаты разработчиков в первом полугодии 2024: языки и квалификации](https://habr.com/ru/companies/habr_career/articles/839252/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=839252)
-  * *Published on 28 Aug 2024*
-* [[Перевод] Workspaces в IntelliJ IDEA](https://habr.com/ru/companies/spring_aio/articles/839228/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=839228)
-  * *Published on 28 Aug 2024*
-* [Автообновление через GitHub releases с помощью Hilt и Retrofit в Android](https://habr.com/ru/articles/839008/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=839008)
-  * *Published on 27 Aug 2024*
-* [От десятков до сотен тысяч RPS: как мы создали API, который развивается 10 лет без дропа обратной совместимости](https://habr.com/ru/companies/yandex/articles/839198/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=839198)
-  * *Published on 28 Aug 2024*
-* [Kotlin Coroutines. От А до Я](https://habr.com/ru/articles/838974/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=838974)
-  * *Published on 27 Aug 2024*
