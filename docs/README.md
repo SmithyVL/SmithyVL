@@ -252,6 +252,8 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Публикации по подписке](https://habr.com/ru/feed/)**
+* [Explor-им GitLab](https://habr.com/ru/companies/cyberok/articles/840506/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=840506)
+  * *Published on 3 Sept 2024*
 * [Комментарии GitHub стали применять для распространения вредоноса Lumma Stealer](https://habr.com/ru/news/840238/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=840238)
   * *Published on 2 Sept 2024*
 * [YRGB 2024 — конкурс по созданию игр для ZX Spectrum](https://habr.com/ru/companies/yandex/articles/839612/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=839612)
@@ -260,6 +262,8 @@ No recent activity
   * *Published on 2 Sept 2024*
 * [Как переход на AGP&amp;amp;Gradle 8.* изменил взгляд на работу с производительностью сборки](https://habr.com/ru/companies/vk/articles/838772/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=838772)
   * *Published on 28 Aug 2024*
+* [Близкий родственник эльфа – программер](https://habr.com/ru/articles/839936/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=839936)
+  * *Published on 30 Aug 2024*
 * [Git Hooks не так страшны, как их малюют](https://habr.com/ru/companies/2gis/articles/838966/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=838966)
   * *Published on 30 Aug 2024*
 * [Как базовой инфраструктуре удобно жить на железе в 2к24. Доклад Яндекса](https://habr.com/ru/companies/yandex/articles/839508/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=839508)
@@ -268,7 +272,3 @@ No recent activity
   * *Published on 30 Aug 2024*
 * [Amplicode – конвейер для Spring-приложений прямо в IntelliJ IDEA](https://habr.com/ru/companies/haulmont/news/839536/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=839536)
   * *Published on 29 Aug 2024*
-* [Ваши git и там и тут передают: как синхронизировать репозитории на мастере и репликах](https://habr.com/ru/companies/sberbank/articles/839350/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=839350)
-  * *Published on 28 Aug 2024*
-* [Кем работать в IT в 2024: пентестер](https://habr.com/ru/companies/habr_career/articles/839122/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=839122)
-  * *Published on 28 Aug 2024*
