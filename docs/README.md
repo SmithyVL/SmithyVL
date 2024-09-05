@@ -252,6 +252,10 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Публикации по подписке](https://habr.com/ru/feed/)**
+* [Интересные приёмы, взятые из исходников Android](https://habr.com/ru/companies/ruvds/articles/838330/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=838330)
+  * *Published on 4 Sept 2024*
+* [Как Яндекс создавал новую end2end-модель генерации коротких видео](https://habr.com/ru/companies/yandex/articles/839580/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=839580)
+  * *Published on 4 Sept 2024*
 * [Explor-им GitLab](https://habr.com/ru/companies/cyberok/articles/840506/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=840506)
   * *Published on 3 Sept 2024*
 * [Комментарии GitHub стали применять для распространения вредоноса Lumma Stealer](https://habr.com/ru/news/840238/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=840238)
@@ -268,7 +272,3 @@ No recent activity
   * *Published on 30 Aug 2024*
 * [Как базовой инфраструктуре удобно жить на железе в 2к24. Доклад Яндекса](https://habr.com/ru/companies/yandex/articles/839508/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=839508)
   * *Published on 30 Aug 2024*
-* [Что нового в IntelliJ IDEA 2024.2](https://habr.com/ru/companies/haulmont/articles/839454/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=839454)
-  * *Published on 30 Aug 2024*
-* [Amplicode – конвейер для Spring-приложений прямо в IntelliJ IDEA](https://habr.com/ru/companies/haulmont/news/839536/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=839536)
-  * *Published on 29 Aug 2024*
