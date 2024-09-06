@@ -252,6 +252,8 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Публикации по подписке](https://habr.com/ru/feed/)**
+* [[Перевод] Как GitHub заменил SourceForge в роли доминирующей платформы для хостинга кода](https://habr.com/ru/companies/flant/articles/840448/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=840448)
+  * *Published on 5 Sept 2024*
 * [Интересные приёмы, взятые из исходников Android](https://habr.com/ru/companies/ruvds/articles/838330/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=838330)
   * *Published on 4 Sept 2024*
 * [Как Яндекс создавал новую end2end-модель генерации коротких видео](https://habr.com/ru/companies/yandex/articles/839580/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=839580)
@@ -269,6 +271,4 @@ No recent activity
 * [Близкий родственник эльфа – программер](https://habr.com/ru/articles/839936/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=839936)
   * *Published on 30 Aug 2024*
 * [Git Hooks не так страшны, как их малюют](https://habr.com/ru/companies/2gis/articles/838966/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=838966)
-  * *Published on 30 Aug 2024*
-* [Как базовой инфраструктуре удобно жить на железе в 2к24. Доклад Яндекса](https://habr.com/ru/companies/yandex/articles/839508/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=839508)
   * *Published on 30 Aug 2024*
