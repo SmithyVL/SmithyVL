@@ -252,6 +252,10 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Публикации по подписке](https://habr.com/ru/feed/)**
+* [Kotlin глазами Java-разработчика](https://habr.com/ru/articles/841478/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=841478)
+  * *Published on 6 Sept 2024*
+* [Следим за производительностью SDK. Доклад Яндекса](https://habr.com/ru/companies/yandex/articles/841086/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=841086)
+  * *Published on 6 Sept 2024*
 * [[Перевод] Как GitHub заменил SourceForge в роли доминирующей платформы для хостинга кода](https://habr.com/ru/companies/flant/articles/840448/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=840448)
   * *Published on 5 Sept 2024*
 * [Интересные приёмы, взятые из исходников Android](https://habr.com/ru/companies/ruvds/articles/838330/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=838330)
@@ -268,7 +272,3 @@ No recent activity
   * *Published on 2 Sept 2024*
 * [Как переход на AGP&amp;amp;Gradle 8.* изменил взгляд на работу с производительностью сборки](https://habr.com/ru/companies/vk/articles/838772/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=838772)
   * *Published on 28 Aug 2024*
-* [Близкий родственник эльфа – программер](https://habr.com/ru/articles/839936/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=839936)
-  * *Published on 30 Aug 2024*
-* [Git Hooks не так страшны, как их малюют](https://habr.com/ru/companies/2gis/articles/838966/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=838966)
-  * *Published on 30 Aug 2024*
