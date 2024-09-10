@@ -252,6 +252,12 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Публикации по подписке](https://habr.com/ru/feed/)**
+* [Основы Jetpack Compose: как обеспечить стабильность вашего кода](https://habr.com/ru/companies/yandex/articles/841154/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=841154)
+  * *Published on 9 Sept 2024*
+* [[Перевод] Создание Git-коммита: The Hard Way](https://habr.com/ru/companies/beget/articles/841984/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=841984)
+  * *Published on 9 Sept 2024*
+* [Разработка Nginx перешла с Mercurial на Git и GitHub](https://habr.com/ru/news/841592/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=841592)
+  * *Published on 7 Sept 2024*
 * [Kotlin глазами Java-разработчика](https://habr.com/ru/articles/841478/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=841478)
   * *Published on 6 Sept 2024*
 * [Следим за производительностью SDK. Доклад Яндекса](https://habr.com/ru/companies/yandex/articles/841086/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=841086)
@@ -266,9 +272,3 @@ No recent activity
   * *Published on 3 Sept 2024*
 * [Комментарии GitHub стали применять для распространения вредоноса Lumma Stealer](https://habr.com/ru/news/840238/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=840238)
   * *Published on 2 Sept 2024*
-* [YRGB 2024 — конкурс по созданию игр для ZX Spectrum](https://habr.com/ru/companies/yandex/articles/839612/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=839612)
-  * *Published on 2 Sept 2024*
-* [Бложим как фрики](https://habr.com/ru/articles/840218/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=840218)
-  * *Published on 2 Sept 2024*
-* [Как переход на AGP&amp;amp;Gradle 8.* изменил взгляд на работу с производительностью сборки](https://habr.com/ru/companies/vk/articles/838772/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=838772)
-  * *Published on 28 Aug 2024*
