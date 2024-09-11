@@ -252,6 +252,10 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Публикации по подписке](https://habr.com/ru/feed/)**
+* [[Перевод] Структурное логирование в Spring Boot 3.4](https://habr.com/ru/companies/spring_aio/articles/842226/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=842226)
+  * *Published on 10 Sept 2024*
+* [Как в Яндексе 16 человек управляют 1800 переговорками по всему миру](https://habr.com/ru/companies/yandex/articles/841178/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=841178)
+  * *Published on 10 Sept 2024*
 * [Основы Jetpack Compose: как обеспечить стабильность вашего кода](https://habr.com/ru/companies/yandex/articles/841154/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=841154)
   * *Published on 9 Sept 2024*
 * [[Перевод] Создание Git-коммита: The Hard Way](https://habr.com/ru/companies/beget/articles/841984/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=841984)
@@ -268,7 +272,3 @@ No recent activity
   * *Published on 4 Sept 2024*
 * [Как Яндекс создавал новую end2end-модель генерации коротких видео](https://habr.com/ru/companies/yandex/articles/839580/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=839580)
   * *Published on 4 Sept 2024*
-* [Explor-им GitLab](https://habr.com/ru/companies/cyberok/articles/840506/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=840506)
-  * *Published on 3 Sept 2024*
-* [Комментарии GitHub стали применять для распространения вредоноса Lumma Stealer](https://habr.com/ru/news/840238/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=840238)
-  * *Published on 2 Sept 2024*
