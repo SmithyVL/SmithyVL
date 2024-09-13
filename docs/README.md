@@ -252,6 +252,10 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Публикации по подписке](https://habr.com/ru/feed/)**
+* [Яндекс Погода открыла бесплатный API для умного дома](https://habr.com/ru/companies/yandex/news/842738/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=842738)
+  * *Published on 12 Sept 2024*
+* [Как мы учили Yandex Code Assistant помогать разработчикам с написанием кода и делать их счастливыми](https://habr.com/ru/companies/yandex/articles/841436/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=841436)
+  * *Published on 12 Sept 2024*
 * [[Перевод] Структурное логирование в Spring Boot 3.4](https://habr.com/ru/companies/spring_aio/articles/842226/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=842226)
   * *Published on 10 Sept 2024*
 * [Как в Яндексе 16 человек управляют 1800 переговорками по всему миру](https://habr.com/ru/companies/yandex/articles/841178/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=841178)
@@ -268,7 +272,3 @@ No recent activity
   * *Published on 6 Sept 2024*
 * [[Перевод] Как GitHub заменил SourceForge в роли доминирующей платформы для хостинга кода](https://habr.com/ru/companies/flant/articles/840448/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=840448)
   * *Published on 5 Sept 2024*
-* [Интересные приёмы, взятые из исходников Android](https://habr.com/ru/companies/ruvds/articles/838330/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=838330)
-  * *Published on 4 Sept 2024*
-* [Как Яндекс создавал новую end2end-модель генерации коротких видео](https://habr.com/ru/companies/yandex/articles/839580/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=839580)
-  * *Published on 4 Sept 2024*
