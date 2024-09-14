@@ -252,6 +252,10 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Публикации по подписке](https://habr.com/ru/feed/)**
+* [Amplicode Launch Event – конвейер для Spring-приложений прямо в IntelliJ IDEA](https://habr.com/ru/companies/haulmont/articles/842770/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=842770)
+  * *Published on 13 Sept 2024*
+* [Оцените свои знания SQL](https://habr.com/ru/companies/habr_career/articles/843100/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=843100)
+  * *Published on 13 Sept 2024*
 * [Яндекс Погода открыла бесплатный API для умного дома](https://habr.com/ru/companies/yandex/news/842738/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=842738)
   * *Published on 12 Sept 2024*
 * [Как мы учили Yandex Code Assistant помогать разработчикам с написанием кода и делать их счастливыми](https://habr.com/ru/companies/yandex/articles/841436/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=841436)
@@ -268,7 +272,3 @@ No recent activity
   * *Published on 7 Sept 2024*
 * [Kotlin глазами Java-разработчика](https://habr.com/ru/articles/841478/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=841478)
   * *Published on 6 Sept 2024*
-* [Следим за производительностью SDK. Доклад Яндекса](https://habr.com/ru/companies/yandex/articles/841086/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=841086)
-  * *Published on 6 Sept 2024*
-* [[Перевод] Как GitHub заменил SourceForge в роли доминирующей платформы для хостинга кода](https://habr.com/ru/companies/flant/articles/840448/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=840448)
-  * *Published on 5 Sept 2024*
