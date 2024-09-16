@@ -256,6 +256,8 @@ No recent activity
   * *Published on 13 Sept 2024*
 * [Оцените свои знания SQL](https://habr.com/ru/companies/habr_career/articles/843100/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=843100)
   * *Published on 13 Sept 2024*
+* [Как мы генерируем GPT-нейросетями миллиарды объявлений на малом количестве GPU. Доклад Яндекса](https://habr.com/ru/companies/yandex/articles/842024/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=842024)
+  * *Published on 13 Sept 2024*
 * [Яндекс Погода открыла бесплатный API для умного дома](https://habr.com/ru/companies/yandex/news/842738/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=842738)
   * *Published on 12 Sept 2024*
 * [Как мы учили Yandex Code Assistant помогать разработчикам с написанием кода и делать их счастливыми](https://habr.com/ru/companies/yandex/articles/841436/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=841436)
@@ -270,5 +272,3 @@ No recent activity
   * *Published on 9 Sept 2024*
 * [Разработка Nginx перешла с Mercurial на Git и GitHub](https://habr.com/ru/news/841592/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=841592)
   * *Published on 7 Sept 2024*
-* [Kotlin глазами Java-разработчика](https://habr.com/ru/articles/841478/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=841478)
-  * *Published on 6 Sept 2024*
