@@ -252,6 +252,10 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Публикации по подписке](https://habr.com/ru/feed/)**
+* [[Перевод] Подчини паузы своей воле с Generational ZGC](https://habr.com/ru/companies/spring_aio/articles/844048/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=844048)
+  * *Published on 17 Sept 2024*
+* [В GitHub Copilot начали тестировать модель o1 от OpenAI](https://habr.com/ru/news/843702/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=843702)
+  * *Published on 16 Sept 2024*
 * [Amplicode Launch Event – конвейер для Spring-приложений прямо в IntelliJ IDEA](https://habr.com/ru/companies/haulmont/articles/842770/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=842770)
   * *Published on 13 Sept 2024*
 * [Оцените свои знания SQL](https://habr.com/ru/companies/habr_career/articles/843100/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=843100)
@@ -268,7 +272,3 @@ No recent activity
   * *Published on 10 Sept 2024*
 * [Как в Яндексе 16 человек управляют 1800 переговорками по всему миру](https://habr.com/ru/companies/yandex/articles/841178/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=841178)
   * *Published on 10 Sept 2024*
-* [Основы Jetpack Compose: как обеспечить стабильность вашего кода](https://habr.com/ru/companies/yandex/articles/841154/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=841154)
-  * *Published on 9 Sept 2024*
-* [[Перевод] Создание Git-коммита: The Hard Way](https://habr.com/ru/companies/beget/articles/841984/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=841984)
-  * *Published on 9 Sept 2024*
