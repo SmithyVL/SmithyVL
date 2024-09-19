@@ -252,6 +252,12 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Публикации по подписке](https://habr.com/ru/feed/)**
+* [Сегодня ВСЕ вакансии на Хабр Карьере бесплатные — поздравляем с днем эйчара](https://habr.com/ru/companies/habr_career/articles/844232/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=844232)
+  * *Published on 18 Sept 2024*
+* [Gradle Convention Plugins: как облегчить себе жизнь и уменьшить boilerplate в gradle-файлах](https://habr.com/ru/companies/tbank/articles/843648/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=843648)
+  * *Published on 17 Sept 2024*
+* [Enterprise 128: компьютер, который опоздал на рынок](https://habr.com/ru/companies/yandex/articles/839608/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=839608)
+  * *Published on 18 Sept 2024*
 * [[Перевод] Подчини паузы своей воле с Generational ZGC](https://habr.com/ru/companies/spring_aio/articles/844048/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=844048)
   * *Published on 17 Sept 2024*
 * [В GitHub Copilot начали тестировать модель o1 от OpenAI](https://habr.com/ru/news/843702/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=843702)
@@ -266,9 +272,3 @@ No recent activity
   * *Published on 12 Sept 2024*
 * [Яндекс Погода открыла бесплатный API для умного дома](https://habr.com/ru/companies/yandex/news/842738/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=842738)
   * *Published on 12 Sept 2024*
-* [Как мы учили Yandex Code Assistant помогать разработчикам с написанием кода и делать их счастливыми](https://habr.com/ru/companies/yandex/articles/841436/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=841436)
-  * *Published on 12 Sept 2024*
-* [[Перевод] Структурное логирование в Spring Boot 3.4](https://habr.com/ru/companies/spring_aio/articles/842226/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=842226)
-  * *Published on 10 Sept 2024*
-* [Как в Яндексе 16 человек управляют 1800 переговорками по всему миру](https://habr.com/ru/companies/yandex/articles/841178/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=841178)
-  * *Published on 10 Sept 2024*
