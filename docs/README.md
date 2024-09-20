@@ -252,6 +252,14 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Публикации по подписке](https://habr.com/ru/feed/)**
+* [Зарплаты диджитал-специалистов в первом полугодии 2024](https://habr.com/ru/companies/habr_career/articles/844668/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=844668)
+  * *Published on 19 Sept 2024*
+* [JPA Entity Graph и нюансы его использования](https://habr.com/ru/companies/spring_aio/articles/844336/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=844336)
+  * *Published on 19 Sept 2024*
+* [Как эволюционировало машинное зрение автономного транспорта. Доклад Яндекса](https://habr.com/ru/companies/yandex/articles/844126/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=844126)
+  * *Published on 19 Sept 2024*
+* [Версионирование. Автоматизация. А может всё вместе?](https://habr.com/ru/companies/aquarius/articles/844394/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=844394)
+  * *Published on 18 Sept 2024*
 * [Сегодня ВСЕ вакансии на Хабр Карьере бесплатные — поздравляем с днем эйчара](https://habr.com/ru/companies/habr_career/articles/844232/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=844232)
   * *Published on 18 Sept 2024*
 * [Gradle Convention Plugins: как облегчить себе жизнь и уменьшить boilerplate в gradle-файлах](https://habr.com/ru/companies/tbank/articles/843648/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=843648)
@@ -264,11 +272,3 @@ No recent activity
   * *Published on 16 Sept 2024*
 * [Amplicode Launch Event – конвейер для Spring-приложений прямо в IntelliJ IDEA](https://habr.com/ru/companies/haulmont/articles/842770/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=842770)
   * *Published on 13 Sept 2024*
-* [Оцените свои знания SQL](https://habr.com/ru/companies/habr_career/articles/843100/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=843100)
-  * *Published on 13 Sept 2024*
-* [Как мы генерируем GPT-нейросетями миллиарды объявлений на малом количестве GPU. Доклад Яндекса](https://habr.com/ru/companies/yandex/articles/842024/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=842024)
-  * *Published on 13 Sept 2024*
-* [[Перевод] IntelliJ IDEA 2024.3 EAP: Новые Возможности и Улучшения](https://habr.com/ru/companies/spring_aio/articles/842854/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=842854)
-  * *Published on 12 Sept 2024*
-* [Яндекс Погода открыла бесплатный API для умного дома](https://habr.com/ru/companies/yandex/news/842738/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=842738)
-  * *Published on 12 Sept 2024*
