@@ -252,6 +252,12 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Публикации по подписке](https://habr.com/ru/feed/)**
+* [Путь в GitOps или как мы перевели кластер Kubernetes под управление Argo CD](https://habr.com/ru/articles/842934/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=842934)
+  * *Published on 20 Sept 2024*
+* [Актуальные зарплаты и вакансии с удаленкой в IT — на Хабр Карьере](https://habr.com/ru/companies/habr/articles/844862/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=844862)
+  * *Published on 20 Sept 2024*
+* [Встречаем нейроредактор в Браузере, или Как мы учили LLM-модели помогать пользователям с текстами](https://habr.com/ru/companies/yandex/articles/844038/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=844038)
+  * *Published on 20 Sept 2024*
 * [Зарплаты диджитал-специалистов в первом полугодии 2024](https://habr.com/ru/companies/habr_career/articles/844668/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=844668)
   * *Published on 19 Sept 2024*
 * [JPA Entity Graph и нюансы его использования](https://habr.com/ru/companies/spring_aio/articles/844336/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=844336)
@@ -266,9 +272,3 @@ No recent activity
   * *Published on 17 Sept 2024*
 * [Enterprise 128: компьютер, который опоздал на рынок](https://habr.com/ru/companies/yandex/articles/839608/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=839608)
   * *Published on 18 Sept 2024*
-* [[Перевод] Подчини паузы своей воле с Generational ZGC](https://habr.com/ru/companies/spring_aio/articles/844048/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=844048)
-  * *Published on 17 Sept 2024*
-* [В GitHub Copilot начали тестировать модель o1 от OpenAI](https://habr.com/ru/news/843702/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=843702)
-  * *Published on 16 Sept 2024*
-* [Amplicode Launch Event – конвейер для Spring-приложений прямо в IntelliJ IDEA](https://habr.com/ru/companies/haulmont/articles/842770/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=842770)
-  * *Published on 13 Sept 2024*
