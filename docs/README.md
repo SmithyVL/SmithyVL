@@ -252,6 +252,8 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Публикации по подписке](https://habr.com/ru/feed/)**
+* [[Перевод] Улучшаем автокомплит в смешанных Java-Kotlin проектах](https://habr.com/ru/articles/845080/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=845080)
+  * *Published on 21 Sept 2024*
 * [Путь в GitOps или как мы перевели кластер Kubernetes под управление Argo CD](https://habr.com/ru/articles/842934/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=842934)
   * *Published on 20 Sept 2024*
 * [Актуальные зарплаты и вакансии с удаленкой в IT — на Хабр Карьере](https://habr.com/ru/companies/habr/articles/844862/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=844862)
@@ -270,5 +272,3 @@ No recent activity
   * *Published on 18 Sept 2024*
 * [Gradle Convention Plugins: как облегчить себе жизнь и уменьшить boilerplate в gradle-файлах](https://habr.com/ru/companies/tbank/articles/843648/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=843648)
   * *Published on 17 Sept 2024*
-* [Enterprise 128: компьютер, который опоздал на рынок](https://habr.com/ru/companies/yandex/articles/839608/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=839608)
-  * *Published on 18 Sept 2024*
