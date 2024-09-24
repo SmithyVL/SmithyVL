@@ -252,6 +252,8 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Публикации по подписке](https://habr.com/ru/feed/)**
+* [Как внедрить CI/CD для всех разработчиков в банке. CI/CD by App.Farm](https://habr.com/ru/companies/rshb/articles/845430/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=845430)
+  * *Published on 23 Sept 2024*
 * [[Перевод] Улучшаем автокомплит в смешанных Java-Kotlin проектах](https://habr.com/ru/articles/845080/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=845080)
   * *Published on 21 Sept 2024*
 * [Путь в GitOps или как мы перевели кластер Kubernetes под управление Argo CD](https://habr.com/ru/articles/842934/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=842934)
@@ -270,5 +272,3 @@ No recent activity
   * *Published on 18 Sept 2024*
 * [Сегодня ВСЕ вакансии на Хабр Карьере бесплатные — поздравляем с днем эйчара](https://habr.com/ru/companies/habr_career/articles/844232/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=844232)
   * *Published on 18 Sept 2024*
-* [Gradle Convention Plugins: как облегчить себе жизнь и уменьшить boilerplate в gradle-файлах](https://habr.com/ru/companies/tbank/articles/843648/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=843648)
-  * *Published on 17 Sept 2024*
