@@ -252,8 +252,16 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Публикации по подписке](https://habr.com/ru/feed/)**
+* [[Перевод] Взлом JVM-приложения с помощью отладчика IntelliJ IDEA](https://habr.com/ru/companies/spring_aio/articles/845554/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=845554)
+  * *Published on 24 Sept 2024*
+* [Что делать, чтобы правильные вёдра правильно протекали: иерархический Token Bucket для XDP-программ в eBPF](https://habr.com/ru/companies/yandex/articles/844298/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=844298)
+  * *Published on 24 Sept 2024*
 * [Как внедрить CI/CD для всех разработчиков в банке. CI/CD by App.Farm](https://habr.com/ru/companies/rshb/articles/845430/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=845430)
   * *Published on 23 Sept 2024*
+* [Рецензия на книгу «Изучаем Git: пошаговое руководство с наглядными примерами»](https://habr.com/ru/companies/ssp-soft/articles/844980/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=844980)
+  * *Published on 23 Sept 2024*
+* [Взаимодействие с клавиатурой в Compose: особенности и подводные камни](https://habr.com/ru/articles/845124/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=845124)
+  * *Published on 22 Sept 2024*
 * [[Перевод] Улучшаем автокомплит в смешанных Java-Kotlin проектах](https://habr.com/ru/articles/845080/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=845080)
   * *Published on 21 Sept 2024*
 * [Путь в GitOps или как мы перевели кластер Kubernetes под управление Argo CD](https://habr.com/ru/articles/842934/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=842934)
@@ -264,11 +272,3 @@ No recent activity
   * *Published on 20 Sept 2024*
 * [Зарплаты диджитал-специалистов в первом полугодии 2024](https://habr.com/ru/companies/habr_career/articles/844668/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=844668)
   * *Published on 19 Sept 2024*
-* [JPA Entity Graph и нюансы его использования](https://habr.com/ru/companies/spring_aio/articles/844336/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=844336)
-  * *Published on 19 Sept 2024*
-* [Как эволюционировало машинное зрение автономного транспорта. Доклад Яндекса](https://habr.com/ru/companies/yandex/articles/844126/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=844126)
-  * *Published on 19 Sept 2024*
-* [Версионирование. Автоматизация. А может всё вместе?](https://habr.com/ru/companies/aquarius/articles/844394/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=844394)
-  * *Published on 18 Sept 2024*
-* [Сегодня ВСЕ вакансии на Хабр Карьере бесплатные — поздравляем с днем эйчара](https://habr.com/ru/companies/habr_career/articles/844232/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=844232)
-  * *Published on 18 Sept 2024*
