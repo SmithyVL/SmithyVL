@@ -252,6 +252,10 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Публикации по подписке](https://habr.com/ru/feed/)**
+* [Yandex Cloud анонсировал платформу для комплексного управления облачной безопасностью с YandexGPT внутри](https://habr.com/ru/companies/yandex/news/845818/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=845818)
+  * *Published on 25 Sept 2024*
+* [Знакомьтесь, «Незнакомое». Как мы сделали новый режим для Моей волны](https://habr.com/ru/companies/yandex/articles/845680/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=845680)
+  * *Published on 25 Sept 2024*
 * [[Перевод] Взлом JVM-приложения с помощью отладчика IntelliJ IDEA](https://habr.com/ru/companies/spring_aio/articles/845554/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=845554)
   * *Published on 24 Sept 2024*
 * [Что делать, чтобы правильные вёдра правильно протекали: иерархический Token Bucket для XDP-программ в eBPF](https://habr.com/ru/companies/yandex/articles/844298/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=844298)
@@ -268,7 +272,3 @@ No recent activity
   * *Published on 20 Sept 2024*
 * [Актуальные зарплаты и вакансии с удаленкой в IT — на Хабр Карьере](https://habr.com/ru/companies/habr/articles/844862/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=844862)
   * *Published on 20 Sept 2024*
-* [Встречаем нейроредактор в Браузере, или Как мы учили LLM-модели помогать пользователям с текстами](https://habr.com/ru/companies/yandex/articles/844038/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=844038)
-  * *Published on 20 Sept 2024*
-* [Зарплаты диджитал-специалистов в первом полугодии 2024](https://habr.com/ru/companies/habr_career/articles/844668/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=844668)
-  * *Published on 19 Sept 2024*
