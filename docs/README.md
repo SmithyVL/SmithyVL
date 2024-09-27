@@ -252,6 +252,14 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Публикации по подписке](https://habr.com/ru/feed/)**
+* [Кем работать в IT в 2024: Java-разработчик](https://habr.com/ru/companies/habr_career/articles/846192/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=846192)
+  * *Published on 26 Sept 2024*
+* [Как устроен робот-доставщик Яндекса: от восприятия до планирования движения](https://habr.com/ru/companies/yandex/articles/845958/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=845958)
+  * *Published on 26 Sept 2024*
+* [Проблема UseCase-ов: что нужно знать разработчикам Android](https://habr.com/ru/articles/845604/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=845604)
+  * *Published on 24 Sept 2024*
+* [Hibernate 7.0 уже близко](https://habr.com/ru/companies/spring_aio/news/845986/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=845986)
+  * *Published on 25 Sept 2024*
 * [Yandex Cloud анонсировал платформу для комплексного управления облачной безопасностью с YandexGPT внутри](https://habr.com/ru/companies/yandex/news/845818/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=845818)
   * *Published on 25 Sept 2024*
 * [Знакомьтесь, «Незнакомое». Как мы сделали новый режим для Моей волны](https://habr.com/ru/companies/yandex/articles/845680/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=845680)
@@ -264,11 +272,3 @@ No recent activity
   * *Published on 23 Sept 2024*
 * [Рецензия на книгу «Изучаем Git: пошаговое руководство с наглядными примерами»](https://habr.com/ru/companies/ssp-soft/articles/844980/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=844980)
   * *Published on 23 Sept 2024*
-* [Взаимодействие с клавиатурой в Compose: особенности и подводные камни](https://habr.com/ru/articles/845124/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=845124)
-  * *Published on 22 Sept 2024*
-* [[Перевод] Улучшаем автокомплит в смешанных Java-Kotlin проектах](https://habr.com/ru/articles/845080/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=845080)
-  * *Published on 21 Sept 2024*
-* [Путь в GitOps или как мы перевели кластер Kubernetes под управление Argo CD](https://habr.com/ru/articles/842934/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=842934)
-  * *Published on 20 Sept 2024*
-* [Актуальные зарплаты и вакансии с удаленкой в IT — на Хабр Карьере](https://habr.com/ru/companies/habr/articles/844862/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=844862)
-  * *Published on 20 Sept 2024*
