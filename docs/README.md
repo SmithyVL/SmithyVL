@@ -254,6 +254,8 @@ No recent activity
 **[🗼 Rss feed from Публикации по подписке](https://habr.com/ru/feed/)**
 * [Как понять свой уровень квалификации: junior, middle или senior](https://habr.com/ru/companies/habr_career/articles/846530/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=846530)
   * *Published on 27 Sept 2024*
+* [«Яндекс» представил демо-версию платформы для разработки IT-продуктов под названием SourceCraft](https://habr.com/ru/news/846514/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=846514)
+  * *Published on 27 Sept 2024*
 * [Кем работать в IT в 2024: Java-разработчик](https://habr.com/ru/companies/habr_career/articles/846192/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=846192)
   * *Published on 26 Sept 2024*
 * [Как устроен робот-доставщик Яндекса: от восприятия до планирования движения](https://habr.com/ru/companies/yandex/articles/845958/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=845958)
@@ -270,5 +272,3 @@ No recent activity
   * *Published on 24 Sept 2024*
 * [Что делать, чтобы правильные вёдра правильно протекали: иерархический Token Bucket для XDP-программ в eBPF](https://habr.com/ru/companies/yandex/articles/844298/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=844298)
   * *Published on 24 Sept 2024*
-* [Как внедрить CI/CD для всех разработчиков в банке. CI/CD by App.Farm](https://habr.com/ru/companies/rshb/articles/845430/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=845430)
-  * *Published on 23 Sept 2024*
