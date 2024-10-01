@@ -252,6 +252,10 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Публикации по подписке](https://habr.com/ru/feed/)**
+* [Как зарабатывать больше в IT: мнения специалистов](https://habr.com/ru/companies/habr_career/articles/847150/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=847150)
+  * *Published on 30 Sept 2024*
+* [Koin: как сделать свой DI за 10 минут](https://habr.com/ru/companies/ozontech/articles/846482/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=846482)
+  * *Published on 30 Sept 2024*
 * [Как понять свой уровень квалификации: junior, middle или senior](https://habr.com/ru/companies/habr_career/articles/846530/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=846530)
   * *Published on 27 Sept 2024*
 * [«Яндекс» представил демо-версию платформы для разработки IT-продуктов под названием SourceCraft](https://habr.com/ru/news/846514/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=846514)
@@ -268,7 +272,3 @@ No recent activity
   * *Published on 25 Sept 2024*
 * [Знакомьтесь, «Незнакомое». Как мы сделали новый режим для Моей волны](https://habr.com/ru/companies/yandex/articles/845680/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=845680)
   * *Published on 25 Sept 2024*
-* [[Перевод] Взлом JVM-приложения с помощью отладчика IntelliJ IDEA](https://habr.com/ru/companies/spring_aio/articles/845554/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=845554)
-  * *Published on 24 Sept 2024*
-* [Что делать, чтобы правильные вёдра правильно протекали: иерархический Token Bucket для XDP-программ в eBPF](https://habr.com/ru/companies/yandex/articles/844298/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=844298)
-  * *Published on 24 Sept 2024*
