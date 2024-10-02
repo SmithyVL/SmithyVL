@@ -252,6 +252,10 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Публикации по подписке](https://habr.com/ru/feed/)**
+* [Боремся с тревогой вместе с Хабр Карьерой и Alter](https://habr.com/ru/companies/habr_career/articles/847310/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=847310)
+  * *Published on 1 Oct 2024*
+* [Markdown Editor: WYSIWYG и markup-редактор на базе Gravity UI](https://habr.com/ru/companies/yandex/articles/845802/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=845802)
+  * *Published on 1 Oct 2024*
 * [Как зарабатывать больше в IT: мнения специалистов](https://habr.com/ru/companies/habr_career/articles/847150/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=847150)
   * *Published on 30 Sept 2024*
 * [Koin: как сделать свой DI за 10 минут](https://habr.com/ru/companies/ozontech/articles/846482/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=846482)
@@ -267,8 +271,4 @@ No recent activity
 * [Проблема UseCase-ов: что нужно знать разработчикам Android](https://habr.com/ru/articles/845604/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=845604)
   * *Published on 24 Sept 2024*
 * [Hibernate 7.0 уже близко](https://habr.com/ru/companies/spring_aio/news/845986/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=845986)
-  * *Published on 25 Sept 2024*
-* [Yandex Cloud анонсировал платформу для комплексного управления облачной безопасностью с YandexGPT внутри](https://habr.com/ru/companies/yandex/news/845818/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=845818)
-  * *Published on 25 Sept 2024*
-* [Знакомьтесь, «Незнакомое». Как мы сделали новый режим для Моей волны](https://habr.com/ru/companies/yandex/articles/845680/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=845680)
   * *Published on 25 Sept 2024*
