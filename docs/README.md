@@ -252,6 +252,10 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Публикации по подписке](https://habr.com/ru/feed/)**
+* [Создатель эмулятора Nintendo Switch с открытым исходным кодом Ryujinx закрыл проект и удалил репозиторий с GitHub](https://habr.com/ru/news/847526/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=847526)
+  * *Published on 2 Oct 2024*
+* [От Spring Framework 6.2 до 7.0](https://habr.com/ru/companies/spring_aio/news/847460/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=847460)
+  * *Published on 2 Oct 2024*
 * [Боремся с тревогой вместе с Хабр Карьерой и Alter](https://habr.com/ru/companies/habr_career/articles/847310/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=847310)
   * *Published on 1 Oct 2024*
 * [Markdown Editor: WYSIWYG и markup-редактор на базе Gravity UI](https://habr.com/ru/companies/yandex/articles/845802/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=845802)
@@ -268,7 +272,3 @@ No recent activity
   * *Published on 26 Sept 2024*
 * [Как устроен робот-доставщик Яндекса: от восприятия до планирования движения](https://habr.com/ru/companies/yandex/articles/845958/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=845958)
   * *Published on 26 Sept 2024*
-* [Проблема UseCase-ов: что нужно знать разработчикам Android](https://habr.com/ru/articles/845604/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=845604)
-  * *Published on 24 Sept 2024*
-* [Hibernate 7.0 уже близко](https://habr.com/ru/companies/spring_aio/news/845986/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=845986)
-  * *Published on 25 Sept 2024*
