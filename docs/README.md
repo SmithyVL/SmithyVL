@@ -252,23 +252,23 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Публикации по подписке](https://habr.com/ru/feed/)**
+* [VLM в Нейро: как мы создавали мультимодальную нейросеть для поиска по картинкам](https://habr.com/ru/companies/yandex/articles/847706/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=847706)
+  * *Published on 3 Oct 2024*
+* [Японское подразделение Google создало 208-клавишную двухстороннюю клавиатуру Мёбиуса для печати втроём](https://habr.com/ru/news/847712/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=847712)
+  * *Published on 2 Oct 2024*
 * [Создатель эмулятора Nintendo Switch с открытым исходным кодом Ryujinx закрыл проект и удалил репозиторий с GitHub](https://habr.com/ru/news/847526/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=847526)
   * *Published on 2 Oct 2024*
 * [От Spring Framework 6.2 до 7.0](https://habr.com/ru/companies/spring_aio/news/847460/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=847460)
   * *Published on 2 Oct 2024*
+* [Яндекс проведёт второй Yandex Open Source Jam](https://habr.com/ru/companies/yandex/news/847294/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=847294)
+  * *Published on 1 Oct 2024*
 * [Боремся с тревогой вместе с Хабр Карьерой и Alter](https://habr.com/ru/companies/habr_career/articles/847310/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=847310)
   * *Published on 1 Oct 2024*
 * [Markdown Editor: WYSIWYG и markup-редактор на базе Gravity UI](https://habr.com/ru/companies/yandex/articles/845802/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=845802)
   * *Published on 1 Oct 2024*
 * [Как зарабатывать больше в IT: мнения специалистов](https://habr.com/ru/companies/habr_career/articles/847150/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=847150)
   * *Published on 30 Sept 2024*
+* [Паттерны применения многопоточности на коммерческом проекте (на примере Java)](https://habr.com/ru/articles/838402/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=838402)
+  * *Published on 30 Sept 2024*
 * [Koin: как сделать свой DI за 10 минут](https://habr.com/ru/companies/ozontech/articles/846482/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=846482)
   * *Published on 30 Sept 2024*
-* [Как понять свой уровень квалификации: junior, middle или senior](https://habr.com/ru/companies/habr_career/articles/846530/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=846530)
-  * *Published on 27 Sept 2024*
-* [«Яндекс» представил демо-версию платформы для разработки IT-продуктов под названием SourceCraft](https://habr.com/ru/news/846514/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=846514)
-  * *Published on 27 Sept 2024*
-* [Кем работать в IT в 2024: Java-разработчик](https://habr.com/ru/companies/habr_career/articles/846192/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=846192)
-  * *Published on 26 Sept 2024*
-* [Как устроен робот-доставщик Яндекса: от восприятия до планирования движения](https://habr.com/ru/companies/yandex/articles/845958/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=845958)
-  * *Published on 26 Sept 2024*
