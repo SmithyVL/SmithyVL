@@ -252,9 +252,13 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Публикации по подписке](https://habr.com/ru/feed/)**
+* [Как нарисовать квадрат 3 × 3 см на веб-странице*](https://habr.com/ru/companies/yandex/articles/847000/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=847000)
+  * *Published on 4 Oct 2024*
 * [VLM в Нейро: как мы создавали мультимодальную нейросеть для поиска по картинкам](https://habr.com/ru/companies/yandex/articles/847706/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=847706)
   * *Published on 3 Oct 2024*
 * [Японское подразделение Google создало 208-клавишную двухстороннюю клавиатуру Мёбиуса для печати втроём](https://habr.com/ru/news/847712/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=847712)
+  * *Published on 2 Oct 2024*
+* [[Перевод] Новый нечёткий поиск и автодополнение в Manticore Search](https://habr.com/ru/articles/847078/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=847078)
   * *Published on 2 Oct 2024*
 * [Создатель эмулятора Nintendo Switch с открытым исходным кодом Ryujinx закрыл проект и удалил репозиторий с GitHub](https://habr.com/ru/news/847526/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=847526)
   * *Published on 2 Oct 2024*
@@ -267,8 +271,4 @@ No recent activity
 * [Markdown Editor: WYSIWYG и markup-редактор на базе Gravity UI](https://habr.com/ru/companies/yandex/articles/845802/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=845802)
   * *Published on 1 Oct 2024*
 * [Как зарабатывать больше в IT: мнения специалистов](https://habr.com/ru/companies/habr_career/articles/847150/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=847150)
-  * *Published on 30 Sept 2024*
-* [Паттерны применения многопоточности на коммерческом проекте (на примере Java)](https://habr.com/ru/articles/838402/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=838402)
-  * *Published on 30 Sept 2024*
-* [Koin: как сделать свой DI за 10 минут](https://habr.com/ru/companies/ozontech/articles/846482/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=846482)
   * *Published on 30 Sept 2024*
