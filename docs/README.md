@@ -254,6 +254,8 @@ No recent activity
 **[🗼 Rss feed from Публикации по подписке](https://habr.com/ru/feed/)**
 * [Как нарисовать квадрат 3 × 3 см на веб-странице*](https://habr.com/ru/companies/yandex/articles/847000/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=847000)
   * *Published on 4 Oct 2024*
+* [Хабр Эксперты — обращаться за консультацией стало проще и понятнее](https://habr.com/ru/companies/habr_career/articles/848170/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=848170)
+  * *Published on 4 Oct 2024*
 * [VLM в Нейро: как мы создавали мультимодальную нейросеть для поиска по картинкам](https://habr.com/ru/companies/yandex/articles/847706/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=847706)
   * *Published on 3 Oct 2024*
 * [Японское подразделение Google создало 208-клавишную двухстороннюю клавиатуру Мёбиуса для печати втроём](https://habr.com/ru/news/847712/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=847712)
@@ -270,5 +272,3 @@ No recent activity
   * *Published on 1 Oct 2024*
 * [Markdown Editor: WYSIWYG и markup-редактор на базе Gravity UI](https://habr.com/ru/companies/yandex/articles/845802/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=845802)
   * *Published on 1 Oct 2024*
-* [Как зарабатывать больше в IT: мнения специалистов](https://habr.com/ru/companies/habr_career/articles/847150/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=847150)
-  * *Published on 30 Sept 2024*
