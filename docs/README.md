@@ -252,6 +252,8 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Публикации по подписке](https://habr.com/ru/feed/)**
+* [Линус Торвальдс борется со страдательным залогом в коммитах](https://habr.com/ru/news/848814/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=848814)
+  * *Published on 7 Oct 2024*
 * [Как нарисовать квадрат 3 × 3 см на веб-странице*](https://habr.com/ru/companies/yandex/articles/847000/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=847000)
   * *Published on 4 Oct 2024*
 * [Хабр Эксперты — обращаться за консультацией стало проще и понятнее](https://habr.com/ru/companies/habr_career/articles/848170/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=848170)
@@ -269,6 +271,4 @@ No recent activity
 * [Яндекс проведёт второй Yandex Open Source Jam](https://habr.com/ru/companies/yandex/news/847294/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=847294)
   * *Published on 1 Oct 2024*
 * [Боремся с тревогой вместе с Хабр Карьерой и Alter](https://habr.com/ru/companies/habr_career/articles/847310/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=847310)
-  * *Published on 1 Oct 2024*
-* [Markdown Editor: WYSIWYG и markup-редактор на базе Gravity UI](https://habr.com/ru/companies/yandex/articles/845802/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=845802)
   * *Published on 1 Oct 2024*
