@@ -252,6 +252,10 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Публикации по подписке](https://habr.com/ru/feed/)**
+* [Лучший способ создания нескольких окружений для Spring Boot приложения с помощью Docker Compose](https://habr.com/ru/companies/haulmont/articles/848696/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=848696)
+  * *Published on 9 Oct 2024*
+* [Активность найма на IT-рынке в 3 квартале 2024](https://habr.com/ru/companies/habr_career/articles/849300/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=849300)
+  * *Published on 9 Oct 2024*
 * [ИПР — то, чем вы сможете похвастаться на собеседовании или в баре](https://habr.com/ru/companies/habr_career/articles/848752/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=848752)
   * *Published on 8 Oct 2024*
 * [Как Яндекс помогает астрофизикам изучать вспышки на красных карликах](https://habr.com/ru/companies/yandex/articles/848022/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=848022)
@@ -267,8 +271,4 @@ No recent activity
 * [VLM в Нейро: как мы создавали мультимодальную нейросеть для поиска по картинкам](https://habr.com/ru/companies/yandex/articles/847706/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=847706)
   * *Published on 3 Oct 2024*
 * [Японское подразделение Google создало 208-клавишную двухстороннюю клавиатуру Мёбиуса для печати втроём](https://habr.com/ru/news/847712/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=847712)
-  * *Published on 2 Oct 2024*
-* [[Перевод] Новый нечёткий поиск и автодополнение в Manticore Search](https://habr.com/ru/articles/847078/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=847078)
-  * *Published on 2 Oct 2024*
-* [Создатель эмулятора Nintendo Switch с открытым исходным кодом Ryujinx закрыл проект и удалил репозиторий с GitHub](https://habr.com/ru/news/847526/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=847526)
   * *Published on 2 Oct 2024*
