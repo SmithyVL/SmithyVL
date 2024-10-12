@@ -252,6 +252,10 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Публикации по подписке](https://habr.com/ru/feed/)**
+* [[Перевод] История Git: на этот раз не так весело](https://habr.com/ru/companies/sravni/articles/849150/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=849150)
+  * *Published on 11 Oct 2024*
+* [Балуемся кластеризацией и синхронизацией: как устроена мгновенная загрузка фото в Яндекс Диске](https://habr.com/ru/companies/yandex/articles/849584/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=849584)
+  * *Published on 11 Oct 2024*
 * [Яндекс представил диффузионную нейросеть YandexART 2.0 — в её основе новая гибридная архитектура](https://habr.com/ru/companies/yandex/news/849438/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=849438)
   * *Published on 10 Oct 2024*
 * [Лучший способ создания нескольких окружений для Spring Boot приложения с помощью Docker Compose](https://habr.com/ru/companies/haulmont/articles/848696/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=848696)
@@ -267,8 +271,4 @@ No recent activity
 * [Линус Торвальдс борется со страдательным залогом в коммитах](https://habr.com/ru/news/848814/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=848814)
   * *Published on 7 Oct 2024*
 * [Как нарисовать квадрат 3 × 3 см на веб-странице*](https://habr.com/ru/companies/yandex/articles/847000/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=847000)
-  * *Published on 4 Oct 2024*
-* [[Перевод] AI-ассистент со Spring AI (Часть I)](https://habr.com/ru/companies/spring_aio/articles/848016/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=848016)
-  * *Published on 4 Oct 2024*
-* [Хабр Эксперты — обращаться за консультацией стало проще и понятнее](https://habr.com/ru/companies/habr_career/articles/848170/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=848170)
   * *Published on 4 Oct 2024*
