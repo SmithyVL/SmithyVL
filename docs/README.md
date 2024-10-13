@@ -252,9 +252,15 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Публикации по подписке](https://habr.com/ru/feed/)**
+* [[Перевод] Почему GitHub на самом деле победил: история глазами сооснователя](https://habr.com/ru/companies/flant/articles/847650/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=847650)
+  * *Published on 12 Oct 2024*
+* [Смена специализации в IT: когда отпуск уже не спасает](https://habr.com/ru/companies/habr_career/articles/849992/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=849992)
+  * *Published on 11 Oct 2024*
 * [[Перевод] История Git: на этот раз не так весело](https://habr.com/ru/companies/sravni/articles/849150/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=849150)
   * *Published on 11 Oct 2024*
 * [Балуемся кластеризацией и синхронизацией: как устроена мгновенная загрузка фото в Яндекс Диске](https://habr.com/ru/companies/yandex/articles/849584/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=849584)
+  * *Published on 11 Oct 2024*
+* [Яндекс впервые применил LLM для фотоперевода с учётом контекста](https://habr.com/ru/companies/yandex/news/849892/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=849892)
   * *Published on 11 Oct 2024*
 * [Яндекс представил диффузионную нейросеть YandexART 2.0 — в её основе новая гибридная архитектура](https://habr.com/ru/companies/yandex/news/849438/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=849438)
   * *Published on 10 Oct 2024*
@@ -266,9 +272,3 @@ No recent activity
   * *Published on 8 Oct 2024*
 * [ИПР — то, чем вы сможете похвастаться на собеседовании или в баре](https://habr.com/ru/companies/habr_career/articles/848752/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=848752)
   * *Published on 8 Oct 2024*
-* [Как Яндекс помогает астрофизикам изучать вспышки на красных карликах](https://habr.com/ru/companies/yandex/articles/848022/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=848022)
-  * *Published on 8 Oct 2024*
-* [Линус Торвальдс борется со страдательным залогом в коммитах](https://habr.com/ru/news/848814/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=848814)
-  * *Published on 7 Oct 2024*
-* [Как нарисовать квадрат 3 × 3 см на веб-странице*](https://habr.com/ru/companies/yandex/articles/847000/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=847000)
-  * *Published on 4 Oct 2024*
