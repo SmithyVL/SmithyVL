@@ -262,6 +262,8 @@ No recent activity
   * *Published on 11 Oct 2024*
 * [Яндекс впервые применил LLM для фотоперевода с учётом контекста](https://habr.com/ru/companies/yandex/news/849892/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=849892)
   * *Published on 11 Oct 2024*
+* [[Перевод] Вышел Spring AI 1.0.0 M3](https://habr.com/ru/companies/spring_aio/articles/849752/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=849752)
+  * *Published on 10 Oct 2024*
 * [Яндекс представил диффузионную нейросеть YandexART 2.0 — в её основе новая гибридная архитектура](https://habr.com/ru/companies/yandex/news/849438/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=849438)
   * *Published on 10 Oct 2024*
 * [Лучший способ создания нескольких окружений для Spring Boot приложения с помощью Docker Compose](https://habr.com/ru/companies/haulmont/articles/848696/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=848696)
@@ -269,6 +271,4 @@ No recent activity
 * [Активность найма на IT-рынке в 3 квартале 2024](https://habr.com/ru/companies/habr_career/articles/849300/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=849300)
   * *Published on 9 Oct 2024*
 * [[Перевод] Туториал по Spring Data Envers для начинающих](https://habr.com/ru/companies/spring_aio/articles/849086/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=849086)
-  * *Published on 8 Oct 2024*
-* [ИПР — то, чем вы сможете похвастаться на собеседовании или в баре](https://habr.com/ru/companies/habr_career/articles/848752/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=848752)
   * *Published on 8 Oct 2024*
