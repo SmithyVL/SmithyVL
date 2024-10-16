@@ -252,6 +252,8 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Публикации по подписке](https://habr.com/ru/feed/)**
+* [Как защитить своё право на информацию: готовое обращение в Роскомнадзор](https://habr.com/ru/articles/850954/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=850954)
+  * *Published on 15 Oct 2024*
 * [[Перевод] Почему GitHub на самом деле победил: история глазами сооснователя](https://habr.com/ru/companies/flant/articles/847650/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=847650)
   * *Published on 12 Oct 2024*
 * [Смена специализации в IT: когда отпуск уже не спасает](https://habr.com/ru/companies/habr_career/articles/849992/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=849992)
@@ -270,5 +272,3 @@ No recent activity
   * *Published on 9 Oct 2024*
 * [Активность найма на IT-рынке в 3 квартале 2024](https://habr.com/ru/companies/habr_career/articles/849300/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=849300)
   * *Published on 9 Oct 2024*
-* [[Перевод] Туториал по Spring Data Envers для начинающих](https://habr.com/ru/companies/spring_aio/articles/849086/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=849086)
-  * *Published on 8 Oct 2024*
