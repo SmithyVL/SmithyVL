@@ -252,6 +252,8 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Публикации по подписке](https://habr.com/ru/feed/)**
+* [Корутины: stackful vs stackless](https://habr.com/ru/articles/850970/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=850970)
+  * *Published on 16 Oct 2024*
 * [Как защитить своё право на информацию: готовое обращение в Роскомнадзор](https://habr.com/ru/articles/850954/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=850954)
   * *Published on 15 Oct 2024*
 * [[Перевод] Почему GitHub на самом деле победил: история глазами сооснователя](https://habr.com/ru/companies/flant/articles/847650/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=847650)
@@ -269,6 +271,4 @@ No recent activity
 * [Яндекс представил диффузионную нейросеть YandexART 2.0 — в её основе новая гибридная архитектура](https://habr.com/ru/companies/yandex/news/849438/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=849438)
   * *Published on 10 Oct 2024*
 * [Лучший способ создания нескольких окружений для Spring Boot приложения с помощью Docker Compose](https://habr.com/ru/companies/haulmont/articles/848696/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=848696)
-  * *Published on 9 Oct 2024*
-* [Активность найма на IT-рынке в 3 квартале 2024](https://habr.com/ru/companies/habr_career/articles/849300/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=849300)
   * *Published on 9 Oct 2024*
