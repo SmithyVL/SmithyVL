@@ -247,15 +247,24 @@
 
 ## 📋 Недавняя активность
 **[📰 Recent activity](https://github.com/SmithyVL)**
-No recent activity
+* 🌟 Starred [miker704/Strife](https://github.com/miker704/Strife)
+  * *On 18 Oct 2024, 01:26:46*
+* 🌟 Starred [TheCoderDream/vue-voice-recording](https://github.com/TheCoderDream/vue-voice-recording)
+  * *On 18 Oct 2024, 01:05:49*
 
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Публикации по подписке](https://habr.com/ru/feed/)**
+* [[Перевод] Безопасный Docker в продакшене](https://habr.com/ru/companies/spring_aio/articles/851604/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=851604)
+  * *Published on 18 Oct 2024*
+* [Как мы внедрили генеративную модель в объявления на Авто.ру. Доклад Яндекса](https://habr.com/ru/companies/yandex/articles/850902/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=850902)
+  * *Published on 18 Oct 2024*
 * [Динамические модули в приложениях на Android: опыт использования Dynamic Feature Delivery](https://habr.com/ru/companies/yandex/articles/845344/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=845344)
   * *Published on 17 Oct 2024*
 * [Llama Group удалила репозиторий на GitHub с исходным кодом Winamp](https://habr.com/ru/news/851242/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=851242)
   * *Published on 17 Oct 2024*
+* [Пост @evis_dev — Блог компании Яндекс (+2) — N/P](https://habr.com/ru/companies/yandex/posts/849470/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=849470)
+  * *Published on 16 Oct 2024*
 * [Корутины: stackful vs stackless](https://habr.com/ru/articles/850970/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=850970)
   * *Published on 16 Oct 2024*
 * [Как защитить своё право на информацию: готовое обращение в Роскомнадзор](https://habr.com/ru/articles/850954/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=850954)
@@ -266,9 +275,3 @@ No recent activity
   * *Published on 11 Oct 2024*
 * [[Перевод] История Git: на этот раз не так весело](https://habr.com/ru/companies/sravni/articles/849150/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=849150)
   * *Published on 11 Oct 2024*
-* [Балуемся кластеризацией и синхронизацией: как устроена мгновенная загрузка фото в Яндекс Диске](https://habr.com/ru/companies/yandex/articles/849584/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=849584)
-  * *Published on 11 Oct 2024*
-* [Яндекс впервые применил LLM для фотоперевода с учётом контекста](https://habr.com/ru/companies/yandex/news/849892/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=849892)
-  * *Published on 11 Oct 2024*
-* [[Перевод] Вышел Spring AI 1.0.0 M3](https://habr.com/ru/companies/spring_aio/articles/849752/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=849752)
-  * *Published on 10 Oct 2024*
