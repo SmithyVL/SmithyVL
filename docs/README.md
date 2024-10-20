@@ -255,8 +255,10 @@
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Публикации по подписке](https://habr.com/ru/feed/)**
-* [[Перевод] Безопасный Docker в продакшене](https://habr.com/ru/companies/spring_aio/articles/851604/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=851604)
-  * *Published on 18 Oct 2024*
+* [Пишем алгоритмы на самом ненужном языке в мире и страдаем](https://habr.com/ru/articles/851934/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=851934)
+  * *Published on 19 Oct 2024*
+* [Осторожно, Combine! Откуда берутся утечки памяти, потеря эвентов, нестабильность операторов и что с этим всем делать](https://habr.com/ru/companies/yandex/articles/850010/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=850010)
+  * *Published on 19 Oct 2024*
 * [Как мы внедрили генеративную модель в объявления на Авто.ру. Доклад Яндекса](https://habr.com/ru/companies/yandex/articles/850902/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=850902)
   * *Published on 18 Oct 2024*
 * [Динамические модули в приложениях на Android: опыт использования Dynamic Feature Delivery](https://habr.com/ru/companies/yandex/articles/845344/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=845344)
@@ -272,6 +274,4 @@
 * [[Перевод] Почему GitHub на самом деле победил: история глазами сооснователя](https://habr.com/ru/companies/flant/articles/847650/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=847650)
   * *Published on 12 Oct 2024*
 * [Смена специализации в IT: когда отпуск уже не спасает](https://habr.com/ru/companies/habr_career/articles/849992/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=849992)
-  * *Published on 11 Oct 2024*
-* [[Перевод] История Git: на этот раз не так весело](https://habr.com/ru/companies/sravni/articles/849150/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=849150)
   * *Published on 11 Oct 2024*
