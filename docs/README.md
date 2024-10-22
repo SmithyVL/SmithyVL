@@ -259,6 +259,8 @@
   * *Published on 19 Oct 2024*
 * [Осторожно, Combine! Откуда берутся утечки памяти, потеря эвентов, нестабильность операторов и что с этим всем делать](https://habr.com/ru/companies/yandex/articles/850010/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=850010)
   * *Published on 19 Oct 2024*
+* [Продуктивность и почему «сделать много всего» — это не про неё](https://habr.com/ru/companies/habr_career/articles/851724/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=851724)
+  * *Published on 18 Oct 2024*
 * [Как мы внедрили генеративную модель в объявления на Авто.ру. Доклад Яндекса](https://habr.com/ru/companies/yandex/articles/850902/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=850902)
   * *Published on 18 Oct 2024*
 * [Динамические модули в приложениях на Android: опыт использования Dynamic Feature Delivery](https://habr.com/ru/companies/yandex/articles/845344/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=845344)
@@ -273,5 +275,3 @@
   * *Published on 15 Oct 2024*
 * [[Перевод] Почему GitHub на самом деле победил: история глазами сооснователя](https://habr.com/ru/companies/flant/articles/847650/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=847650)
   * *Published on 12 Oct 2024*
-* [Смена специализации в IT: когда отпуск уже не спасает](https://habr.com/ru/companies/habr_career/articles/849992/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=849992)
-  * *Published on 11 Oct 2024*
