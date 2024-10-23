@@ -255,6 +255,14 @@
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Публикации по подписке](https://habr.com/ru/feed/)**
+* [[Перевод] Как я использую git](https://habr.com/ru/companies/beget/articles/852626/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=852626)
+  * *Published on 22 Oct 2024*
+* [Как жить без IntelliJ IDEA? Часть №1. Собери сам](https://habr.com/ru/companies/spring_aio/articles/852526/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=852526)
+  * *Published on 22 Oct 2024*
+* [Как мы в Яндексе делаем роборуку с искусственным интеллектом](https://habr.com/ru/companies/yandex/articles/851592/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=851592)
+  * *Published on 22 Oct 2024*
+* [Создание GitHub бота для сообщества](https://habr.com/ru/companies/pt/articles/851940/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=851940)
+  * *Published on 21 Oct 2024*
 * [Пишем алгоритмы на самом ненужном языке в мире и страдаем](https://habr.com/ru/articles/851934/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=851934)
   * *Published on 19 Oct 2024*
 * [Осторожно, Combine! Откуда берутся утечки памяти, потеря эвентов, нестабильность операторов и что с этим всем делать](https://habr.com/ru/companies/yandex/articles/850010/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=850010)
@@ -267,11 +275,3 @@
   * *Published on 17 Oct 2024*
 * [Llama Group удалила репозиторий на GitHub с исходным кодом Winamp](https://habr.com/ru/news/851242/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=851242)
   * *Published on 17 Oct 2024*
-* [Пост @evis_dev — Блог компании Яндекс (+2) — N/P](https://habr.com/ru/companies/yandex/posts/849470/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=849470)
-  * *Published on 16 Oct 2024*
-* [Корутины: stackful vs stackless](https://habr.com/ru/articles/850970/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=850970)
-  * *Published on 16 Oct 2024*
-* [Как защитить своё право на информацию: готовое обращение в Роскомнадзор](https://habr.com/ru/articles/850954/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=850954)
-  * *Published on 15 Oct 2024*
-* [[Перевод] Почему GitHub на самом деле победил: история глазами сооснователя](https://habr.com/ru/companies/flant/articles/847650/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=847650)
-  * *Published on 12 Oct 2024*
