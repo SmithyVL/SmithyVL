@@ -255,6 +255,10 @@
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Публикации по подписке](https://habr.com/ru/feed/)**
+* [Определяем местоположение по коммитам в git](https://habr.com/ru/articles/852782/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=852782)
+  * *Published on 23 Oct 2024*
+* [Встречаем yx_scope: DI-фреймворк для работы со скоупами в открытом доступе](https://habr.com/ru/companies/yandex/articles/852278/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=852278)
+  * *Published on 23 Oct 2024*
 * [[Перевод] Как я использую git](https://habr.com/ru/companies/beget/articles/852626/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=852626)
   * *Published on 22 Oct 2024*
 * [Как жить без IntelliJ IDEA? Часть №1. Собери сам](https://habr.com/ru/companies/spring_aio/articles/852526/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=852526)
@@ -269,9 +273,5 @@
   * *Published on 19 Oct 2024*
 * [Продуктивность и почему «сделать много всего» — это не про неё](https://habr.com/ru/companies/habr_career/articles/851724/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=851724)
   * *Published on 18 Oct 2024*
-* [Как мы внедрили генеративную модель в объявления на Авто.ру. Доклад Яндекса](https://habr.com/ru/companies/yandex/articles/850902/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=850902)
+* [[Перевод] Безопасный Docker в продакшене](https://habr.com/ru/companies/spring_aio/articles/851604/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=851604)
   * *Published on 18 Oct 2024*
-* [Динамические модули в приложениях на Android: опыт использования Dynamic Feature Delivery](https://habr.com/ru/companies/yandex/articles/845344/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=845344)
-  * *Published on 17 Oct 2024*
-* [Llama Group удалила репозиторий на GitHub с исходным кодом Winamp](https://habr.com/ru/news/851242/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=851242)
-  * *Published on 17 Oct 2024*
