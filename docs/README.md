@@ -255,6 +255,12 @@
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Публикации по подписке](https://habr.com/ru/feed/)**
+* [[Перевод] Функциональные HTTP-эндпоинты с Spring MVC/WebFlux и Kotlin](https://habr.com/ru/companies/spring_aio/articles/853126/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=853126)
+  * *Published on 24 Oct 2024*
+* [Зарплаты аналитиков выросли на 7% в первой половине 2024](https://habr.com/ru/companies/habr_career/articles/853112/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=853112)
+  * *Published on 24 Oct 2024*
+* [Более мощное семейство моделей YandexGPT 4: рост качества ответов, длинный контекст, пошаговые рассуждения](https://habr.com/ru/companies/yandex/articles/852968/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=852968)
+  * *Published on 24 Oct 2024*
 * [Определяем местоположение по коммитам в git](https://habr.com/ru/articles/852782/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=852782)
   * *Published on 23 Oct 2024*
 * [Встречаем yx_scope: DI-фреймворк для работы со скоупами в открытом доступе](https://habr.com/ru/companies/yandex/articles/852278/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=852278)
@@ -269,9 +275,3 @@
   * *Published on 21 Oct 2024*
 * [Пишем алгоритмы на самом ненужном языке в мире и страдаем](https://habr.com/ru/articles/851934/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=851934)
   * *Published on 19 Oct 2024*
-* [Осторожно, Combine! Откуда берутся утечки памяти, потеря эвентов, нестабильность операторов и что с этим всем делать](https://habr.com/ru/companies/yandex/articles/850010/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=850010)
-  * *Published on 19 Oct 2024*
-* [Продуктивность и почему «сделать много всего» — это не про неё](https://habr.com/ru/companies/habr_career/articles/851724/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=851724)
-  * *Published on 18 Oct 2024*
-* [[Перевод] Безопасный Docker в продакшене](https://habr.com/ru/companies/spring_aio/articles/851604/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=851604)
-  * *Published on 18 Oct 2024*
