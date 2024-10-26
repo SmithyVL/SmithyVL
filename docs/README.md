@@ -255,6 +255,10 @@
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Публикации по подписке](https://habr.com/ru/feed/)**
+* [Почему Mercurial не смог угнаться за Git (и чем они отличаются под капотом)](https://habr.com/ru/companies/bitrix/articles/853064/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=853064)
+  * *Published on 25 Oct 2024*
+* [13 млрд счётчиков и 220 000 RPS на запись: проектируем Key-Value-хранилище для Спамообороны](https://habr.com/ru/companies/yandex/articles/850856/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=850856)
+  * *Published on 25 Oct 2024*
 * [[Перевод] Функциональные HTTP-эндпоинты с Spring MVC/WebFlux и Kotlin](https://habr.com/ru/companies/spring_aio/articles/853126/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=853126)
   * *Published on 24 Oct 2024*
 * [Зарплаты аналитиков выросли на 7% в первой половине 2024](https://habr.com/ru/companies/habr_career/articles/853112/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=853112)
@@ -271,7 +275,3 @@
   * *Published on 22 Oct 2024*
 * [Как мы в Яндексе делаем роборуку с искусственным интеллектом](https://habr.com/ru/companies/yandex/articles/851592/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=851592)
   * *Published on 22 Oct 2024*
-* [Создание GitHub бота для сообщества](https://habr.com/ru/companies/pt/articles/851940/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=851940)
-  * *Published on 21 Oct 2024*
-* [Пишем алгоритмы на самом ненужном языке в мире и страдаем](https://habr.com/ru/articles/851934/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=851934)
-  * *Published on 19 Oct 2024*
