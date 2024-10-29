@@ -255,6 +255,8 @@
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Публикации по подписке](https://habr.com/ru/feed/)**
+* [Как жить без IntelliJ IDEA. Часть №2. Поддержка Spring](https://habr.com/ru/companies/spring_aio/articles/854062/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=854062)
+  * *Published on 28 Oct 2024*
 * [Почему Mercurial не смог угнаться за Git (и чем они отличаются под капотом)](https://habr.com/ru/companies/bitrix/articles/853064/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=853064)
   * *Published on 25 Oct 2024*
 * [13 млрд счётчиков и 220 000 RPS на запись: проектируем Key-Value-хранилище для Спамообороны](https://habr.com/ru/companies/yandex/articles/850856/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=850856)
@@ -272,6 +274,4 @@
 * [[Перевод] Как я использую git](https://habr.com/ru/companies/beget/articles/852626/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=852626)
   * *Published on 22 Oct 2024*
 * [Как жить без IntelliJ IDEA? Часть №1. Собери сам](https://habr.com/ru/companies/spring_aio/articles/852526/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=852526)
-  * *Published on 22 Oct 2024*
-* [Как мы в Яндексе делаем роборуку с искусственным интеллектом](https://habr.com/ru/companies/yandex/articles/851592/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=851592)
   * *Published on 22 Oct 2024*
