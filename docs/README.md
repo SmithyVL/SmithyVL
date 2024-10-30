@@ -255,6 +255,8 @@
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Публикации по подписке](https://habr.com/ru/feed/)**
+* [[Перевод] Расширенная шпаргалка по корутинам Kotlin](https://habr.com/ru/companies/otus/articles/854090/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=854090)
+  * *Published on 28 Oct 2024*
 * [Как жить без IntelliJ IDEA. Часть №2. Поддержка Spring](https://habr.com/ru/companies/spring_aio/articles/854062/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=854062)
   * *Published on 28 Oct 2024*
 * [Почему Mercurial не смог угнаться за Git (и чем они отличаются под капотом)](https://habr.com/ru/companies/bitrix/articles/853064/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=853064)
@@ -272,6 +274,4 @@
 * [Встречаем yx_scope: DI-фреймворк для работы со скоупами в открытом доступе](https://habr.com/ru/companies/yandex/articles/852278/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=852278)
   * *Published on 23 Oct 2024*
 * [[Перевод] Как я использую git](https://habr.com/ru/companies/beget/articles/852626/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=852626)
-  * *Published on 22 Oct 2024*
-* [Как жить без IntelliJ IDEA? Часть №1. Собери сам](https://habr.com/ru/companies/spring_aio/articles/852526/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=852526)
   * *Published on 22 Oct 2024*
