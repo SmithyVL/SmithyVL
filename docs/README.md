@@ -255,23 +255,23 @@
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Публикации по подписке](https://habr.com/ru/feed/)**
+* [Как Elasticsearch поломал сборки и «обнулил» звёзды в Github](https://habr.com/ru/articles/854828/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=854828)
+  * *Published on 30 Oct 2024*
+* [Jujutsu — новая система контроля версий](https://habr.com/ru/articles/853416/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=853416)
+  * *Published on 30 Oct 2024*
+* [Главный метод Android-приложения](https://habr.com/ru/articles/854726/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=854726)
+  * *Published on 30 Oct 2024*
+* [Лучший подручный инструмент для GitHub: учимся работать с Actions](https://habr.com/ru/companies/selectel/articles/854674/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=854674)
+  * *Published on 30 Oct 2024*
+* [[Перевод] Действительно ли ИИ-помощники экономят время разработчиков?](https://habr.com/ru/companies/spring_aio/articles/854624/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=854624)
+  * *Published on 30 Oct 2024*
+* [Полезные фичи С++ на примере организации пайплайна](https://habr.com/ru/companies/yandex/articles/854352/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=854352)
+  * *Published on 30 Oct 2024*
+* [Не играй в догонялки со Spring — Explyt Spring plugin для IDEA Community](https://habr.com/ru/companies/explyt/articles/854304/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=854304)
+  * *Published on 29 Oct 2024*
 * [[Перевод] Расширенная шпаргалка по корутинам Kotlin](https://habr.com/ru/companies/otus/articles/854090/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=854090)
   * *Published on 28 Oct 2024*
 * [Как жить без IntelliJ IDEA. Часть №2. Поддержка Spring](https://habr.com/ru/companies/spring_aio/articles/854062/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=854062)
   * *Published on 28 Oct 2024*
 * [Почему Mercurial не смог угнаться за Git (и чем они отличаются под капотом)](https://habr.com/ru/companies/bitrix/articles/853064/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=853064)
   * *Published on 25 Oct 2024*
-* [13 млрд счётчиков и 220 000 RPS на запись: проектируем Key-Value-хранилище для Спамообороны](https://habr.com/ru/companies/yandex/articles/850856/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=850856)
-  * *Published on 25 Oct 2024*
-* [[Перевод] Функциональные HTTP-эндпоинты с Spring MVC/WebFlux и Kotlin](https://habr.com/ru/companies/spring_aio/articles/853126/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=853126)
-  * *Published on 24 Oct 2024*
-* [Зарплаты аналитиков выросли на 7% в первой половине 2024](https://habr.com/ru/companies/habr_career/articles/853112/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=853112)
-  * *Published on 24 Oct 2024*
-* [Более мощное семейство моделей YandexGPT 4: рост качества ответов, длинный контекст, пошаговые рассуждения](https://habr.com/ru/companies/yandex/articles/852968/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=852968)
-  * *Published on 24 Oct 2024*
-* [Определяем местоположение по коммитам в git](https://habr.com/ru/articles/852782/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=852782)
-  * *Published on 23 Oct 2024*
-* [Встречаем yx_scope: DI-фреймворк для работы со скоупами в открытом доступе](https://habr.com/ru/companies/yandex/articles/852278/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=852278)
-  * *Published on 23 Oct 2024*
-* [[Перевод] Как я использую git](https://habr.com/ru/companies/beget/articles/852626/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=852626)
-  * *Published on 22 Oct 2024*
