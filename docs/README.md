@@ -247,14 +247,15 @@
 
 ## 📋 Недавняя активность
 **[📰 Recent activity](https://github.com/SmithyVL)**
-* 🌟 Starred [miker704/Strife](https://github.com/miker704/Strife)
-  * *On 18 Oct 2024, 01:26:46*
-* 🌟 Starred [TheCoderDream/vue-voice-recording](https://github.com/TheCoderDream/vue-voice-recording)
-  * *On 18 Oct 2024, 01:05:49*
+No recent activity
 
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Публикации по подписке](https://habr.com/ru/feed/)**
+* [Обходим ограничение доступа Github к базе уязвимостей Trivy. Быстрый фикс вам в помощь](https://habr.com/ru/companies/chislitellab/articles/854964/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=854964)
+  * *Published on 31 Oct 2024*
+* [To bind or not to bind: как мы управляем identity корпоративных «Маков»](https://habr.com/ru/companies/yandex/articles/854876/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=854876)
+  * *Published on 31 Oct 2024*
 * [Как Elasticsearch поломал сборки и «обнулил» звёзды в Github](https://habr.com/ru/articles/854828/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=854828)
   * *Published on 30 Oct 2024*
 * [Jujutsu — новая система контроля версий](https://habr.com/ru/articles/853416/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=853416)
@@ -263,15 +264,11 @@
   * *Published on 30 Oct 2024*
 * [Лучший подручный инструмент для GitHub: учимся работать с Actions](https://habr.com/ru/companies/selectel/articles/854674/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=854674)
   * *Published on 30 Oct 2024*
+* [GitHub запустил ИИ-модель Spark для генерации веб-приложений](https://habr.com/ru/news/854542/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=854542)
+  * *Published on 30 Oct 2024*
 * [[Перевод] Действительно ли ИИ-помощники экономят время разработчиков?](https://habr.com/ru/companies/spring_aio/articles/854624/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=854624)
   * *Published on 30 Oct 2024*
 * [Полезные фичи С++ на примере организации пайплайна](https://habr.com/ru/companies/yandex/articles/854352/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=854352)
   * *Published on 30 Oct 2024*
 * [Не играй в догонялки со Spring — Explyt Spring plugin для IDEA Community](https://habr.com/ru/companies/explyt/articles/854304/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=854304)
   * *Published on 29 Oct 2024*
-* [[Перевод] Расширенная шпаргалка по корутинам Kotlin](https://habr.com/ru/companies/otus/articles/854090/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=854090)
-  * *Published on 28 Oct 2024*
-* [Как жить без IntelliJ IDEA. Часть №2. Поддержка Spring](https://habr.com/ru/companies/spring_aio/articles/854062/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=854062)
-  * *Published on 28 Oct 2024*
-* [Почему Mercurial не смог угнаться за Git (и чем они отличаются под капотом)](https://habr.com/ru/companies/bitrix/articles/853064/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=853064)
-  * *Published on 25 Oct 2024*
