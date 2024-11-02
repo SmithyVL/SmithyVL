@@ -252,6 +252,14 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Публикации по подписке](https://habr.com/ru/feed/)**
+* [[Перевод] Как мы уменьшили размер нашего Javascript монорепозитория в Git на 94%](https://habr.com/ru/companies/beget/articles/855436/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=855436)
+  * *Published on 1 Nov 2024*
+* [Как мы нарушили все гайдлайны Kubernetes, чтобы описывать инфраструктуру в разы быстрее](https://habr.com/ru/companies/yandex/articles/854506/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=854506)
+  * *Published on 1 Nov 2024*
+* [«Удалённо» управляем компьютером с доступом в BIOS](https://habr.com/ru/companies/ruvds/articles/847842/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=847842)
+  * *Published on 1 Nov 2024*
+* [Яндекс наградил 14 учёных за достижения в сфере машинного обучения](https://habr.com/ru/companies/yandex/news/855110/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=855110)
+  * *Published on 31 Oct 2024*
 * [Обходим ограничение доступа Github к базе уязвимостей Trivy. Быстрый фикс вам в помощь](https://habr.com/ru/companies/chislitellab/articles/854964/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=854964)
   * *Published on 31 Oct 2024*
 * [To bind or not to bind: как мы управляем identity корпоративных «Маков»](https://habr.com/ru/companies/yandex/articles/854876/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=854876)
@@ -264,11 +272,3 @@ No recent activity
   * *Published on 30 Oct 2024*
 * [Лучший подручный инструмент для GitHub: учимся работать с Actions](https://habr.com/ru/companies/selectel/articles/854674/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=854674)
   * *Published on 30 Oct 2024*
-* [GitHub запустил ИИ-модель Spark для генерации веб-приложений](https://habr.com/ru/news/854542/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=854542)
-  * *Published on 30 Oct 2024*
-* [[Перевод] Действительно ли ИИ-помощники экономят время разработчиков?](https://habr.com/ru/companies/spring_aio/articles/854624/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=854624)
-  * *Published on 30 Oct 2024*
-* [Полезные фичи С++ на примере организации пайплайна](https://habr.com/ru/companies/yandex/articles/854352/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=854352)
-  * *Published on 30 Oct 2024*
-* [Не играй в догонялки со Spring — Explyt Spring plugin для IDEA Community](https://habr.com/ru/companies/explyt/articles/854304/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=854304)
-  * *Published on 29 Oct 2024*
