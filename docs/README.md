@@ -252,6 +252,8 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Публикации по подписке](https://habr.com/ru/feed/)**
+* [[Перевод] AI и Spring Petclinic: Внедрение ИИ-ассистента с Spring AI (Часть II)](https://habr.com/ru/companies/spring_aio/articles/855398/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=855398)
+  * *Published on 1 Nov 2024*
 * [[Перевод] Как мы уменьшили размер нашего Javascript монорепозитория в Git на 94%](https://habr.com/ru/companies/beget/articles/855436/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=855436)
   * *Published on 1 Nov 2024*
 * [Как мы нарушили все гайдлайны Kubernetes, чтобы описывать инфраструктуру в разы быстрее](https://habr.com/ru/companies/yandex/articles/854506/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=854506)
@@ -269,6 +271,4 @@ No recent activity
 * [Jujutsu — новая система контроля версий](https://habr.com/ru/articles/853416/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=853416)
   * *Published on 30 Oct 2024*
 * [Главный метод Android-приложения](https://habr.com/ru/articles/854726/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=854726)
-  * *Published on 30 Oct 2024*
-* [Лучший подручный инструмент для GitHub: учимся работать с Actions](https://habr.com/ru/companies/selectel/articles/854674/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=854674)
   * *Published on 30 Oct 2024*
