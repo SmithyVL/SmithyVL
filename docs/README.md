@@ -252,6 +252,16 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Публикации по подписке](https://habr.com/ru/feed/)**
+* [Explyt Spring плагин открыл исходный код](https://habr.com/ru/companies/explyt/news/856242/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=856242)
+  * *Published on 5 Nov 2024*
+* [[Перевод] Книга: «Git: контроль версий. 3-е изд.»](https://habr.com/ru/companies/piter/articles/854422/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=854422)
+  * *Published on 5 Nov 2024*
+* [Как я писал суперкастомизированное Android-приложение в 2024 году](https://habr.com/ru/companies/ruvds/articles/851256/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=851256)
+  * *Published on 5 Nov 2024*
+* [Грязные трюки C++ из userver и Boost](https://habr.com/ru/companies/yandex/articles/852244/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=852244)
+  * *Published on 5 Nov 2024*
+* [[Перевод] Давайте использовать OpenTelemetry со Spring](https://habr.com/ru/companies/spring_aio/articles/855868/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=855868)
+  * *Published on 4 Nov 2024*
 * [[Перевод] AI и Spring Petclinic: Внедрение ИИ-ассистента с Spring AI (Часть II)](https://habr.com/ru/companies/spring_aio/articles/855398/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=855398)
   * *Published on 1 Nov 2024*
 * [[Перевод] Как мы уменьшили размер нашего Javascript монорепозитория в Git на 94%](https://habr.com/ru/companies/beget/articles/855436/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=855436)
@@ -262,13 +272,3 @@ No recent activity
   * *Published on 1 Nov 2024*
 * [Яндекс наградил 14 учёных за достижения в сфере машинного обучения](https://habr.com/ru/companies/yandex/news/855110/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=855110)
   * *Published on 31 Oct 2024*
-* [Обходим ограничение доступа Github к базе уязвимостей Trivy. Быстрый фикс вам в помощь](https://habr.com/ru/companies/chislitellab/articles/854964/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=854964)
-  * *Published on 31 Oct 2024*
-* [To bind or not to bind: как мы управляем identity корпоративных «Маков»](https://habr.com/ru/companies/yandex/articles/854876/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=854876)
-  * *Published on 31 Oct 2024*
-* [Как Elasticsearch поломал сборки и «обнулил» звёзды в Github](https://habr.com/ru/articles/854828/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=854828)
-  * *Published on 30 Oct 2024*
-* [Jujutsu — новая система контроля версий](https://habr.com/ru/articles/853416/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=853416)
-  * *Published on 30 Oct 2024*
-* [Главный метод Android-приложения](https://habr.com/ru/articles/854726/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=854726)
-  * *Published on 30 Oct 2024*
