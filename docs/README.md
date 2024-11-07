@@ -247,11 +247,18 @@
 
 ## 📋 Недавняя активность
 **[📰 Recent activity](https://github.com/SmithyVL)**
-No recent activity
+* 🌟 Starred [Deluze/electron-vue-template](https://github.com/Deluze/electron-vue-template)
+  * *On 5 Nov 2024, 21:47:42*
 
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Публикации по подписке](https://habr.com/ru/feed/)**
+* [Сборка мусора в Java. Часть №1. Обзор сборщиков мусора и их различий](https://habr.com/ru/companies/spring_aio/articles/856468/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=856468)
+  * *Published on 6 Nov 2024*
+* [Пришёл на вакансию дизайнера, а стал питонистом: как IT-специалисты нашли свою первую работу](https://habr.com/ru/companies/habr_career/articles/855678/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=855678)
+  * *Published on 2 Nov 2024*
+* [Python сместил JavaScript с первого места популярных языков программирования по версии GitHub](https://habr.com/ru/news/856332/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=856332)
+  * *Published on 6 Nov 2024*
 * [Explyt Spring плагин открыл исходный код](https://habr.com/ru/companies/explyt/news/856242/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=856242)
   * *Published on 5 Nov 2024*
 * [[Перевод] Книга: «Git: контроль версий. 3-е изд.»](https://habr.com/ru/companies/piter/articles/854422/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=854422)
@@ -266,9 +273,3 @@ No recent activity
   * *Published on 1 Nov 2024*
 * [[Перевод] Как мы уменьшили размер нашего Javascript монорепозитория в Git на 94%](https://habr.com/ru/companies/beget/articles/855436/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=855436)
   * *Published on 1 Nov 2024*
-* [Как мы нарушили все гайдлайны Kubernetes, чтобы описывать инфраструктуру в разы быстрее](https://habr.com/ru/companies/yandex/articles/854506/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=854506)
-  * *Published on 1 Nov 2024*
-* [«Удалённо» управляем компьютером с доступом в BIOS](https://habr.com/ru/companies/ruvds/articles/847842/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=847842)
-  * *Published on 1 Nov 2024*
-* [Яндекс наградил 14 учёных за достижения в сфере машинного обучения](https://habr.com/ru/companies/yandex/news/855110/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=855110)
-  * *Published on 31 Oct 2024*
