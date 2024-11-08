@@ -253,6 +253,10 @@
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Публикации по подписке](https://habr.com/ru/feed/)**
+* [Java Digest #18](https://habr.com/ru/companies/tbank/articles/856788/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=856788)
+  * *Published on 7 Nov 2024*
+* [ECCV 2024: как это было. Актуальные статьи и главные тренды](https://habr.com/ru/companies/yandex/articles/854982/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=854982)
+  * *Published on 7 Nov 2024*
 * [Сборка мусора в Java. Часть №1. Обзор сборщиков мусора и их различий](https://habr.com/ru/companies/spring_aio/articles/856468/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=856468)
   * *Published on 6 Nov 2024*
 * [Пришёл на вакансию дизайнера, а стал питонистом: как IT-специалисты нашли свою первую работу](https://habr.com/ru/companies/habr_career/articles/855678/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=855678)
@@ -269,7 +273,3 @@
   * *Published on 5 Nov 2024*
 * [[Перевод] Давайте использовать OpenTelemetry со Spring](https://habr.com/ru/companies/spring_aio/articles/855868/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=855868)
   * *Published on 4 Nov 2024*
-* [[Перевод] AI и Spring Petclinic: Внедрение ИИ-ассистента с Spring AI (Часть II)](https://habr.com/ru/companies/spring_aio/articles/855398/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=855398)
-  * *Published on 1 Nov 2024*
-* [[Перевод] Как мы уменьшили размер нашего Javascript монорепозитория в Git на 94%](https://habr.com/ru/companies/beget/articles/855436/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=855436)
-  * *Published on 1 Nov 2024*
