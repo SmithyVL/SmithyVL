@@ -253,6 +253,8 @@
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Публикации по подписке](https://habr.com/ru/feed/)**
+* [Liquibase теперь собирает статистику использования](https://habr.com/ru/companies/spring_aio/news/856930/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=856930)
+  * *Published on 8 Nov 2024*
 * [Java Digest #18](https://habr.com/ru/companies/tbank/articles/856788/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=856788)
   * *Published on 7 Nov 2024*
 * [ECCV 2024: как это было. Актуальные статьи и главные тренды](https://habr.com/ru/companies/yandex/articles/854982/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=854982)
@@ -271,5 +273,3 @@
   * *Published on 5 Nov 2024*
 * [Грязные трюки C++ из userver и Boost](https://habr.com/ru/companies/yandex/articles/852244/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=852244)
   * *Published on 5 Nov 2024*
-* [[Перевод] Давайте использовать OpenTelemetry со Spring](https://habr.com/ru/companies/spring_aio/articles/855868/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=855868)
-  * *Published on 4 Nov 2024*
