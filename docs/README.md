@@ -253,6 +253,8 @@
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Публикации по подписке](https://habr.com/ru/feed/)**
+* [[Перевод] Поддержка RestClient для OAuth2 в Spring Security 6.4](https://habr.com/ru/companies/spring_aio/articles/857664/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=857664)
+  * *Published on 11 Nov 2024*
 * [Liquibase теперь собирает статистику использования](https://habr.com/ru/companies/spring_aio/news/856930/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=856930)
   * *Published on 8 Nov 2024*
 * [Практика: мой опыт интеграции более 50 нейронных сетей в один проект](https://habr.com/ru/articles/856234/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=856234)
@@ -270,6 +272,4 @@
 * [Explyt Spring плагин открыл исходный код](https://habr.com/ru/companies/explyt/news/856242/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=856242)
   * *Published on 5 Nov 2024*
 * [[Перевод] Книга: «Git: контроль версий. 3-е изд.»](https://habr.com/ru/companies/piter/articles/854422/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=854422)
-  * *Published on 5 Nov 2024*
-* [Как я писал суперкастомизированное Android-приложение в 2024 году](https://habr.com/ru/companies/ruvds/articles/851256/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=851256)
   * *Published on 5 Nov 2024*
