@@ -253,6 +253,12 @@
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Публикации по подписке](https://habr.com/ru/feed/)**
+* [Коммитить нельзя сканировать: как мы боремся с секретами в коде](https://habr.com/ru/companies/vk/articles/858022/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=858022)
+  * *Published on 13 Nov 2024*
+* [Сборка мусора в Java. Часть 2. Прогресс со времени выхода JDK 8](https://habr.com/ru/companies/spring_aio/articles/858166/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=858166)
+  * *Published on 13 Nov 2024*
+* [Новые динтаблицы: вторичные индексы, web assembly и ещё много улучшений к версии YTsaurus 24.1.0](https://habr.com/ru/companies/yandex/articles/857708/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=857708)
+  * *Published on 13 Nov 2024*
 * [[Перевод] Поддержка RestClient для OAuth2 в Spring Security 6.4](https://habr.com/ru/companies/spring_aio/articles/857664/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=857664)
   * *Published on 11 Nov 2024*
 * [Liquibase теперь собирает статистику использования](https://habr.com/ru/companies/spring_aio/news/856930/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=856930)
@@ -267,9 +273,3 @@
   * *Published on 6 Nov 2024*
 * [Пришёл на вакансию дизайнера, а стал питонистом: как IT-специалисты нашли свою первую работу](https://habr.com/ru/companies/habr_career/articles/855678/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=855678)
   * *Published on 2 Nov 2024*
-* [Python сместил JavaScript с первого места популярных языков программирования по версии GitHub](https://habr.com/ru/news/856332/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=856332)
-  * *Published on 6 Nov 2024*
-* [Explyt Spring плагин открыл исходный код](https://habr.com/ru/companies/explyt/news/856242/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=856242)
-  * *Published on 5 Nov 2024*
-* [[Перевод] Книга: «Git: контроль версий. 3-е изд.»](https://habr.com/ru/companies/piter/articles/854422/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=854422)
-  * *Published on 5 Nov 2024*
