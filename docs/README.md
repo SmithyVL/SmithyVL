@@ -253,6 +253,12 @@
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Публикации по подписке](https://habr.com/ru/feed/)**
+* [Яндекс зовёт на Ночь опенсорс-библиотек](https://habr.com/ru/companies/yandex/news/858294/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=858294)
+  * *Published on 14 Nov 2024*
+* [«Приключение на 20 минут: взял и поменял язык». Личный опыт перехода на Kotlin](https://habr.com/ru/articles/858436/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=858436)
+  * *Published on 14 Nov 2024*
+* [ML-тренды рекомендательных технологий: шесть приёмов, которые помогают угадывать желания пользователя](https://habr.com/ru/companies/yandex/articles/857068/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=857068)
+  * *Published on 14 Nov 2024*
 * [Коммитить нельзя сканировать: как мы боремся с секретами в коде](https://habr.com/ru/companies/vk/articles/858022/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=858022)
   * *Published on 13 Nov 2024*
 * [Сборка мусора в Java. Часть 2. Прогресс со времени выхода JDK 8](https://habr.com/ru/companies/spring_aio/articles/858166/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=858166)
@@ -267,9 +273,3 @@
   * *Published on 7 Nov 2024*
 * [Java Digest #18](https://habr.com/ru/companies/tbank/articles/856788/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=856788)
   * *Published on 7 Nov 2024*
-* [ECCV 2024: как это было. Актуальные статьи и главные тренды](https://habr.com/ru/companies/yandex/articles/854982/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=854982)
-  * *Published on 7 Nov 2024*
-* [Сборка мусора в Java. Часть №1. Обзор сборщиков мусора и их различий](https://habr.com/ru/companies/spring_aio/articles/856468/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=856468)
-  * *Published on 6 Nov 2024*
-* [Пришёл на вакансию дизайнера, а стал питонистом: как IT-специалисты нашли свою первую работу](https://habr.com/ru/companies/habr_career/articles/855678/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=855678)
-  * *Published on 2 Nov 2024*
