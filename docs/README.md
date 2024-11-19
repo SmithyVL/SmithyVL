@@ -257,6 +257,8 @@
   * *Published on 15 Nov 2024*
 * [Nearly Stateless L4 Balancer: алгоритм и патч на GitHub. Доклад Яндекса](https://habr.com/ru/companies/yandex/articles/858662/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=858662)
   * *Published on 15 Nov 2024*
+* [Яндекс зовёт на Ночь опенсорс-библиотек](https://habr.com/ru/companies/yandex/news/858294/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=858294)
+  * *Published on 14 Nov 2024*
 * [«Приключение на 20 минут: взял и поменял язык». Личный опыт перехода на Kotlin](https://habr.com/ru/articles/858436/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=858436)
   * *Published on 14 Nov 2024*
 * [ML-тренды рекомендательных технологий: шесть приёмов, которые помогают угадывать желания пользователя](https://habr.com/ru/companies/yandex/articles/857068/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=857068)
@@ -271,5 +273,3 @@
   * *Published on 11 Nov 2024*
 * [Liquibase теперь собирает статистику использования](https://habr.com/ru/companies/spring_aio/news/856930/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=856930)
   * *Published on 8 Nov 2024*
-* [Практика: мой опыт интеграции более 50 нейронных сетей в один проект](https://habr.com/ru/articles/856234/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=856234)
-  * *Published on 7 Nov 2024*
