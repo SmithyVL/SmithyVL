@@ -247,12 +247,13 @@
 
 ## 📋 Недавняя активность
 **[📰 Recent activity](https://github.com/SmithyVL)**
-* 🌟 Starred [Deluze/electron-vue-template](https://github.com/Deluze/electron-vue-template)
-  * *On 5 Nov 2024, 21:47:42*
+No recent activity
 
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Публикации по подписке](https://habr.com/ru/feed/)**
+* [[Перевод] Spring Framework 6.2.0: переопределение бинов в тестах](https://habr.com/ru/companies/spring_aio/articles/859430/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=859430)
+  * *Published on 18 Nov 2024*
 * [Test-Driven Development: как полюбить модульное тестирование](https://habr.com/ru/companies/sberbank/articles/851052/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=851052)
   * *Published on 15 Nov 2024*
 * [Nearly Stateless L4 Balancer: алгоритм и патч на GitHub. Доклад Яндекса](https://habr.com/ru/companies/yandex/articles/858662/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=858662)
@@ -271,5 +272,3 @@
   * *Published on 13 Nov 2024*
 * [[Перевод] Поддержка RestClient для OAuth2 в Spring Security 6.4](https://habr.com/ru/companies/spring_aio/articles/857664/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=857664)
   * *Published on 11 Nov 2024*
-* [Liquibase теперь собирает статистику использования](https://habr.com/ru/companies/spring_aio/news/856930/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=856930)
-  * *Published on 8 Nov 2024*
