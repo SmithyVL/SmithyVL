@@ -252,8 +252,14 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Публикации по подписке](https://habr.com/ru/feed/)**
+* [Избавляемся от Android в api-модулях](https://habr.com/ru/companies/alfa/articles/859450/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=859450)
+  * *Published on 20 Nov 2024*
+* [Аркадные «Звёздные войны». История о том, как компания Atari сотворила векторное чудо](https://habr.com/ru/companies/yandex/articles/858998/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=858998)
+  * *Published on 20 Nov 2024*
 * [[Перевод] Spring Framework 6.2.0: переопределение бинов в тестах](https://habr.com/ru/companies/spring_aio/articles/859430/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=859430)
   * *Published on 18 Nov 2024*
+* [[Перевод] Как я оптимизировал свой конвейер CI/CD до выполнения за 60 секунд](https://habr.com/ru/companies/beget/articles/859252/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=859252)
+  * *Published on 17 Nov 2024*
 * [Test-Driven Development: как полюбить модульное тестирование](https://habr.com/ru/companies/sberbank/articles/851052/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=851052)
   * *Published on 15 Nov 2024*
 * [Nearly Stateless L4 Balancer: алгоритм и патч на GitHub. Доклад Яндекса](https://habr.com/ru/companies/yandex/articles/858662/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=858662)
@@ -266,9 +272,3 @@ No recent activity
   * *Published on 14 Nov 2024*
 * [Коммитить нельзя сканировать: как мы боремся с секретами в коде](https://habr.com/ru/companies/vk/articles/858022/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=858022)
   * *Published on 13 Nov 2024*
-* [Сборка мусора в Java. Часть 2. Прогресс со времени выхода JDK 8](https://habr.com/ru/companies/spring_aio/articles/858166/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=858166)
-  * *Published on 13 Nov 2024*
-* [Новые динтаблицы: вторичные индексы, web assembly и ещё много улучшений к версии YTsaurus 24.1.0](https://habr.com/ru/companies/yandex/articles/857708/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=857708)
-  * *Published on 13 Nov 2024*
-* [[Перевод] Поддержка RestClient для OAuth2 в Spring Security 6.4](https://habr.com/ru/companies/spring_aio/articles/857664/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=857664)
-  * *Published on 11 Nov 2024*
