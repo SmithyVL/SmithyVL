@@ -252,6 +252,12 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Публикации по подписке](https://habr.com/ru/feed/)**
+* [Топология Dragonfly для дата-центровых сетей](https://habr.com/ru/companies/yandex/articles/859794/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=859794)
+  * *Published on 21 Nov 2024*
+* [Версионирование эндпоинтов — это просто](https://habr.com/ru/companies/spring_aio/articles/859910/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=859910)
+  * *Published on 20 Nov 2024*
+* [Работа с CoordinatorLayout: шапочный разбор](https://habr.com/ru/companies/avito/articles/859692/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=859692)
+  * *Published on 20 Nov 2024*
 * [Избавляемся от Android в api-модулях](https://habr.com/ru/companies/alfa/articles/859450/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=859450)
   * *Published on 20 Nov 2024*
 * [Аркадные «Звёздные войны». История о том, как компания Atari сотворила векторное чудо](https://habr.com/ru/companies/yandex/articles/858998/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=858998)
@@ -266,9 +272,3 @@ No recent activity
   * *Published on 15 Nov 2024*
 * [Яндекс зовёт на Ночь опенсорс-библиотек](https://habr.com/ru/companies/yandex/news/858294/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=858294)
   * *Published on 14 Nov 2024*
-* [«Приключение на 20 минут: взял и поменял язык». Личный опыт перехода на Kotlin](https://habr.com/ru/articles/858436/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=858436)
-  * *Published on 14 Nov 2024*
-* [ML-тренды рекомендательных технологий: шесть приёмов, которые помогают угадывать желания пользователя](https://habr.com/ru/companies/yandex/articles/857068/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=857068)
-  * *Published on 14 Nov 2024*
-* [Коммитить нельзя сканировать: как мы боремся с секретами в коде](https://habr.com/ru/companies/vk/articles/858022/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=858022)
-  * *Published on 13 Nov 2024*
