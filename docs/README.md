@@ -252,10 +252,10 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Публикации по подписке](https://habr.com/ru/feed/)**
+* [[Перевод] От кода к смыслу: улучшенная панель Structure в IntelliJ IDEA 2024.3](https://habr.com/ru/companies/spring_aio/articles/860510/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=860510)
+  * *Published on 22 Nov 2024*
 * [Топология Dragonfly для дата-центровых сетей](https://habr.com/ru/companies/yandex/articles/859794/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=859794)
   * *Published on 21 Nov 2024*
-* [Версионирование эндпоинтов — это просто](https://habr.com/ru/companies/spring_aio/articles/859910/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=859910)
-  * *Published on 20 Nov 2024*
 * [Работа с CoordinatorLayout: шапочный разбор](https://habr.com/ru/companies/avito/articles/859692/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=859692)
   * *Published on 20 Nov 2024*
 * [Избавляемся от Android в api-модулях](https://habr.com/ru/companies/alfa/articles/859450/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=859450)
