@@ -252,6 +252,8 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Публикации по подписке](https://habr.com/ru/feed/)**
+* [Гайд по реализации паттерна Composite в Kotlin с sealed-классами и корутинами](https://habr.com/ru/companies/otus/articles/859176/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=859176)
+  * *Published on 21 Nov 2024*
 * [[Перевод] От кода к смыслу: улучшенная панель Structure в IntelliJ IDEA 2024.3](https://habr.com/ru/companies/spring_aio/articles/860510/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=860510)
   * *Published on 22 Nov 2024*
 * [Топология Dragonfly для дата-центровых сетей](https://habr.com/ru/companies/yandex/articles/859794/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=859794)
@@ -270,5 +272,3 @@ No recent activity
   * *Published on 15 Nov 2024*
 * [Nearly Stateless L4 Balancer: алгоритм и патч на GitHub. Доклад Яндекса](https://habr.com/ru/companies/yandex/articles/858662/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=858662)
   * *Published on 15 Nov 2024*
-* [Яндекс зовёт на Ночь опенсорс-библиотек](https://habr.com/ru/companies/yandex/news/858294/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=858294)
-  * *Published on 14 Nov 2024*
