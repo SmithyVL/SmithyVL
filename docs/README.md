@@ -252,8 +252,12 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Публикации по подписке](https://habr.com/ru/feed/)**
+* [[Перевод] Что нового в Spring Boot 3.4](https://habr.com/ru/companies/spring_aio/articles/861182/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=861182)
+  * *Published on 25 Nov 2024*
 * [Гайд по реализации паттерна Composite в Kotlin с sealed-классами и корутинами](https://habr.com/ru/companies/otus/articles/859176/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=859176)
   * *Published on 21 Nov 2024*
+* [[Перевод] Размышления о декларативной конфигурации](https://habr.com/ru/companies/timeweb/articles/860844/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=860844)
+  * *Published on 24 Nov 2024*
 * [[Перевод] От кода к смыслу: улучшенная панель Structure в IntelliJ IDEA 2024.3](https://habr.com/ru/companies/spring_aio/articles/860510/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=860510)
   * *Published on 22 Nov 2024*
 * [Топология Dragonfly для дата-центровых сетей](https://habr.com/ru/companies/yandex/articles/859794/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=859794)
@@ -268,7 +272,3 @@ No recent activity
   * *Published on 18 Nov 2024*
 * [[Перевод] Как я оптимизировал свой конвейер CI/CD до выполнения за 60 секунд](https://habr.com/ru/companies/beget/articles/859252/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=859252)
   * *Published on 17 Nov 2024*
-* [Test-Driven Development: как полюбить модульное тестирование](https://habr.com/ru/companies/sberbank/articles/851052/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=851052)
-  * *Published on 15 Nov 2024*
-* [Nearly Stateless L4 Balancer: алгоритм и патч на GitHub. Доклад Яндекса](https://habr.com/ru/companies/yandex/articles/858662/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=858662)
-  * *Published on 15 Nov 2024*
