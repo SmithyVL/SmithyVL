@@ -252,12 +252,18 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Публикации по подписке](https://habr.com/ru/feed/)**
+* [Об инциденте с NTP-серверами](https://habr.com/ru/companies/yandex/articles/861538/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=861538)
+  * *Published on 27 Nov 2024*
+* [ISO C++ — встреча международного комитета в Польше](https://habr.com/ru/companies/yandex/articles/860308/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=860308)
+  * *Published on 26 Nov 2024*
 * [[Перевод] Что нового в Spring Boot 3.4](https://habr.com/ru/companies/spring_aio/articles/861182/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=861182)
   * *Published on 25 Nov 2024*
 * [Гайд по реализации паттерна Composite в Kotlin с sealed-классами и корутинами](https://habr.com/ru/companies/otus/articles/859176/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=859176)
   * *Published on 21 Nov 2024*
 * [[Перевод] Размышления о декларативной конфигурации](https://habr.com/ru/companies/timeweb/articles/860844/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=860844)
   * *Published on 24 Nov 2024*
+* [Пишем Android приложение для фильтрации спам-звонков](https://habr.com/ru/articles/860118/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=860118)
+  * *Published on 23 Nov 2024*
 * [[Перевод] От кода к смыслу: улучшенная панель Structure в IntelliJ IDEA 2024.3](https://habr.com/ru/companies/spring_aio/articles/860510/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=860510)
   * *Published on 22 Nov 2024*
 * [Топология Dragonfly для дата-центровых сетей](https://habr.com/ru/companies/yandex/articles/859794/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=859794)
@@ -266,9 +272,3 @@ No recent activity
   * *Published on 20 Nov 2024*
 * [Избавляемся от Android в api-модулях](https://habr.com/ru/companies/alfa/articles/859450/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=859450)
   * *Published on 20 Nov 2024*
-* [Аркадные «Звёздные войны». История о том, как компания Atari сотворила векторное чудо](https://habr.com/ru/companies/yandex/articles/858998/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=858998)
-  * *Published on 20 Nov 2024*
-* [[Перевод] Spring Framework 6.2.0: переопределение бинов в тестах](https://habr.com/ru/companies/spring_aio/articles/859430/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=859430)
-  * *Published on 18 Nov 2024*
-* [[Перевод] Как я оптимизировал свой конвейер CI/CD до выполнения за 60 секунд](https://habr.com/ru/companies/beget/articles/859252/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=859252)
-  * *Published on 17 Nov 2024*
