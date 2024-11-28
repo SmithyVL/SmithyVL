@@ -252,6 +252,8 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Публикации по подписке](https://habr.com/ru/feed/)**
+* [[Перевод] Что нового в Spring Framework 6.2, Spring Boot 3.4 и каковы планы на будущее?](https://habr.com/ru/companies/spring_aio/articles/861782/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=861782)
+  * *Published on 27 Nov 2024*
 * [Об инциденте с NTP-серверами](https://habr.com/ru/companies/yandex/articles/861538/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=861538)
   * *Published on 27 Nov 2024*
 * [ISO C++ — встреча международного комитета в Польше](https://habr.com/ru/companies/yandex/articles/860308/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=860308)
@@ -269,6 +271,4 @@ No recent activity
 * [Топология Dragonfly для дата-центровых сетей](https://habr.com/ru/companies/yandex/articles/859794/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=859794)
   * *Published on 21 Nov 2024*
 * [Работа с CoordinatorLayout: шапочный разбор](https://habr.com/ru/companies/avito/articles/859692/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=859692)
-  * *Published on 20 Nov 2024*
-* [Избавляемся от Android в api-модулях](https://habr.com/ru/companies/alfa/articles/859450/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=859450)
   * *Published on 20 Nov 2024*
