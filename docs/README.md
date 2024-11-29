@@ -247,11 +247,14 @@
 
 ## 📋 Недавняя активность
 **[📰 Recent activity](https://github.com/SmithyVL)**
-No recent activity
+* 🌟 Starred [Flowseal/zapret-discord-youtube](https://github.com/Flowseal/zapret-discord-youtube)
+  * *On 28 Nov 2024, 10:19:44*
 
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Публикации по подписке](https://habr.com/ru/feed/)**
+* [Человек и LLM: как построить метрики для оценки моделей](https://habr.com/ru/companies/yandex/articles/861084/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=861084)
+  * *Published on 28 Nov 2024*
 * [[Перевод] Что нового в Spring Framework 6.2, Spring Boot 3.4 и каковы планы на будущее?](https://habr.com/ru/companies/spring_aio/articles/861782/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=861782)
   * *Published on 27 Nov 2024*
 * [Об инциденте с NTP-серверами](https://habr.com/ru/companies/yandex/articles/861538/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=861538)
@@ -270,5 +273,3 @@ No recent activity
   * *Published on 22 Nov 2024*
 * [Топология Dragonfly для дата-центровых сетей](https://habr.com/ru/companies/yandex/articles/859794/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=859794)
   * *Published on 21 Nov 2024*
-* [Работа с CoordinatorLayout: шапочный разбор](https://habr.com/ru/companies/avito/articles/859692/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=859692)
-  * *Published on 20 Nov 2024*
