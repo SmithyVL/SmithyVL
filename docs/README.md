@@ -253,6 +253,10 @@
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Публикации по подписке](https://habr.com/ru/feed/)**
+* [Пост @Trip-Hope — Блог компании Explyt (+4) — 29.11.2024 12:05](https://habr.com/ru/companies/explyt/posts/862350/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=862350)
+  * *Published on 29 Nov 2024*
+* [Ёлочка, гори, айтишник, не гори](https://habr.com/ru/companies/habr_career/articles/862164/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=862164)
+  * *Published on 28 Nov 2024*
 * [Человек и LLM: как построить метрики для оценки моделей](https://habr.com/ru/companies/yandex/articles/861084/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=861084)
   * *Published on 28 Nov 2024*
 * [[Перевод] Что нового в Spring Framework 6.2, Spring Boot 3.4 и каковы планы на будущее?](https://habr.com/ru/companies/spring_aio/articles/861782/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=861782)
@@ -269,7 +273,3 @@
   * *Published on 24 Nov 2024*
 * [Пишем Android приложение для фильтрации спам-звонков](https://habr.com/ru/articles/860118/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=860118)
   * *Published on 23 Nov 2024*
-* [[Перевод] От кода к смыслу: улучшенная панель Structure в IntelliJ IDEA 2024.3](https://habr.com/ru/companies/spring_aio/articles/860510/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=860510)
-  * *Published on 22 Nov 2024*
-* [Топология Dragonfly для дата-центровых сетей](https://habr.com/ru/companies/yandex/articles/859794/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=859794)
-  * *Published on 21 Nov 2024*
