@@ -253,6 +253,14 @@
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Публикации по подписке](https://habr.com/ru/feed/)**
+* [Что нового в Amplicode 2024.3](https://habr.com/ru/companies/haulmont/articles/863416/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=863416)
+  * *Published on 3 Dec 2024*
+* [Накрутка опыта в резюме: 29% IT-специалистов делали это](https://habr.com/ru/specials/863290/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=863290)
+  * *Published on 3 Dec 2024*
+* [Как жить без IntelliJ IDEA? Часть 3 — HTTP Client](https://habr.com/ru/companies/spring_aio/articles/863106/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=863106)
+  * *Published on 2 Dec 2024*
+* [App.Farm CI. Часть I. Проблемы и выбор решений](https://habr.com/ru/companies/rshb/articles/861252/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=861252)
+  * *Published on 2 Dec 2024*
 * [Пост @Trip-Hope — Блог компании Explyt (+4) — 29.11.2024 12:05](https://habr.com/ru/companies/explyt/posts/862350/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=862350)
   * *Published on 29 Nov 2024*
 * [Ёлочка, гори, айтишник, не гори](https://habr.com/ru/companies/habr_career/articles/862164/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=862164)
@@ -265,11 +273,3 @@
   * *Published on 27 Nov 2024*
 * [ISO C++ — встреча международного комитета в Польше](https://habr.com/ru/companies/yandex/articles/860308/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=860308)
   * *Published on 26 Nov 2024*
-* [[Перевод] Что нового в Spring Boot 3.4](https://habr.com/ru/companies/spring_aio/articles/861182/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=861182)
-  * *Published on 25 Nov 2024*
-* [Гайд по реализации паттерна Composite в Kotlin с sealed-классами и корутинами](https://habr.com/ru/companies/otus/articles/859176/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=859176)
-  * *Published on 21 Nov 2024*
-* [[Перевод] Размышления о декларативной конфигурации](https://habr.com/ru/companies/timeweb/articles/860844/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=860844)
-  * *Published on 24 Nov 2024*
-* [Пишем Android приложение для фильтрации спам-звонков](https://habr.com/ru/articles/860118/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=860118)
-  * *Published on 23 Nov 2024*
