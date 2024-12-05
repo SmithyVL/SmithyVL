@@ -253,23 +253,23 @@
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Публикации по подписке](https://habr.com/ru/feed/)**
+* [Что нового в IntelliJ IDEA 2024.3](https://habr.com/ru/companies/haulmont/articles/863540/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=863540)
+  * *Published on 3 Dec 2024*
 * [Что нового в Amplicode 2024.3](https://habr.com/ru/companies/haulmont/articles/863416/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=863416)
   * *Published on 3 Dec 2024*
 * [Накрутка опыта в резюме: 29% IT-специалистов делали это](https://habr.com/ru/specials/863290/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=863290)
   * *Published on 3 Dec 2024*
+* [От Kotlin до машинного кода](https://habr.com/ru/articles/863146/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=863146)
+  * *Published on 2 Dec 2024*
 * [Как жить без IntelliJ IDEA? Часть 3 — HTTP Client](https://habr.com/ru/companies/spring_aio/articles/863106/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=863106)
   * *Published on 2 Dec 2024*
 * [App.Farm CI. Часть I. Проблемы и выбор решений](https://habr.com/ru/companies/rshb/articles/861252/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=861252)
   * *Published on 2 Dec 2024*
+* [Управление распределенной командой на GitHub – а что, так можно было?](https://habr.com/ru/articles/862962/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=862962)
+  * *Published on 2 Dec 2024*
+* [[Перевод] Что нового в Spring Boot 3.4: Spring Security](https://habr.com/ru/companies/spring_aio/articles/862400/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=862400)
+  * *Published on 29 Nov 2024*
 * [Пост @Trip-Hope — Блог компании Explyt (+4) — 29.11.2024 12:05](https://habr.com/ru/companies/explyt/posts/862350/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=862350)
   * *Published on 29 Nov 2024*
 * [Ёлочка, гори, айтишник, не гори](https://habr.com/ru/companies/habr_career/articles/862164/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=862164)
   * *Published on 28 Nov 2024*
-* [Человек и LLM: как построить метрики для оценки моделей](https://habr.com/ru/companies/yandex/articles/861084/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=861084)
-  * *Published on 28 Nov 2024*
-* [[Перевод] Что нового в Spring Framework 6.2, Spring Boot 3.4 и каковы планы на будущее?](https://habr.com/ru/companies/spring_aio/articles/861782/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=861782)
-  * *Published on 27 Nov 2024*
-* [Об инциденте с NTP-серверами](https://habr.com/ru/companies/yandex/articles/861538/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=861538)
-  * *Published on 27 Nov 2024*
-* [ISO C++ — встреча международного комитета в Польше](https://habr.com/ru/companies/yandex/articles/860308/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=860308)
-  * *Published on 26 Nov 2024*
