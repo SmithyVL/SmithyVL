@@ -253,6 +253,10 @@
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Публикации по подписке](https://habr.com/ru/feed/)**
+* [[Перевод] Mark–Scavenge: ждем, пока мусор выбросит себя сам](https://habr.com/ru/companies/spring_aio/articles/863830/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=863830)
+  * *Published on 4 Dec 2024*
+* [На чём учатся современные модели машинного перевода: опыт команды Яндекс Переводчика](https://habr.com/ru/companies/yandex/articles/862718/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=862718)
+  * *Published on 5 Dec 2024*
 * [Что нового в IntelliJ IDEA 2024.3](https://habr.com/ru/companies/haulmont/articles/863540/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=863540)
   * *Published on 3 Dec 2024*
 * [Что нового в Amplicode 2024.3](https://habr.com/ru/companies/haulmont/articles/863416/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=863416)
@@ -269,7 +273,3 @@
   * *Published on 2 Dec 2024*
 * [[Перевод] Что нового в Spring Boot 3.4: Spring Security](https://habr.com/ru/companies/spring_aio/articles/862400/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=862400)
   * *Published on 29 Nov 2024*
-* [Пост @Trip-Hope — Блог компании Explyt (+4) — 29.11.2024 12:05](https://habr.com/ru/companies/explyt/posts/862350/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=862350)
-  * *Published on 29 Nov 2024*
-* [Ёлочка, гори, айтишник, не гори](https://habr.com/ru/companies/habr_career/articles/862164/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=862164)
-  * *Published on 28 Nov 2024*
