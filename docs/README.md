@@ -253,6 +253,8 @@
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Публикации по подписке](https://habr.com/ru/feed/)**
+* [[Перевод] Concurrency в Spring Boot приложениях: как сделать правильный выбор](https://habr.com/ru/companies/spring_aio/articles/862950/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=862950)
+  * *Published on 6 Dec 2024*
 * [[Перевод] Mark–Scavenge: ждем, пока мусор выбросит себя сам](https://habr.com/ru/companies/spring_aio/articles/863830/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=863830)
   * *Published on 4 Dec 2024*
 * [На чём учатся современные модели машинного перевода: опыт команды Яндекс Переводчика](https://habr.com/ru/companies/yandex/articles/862718/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=862718)
@@ -271,5 +273,3 @@
   * *Published on 2 Dec 2024*
 * [Управление распределенной командой на GitHub – а что, так можно было?](https://habr.com/ru/articles/862962/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=862962)
   * *Published on 2 Dec 2024*
-* [[Перевод] Что нового в Spring Boot 3.4: Spring Security](https://habr.com/ru/companies/spring_aio/articles/862400/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=862400)
-  * *Published on 29 Nov 2024*
