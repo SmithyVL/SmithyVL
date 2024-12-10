@@ -253,6 +253,12 @@
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Публикации по подписке](https://habr.com/ru/feed/)**
+* [Тестирование и отладка встраиваемых систем STM32 с использованием QEMU эмулятора и Docker](https://habr.com/ru/articles/865070/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=865070)
+  * *Published on 9 Dec 2024*
+* [Запускаем 8B LLM в браузере: AQLM.rs](https://habr.com/ru/companies/yandex/articles/864296/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=864296)
+  * *Published on 9 Dec 2024*
+* [Решаем задачу моментальной навигации по коду для любого коммита](https://habr.com/ru/companies/yandex_cloud_and_infra/articles/863500/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=863500)
+  * *Published on 9 Dec 2024*
 * [Злоумышленники смогли выполнить код с правами обработчика GitHub Actions в репозитории Python-библиотеки Ultralytics](https://habr.com/ru/news/864802/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=864802)
   * *Published on 8 Dec 2024*
 * [[Перевод] Concurrency в Spring Boot приложениях: как сделать правильный выбор](https://habr.com/ru/companies/spring_aio/articles/862950/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=862950)
@@ -267,9 +273,3 @@
   * *Published on 3 Dec 2024*
 * [Накрутка опыта в резюме: 29% IT-специалистов делали это](https://habr.com/ru/specials/863290/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=863290)
   * *Published on 3 Dec 2024*
-* [От Kotlin до машинного кода](https://habr.com/ru/articles/863146/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=863146)
-  * *Published on 2 Dec 2024*
-* [Как жить без IntelliJ IDEA? Часть 3 — HTTP Client](https://habr.com/ru/companies/spring_aio/articles/863106/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=863106)
-  * *Published on 2 Dec 2024*
-* [App.Farm CI. Часть I. Проблемы и выбор решений](https://habr.com/ru/companies/rshb/articles/861252/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=861252)
-  * *Published on 2 Dec 2024*
