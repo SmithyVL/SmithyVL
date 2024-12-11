@@ -253,6 +253,10 @@
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Публикации по подписке](https://habr.com/ru/feed/)**
+* [Встречаем автономные грузовики Яндекса](https://habr.com/ru/companies/yandex/articles/864464/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=864464)
+  * *Published on 10 Dec 2024*
+* [GitHub для тестировщиков: закладываем фундамент](https://habr.com/ru/companies/intec_balance/articles/865098/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=865098)
+  * *Published on 9 Dec 2024*
 * [Тестирование и отладка встраиваемых систем STM32 с использованием QEMU эмулятора и Docker](https://habr.com/ru/articles/865070/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=865070)
   * *Published on 9 Dec 2024*
 * [Запускаем 8B LLM в браузере: AQLM.rs](https://habr.com/ru/companies/yandex/articles/864296/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=864296)
@@ -268,8 +272,4 @@
 * [На чём учатся современные модели машинного перевода: опыт команды Яндекс Переводчика](https://habr.com/ru/companies/yandex/articles/862718/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=862718)
   * *Published on 5 Dec 2024*
 * [Что нового в IntelliJ IDEA 2024.3](https://habr.com/ru/companies/haulmont/articles/863540/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=863540)
-  * *Published on 3 Dec 2024*
-* [Что нового в Amplicode 2024.3](https://habr.com/ru/companies/haulmont/articles/863416/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=863416)
-  * *Published on 3 Dec 2024*
-* [Накрутка опыта в резюме: 29% IT-специалистов делали это](https://habr.com/ru/specials/863290/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=863290)
   * *Published on 3 Dec 2024*
