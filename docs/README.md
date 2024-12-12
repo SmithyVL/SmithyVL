@@ -253,6 +253,10 @@
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Публикации по подписке](https://habr.com/ru/feed/)**
+* [[Перевод] Горькая правда о программировании с использованием ИИ](https://habr.com/ru/companies/spring_aio/articles/865720/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=865720)
+  * *Published on 11 Dec 2024*
+* [ACM RecSys — 2024: тренды и доклады с крупнейшей конференции по ML в рекомендательных системах](https://habr.com/ru/companies/yandex/articles/862148/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=862148)
+  * *Published on 11 Dec 2024*
 * [Встречаем автономные грузовики Яндекса](https://habr.com/ru/companies/yandex/articles/864464/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=864464)
   * *Published on 10 Dec 2024*
 * [GitHub для тестировщиков: закладываем фундамент](https://habr.com/ru/companies/intec_balance/articles/865098/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=865098)
@@ -269,7 +273,3 @@
   * *Published on 6 Dec 2024*
 * [[Перевод] Mark–Scavenge: ждем, пока мусор выбросит себя сам](https://habr.com/ru/companies/spring_aio/articles/863830/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=863830)
   * *Published on 4 Dec 2024*
-* [На чём учатся современные модели машинного перевода: опыт команды Яндекс Переводчика](https://habr.com/ru/companies/yandex/articles/862718/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=862718)
-  * *Published on 5 Dec 2024*
-* [Что нового в IntelliJ IDEA 2024.3](https://habr.com/ru/companies/haulmont/articles/863540/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=863540)
-  * *Published on 3 Dec 2024*
