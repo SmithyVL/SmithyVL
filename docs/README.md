@@ -247,13 +247,16 @@
 
 ## 📋 Недавняя активность
 **[📰 Recent activity](https://github.com/SmithyVL)**
-* 🌟 Starred [Flowseal/zapret-discord-youtube](https://github.com/Flowseal/zapret-discord-youtube)
-  * *On 28 Nov 2024, 10:19:44*
+No recent activity
 
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Публикации по подписке](https://habr.com/ru/feed/)**
+* [Смарт-функции в Алисе: как LLM помогает понять, чего хочет пользователь](https://habr.com/ru/companies/yandex/articles/865738/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=865738)
+  * *Published on 12 Dec 2024*
 * [[Перевод] Горькая правда о программировании с использованием ИИ](https://habr.com/ru/companies/spring_aio/articles/865720/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=865720)
+  * *Published on 11 Dec 2024*
+* [ИИ, блокчейн и кибербезопасность: IT-тренды 2025](https://habr.com/ru/companies/habr_career/articles/865618/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=865618)
   * *Published on 11 Dec 2024*
 * [ACM RecSys — 2024: тренды и доклады с крупнейшей конференции по ML в рекомендательных системах](https://habr.com/ru/companies/yandex/articles/862148/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=862148)
   * *Published on 11 Dec 2024*
@@ -269,7 +272,3 @@
   * *Published on 9 Dec 2024*
 * [Злоумышленники смогли выполнить код с правами обработчика GitHub Actions в репозитории Python-библиотеки Ultralytics](https://habr.com/ru/news/864802/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=864802)
   * *Published on 8 Dec 2024*
-* [[Перевод] Concurrency в Spring Boot приложениях: как сделать правильный выбор](https://habr.com/ru/companies/spring_aio/articles/862950/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=862950)
-  * *Published on 6 Dec 2024*
-* [[Перевод] Mark–Scavenge: ждем, пока мусор выбросит себя сам](https://habr.com/ru/companies/spring_aio/articles/863830/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=863830)
-  * *Published on 4 Dec 2024*
