@@ -252,6 +252,8 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Публикации по подписке](https://habr.com/ru/feed/)**
+* [Как жить без IntelliJ IDEA? Часть №4. Database Client](https://habr.com/ru/companies/spring_aio/articles/866500/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=866500)
+  * *Published on 13 Dec 2024*
 * [Смарт-функции в Алисе: как LLM помогает понять, чего хочет пользователь](https://habr.com/ru/companies/yandex/articles/865738/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=865738)
   * *Published on 12 Dec 2024*
 * [[Перевод] Горькая правда о программировании с использованием ИИ](https://habr.com/ru/companies/spring_aio/articles/865720/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=865720)
@@ -270,5 +272,3 @@ No recent activity
   * *Published on 9 Dec 2024*
 * [Решаем задачу моментальной навигации по коду для любого коммита](https://habr.com/ru/companies/yandex_cloud_and_infra/articles/863500/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=863500)
   * *Published on 9 Dec 2024*
-* [Злоумышленники смогли выполнить код с правами обработчика GitHub Actions в репозитории Python-библиотеки Ultralytics](https://habr.com/ru/news/864802/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=864802)
-  * *Published on 8 Dec 2024*
