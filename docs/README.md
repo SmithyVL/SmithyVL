@@ -252,6 +252,14 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Публикации по подписке](https://habr.com/ru/feed/)**
+* [Как мы обновляли продакшн до Spring Boot 3](https://habr.com/ru/companies/maxilect/articles/867014/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=867014)
+  * *Published on 16 Dec 2024*
+* [Conventional Commits без лишних слов: ваша шпаргалка](https://habr.com/ru/articles/867012/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=867012)
+  * *Published on 16 Dec 2024*
+* [«Группа Астра» представила новую открытую среду разработки OpenIDE](https://habr.com/ru/news/866916/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=866916)
+  * *Published on 16 Dec 2024*
+* [Открытая IDE для российских разработчиков](https://habr.com/ru/companies/haulmont/articles/866388/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=866388)
+  * *Published on 16 Dec 2024*
 * [Как жить без IntelliJ IDEA? Часть №4. Database Client](https://habr.com/ru/companies/spring_aio/articles/866500/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=866500)
   * *Published on 13 Dec 2024*
 * [Смарт-функции в Алисе: как LLM помогает понять, чего хочет пользователь](https://habr.com/ru/companies/yandex/articles/865738/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=865738)
@@ -264,11 +272,3 @@ No recent activity
   * *Published on 11 Dec 2024*
 * [Встречаем автономные грузовики Яндекса](https://habr.com/ru/companies/yandex/articles/864464/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=864464)
   * *Published on 10 Dec 2024*
-* [GitHub для тестировщиков: закладываем фундамент](https://habr.com/ru/companies/intec_balance/articles/865098/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=865098)
-  * *Published on 9 Dec 2024*
-* [Тестирование и отладка встраиваемых систем STM32 с использованием QEMU эмулятора и Docker](https://habr.com/ru/articles/865070/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=865070)
-  * *Published on 9 Dec 2024*
-* [Запускаем 8B LLM в браузере: AQLM.rs](https://habr.com/ru/companies/yandex/articles/864296/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=864296)
-  * *Published on 9 Dec 2024*
-* [Решаем задачу моментальной навигации по коду для любого коммита](https://habr.com/ru/companies/yandex_cloud_and_infra/articles/863500/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=863500)
-  * *Published on 9 Dec 2024*
