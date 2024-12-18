@@ -252,6 +252,10 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Публикации по подписке](https://habr.com/ru/feed/)**
+* [Создаём CRUD REST API в Spring Boot быстро и просто вместе с Amplicode](https://habr.com/ru/companies/haulmont/articles/866060/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=866060)
+  * *Published on 17 Dec 2024*
+* [Как честно распределить вычислительные ресурсы? Показываем на примере YTsaurus](https://habr.com/ru/companies/yandex/articles/860562/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=860562)
+  * *Published on 17 Dec 2024*
 * [Как мы обновляли продакшн до Spring Boot 3](https://habr.com/ru/companies/maxilect/articles/867014/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=867014)
   * *Published on 16 Dec 2024*
 * [Conventional Commits без лишних слов: ваша шпаргалка](https://habr.com/ru/articles/867012/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=867012)
@@ -268,7 +272,3 @@ No recent activity
   * *Published on 11 Dec 2024*
 * [ИИ, блокчейн и кибербезопасность: IT-тренды 2025](https://habr.com/ru/companies/habr_career/articles/865618/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=865618)
   * *Published on 11 Dec 2024*
-* [ACM RecSys — 2024: тренды и доклады с крупнейшей конференции по ML в рекомендательных системах](https://habr.com/ru/companies/yandex/articles/862148/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=862148)
-  * *Published on 11 Dec 2024*
-* [Встречаем автономные грузовики Яндекса](https://habr.com/ru/companies/yandex/articles/864464/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=864464)
-  * *Published on 10 Dec 2024*
