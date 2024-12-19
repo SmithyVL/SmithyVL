@@ -252,6 +252,8 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Публикации по подписке](https://habr.com/ru/feed/)**
+* [[Перевод] Вся правда о @Subselect: преимущества, недостатки и альтернативы в Hibernate](https://habr.com/ru/companies/spring_aio/articles/867662/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=867662)
+  * *Published on 18 Dec 2024*
 * [Создаём CRUD REST API в Spring Boot быстро и просто вместе с Amplicode](https://habr.com/ru/companies/haulmont/articles/866060/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=866060)
   * *Published on 17 Dec 2024*
 * [Как честно распределить вычислительные ресурсы? Показываем на примере YTsaurus](https://habr.com/ru/companies/yandex/articles/860562/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=860562)
@@ -264,11 +266,9 @@ No recent activity
   * *Published on 16 Dec 2024*
 * [Открытая IDE для российских разработчиков](https://habr.com/ru/companies/haulmont/articles/866388/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=866388)
   * *Published on 16 Dec 2024*
+* [Junior of IntelliJ IDEA](https://habr.com/ru/articles/866324/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=866324)
+  * *Published on 13 Dec 2024*
 * [Как жить без IntelliJ IDEA? Часть №4. Database Client](https://habr.com/ru/companies/spring_aio/articles/866500/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=866500)
   * *Published on 13 Dec 2024*
 * [Смарт-функции в Алисе: как LLM помогает понять, чего хочет пользователь](https://habr.com/ru/companies/yandex/articles/865738/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=865738)
   * *Published on 12 Dec 2024*
-* [[Перевод] Горькая правда о программировании с использованием ИИ](https://habr.com/ru/companies/spring_aio/articles/865720/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=865720)
-  * *Published on 11 Dec 2024*
-* [ИИ, блокчейн и кибербезопасность: IT-тренды 2025](https://habr.com/ru/companies/habr_career/articles/865618/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=865618)
-  * *Published on 11 Dec 2024*
