@@ -252,6 +252,8 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Публикации по подписке](https://habr.com/ru/feed/)**
+* [Атаки на GitHub-разработчика в 2024 году](https://habr.com/ru/companies/yandex_cloud_and_infra/articles/867754/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=867754)
+  * *Published on 19 Dec 2024*
 * [[Перевод] Вся правда о @Subselect: преимущества, недостатки и альтернативы в Hibernate](https://habr.com/ru/companies/spring_aio/articles/867662/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=867662)
   * *Published on 18 Dec 2024*
 * [Создаём CRUD REST API в Spring Boot быстро и просто вместе с Amplicode](https://habr.com/ru/companies/haulmont/articles/866060/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=866060)
@@ -270,5 +272,3 @@ No recent activity
   * *Published on 13 Dec 2024*
 * [Как жить без IntelliJ IDEA? Часть №4. Database Client](https://habr.com/ru/companies/spring_aio/articles/866500/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=866500)
   * *Published on 13 Dec 2024*
-* [Смарт-функции в Алисе: как LLM помогает понять, чего хочет пользователь](https://habr.com/ru/companies/yandex/articles/865738/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=865738)
-  * *Published on 12 Dec 2024*
