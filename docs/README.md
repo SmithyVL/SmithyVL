@@ -252,6 +252,14 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Публикации по подписке](https://habr.com/ru/feed/)**
+* [11 мифов о поиске работы в IT и что о них думают работодатели](https://habr.com/ru/companies/habr_career/articles/868400/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=868400)
+  * *Published on 20 Dec 2024*
+* [Как сделать видео на стриминге легче и не погрязнуть в шакалах: опыт Кинопоиска](https://habr.com/ru/companies/yandex/articles/868236/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=868236)
+  * *Published on 20 Dec 2024*
+* [Исследователи: на GitHub есть около 4,5 млн фейковых оценок, которые путают разработчиков](https://habr.com/ru/news/868182/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=868182)
+  * *Published on 20 Dec 2024*
+* [Новый HTTP клиент от Amplicode на Kotlin Script для Spring приложений и не только](https://habr.com/ru/companies/haulmont/articles/868106/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=868106)
+  * *Published on 19 Dec 2024*
 * [Атаки на GitHub-разработчика в 2024 году](https://habr.com/ru/companies/yandex_cloud_and_infra/articles/867754/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=867754)
   * *Published on 19 Dec 2024*
 * [[Перевод] Вся правда о @Subselect: преимущества, недостатки и альтернативы в Hibernate](https://habr.com/ru/companies/spring_aio/articles/867662/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=867662)
@@ -264,11 +272,3 @@ No recent activity
   * *Published on 16 Dec 2024*
 * [Conventional Commits без лишних слов: ваша шпаргалка](https://habr.com/ru/articles/867012/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=867012)
   * *Published on 16 Dec 2024*
-* [«Группа Астра» представила новую открытую среду разработки OpenIDE](https://habr.com/ru/news/866916/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=866916)
-  * *Published on 16 Dec 2024*
-* [Открытая IDE для российских разработчиков](https://habr.com/ru/companies/haulmont/articles/866388/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=866388)
-  * *Published on 16 Dec 2024*
-* [Junior of IntelliJ IDEA](https://habr.com/ru/articles/866324/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=866324)
-  * *Published on 13 Dec 2024*
-* [Как жить без IntelliJ IDEA? Часть №4. Database Client](https://habr.com/ru/companies/spring_aio/articles/866500/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=866500)
-  * *Published on 13 Dec 2024*
