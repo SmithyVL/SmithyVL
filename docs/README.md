@@ -252,6 +252,10 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Публикации по подписке](https://habr.com/ru/feed/)**
+* [Как и зачем мы замеряли знания культурного кода у YandexGPT](https://habr.com/ru/companies/yandex/articles/868282/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=868282)
+  * *Published on 23 Dec 2024*
+* [[Перевод] Как улучшить свои навыки работы с Git с помощью GitHub CLI](https://habr.com/ru/companies/otus/articles/867782/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=867782)
+  * *Published on 18 Dec 2024*
 * [11 мифов о поиске работы в IT и что о них думают работодатели](https://habr.com/ru/companies/habr_career/articles/868400/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=868400)
   * *Published on 20 Dec 2024*
 * [Как сделать видео на стриминге легче и не погрязнуть в шакалах: опыт Кинопоиска](https://habr.com/ru/companies/yandex/articles/868236/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=868236)
@@ -268,7 +272,3 @@ No recent activity
   * *Published on 17 Dec 2024*
 * [Как честно распределить вычислительные ресурсы? Показываем на примере YTsaurus](https://habr.com/ru/companies/yandex/articles/860562/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=860562)
   * *Published on 17 Dec 2024*
-* [Как мы обновляли продакшн до Spring Boot 3](https://habr.com/ru/companies/maxilect/articles/867014/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=867014)
-  * *Published on 16 Dec 2024*
-* [Conventional Commits без лишних слов: ваша шпаргалка](https://habr.com/ru/articles/867012/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=867012)
-  * *Published on 16 Dec 2024*
