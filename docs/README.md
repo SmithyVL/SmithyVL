@@ -252,6 +252,8 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Публикации по подписке](https://habr.com/ru/feed/)**
+* [Зомби-апокалипсис в Телемосте: как мы проводим нагрузочное тестирование видеоконференцсвязи](https://habr.com/ru/companies/yandex/articles/869398/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=869398)
+  * *Published on 25 Dec 2024*
 * [Как жить без IntelliJ IDEA? Часть №5. Заключение](https://habr.com/ru/companies/spring_aio/articles/869354/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=869354)
   * *Published on 24 Dec 2024*
 * [Автогенерация тестов для Java/Kotlin в IntelliJ IDEA: сравнение AI-инструментов](https://habr.com/ru/companies/explyt/articles/869198/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=869198)
@@ -270,5 +272,3 @@ No recent activity
   * *Published on 19 Dec 2024*
 * [Атаки на GitHub-разработчика в 2024 году](https://habr.com/ru/companies/yandex_cloud_and_infra/articles/867754/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=867754)
   * *Published on 19 Dec 2024*
-* [[Перевод] Вся правда о @Subselect: преимущества, недостатки и альтернативы в Hibernate](https://habr.com/ru/companies/spring_aio/articles/867662/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=867662)
-  * *Published on 18 Dec 2024*
