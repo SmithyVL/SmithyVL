@@ -252,6 +252,10 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Публикации по подписке](https://habr.com/ru/feed/)**
+* [Что было на Хабр Карьере в 2024 — лучшие исследования, статьи и обновления](https://habr.com/ru/companies/habr_career/articles/870042/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=870042)
+  * *Published on 26 Dec 2024*
+* [Разработка плагина для Android Studio](https://habr.com/ru/companies/domclick/articles/867018/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=867018)
+  * *Published on 26 Dec 2024*
 * [Зомби-апокалипсис в Телемосте: как мы проводим нагрузочное тестирование видеоконференцсвязи](https://habr.com/ru/companies/yandex/articles/869398/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=869398)
   * *Published on 25 Dec 2024*
 * [Как жить без IntelliJ IDEA? Часть №5. Заключение](https://habr.com/ru/companies/spring_aio/articles/869354/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=869354)
@@ -268,7 +272,3 @@ No recent activity
   * *Published on 20 Dec 2024*
 * [Исследователи: на GitHub есть около 4,5 млн фейковых оценок, которые путают разработчиков](https://habr.com/ru/news/868182/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=868182)
   * *Published on 20 Dec 2024*
-* [Новый HTTP клиент от Amplicode на Kotlin Script для Spring приложений и не только](https://habr.com/ru/companies/haulmont/articles/868106/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=868106)
-  * *Published on 19 Dec 2024*
-* [Атаки на GitHub-разработчика в 2024 году](https://habr.com/ru/companies/yandex_cloud_and_infra/articles/867754/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=867754)
-  * *Published on 19 Dec 2024*
