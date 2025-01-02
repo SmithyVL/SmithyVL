@@ -252,6 +252,8 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Публикации по подписке](https://habr.com/ru/feed/)**
+* [Ядро Linux достигло десятилетнего минимума в 2024 году по количеству новых коммитов в год](https://habr.com/ru/news/871158/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=871158)
+  * *Published on 1 Jan 2025*
 * [Что было на Хабр Карьере в 2024 — лучшие исследования, статьи и обновления](https://habr.com/ru/companies/habr_career/articles/870042/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=870042)
   * *Published on 26 Dec 2024*
 * [Разработка плагина для Android Studio](https://habr.com/ru/companies/domclick/articles/867018/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=867018)
@@ -269,6 +271,4 @@ No recent activity
 * [11 мифов о поиске работы в IT и что о них думают работодатели](https://habr.com/ru/companies/habr_career/articles/868400/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=868400)
   * *Published on 20 Dec 2024*
 * [Как сделать видео на стриминге легче и не погрязнуть в шакалах: опыт Кинопоиска](https://habr.com/ru/companies/yandex/articles/868236/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=868236)
-  * *Published on 20 Dec 2024*
-* [Исследователи: на GitHub есть около 4,5 млн фейковых оценок, которые путают разработчиков](https://habr.com/ru/news/868182/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=868182)
   * *Published on 20 Dec 2024*
