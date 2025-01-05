@@ -252,6 +252,8 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Публикации по подписке](https://habr.com/ru/feed/)**
+* [Надоело постоянно пользоваться телефоном, поэтому написал замену Google Authenticator в виде TUI](https://habr.com/ru/articles/871520/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=871520)
+  * *Published on 4 Jan 2025*
 * [Героические цивилизации — пишу гибрид двух легендарных игр](https://habr.com/ru/articles/871294/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=871294)
   * *Published on 2 Jan 2025*
 * [Ядро Linux достигло десятилетнего минимума в 2024 году по количеству новых коммитов в год](https://habr.com/ru/news/871158/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=871158)
@@ -270,5 +272,3 @@ No recent activity
   * *Published on 23 Dec 2024*
 * [[Перевод] Как улучшить свои навыки работы с Git с помощью GitHub CLI](https://habr.com/ru/companies/otus/articles/867782/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=867782)
   * *Published on 18 Dec 2024*
-* [11 мифов о поиске работы в IT и что о них думают работодатели](https://habr.com/ru/companies/habr_career/articles/868400/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=868400)
-  * *Published on 20 Dec 2024*
