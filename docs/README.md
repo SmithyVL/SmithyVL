@@ -258,7 +258,7 @@ No recent activity
   * *Published on 4 Jan 2025*
 * [Героические цивилизации — пишу гибрид двух легендарных игр](https://habr.com/ru/articles/871294/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=871294)
   * *Published on 2 Jan 2025*
-* [Ядро Linux достигло десятилетнего минимума в 2024 году по количеству новых коммитов в год](https://habr.com/ru/news/871158/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=871158)
+* [Ядро Linux достигло десятилетнего минимума в 2024 по количеству новых коммитов в год](https://habr.com/ru/news/871158/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=871158)
   * *Published on 1 Jan 2025*
 * [Что было на Хабр Карьере в 2024 — лучшие исследования, статьи и обновления](https://habr.com/ru/companies/habr_career/articles/870042/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=870042)
   * *Published on 26 Dec 2024*
