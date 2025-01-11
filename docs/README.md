@@ -252,6 +252,14 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Публикации по подписке](https://habr.com/ru/feed/)**
+* [Из 2024 в 2025: вспоминаем лучшие практики CI/CD](https://habr.com/ru/companies/nixys/articles/841174/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=841174)
+  * *Published on 10 Jan 2025*
+* [Экс-сотрудник Microsoft: пиратство Windows 11 компанию не волнует, так как сами пользователи и есть продукт](https://habr.com/ru/news/872770/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=872770)
+  * *Published on 10 Jan 2025*
+* [Как починить Теслу и спасти праздничное настроение](https://habr.com/ru/companies/yandex/articles/872420/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=872420)
+  * *Published on 10 Jan 2025*
+* [В работе GitHub произошёл глобальный сбой](https://habr.com/ru/news/872318/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=872318)
+  * *Published on 9 Jan 2025*
 * [Корпус для домашнего NAS сервера. Как это было…](https://habr.com/ru/articles/871934/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=871934)
   * *Published on 6 Jan 2025*
 * [Надоело постоянно пользоваться телефоном, поэтому написал замену Google Authenticator в виде TUI](https://habr.com/ru/articles/871520/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=871520)
@@ -264,11 +272,3 @@ No recent activity
   * *Published on 26 Dec 2024*
 * [Разработка плагина для Android Studio](https://habr.com/ru/companies/domclick/articles/867018/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=867018)
   * *Published on 26 Dec 2024*
-* [Зомби-апокалипсис в Телемосте: как мы проводим нагрузочное тестирование видеоконференцсвязи](https://habr.com/ru/companies/yandex/articles/869398/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=869398)
-  * *Published on 25 Dec 2024*
-* [Как жить без IntelliJ IDEA? Часть №5. Заключение](https://habr.com/ru/companies/spring_aio/articles/869354/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=869354)
-  * *Published on 24 Dec 2024*
-* [Автогенерация тестов для Java/Kotlin в IntelliJ IDEA: сравнение AI-инструментов](https://habr.com/ru/companies/explyt/articles/869198/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=869198)
-  * *Published on 24 Dec 2024*
-* [Как и зачем мы замеряли знания культурного кода у YandexGPT](https://habr.com/ru/companies/yandex/articles/868282/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=868282)
-  * *Published on 23 Dec 2024*
