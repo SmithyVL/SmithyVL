@@ -252,6 +252,8 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Публикации по подписке](https://habr.com/ru/feed/)**
+* [Морфинг геометрических фигур с SDF в фрагментных шейдерах GLSL и визуализацией на Jetpack Compose](https://habr.com/ru/articles/872728/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=872728)
+  * *Published on 10 Jan 2025*
 * [Из 2024 в 2025: вспоминаем лучшие практики CI/CD](https://habr.com/ru/companies/nixys/articles/841174/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=841174)
   * *Published on 10 Jan 2025*
 * [Экс-сотрудник Microsoft: пиратство Windows 11 компанию не волнует, так как сами пользователи и есть продукт](https://habr.com/ru/news/872770/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=872770)
@@ -269,6 +271,4 @@ No recent activity
 * [Ядро Linux достигло десятилетнего минимума в 2024 по количеству новых коммитов в год](https://habr.com/ru/news/871158/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=871158)
   * *Published on 1 Jan 2025*
 * [Что было на Хабр Карьере в 2024 — лучшие исследования, статьи и обновления](https://habr.com/ru/companies/habr_career/articles/870042/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=870042)
-  * *Published on 26 Dec 2024*
-* [Разработка плагина для Android Studio](https://habr.com/ru/companies/domclick/articles/867018/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=867018)
   * *Published on 26 Dec 2024*
