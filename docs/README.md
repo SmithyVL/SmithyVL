@@ -252,6 +252,14 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Публикации по подписке](https://habr.com/ru/feed/)**
+* [Amplicode становится платным (и остается бесплатным)](https://habr.com/ru/companies/haulmont/articles/873868/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=873868)
+  * *Published on 15 Jan 2025*
+* [Программируем SFP-модули на программаторе CH341A](https://habr.com/ru/articles/873792/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=873792)
+  * *Published on 15 Jan 2025*
+* [Как я сделал PR на 14К строк в проект YDB будучи студентом](https://habr.com/ru/companies/yandex/articles/873464/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=873464)
+  * *Published on 15 Jan 2025*
+* [Kotlin Coroutines под капотом: отмена корутин](https://habr.com/ru/articles/873076/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=873076)
+  * *Published on 12 Jan 2025*
 * [[Перевод] Jakarta Data и Persistence: Инструменты, которые меняют подход к работе с данными](https://habr.com/ru/companies/spring_aio/articles/872830/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=872830)
   * *Published on 13 Jan 2025*
 * [Морфинг геометрических фигур с SDF в фрагментных шейдерах GLSL и визуализацией на Jetpack Compose](https://habr.com/ru/articles/872728/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=872728)
@@ -264,11 +272,3 @@ No recent activity
   * *Published on 10 Jan 2025*
 * [Как починить Теслу и спасти праздничное настроение](https://habr.com/ru/companies/yandex/articles/872420/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=872420)
   * *Published on 10 Jan 2025*
-* [В работе GitHub произошёл глобальный сбой](https://habr.com/ru/news/872318/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=872318)
-  * *Published on 9 Jan 2025*
-* [Корпус для домашнего NAS сервера. Как это было…](https://habr.com/ru/articles/871934/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=871934)
-  * *Published on 6 Jan 2025*
-* [Надоело постоянно пользоваться телефоном, поэтому написал замену Google Authenticator в виде TUI](https://habr.com/ru/articles/871520/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=871520)
-  * *Published on 4 Jan 2025*
-* [Героические цивилизации — пишу гибрид двух легендарных игр](https://habr.com/ru/articles/871294/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=871294)
-  * *Published on 2 Jan 2025*
