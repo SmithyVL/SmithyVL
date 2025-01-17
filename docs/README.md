@@ -252,23 +252,23 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Публикации по подписке](https://habr.com/ru/feed/)**
+* [Git Stash: заначка в репозитории](https://habr.com/ru/companies/otus/articles/873406/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=873406)
+  * *Published on 15 Jan 2025*
+* [[Перевод] Стала доступна первая EAP-версия IntelliJ IDEA 2025.1](https://habr.com/ru/companies/spring_aio/articles/874146/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=874146)
+  * *Published on 16 Jan 2025*
+* [Как ArgoCD секреты из Vault не расшифровывал, или при чем тут App of Apps](https://habr.com/ru/companies/yadro/articles/873476/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=873476)
+  * *Published on 16 Jan 2025*
+* [Как R облегчает мою жизнь разработчика](https://habr.com/ru/companies/yandex/articles/873308/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=873308)
+  * *Published on 16 Jan 2025*
 * [Amplicode становится платным (и остается бесплатным)](https://habr.com/ru/companies/haulmont/articles/873868/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=873868)
   * *Published on 15 Jan 2025*
 * [Программируем SFP-модули на программаторе CH341A](https://habr.com/ru/articles/873792/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=873792)
   * *Published on 15 Jan 2025*
 * [Как я сделал PR на 14К строк в проект YDB будучи студентом](https://habr.com/ru/companies/yandex/articles/873464/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=873464)
   * *Published on 15 Jan 2025*
+* [Примеры использования File Templates для типовых сценариев, где требуется шаблонный код](https://habr.com/ru/companies/tbank/articles/873234/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=873234)
+  * *Published on 14 Jan 2025*
 * [Kotlin Coroutines под капотом: отмена корутин](https://habr.com/ru/articles/873076/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=873076)
   * *Published on 12 Jan 2025*
 * [[Перевод] Jakarta Data и Persistence: Инструменты, которые меняют подход к работе с данными](https://habr.com/ru/companies/spring_aio/articles/872830/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=872830)
   * *Published on 13 Jan 2025*
-* [Морфинг геометрических фигур с SDF в фрагментных шейдерах GLSL и визуализацией на Jetpack Compose](https://habr.com/ru/articles/872728/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=872728)
-  * *Published on 10 Jan 2025*
-* [Из 2024 в 2025: вспоминаем лучшие практики CI/CD](https://habr.com/ru/companies/nixys/articles/841174/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=841174)
-  * *Published on 10 Jan 2025*
-* [Экс-сотрудник Microsoft: пиратство Windows 11 компанию не волнует, так как сами пользователи и есть продукт](https://habr.com/ru/news/872770/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=872770)
-  * *Published on 10 Jan 2025*
-* [Уменьшаем написание boilerplate с помощью File Templates](https://habr.com/ru/companies/tbank/articles/872684/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=872684)
-  * *Published on 10 Jan 2025*
-* [Как починить Теслу и спасти праздничное настроение](https://habr.com/ru/companies/yandex/articles/872420/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=872420)
-  * *Published on 10 Jan 2025*
