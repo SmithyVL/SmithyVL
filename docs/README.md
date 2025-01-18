@@ -252,6 +252,10 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Публикации по подписке](https://habr.com/ru/feed/)**
+* [[Перевод] Что случилось с легковесными десктопными приложениями? История Electron](https://habr.com/ru/companies/ruvds/articles/873714/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=873714)
+  * *Published on 17 Jan 2025*
+* [Так ли плох Go в глазах C++ разработчика: пишем микросервис и учимся на ошибках](https://habr.com/ru/companies/yandex/articles/874202/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=874202)
+  * *Published on 17 Jan 2025*
 * [Git Stash: заначка в репозитории](https://habr.com/ru/companies/otus/articles/873406/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=873406)
   * *Published on 15 Jan 2025*
 * [[Перевод] Стала доступна первая EAP-версия IntelliJ IDEA 2025.1](https://habr.com/ru/companies/spring_aio/articles/874146/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=874146)
@@ -268,7 +272,3 @@ No recent activity
   * *Published on 15 Jan 2025*
 * [Примеры использования File Templates для типовых сценариев, где требуется шаблонный код](https://habr.com/ru/companies/tbank/articles/873234/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=873234)
   * *Published on 14 Jan 2025*
-* [Kotlin Coroutines под капотом: отмена корутин](https://habr.com/ru/articles/873076/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=873076)
-  * *Published on 12 Jan 2025*
-* [[Перевод] Jakarta Data и Persistence: Инструменты, которые меняют подход к работе с данными](https://habr.com/ru/companies/spring_aio/articles/872830/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=872830)
-  * *Published on 13 Jan 2025*
