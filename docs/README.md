@@ -252,6 +252,10 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Публикации по подписке](https://habr.com/ru/feed/)**
+* [Заговор разработчиков против корпораций](https://habr.com/ru/articles/874610/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=874610)
+  * *Published on 18 Jan 2025*
+* [Explyt Spring Plugin — наша версия HTTP-клиента для IntelliJ IDEA](https://habr.com/ru/companies/explyt/articles/874236/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=874236)
+  * *Published on 17 Jan 2025*
 * [[Перевод] Что случилось с легковесными десктопными приложениями? История Electron](https://habr.com/ru/companies/ruvds/articles/873714/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=873714)
   * *Published on 17 Jan 2025*
 * [Так ли плох Go в глазах C++ разработчика: пишем микросервис и учимся на ошибках](https://habr.com/ru/companies/yandex/articles/874202/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=874202)
@@ -268,7 +272,3 @@ No recent activity
   * *Published on 15 Jan 2025*
 * [Программируем SFP-модули на программаторе CH341A](https://habr.com/ru/articles/873792/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=873792)
   * *Published on 15 Jan 2025*
-* [Как я сделал PR на 14К строк в проект YDB будучи студентом](https://habr.com/ru/companies/yandex/articles/873464/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=873464)
-  * *Published on 15 Jan 2025*
-* [Примеры использования File Templates для типовых сценариев, где требуется шаблонный код](https://habr.com/ru/companies/tbank/articles/873234/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=873234)
-  * *Published on 14 Jan 2025*
