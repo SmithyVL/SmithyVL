@@ -252,6 +252,8 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Публикации по подписке](https://habr.com/ru/feed/)**
+* [Нужна ли асинхронщина на проектах: пара наблюдений про Spring и неблокирующее API для самых маленьких](https://habr.com/ru/companies/maxilect/articles/875064/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=875064)
+  * *Published on 20 Jan 2025*
 * [Заговор разработчиков против корпораций](https://habr.com/ru/articles/874610/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=874610)
   * *Published on 18 Jan 2025*
 * [Explyt Spring Plugin — наша версия HTTP-клиента для IntelliJ IDEA](https://habr.com/ru/companies/explyt/articles/874236/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=874236)
@@ -269,6 +271,4 @@ No recent activity
 * [Как R облегчает мою жизнь разработчика](https://habr.com/ru/companies/yandex/articles/873308/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=873308)
   * *Published on 16 Jan 2025*
 * [Amplicode становится платным (и остается бесплатным)](https://habr.com/ru/companies/haulmont/articles/873868/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=873868)
-  * *Published on 15 Jan 2025*
-* [Программируем SFP-модули на программаторе CH341A](https://habr.com/ru/articles/873792/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=873792)
   * *Published on 15 Jan 2025*
