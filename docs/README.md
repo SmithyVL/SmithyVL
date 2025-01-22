@@ -252,7 +252,17 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Публикации по подписке](https://habr.com/ru/feed/)**
+* [Мастер-класс по точечному переносу изменений между ветками в git](https://habr.com/ru/articles/875258/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=875258)
+  * *Published on 21 Jan 2025*
+* [Как вынести Go-модуль в open source с сохранением авторства](https://habr.com/ru/companies/pt/articles/875052/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=875052)
+  * *Published on 21 Jan 2025*
+* [Погружение в мир Lint&#39;a в Android-проекте (часть 2)](https://habr.com/ru/companies/domclick/articles/870650/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=870650)
+  * *Published on 21 Jan 2025*
+* [Merger в YTsaurus: безболезненное укрупнение чанков в статических таблицах](https://habr.com/ru/companies/yandex/articles/874228/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=874228)
+  * *Published on 21 Jan 2025*
 * [Нужна ли асинхронщина на проектах: пара наблюдений про Spring и неблокирующее API для самых маленьких](https://habr.com/ru/companies/maxilect/articles/875064/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=875064)
+  * *Published on 20 Jan 2025*
+* [Активность найма на IT-рынке во 4 квартале 2024](https://habr.com/ru/companies/habr_career/articles/875024/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=875024)
   * *Published on 20 Jan 2025*
 * [Заговор разработчиков против корпораций](https://habr.com/ru/articles/874610/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=874610)
   * *Published on 18 Jan 2025*
@@ -262,13 +272,3 @@ No recent activity
   * *Published on 17 Jan 2025*
 * [Так ли плох Go в глазах C++ разработчика: пишем микросервис и учимся на ошибках](https://habr.com/ru/companies/yandex/articles/874202/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=874202)
   * *Published on 17 Jan 2025*
-* [Git Stash: заначка в репозитории](https://habr.com/ru/companies/otus/articles/873406/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=873406)
-  * *Published on 15 Jan 2025*
-* [[Перевод] Стала доступна первая EAP-версия IntelliJ IDEA 2025.1](https://habr.com/ru/companies/spring_aio/articles/874146/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=874146)
-  * *Published on 16 Jan 2025*
-* [Как ArgoCD секреты из Vault не расшифровывал, или при чем тут App of Apps](https://habr.com/ru/companies/yadro/articles/873476/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=873476)
-  * *Published on 16 Jan 2025*
-* [Как R облегчает мою жизнь разработчика](https://habr.com/ru/companies/yandex/articles/873308/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=873308)
-  * *Published on 16 Jan 2025*
-* [Amplicode становится платным (и остается бесплатным)](https://habr.com/ru/companies/haulmont/articles/873868/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=873868)
-  * *Published on 15 Jan 2025*
