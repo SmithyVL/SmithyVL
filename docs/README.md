@@ -252,6 +252,10 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Публикации по подписке](https://habr.com/ru/feed/)**
+* [Канареечные релизы на Camunda и Togglz](https://habr.com/ru/companies/tbank/articles/875444/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=875444)
+  * *Published on 22 Jan 2025*
+* [Как перенести Linux Device Drivers на современные ядра](https://habr.com/ru/companies/yandex/articles/873288/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=873288)
+  * *Published on 22 Jan 2025*
 * [Мастер-класс по точечному переносу изменений между ветками в git](https://habr.com/ru/articles/875258/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=875258)
   * *Published on 21 Jan 2025*
 * [Как вынести Go-модуль в open source с сохранением авторства](https://habr.com/ru/companies/pt/articles/875052/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=875052)
@@ -260,8 +264,6 @@ No recent activity
   * *Published on 21 Jan 2025*
 * [Merger в YTsaurus: безболезненное укрупнение чанков в статических таблицах](https://habr.com/ru/companies/yandex/articles/874228/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=874228)
   * *Published on 21 Jan 2025*
-* [Нужна ли асинхронщина на проектах: пара наблюдений про Spring и неблокирующее API для самых маленьких](https://habr.com/ru/companies/maxilect/articles/875064/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=875064)
-  * *Published on 20 Jan 2025*
 * [Активность найма на IT-рынке во 4 квартале 2024](https://habr.com/ru/companies/habr_career/articles/875024/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=875024)
   * *Published on 20 Jan 2025*
 * [Заговор разработчиков против корпораций](https://habr.com/ru/articles/874610/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=874610)
@@ -269,6 +271,4 @@ No recent activity
 * [Explyt Spring Plugin — наша версия HTTP-клиента для IntelliJ IDEA](https://habr.com/ru/companies/explyt/articles/874236/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=874236)
   * *Published on 17 Jan 2025*
 * [[Перевод] Что случилось с легковесными десктопными приложениями? История Electron](https://habr.com/ru/companies/ruvds/articles/873714/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=873714)
-  * *Published on 17 Jan 2025*
-* [Так ли плох Go в глазах C++ разработчика: пишем микросервис и учимся на ошибках](https://habr.com/ru/companies/yandex/articles/874202/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=874202)
   * *Published on 17 Jan 2025*
