@@ -268,7 +268,7 @@ No recent activity
   * *Published on 21 Jan 2025*
 * [Merger в YTsaurus: безболезненное укрупнение чанков в статических таблицах](https://habr.com/ru/companies/yandex/articles/874228/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=874228)
   * *Published on 21 Jan 2025*
-* [Активность найма на IT-рынке во 4 квартале 2024](https://habr.com/ru/companies/habr_career/articles/875024/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=875024)
+* [Нужна ли асинхронщина на проектах: пара наблюдений про Spring и неблокирующее API для самых маленьких](https://habr.com/ru/companies/maxilect/articles/875064/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=875064)
   * *Published on 20 Jan 2025*
-* [Заговор разработчиков против корпораций](https://habr.com/ru/articles/874610/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=874610)
-  * *Published on 18 Jan 2025*
+* [Активность найма на IT-рынке в 4 квартале 2024](https://habr.com/ru/companies/habr_career/articles/875024/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=875024)
+  * *Published on 20 Jan 2025*
