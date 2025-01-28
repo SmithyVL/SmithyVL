@@ -252,6 +252,8 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Публикации по подписке](https://habr.com/ru/feed/)**
+* [Архитектура биллинга Яндекс 360: как не стать единой точкой отказа](https://habr.com/ru/companies/yandex/articles/872526/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=872526)
+  * *Published on 27 Jan 2025*
 * [Kotlinx.serialization и работа с JSON](https://habr.com/ru/companies/otus/articles/874812/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=874812)
   * *Published on 22 Jan 2025*
 * [[Перевод] Маппинг даты и времени в Hibernate и JPA](https://habr.com/ru/companies/spring_aio/articles/875762/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=875762)
@@ -268,7 +270,5 @@ No recent activity
   * *Published on 21 Jan 2025*
 * [Merger в YTsaurus: безболезненное укрупнение чанков в статических таблицах](https://habr.com/ru/companies/yandex/articles/874228/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=874228)
   * *Published on 21 Jan 2025*
-* [Нужна ли асинхронщина на проектах: пара наблюдений про Spring и неблокирующее API для самых маленьких](https://habr.com/ru/companies/maxilect/articles/875064/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=875064)
-  * *Published on 20 Jan 2025*
 * [Активность найма на IT-рынке в 4 квартале 2024](https://habr.com/ru/companies/habr_career/articles/875024/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=875024)
   * *Published on 20 Jan 2025*
