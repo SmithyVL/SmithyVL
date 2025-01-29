@@ -252,6 +252,10 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Публикации по подписке](https://habr.com/ru/feed/)**
+* [Лучшие IT-работодатели России 2024: ежегодный рейтинг Хабр Карьеры](https://habr.com/ru/specials/876910/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=876910)
+  * *Published on 28 Jan 2025*
+* [Как с помощью deep learning мы построили Геокодер, масштабируемый для разных стран](https://habr.com/ru/companies/yandex/articles/877086/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=877086)
+  * *Published on 28 Jan 2025*
 * [Архитектура биллинга Яндекс 360: как не стать единой точкой отказа](https://habr.com/ru/companies/yandex/articles/872526/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=872526)
   * *Published on 27 Jan 2025*
 * [Kotlinx.serialization и работа с JSON](https://habr.com/ru/companies/otus/articles/874812/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=874812)
@@ -268,7 +272,3 @@ No recent activity
   * *Published on 21 Jan 2025*
 * [Погружение в мир Lint&#39;a в Android-проекте (часть 2)](https://habr.com/ru/companies/domclick/articles/870650/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=870650)
   * *Published on 21 Jan 2025*
-* [Merger в YTsaurus: безболезненное укрупнение чанков в статических таблицах](https://habr.com/ru/companies/yandex/articles/874228/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=874228)
-  * *Published on 21 Jan 2025*
-* [Активность найма на IT-рынке в 4 квартале 2024](https://habr.com/ru/companies/habr_career/articles/875024/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=875024)
-  * *Published on 20 Jan 2025*
