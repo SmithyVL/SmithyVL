@@ -252,6 +252,8 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Публикации по подписке](https://habr.com/ru/feed/)**
+* [Perforator: новая система непрерывного профилирования теперь в опенсорсе](https://habr.com/ru/companies/yandex/articles/875070/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=875070)
+  * *Published on 30 Jan 2025*
 * [Лучшие IT-работодатели России 2024: ежегодный рейтинг Хабр Карьеры](https://habr.com/ru/specials/876910/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=876910)
   * *Published on 28 Jan 2025*
 * [Как с помощью deep learning мы построили Геокодер, масштабируемый для разных стран](https://habr.com/ru/companies/yandex/articles/877086/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=877086)
@@ -269,6 +271,4 @@ No recent activity
 * [Мастер-класс по точечному переносу изменений между ветками в git](https://habr.com/ru/companies/datafeel/articles/875258/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=875258)
   * *Published on 21 Jan 2025*
 * [Как вынести Go-модуль в open source с сохранением авторства](https://habr.com/ru/companies/pt/articles/875052/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=875052)
-  * *Published on 21 Jan 2025*
-* [Погружение в мир Lint&#39;a в Android-проекте (часть 2)](https://habr.com/ru/companies/domclick/articles/870650/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=870650)
   * *Published on 21 Jan 2025*
