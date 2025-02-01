@@ -252,6 +252,10 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Публикации по подписке](https://habr.com/ru/feed/)**
+* [Где работать в IТ в 2025: СИГМА](https://habr.com/ru/companies/habr_career/articles/878312/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=878312)
+  * *Published on 31 Jan 2025*
+* [[Перевод] JDBC Fetch Size: Маленькая настройка, большие последствия](https://habr.com/ru/companies/spring_aio/articles/878194/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=878194)
+  * *Published on 31 Jan 2025*
 * [Perforator: новая система непрерывного профилирования теперь в опенсорсе](https://habr.com/ru/companies/yandex/articles/875070/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=875070)
   * *Published on 30 Jan 2025*
 * [Лучшие IT-работодатели России 2024: ежегодный рейтинг Хабр Карьеры](https://habr.com/ru/specials/876910/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=876910)
@@ -268,7 +272,3 @@ No recent activity
   * *Published on 22 Jan 2025*
 * [Как перенести Linux Device Drivers на современные ядра](https://habr.com/ru/companies/yandex/articles/873288/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=873288)
   * *Published on 22 Jan 2025*
-* [Мастер-класс по точечному переносу изменений между ветками в git](https://habr.com/ru/companies/datafeel/articles/875258/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=875258)
-  * *Published on 21 Jan 2025*
-* [Как вынести Go-модуль в open source с сохранением авторства](https://habr.com/ru/companies/pt/articles/875052/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=875052)
-  * *Published on 21 Jan 2025*
