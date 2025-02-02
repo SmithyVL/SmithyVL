@@ -252,12 +252,16 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Публикации по подписке](https://habr.com/ru/feed/)**
+* [Заговор разработчиков против корпораций: архитектура и принципы](https://habr.com/ru/articles/878620/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=878620)
+  * *Published on 1 Feb 2025*
 * [Где работать в IТ в 2025: СИГМА](https://habr.com/ru/companies/habr_career/articles/878312/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=878312)
   * *Published on 31 Jan 2025*
 * [[Перевод] JDBC Fetch Size: Маленькая настройка, большие последствия](https://habr.com/ru/companies/spring_aio/articles/878194/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=878194)
   * *Published on 31 Jan 2025*
 * [Perforator: новая система непрерывного профилирования теперь в опенсорсе](https://habr.com/ru/companies/yandex/articles/875070/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=875070)
   * *Published on 30 Jan 2025*
+* [[Перевод] Разработка эффективных агентов с помощью Spring AI (Часть 1)](https://habr.com/ru/companies/spring_aio/articles/877196/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=877196)
+  * *Published on 28 Jan 2025*
 * [Лучшие IT-работодатели России 2024: ежегодный рейтинг Хабр Карьеры](https://habr.com/ru/specials/876910/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=876910)
   * *Published on 28 Jan 2025*
 * [Как с помощью deep learning мы построили Геокодер, масштабируемый для разных стран](https://habr.com/ru/companies/yandex/articles/877086/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=877086)
@@ -267,8 +271,4 @@ No recent activity
 * [Kotlinx.serialization и работа с JSON](https://habr.com/ru/companies/otus/articles/874812/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=874812)
   * *Published on 22 Jan 2025*
 * [[Перевод] Маппинг даты и времени в Hibernate и JPA](https://habr.com/ru/companies/spring_aio/articles/875762/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=875762)
-  * *Published on 22 Jan 2025*
-* [Канареечные релизы на Camunda и Togglz](https://habr.com/ru/companies/tbank/articles/875444/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=875444)
-  * *Published on 22 Jan 2025*
-* [Как перенести Linux Device Drivers на современные ядра](https://habr.com/ru/companies/yandex/articles/873288/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=873288)
   * *Published on 22 Jan 2025*
