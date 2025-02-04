@@ -252,6 +252,8 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Публикации по подписке](https://habr.com/ru/feed/)**
+* [Секреты стройности монолита: подходы по снятию нагрузки с БД](https://habr.com/ru/companies/yandex/articles/876286/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=876286)
+  * *Published on 3 Feb 2025*
 * [Заговор разработчиков против корпораций: архитектура и принципы](https://habr.com/ru/articles/878620/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=878620)
   * *Published on 1 Feb 2025*
 * [Где работать в IТ в 2025: СИГМА](https://habr.com/ru/companies/habr_career/articles/878312/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=878312)
@@ -269,6 +271,4 @@ No recent activity
 * [Архитектура биллинга Яндекс 360: как не стать единой точкой отказа](https://habr.com/ru/companies/yandex/articles/872526/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=872526)
   * *Published on 27 Jan 2025*
 * [Kotlinx.serialization и работа с JSON](https://habr.com/ru/companies/otus/articles/874812/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=874812)
-  * *Published on 22 Jan 2025*
-* [[Перевод] Маппинг даты и времени в Hibernate и JPA](https://habr.com/ru/companies/spring_aio/articles/875762/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=875762)
   * *Published on 22 Jan 2025*
