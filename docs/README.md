@@ -252,6 +252,12 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Публикации по подписке](https://habr.com/ru/feed/)**
+* [Тебе сюда нельзя: Flutter блокирует разработчиков по национальности](https://habr.com/ru/news/879478/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=879478)
+  * *Published on 4 Feb 2025*
+* [[Перевод] Valhalla — эпичный рефакторинг Java. Часть 1: История проекта, сложности реализации и цели](https://habr.com/ru/companies/spring_aio/articles/878950/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=878950)
+  * *Published on 4 Feb 2025*
+* [[Перевод] Вершим правосудие на GitHub, помечая мошенников с помощью граффити](https://habr.com/ru/companies/bastion/articles/877076/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=877076)
+  * *Published on 4 Feb 2025*
 * [Секреты стройности монолита: подходы по снятию нагрузки с БД](https://habr.com/ru/companies/yandex/articles/876286/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=876286)
   * *Published on 3 Feb 2025*
 * [Заговор разработчиков против корпораций: архитектура и принципы](https://habr.com/ru/articles/878620/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=878620)
@@ -266,9 +272,3 @@ No recent activity
   * *Published on 28 Jan 2025*
 * [Лучшие IT-работодатели России 2024: ежегодный рейтинг Хабр Карьеры](https://habr.com/ru/specials/876910/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=876910)
   * *Published on 28 Jan 2025*
-* [Как с помощью deep learning мы построили Геокодер, масштабируемый для разных стран](https://habr.com/ru/companies/yandex/articles/877086/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=877086)
-  * *Published on 28 Jan 2025*
-* [Архитектура биллинга Яндекс 360: как не стать единой точкой отказа](https://habr.com/ru/companies/yandex/articles/872526/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=872526)
-  * *Published on 27 Jan 2025*
-* [Kotlinx.serialization и работа с JSON](https://habr.com/ru/companies/otus/articles/874812/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=874812)
-  * *Published on 22 Jan 2025*
