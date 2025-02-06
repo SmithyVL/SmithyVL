@@ -252,6 +252,12 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Публикации по подписке](https://habr.com/ru/feed/)**
+* [[Перевод] Spring Security: разберём по полочкам токены, фильтры и авторизацию (с диаграммами!)](https://habr.com/ru/companies/spring_aio/articles/879704/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=879704)
+  * *Published on 5 Feb 2025*
+* [Пост @timofeyev_vv — Блог компании Yandex Cloud &amp; Yandex Infrastructure — N/P](https://habr.com/ru/companies/yandex/posts/879620/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=879620)
+  * *Published on 5 Feb 2025*
+* [Ускорение LLM: универсальные методы для популярных архитектур](https://habr.com/ru/companies/yandex/articles/878230/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=878230)
+  * *Published on 5 Feb 2025*
 * [Тебе сюда нельзя: Flutter блокирует разработчиков по национальности](https://habr.com/ru/news/879478/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=879478)
   * *Published on 4 Feb 2025*
 * [[Перевод] Valhalla — эпичный рефакторинг Java. Часть 1: История проекта, сложности реализации и цели](https://habr.com/ru/companies/spring_aio/articles/878950/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=878950)
@@ -266,9 +272,3 @@ No recent activity
   * *Published on 31 Jan 2025*
 * [[Перевод] JDBC Fetch Size: Маленькая настройка, большие последствия](https://habr.com/ru/companies/spring_aio/articles/878194/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=878194)
   * *Published on 31 Jan 2025*
-* [Perforator: новая система непрерывного профилирования теперь в опенсорсе](https://habr.com/ru/companies/yandex/articles/875070/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=875070)
-  * *Published on 30 Jan 2025*
-* [[Перевод] Разработка эффективных агентов с помощью Spring AI (Часть 1)](https://habr.com/ru/companies/spring_aio/articles/877196/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=877196)
-  * *Published on 28 Jan 2025*
-* [Лучшие IT-работодатели России 2024: ежегодный рейтинг Хабр Карьеры](https://habr.com/ru/specials/876910/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=876910)
-  * *Published on 28 Jan 2025*
