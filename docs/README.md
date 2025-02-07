@@ -252,6 +252,10 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Публикации по подписке](https://habr.com/ru/feed/)**
+* [Яндекс добавил в Шедеврум возможность протестировать визуальную модель от DeepSeek](https://habr.com/ru/companies/yandex/news/879936/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=879936)
+  * *Published on 6 Feb 2025*
+* [Обновления в Swift Concurrency: что нас ждёт в Swift 6](https://habr.com/ru/companies/yandex/articles/879078/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=879078)
+  * *Published on 6 Feb 2025*
 * [[Перевод] Spring Security: разберём по полочкам токены, фильтры и авторизацию (с диаграммами!)](https://habr.com/ru/companies/spring_aio/articles/879704/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=879704)
   * *Published on 5 Feb 2025*
 * [Пост @timofeyev_vv — Блог компании Yandex Cloud &amp; Yandex Infrastructure — N/P](https://habr.com/ru/companies/yandex/posts/879620/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=879620)
@@ -268,7 +272,3 @@ No recent activity
   * *Published on 3 Feb 2025*
 * [Заговор разработчиков против корпораций: архитектура и принципы](https://habr.com/ru/articles/878620/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=878620)
   * *Published on 1 Feb 2025*
-* [Где работать в IТ в 2025: СИГМА](https://habr.com/ru/companies/habr_career/articles/878312/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=878312)
-  * *Published on 31 Jan 2025*
-* [[Перевод] JDBC Fetch Size: Маленькая настройка, большие последствия](https://habr.com/ru/companies/spring_aio/articles/878194/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=878194)
-  * *Published on 31 Jan 2025*
