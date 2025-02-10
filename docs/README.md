@@ -252,6 +252,8 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Публикации по подписке](https://habr.com/ru/feed/)**
+* [[Перевод] Flyway Baseline миграция без лишних слов: Что это и зачем нужно](https://habr.com/ru/companies/spring_aio/articles/880486/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=880486)
+  * *Published on 7 Feb 2025*
 * [Как запустить публичный сайт на телефоне или экономим на спичках](https://habr.com/ru/articles/879818/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=879818)
   * *Published on 6 Feb 2025*
 * [Яндекс добавил в Шедеврум возможность протестировать визуальную модель от DeepSeek](https://habr.com/ru/companies/yandex/news/879936/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=879936)
@@ -270,5 +272,3 @@ No recent activity
   * *Published on 4 Feb 2025*
 * [[Перевод] Вершим правосудие на GitHub, помечая мошенников с помощью граффити](https://habr.com/ru/companies/bastion/articles/877076/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=877076)
   * *Published on 4 Feb 2025*
-* [Секреты стройности монолита: подходы по снятию нагрузки с БД](https://habr.com/ru/companies/yandex/articles/876286/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=876286)
-  * *Published on 3 Feb 2025*
