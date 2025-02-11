@@ -252,6 +252,8 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Публикации по подписке](https://habr.com/ru/feed/)**
+* [Детские ошибки при сборке Gradle-приложений](https://habr.com/ru/companies/alfa/articles/876382/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=876382)
+  * *Published on 10 Feb 2025*
 * [[Перевод] Flyway Baseline миграция без лишних слов: Что это и зачем нужно](https://habr.com/ru/companies/spring_aio/articles/880486/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=880486)
   * *Published on 7 Feb 2025*
 * [Как запустить публичный сайт на телефоне или экономим на спичках](https://habr.com/ru/articles/879818/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=879818)
@@ -269,6 +271,4 @@ No recent activity
 * [Тебе сюда нельзя: Flutter блокирует разработчиков по национальности](https://habr.com/ru/news/879478/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=879478)
   * *Published on 4 Feb 2025*
 * [[Перевод] Valhalla — эпичный рефакторинг Java. Часть 1: История проекта, сложности реализации и цели](https://habr.com/ru/companies/spring_aio/articles/878950/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=878950)
-  * *Published on 4 Feb 2025*
-* [[Перевод] Вершим правосудие на GitHub, помечая мошенников с помощью граффити](https://habr.com/ru/companies/bastion/articles/877076/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=877076)
   * *Published on 4 Feb 2025*
