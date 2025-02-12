@@ -252,6 +252,10 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Публикации по подписке](https://habr.com/ru/feed/)**
+* [[Перевод] Глубокое погружение в процедуру запуска JVM](https://habr.com/ru/companies/spring_aio/articles/881128/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=881128)
+  * *Published on 11 Feb 2025*
+* [Итоги года вместе с Amplicode](https://habr.com/ru/companies/haulmont/articles/879594/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=879594)
+  * *Published on 11 Feb 2025*
 * [Детские ошибки при сборке Gradle-приложений](https://habr.com/ru/companies/alfa/articles/876382/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=876382)
   * *Published on 10 Feb 2025*
 * [[Перевод] Flyway Baseline миграция без лишних слов: Что это и зачем нужно](https://habr.com/ru/companies/spring_aio/articles/880486/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=880486)
@@ -268,7 +272,3 @@ No recent activity
   * *Published on 5 Feb 2025*
 * [Ускорение LLM: универсальные методы для популярных архитектур](https://habr.com/ru/companies/yandex/articles/878230/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=878230)
   * *Published on 5 Feb 2025*
-* [Тебе сюда нельзя: Flutter блокирует разработчиков по национальности](https://habr.com/ru/news/879478/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=879478)
-  * *Published on 4 Feb 2025*
-* [[Перевод] Valhalla — эпичный рефакторинг Java. Часть 1: История проекта, сложности реализации и цели](https://habr.com/ru/companies/spring_aio/articles/878950/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=878950)
-  * *Published on 4 Feb 2025*
