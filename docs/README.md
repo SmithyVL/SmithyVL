@@ -252,6 +252,10 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Публикации по подписке](https://habr.com/ru/feed/)**
+* [Видишь суслика? А он есть! Как главная страница Яндекса переезжала на Go](https://habr.com/ru/companies/yandex/articles/871868/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=871868)
+  * *Published on 12 Feb 2025*
+* [Как исправлять ошибки в Git, не оставляя улик](https://habr.com/ru/articles/881614/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=881614)
+  * *Published on 12 Feb 2025*
 * [[Перевод] Глубокое погружение в процедуру запуска JVM](https://habr.com/ru/companies/spring_aio/articles/881128/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=881128)
   * *Published on 11 Feb 2025*
 * [Итоги года вместе с Amplicode](https://habr.com/ru/companies/haulmont/articles/879594/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=879594)
@@ -267,8 +271,4 @@ No recent activity
 * [Обновления в Swift Concurrency: что нас ждёт в Swift 6](https://habr.com/ru/companies/yandex/articles/879078/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=879078)
   * *Published on 6 Feb 2025*
 * [[Перевод] Spring Security: разберём по полочкам токены, фильтры и авторизацию (с диаграммами!)](https://habr.com/ru/companies/spring_aio/articles/879704/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=879704)
-  * *Published on 5 Feb 2025*
-* [Пост @timofeyev_vv — Блог компании Yandex Cloud &amp; Yandex Infrastructure — N/P](https://habr.com/ru/companies/yandex/posts/879620/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=879620)
-  * *Published on 5 Feb 2025*
-* [Ускорение LLM: универсальные методы для популярных архитектур](https://habr.com/ru/companies/yandex/articles/878230/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=878230)
   * *Published on 5 Feb 2025*
