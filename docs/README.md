@@ -252,6 +252,8 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Публикации по подписке](https://habr.com/ru/feed/)**
+* [[Перевод] Valhalla — эпичный рефакторинг Java. Часть 2: проблемы проекта и их решения](https://habr.com/ru/companies/spring_aio/articles/882690/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=882690)
+  * *Published on 14 Feb 2025*
 * [[Перевод] Секреты JVM: что происходит с ошибками под капотом](https://habr.com/ru/companies/spring_aio/articles/882196/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=882196)
   * *Published on 13 Feb 2025*
 * [Видишь суслика? А он есть! Как главная страница Яндекса переезжала на Go](https://habr.com/ru/companies/yandex/articles/871868/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=871868)
@@ -269,6 +271,4 @@ No recent activity
 * [Как запустить публичный сайт на телефоне или экономим на спичках](https://habr.com/ru/articles/879818/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=879818)
   * *Published on 6 Feb 2025*
 * [Яндекс добавил в Шедеврум возможность протестировать визуальную модель от DeepSeek](https://habr.com/ru/companies/yandex/news/879936/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=879936)
-  * *Published on 6 Feb 2025*
-* [Обновления в Swift Concurrency: что нас ждёт в Swift 6](https://habr.com/ru/companies/yandex/articles/879078/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=879078)
   * *Published on 6 Feb 2025*
