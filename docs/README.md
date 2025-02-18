@@ -252,6 +252,10 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Публикации по подписке](https://habr.com/ru/feed/)**
+* [Зарплаты IT-специалистов во второй половине 2024: +19% к предыдущему полугодию](https://habr.com/ru/specials/883242/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=883242)
+  * *Published on 17 Feb 2025*
+* [Как за 15 минут превратить таблицы БД в JPA-сущности (и не облажаться)](https://habr.com/ru/companies/haulmont/articles/875934/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=875934)
+  * *Published on 17 Feb 2025*
 * [Мой Maven plugin для IDEA часть 2. Перезагрузка или импорт проектов в IDEA без ошибок](https://habr.com/ru/articles/882778/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=882778)
   * *Published on 15 Feb 2025*
 * [[Перевод] Valhalla — эпичный рефакторинг Java. Часть 2: проблемы проекта и их решения](https://habr.com/ru/companies/spring_aio/articles/882690/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=882690)
@@ -268,7 +272,3 @@ No recent activity
   * *Published on 11 Feb 2025*
 * [Детские ошибки при сборке Gradle-приложений](https://habr.com/ru/companies/alfa/articles/876382/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=876382)
   * *Published on 10 Feb 2025*
-* [[Перевод] Flyway Baseline миграция без лишних слов: Что это и зачем нужно](https://habr.com/ru/companies/spring_aio/articles/880486/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=880486)
-  * *Published on 7 Feb 2025*
-* [Как запустить публичный сайт на телефоне или экономим на спичках](https://habr.com/ru/articles/879818/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=879818)
-  * *Published on 6 Feb 2025*
