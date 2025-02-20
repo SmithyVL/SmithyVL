@@ -252,6 +252,8 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Публикации по подписке](https://habr.com/ru/feed/)**
+* [C++26 — встреча ISO в Хагенберге](https://habr.com/ru/companies/yandex/articles/882518/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=882518)
+  * *Published on 19 Feb 2025*
 * [OpenStack на автопилоте: GitOps-подход к созданию виртуальных машин](https://habr.com/ru/companies/yadro/articles/883468/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=883468)
   * *Published on 18 Feb 2025*
 * [Секреты мобильной разработки в логистике: разгоняем MVVM до максимума](https://habr.com/ru/companies/yandex/articles/883202/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=883202)
@@ -260,15 +262,13 @@ No recent activity
   * *Published on 17 Feb 2025*
 * [Как за 15 минут превратить таблицы БД в JPA-сущности (и не облажаться)](https://habr.com/ru/companies/haulmont/articles/875934/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=875934)
   * *Published on 17 Feb 2025*
-* [Мой Maven plugin для IDEA часть 2. Перезагрузка или импорт проектов в IDEA без ошибок](https://habr.com/ru/articles/882778/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=882778)
+* [Мой Maven plugin для IDEA часть 2. Easy Maven — Перезагрузка или импорт проектов в IDEA без ошибок](https://habr.com/ru/articles/882778/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=882778)
   * *Published on 15 Feb 2025*
 * [[Перевод] Valhalla — эпичный рефакторинг Java. Часть 2: проблемы проекта и их решения](https://habr.com/ru/companies/spring_aio/articles/882690/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=882690)
   * *Published on 14 Feb 2025*
 * [[Перевод] Секреты JVM: что происходит с ошибками под капотом](https://habr.com/ru/companies/spring_aio/articles/882196/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=882196)
   * *Published on 13 Feb 2025*
+* [[Перевод] Junie – новый AI-агент от JetBrains. Junior разработчики больше не нужны](https://habr.com/ru/companies/spring_aio/articles/881288/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=881288)
+  * *Published on 12 Feb 2025*
 * [Видишь суслика? А он есть! Как главная страница Яндекса переезжала на Go](https://habr.com/ru/companies/yandex/articles/871868/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=871868)
   * *Published on 12 Feb 2025*
-* [Как исправлять ошибки в Git, не оставляя улик](https://habr.com/ru/articles/881614/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=881614)
-  * *Published on 12 Feb 2025*
-* [[Перевод] Глубокое погружение в процедуру запуска JVM](https://habr.com/ru/companies/spring_aio/articles/881128/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=881128)
-  * *Published on 11 Feb 2025*
