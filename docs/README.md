@@ -252,8 +252,14 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Публикации по подписке](https://habr.com/ru/feed/)**
+* [[Перевод] Valhalla — эпичный рефакторинг Java. Часть 3: наши первые результаты](https://habr.com/ru/companies/spring_aio/articles/884586/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=884586)
+  * *Published on 21 Feb 2025*
+* [Как мы создавали новый LLM-переводчик Яндекса](https://habr.com/ru/companies/yandex/articles/884416/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=884416)
+  * *Published on 21 Feb 2025*
 * [Explyt Spring plugin. Поддержка *.http файлов в IntelliJ IDEA Community](https://habr.com/ru/companies/explyt/articles/884280/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=884280)
   * *Published on 20 Feb 2025*
+* [[Перевод] Эволюция экосистемы Java под интеграцию ИИ](https://habr.com/ru/companies/spring_aio/articles/883964/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=883964)
+  * *Published on 19 Feb 2025*
 * [C++26 — встреча ISO в Хагенберге](https://habr.com/ru/companies/yandex/articles/882518/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=882518)
   * *Published on 19 Feb 2025*
 * [OpenStack на автопилоте: GitOps-подход к созданию виртуальных машин](https://habr.com/ru/companies/yadro/articles/883468/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=883468)
@@ -266,9 +272,3 @@ No recent activity
   * *Published on 17 Feb 2025*
 * [Мой Maven plugin для IDEA часть 2. Easy Maven — Перезагрузка или импорт проектов в IDEA без ошибок](https://habr.com/ru/articles/882778/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=882778)
   * *Published on 15 Feb 2025*
-* [[Перевод] Valhalla — эпичный рефакторинг Java. Часть 2: проблемы проекта и их решения](https://habr.com/ru/companies/spring_aio/articles/882690/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=882690)
-  * *Published on 14 Feb 2025*
-* [[Перевод] Секреты JVM: что происходит с ошибками под капотом](https://habr.com/ru/companies/spring_aio/articles/882196/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=882196)
-  * *Published on 13 Feb 2025*
-* [Видишь суслика? А он есть! Как главная страница Яндекса переезжала на Go](https://habr.com/ru/companies/yandex/articles/871868/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=871868)
-  * *Published on 12 Feb 2025*
