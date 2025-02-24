@@ -252,6 +252,8 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Публикации по подписке](https://habr.com/ru/feed/)**
+* [[Перевод] Парсер JSON в 500 строках Rust](https://habr.com/ru/companies/ruvds/articles/884262/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=884262)
+  * *Published on 23 Feb 2025*
 * [[Перевод] Valhalla — эпичный рефакторинг Java. Часть 3: наши первые результаты](https://habr.com/ru/companies/spring_aio/articles/884586/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=884586)
   * *Published on 21 Feb 2025*
 * [Как мы создавали новый LLM-переводчик Яндекса](https://habr.com/ru/companies/yandex/articles/884416/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=884416)
@@ -270,5 +272,3 @@ No recent activity
   * *Published on 17 Feb 2025*
 * [Как за 15 минут превратить таблицы БД в JPA-сущности (и не облажаться)](https://habr.com/ru/companies/haulmont/articles/875934/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=875934)
   * *Published on 17 Feb 2025*
-* [Мой Maven plugin для IDEA часть 2. Easy Maven — Перезагрузка или импорт проектов в IDEA без ошибок](https://habr.com/ru/articles/882778/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=882778)
-  * *Published on 15 Feb 2025*
