@@ -252,6 +252,8 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Публикации по подписке](https://habr.com/ru/feed/)**
+* [YTsaurus SPYT: как мы перешли от форка Apache Spark к использованию оригинальной версии](https://habr.com/ru/companies/yandex/articles/884442/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=884442)
+  * *Published on 24 Feb 2025*
 * [[Перевод] Парсер JSON в 500 строках Rust](https://habr.com/ru/companies/ruvds/articles/884262/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=884262)
   * *Published on 23 Feb 2025*
 * [[Перевод] Valhalla — эпичный рефакторинг Java. Часть 3: наши первые результаты](https://habr.com/ru/companies/spring_aio/articles/884586/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=884586)
@@ -260,8 +262,6 @@ No recent activity
   * *Published on 21 Feb 2025*
 * [Explyt Spring plugin. Поддержка *.http файлов в IntelliJ IDEA Community](https://habr.com/ru/companies/explyt/articles/884280/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=884280)
   * *Published on 20 Feb 2025*
-* [[Перевод] Эволюция экосистемы Java под интеграцию ИИ](https://habr.com/ru/companies/spring_aio/articles/883964/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=883964)
-  * *Published on 19 Feb 2025*
 * [C++26 — встреча ISO в Хагенберге](https://habr.com/ru/companies/yandex/articles/882518/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=882518)
   * *Published on 19 Feb 2025*
 * [OpenStack на автопилоте: GitOps-подход к созданию виртуальных машин](https://habr.com/ru/companies/yadro/articles/883468/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=883468)
