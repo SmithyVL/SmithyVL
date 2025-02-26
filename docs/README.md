@@ -252,6 +252,8 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Публикации по подписке](https://habr.com/ru/feed/)**
+* [Встречаем YandexGPT 5 — в Алисе, облаке и опенсорсе](https://habr.com/ru/companies/yandex/articles/885218/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=885218)
+  * *Published on 25 Feb 2025*
 * [YTsaurus SPYT: как мы перешли от форка Apache Spark к использованию оригинальной версии](https://habr.com/ru/companies/yandex/articles/884442/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=884442)
   * *Published on 24 Feb 2025*
 * [[Перевод] Парсер JSON в 500 строках Rust](https://habr.com/ru/companies/ruvds/articles/884262/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=884262)
@@ -269,6 +271,4 @@ No recent activity
 * [Секреты мобильной разработки в логистике: разгоняем MVVM до максимума](https://habr.com/ru/companies/yandex/articles/883202/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=883202)
   * *Published on 18 Feb 2025*
 * [Зарплаты IT-специалистов во второй половине 2024: +19% к предыдущему полугодию](https://habr.com/ru/specials/883242/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=883242)
-  * *Published on 17 Feb 2025*
-* [Как за 15 минут превратить таблицы БД в JPA-сущности (и не облажаться)](https://habr.com/ru/companies/haulmont/articles/875934/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=875934)
   * *Published on 17 Feb 2025*
