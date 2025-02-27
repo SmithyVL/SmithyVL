@@ -252,6 +252,8 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Публикации по подписке](https://habr.com/ru/feed/)**
+* [Догфудинг, ИИ-помощники, кодонавигация: самое интересное про SourceCraft, новую платформу для разработки от Яндекса](https://habr.com/ru/companies/yandex_cloud_and_infra/articles/885788/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=885788)
+  * *Published on 26 Feb 2025*
 * [Встречаем YandexGPT 5 — в Алисе, облаке и опенсорсе](https://habr.com/ru/companies/yandex/articles/885218/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=885218)
   * *Published on 25 Feb 2025*
 * [YTsaurus SPYT: как мы перешли от форка Apache Spark к использованию оригинальной версии](https://habr.com/ru/companies/yandex/articles/884442/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=884442)
@@ -270,5 +272,3 @@ No recent activity
   * *Published on 18 Feb 2025*
 * [Секреты мобильной разработки в логистике: разгоняем MVVM до максимума](https://habr.com/ru/companies/yandex/articles/883202/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=883202)
   * *Published on 18 Feb 2025*
-* [Зарплаты IT-специалистов во второй половине 2024: +19% к предыдущему полугодию](https://habr.com/ru/specials/883242/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=883242)
-  * *Published on 17 Feb 2025*
