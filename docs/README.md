@@ -252,6 +252,12 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Публикации по подписке](https://habr.com/ru/feed/)**
+* [[Перевод] Как конфигурировать Git](https://habr.com/ru/articles/886538/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=886538)
+  * *Published on 27 Feb 2025*
+* [Сотрудник Disney скачал с GitHub бесплатный ИИ-инструмент, что привело к масштабной утечке данных компании](https://habr.com/ru/news/886324/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=886324)
+  * *Published on 27 Feb 2025*
+* [[Перевод] За кулисами JIT: Секреты HotSpot JVM C2 компилятора (Часть 1)](https://habr.com/ru/companies/spring_aio/articles/886142/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=886142)
+  * *Published on 26 Feb 2025*
 * [Догфудинг, ИИ-помощники, кодонавигация: самое интересное про SourceCraft, новую платформу для разработки от Яндекса](https://habr.com/ru/companies/yandex_cloud_and_infra/articles/885788/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=885788)
   * *Published on 26 Feb 2025*
 * [Встречаем YandexGPT 5 — в Алисе, облаке и опенсорсе](https://habr.com/ru/companies/yandex/articles/885218/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=885218)
@@ -266,9 +272,3 @@ No recent activity
   * *Published on 21 Feb 2025*
 * [Explyt Spring plugin. Поддержка *.http файлов в IntelliJ IDEA Community](https://habr.com/ru/companies/explyt/articles/884280/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=884280)
   * *Published on 20 Feb 2025*
-* [C++26 — встреча ISO в Хагенберге](https://habr.com/ru/companies/yandex/articles/882518/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=882518)
-  * *Published on 19 Feb 2025*
-* [OpenStack на автопилоте: GitOps-подход к созданию виртуальных машин](https://habr.com/ru/companies/yadro/articles/883468/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=883468)
-  * *Published on 18 Feb 2025*
-* [Секреты мобильной разработки в логистике: разгоняем MVVM до максимума](https://habr.com/ru/companies/yandex/articles/883202/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=883202)
-  * *Published on 18 Feb 2025*
