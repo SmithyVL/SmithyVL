@@ -252,6 +252,8 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Публикации по подписке](https://habr.com/ru/feed/)**
+* [3D Pose Estimation объектов фиксированной геометрии для складских роботов](https://habr.com/ru/companies/yandex/articles/886316/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=886316)
+  * *Published on 28 Feb 2025*
 * [[Перевод] Как конфигурировать Git](https://habr.com/ru/articles/886538/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=886538)
   * *Published on 27 Feb 2025*
 * [Сотрудник Disney скачал с GitHub бесплатный ИИ-инструмент, что привело к масштабной утечке данных компании](https://habr.com/ru/news/886324/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=886324)
@@ -270,5 +272,3 @@ No recent activity
   * *Published on 21 Feb 2025*
 * [Как мы создавали новый LLM-переводчик Яндекса](https://habr.com/ru/companies/yandex/articles/884416/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=884416)
   * *Published on 21 Feb 2025*
-* [Explyt Spring plugin. Поддержка *.http файлов в IntelliJ IDEA Community](https://habr.com/ru/companies/explyt/articles/884280/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=884280)
-  * *Published on 20 Feb 2025*
