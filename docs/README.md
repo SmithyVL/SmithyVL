@@ -252,6 +252,10 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Публикации по подписке](https://habr.com/ru/feed/)**
+* [Борьба с HM70](https://habr.com/ru/articles/886978/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=886978)
+  * *Published on 1 Mar 2025*
+* [Spring Now 2025 – Главная конференция про Spring на русском языке](https://habr.com/ru/companies/spring_aio/articles/886906/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=886906)
+  * *Published on 1 Mar 2025*
 * [3D Pose Estimation объектов фиксированной геометрии для складских роботов](https://habr.com/ru/companies/yandex/articles/886316/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=886316)
   * *Published on 28 Feb 2025*
 * [[Перевод] Как конфигурировать Git](https://habr.com/ru/articles/886538/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=886538)
@@ -268,7 +272,3 @@ No recent activity
   * *Published on 24 Feb 2025*
 * [[Перевод] Парсер JSON в 500 строках Rust](https://habr.com/ru/companies/ruvds/articles/884262/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=884262)
   * *Published on 23 Feb 2025*
-* [[Перевод] Valhalla — эпичный рефакторинг Java. Часть 3: наши первые результаты](https://habr.com/ru/companies/spring_aio/articles/884586/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=884586)
-  * *Published on 21 Feb 2025*
-* [Как мы создавали новый LLM-переводчик Яндекса](https://habr.com/ru/companies/yandex/articles/884416/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=884416)
-  * *Published on 21 Feb 2025*
