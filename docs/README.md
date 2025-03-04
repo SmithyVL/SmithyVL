@@ -252,6 +252,8 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Публикации по подписке](https://habr.com/ru/feed/)**
+* [ProcaaS в бэкенде: как этот принцип помогает заказам выживать](https://habr.com/ru/companies/yandex/articles/886608/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=886608)
+  * *Published on 3 Mar 2025*
 * [Борьба с HM70](https://habr.com/ru/articles/886978/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=886978)
   * *Published on 1 Mar 2025*
 * [Spring Now 2025 – Главная конференция про Spring на русском языке](https://habr.com/ru/companies/spring_aio/articles/886906/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=886906)
@@ -270,5 +272,3 @@ No recent activity
   * *Published on 25 Feb 2025*
 * [YTsaurus SPYT: как мы перешли от форка Apache Spark к использованию оригинальной версии](https://habr.com/ru/companies/yandex/articles/884442/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=884442)
   * *Published on 24 Feb 2025*
-* [[Перевод] Парсер JSON в 500 строках Rust](https://habr.com/ru/companies/ruvds/articles/884262/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=884262)
-  * *Published on 23 Feb 2025*
