@@ -252,6 +252,8 @@ No recent activity
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Публикации по подписке](https://habr.com/ru/feed/)**
+* [NeurIPS: тренды, инсайты и самые интересные статьи главной ML-конференции года](https://habr.com/ru/companies/yandex/articles/888160/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=888160)
+  * *Published on 7 Mar 2025*
 * [Как Яндекс запускает роботов-доставщиков в новых районах и городах](https://habr.com/ru/companies/yandex/articles/887684/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=887684)
   * *Published on 6 Mar 2025*
 * [От каскадных моделей до картинок в 4к: как эволюционировали диффузионки](https://habr.com/ru/companies/yandex/articles/886466/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=886466)
@@ -270,5 +272,3 @@ No recent activity
   * *Published on 27 Feb 2025*
 * [Сотрудник Disney скачал с GitHub бесплатный ИИ-инструмент, что привело к масштабной утечке данных компании](https://habr.com/ru/news/886324/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=886324)
   * *Published on 27 Feb 2025*
-* [[Перевод] За кулисами JIT: Секреты HotSpot JVM C2 компилятора (Часть 1)](https://habr.com/ru/companies/spring_aio/articles/886142/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=886142)
-  * *Published on 26 Feb 2025*
