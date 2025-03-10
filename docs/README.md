@@ -247,7 +247,12 @@
 
 ## 📋 Недавняя активность
 **[📰 Recent activity](https://github.com/SmithyVL)**
-No recent activity
+* 🌟 Starred [Kotlin/kotlinx.coroutines](https://github.com/Kotlin/kotlinx.coroutines)
+  * *On 9 Mar 2025, 22:46:34*
+* 🌟 Starred [JetBrains/kotlin](https://github.com/JetBrains/kotlin)
+  * *On 9 Mar 2025, 22:45:51*
+* 🌟 Starred [kordlib/kord](https://github.com/kordlib/kord)
+  * *On 9 Mar 2025, 22:37:00*
 
 
 ## 📰 Новостная лента
