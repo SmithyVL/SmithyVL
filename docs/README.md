@@ -257,6 +257,8 @@
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Публикации по подписке](https://habr.com/ru/feed/)**
+* [[Перевод] Я мучился с Git, поэтому создал про него игру](https://habr.com/ru/companies/ruvds/articles/889578/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=889578)
+  * *Published on 10 Mar 2025*
 * [NeurIPS: тренды, инсайты и самые интересные статьи главной ML-конференции года](https://habr.com/ru/companies/yandex/articles/888160/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=888160)
   * *Published on 7 Mar 2025*
 * [Как Яндекс запускает роботов-доставщиков в новых районах и городах](https://habr.com/ru/companies/yandex/articles/887684/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=887684)
@@ -274,6 +276,4 @@
 * [3D Pose Estimation объектов фиксированной геометрии для складских роботов](https://habr.com/ru/companies/yandex/articles/886316/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=886316)
   * *Published on 28 Feb 2025*
 * [[Перевод] Как конфигурировать Git](https://habr.com/ru/articles/886538/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=886538)
-  * *Published on 27 Feb 2025*
-* [Сотрудник Disney скачал с GitHub бесплатный ИИ-инструмент, что привело к масштабной утечке данных компании](https://habr.com/ru/news/886324/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=886324)
   * *Published on 27 Feb 2025*
