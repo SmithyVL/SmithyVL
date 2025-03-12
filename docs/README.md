@@ -257,6 +257,10 @@
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Публикации по подписке](https://habr.com/ru/feed/)**
+* [Почему мы построили монолит на чистой архитектуре. И почему это взбесило системных аналитиков](https://habr.com/ru/companies/agima/articles/889962/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=889962)
+  * *Published on 11 Mar 2025*
+* [Доставка день в день: погружение в базовые алгоритмы поиска и назначения курьеров в Яндекс Доставке](https://habr.com/ru/companies/yandex/articles/887484/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=887484)
+  * *Published on 11 Mar 2025*
 * [[Перевод] Я мучился с Git, поэтому создал про него игру](https://habr.com/ru/companies/ruvds/articles/889578/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=889578)
   * *Published on 10 Mar 2025*
 * [NeurIPS: тренды, инсайты и самые интересные статьи главной ML-конференции года](https://habr.com/ru/companies/yandex/articles/888160/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=888160)
@@ -273,7 +277,3 @@
   * *Published on 1 Mar 2025*
 * [Spring Now 2025 – Главная конференция про Spring на русском языке](https://habr.com/ru/companies/spring_aio/articles/886906/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=886906)
   * *Published on 1 Mar 2025*
-* [3D Pose Estimation объектов фиксированной геометрии для складских роботов](https://habr.com/ru/companies/yandex/articles/886316/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=886316)
-  * *Published on 28 Feb 2025*
-* [[Перевод] Как конфигурировать Git](https://habr.com/ru/articles/886538/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=886538)
-  * *Published on 27 Feb 2025*
