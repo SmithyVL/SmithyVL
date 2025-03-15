@@ -261,6 +261,8 @@
   * *Published on 13 Mar 2025*
 * [Как развернуть свой GitLab с CI/CD, используя IaC](https://habr.com/ru/companies/selectel/articles/890196/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=890196)
   * *Published on 12 Mar 2025*
+* [Подтвердите знание своих навыков](https://habr.com/ru/companies/habr_career/articles/889916/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=889916)
+  * *Published on 11 Mar 2025*
 * [Доставка день в день: погружение в базовые алгоритмы поиска и назначения курьеров в Яндекс Доставке](https://habr.com/ru/companies/yandex/articles/887484/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=887484)
   * *Published on 11 Mar 2025*
 * [[Перевод] Я мучился с Git, поэтому создал про него игру](https://habr.com/ru/companies/ruvds/articles/889578/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=889578)
@@ -275,5 +277,3 @@
   * *Published on 3 Mar 2025*
 * [Processing as a Service в бэкенде: как этот принцип помогает заказам выживать](https://habr.com/ru/companies/yandex/articles/886608/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=886608)
   * *Published on 3 Mar 2025*
-* [Борьба с HM70](https://habr.com/ru/articles/886978/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=886978)
-  * *Published on 1 Mar 2025*
