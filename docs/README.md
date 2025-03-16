@@ -247,6 +247,8 @@
 
 ## 📋 Недавняя активность
 **[📰 Recent activity](https://github.com/SmithyVL)**
+* 🌟 Starred [flutter/flutter](https://github.com/flutter/flutter)
+  * *On 16 Mar 2025, 00:32:10*
 * 🌟 Starred [Kotlin/kotlinx.coroutines](https://github.com/Kotlin/kotlinx.coroutines)
   * *On 9 Mar 2025, 22:46:34*
 * 🌟 Starred [JetBrains/kotlin](https://github.com/JetBrains/kotlin)
@@ -257,6 +259,12 @@
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Публикации по подписке](https://habr.com/ru/feed/)**
+* [Ansible-pull и GitLab CI/CD: когда лучше тянуть, чем толкать](https://habr.com/ru/articles/890276/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=890276)
+  * *Published on 15 Mar 2025*
+* [GitHub перевёл репозитории проекта Organic Maps в архивный режим из-за санкций против одного из разработчиков проекта](https://habr.com/ru/news/891162/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=891162)
+  * *Published on 15 Mar 2025*
+* [Развертывание виртуальной машины Windows 10 на Ubuntu с доступом через noVNC](https://habr.com/ru/articles/890984/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=890984)
+  * *Published on 14 Mar 2025*
 * [История Ultimate Play the Game — легендарного разработчика игр для ZX Spectrum](https://habr.com/ru/companies/yandex/articles/889936/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=889936)
   * *Published on 13 Mar 2025*
 * [Как развернуть свой GitLab с CI/CD, используя IaC](https://habr.com/ru/companies/selectel/articles/890196/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=890196)
@@ -271,9 +279,3 @@
   * *Published on 7 Mar 2025*
 * [Как Яндекс запускает роботов-доставщиков в новых районах и городах](https://habr.com/ru/companies/yandex/articles/887684/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=887684)
   * *Published on 6 Mar 2025*
-* [От каскадных моделей до картинок в 4к: как эволюционировали диффузионки](https://habr.com/ru/companies/yandex/articles/886466/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=886466)
-  * *Published on 4 Mar 2025*
-* [Заезжаем в Kotlin Multiplatform. Но какой ценой?](https://habr.com/ru/articles/887574/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=887574)
-  * *Published on 3 Mar 2025*
-* [Processing as a Service в бэкенде: как этот принцип помогает заказам выживать](https://habr.com/ru/companies/yandex/articles/886608/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=886608)
-  * *Published on 3 Mar 2025*
