@@ -263,6 +263,8 @@
   * *Published on 15 Mar 2025*
 * [GitHub перевёл репозитории проекта Organic Maps в архивный режим из-за санкций против одного из разработчиков проекта](https://habr.com/ru/news/891162/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=891162)
   * *Published on 15 Mar 2025*
+* [Git для самых маленьких. От первой команды до настройки SSH](https://habr.com/ru/articles/891050/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=891050)
+  * *Published on 14 Mar 2025*
 * [Развертывание виртуальной машины Windows 10 на Ubuntu с доступом через noVNC](https://habr.com/ru/articles/890984/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=890984)
   * *Published on 14 Mar 2025*
 * [История Ultimate Play the Game — легендарного разработчика игр для ZX Spectrum](https://habr.com/ru/companies/yandex/articles/889936/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=889936)
@@ -277,5 +279,3 @@
   * *Published on 10 Mar 2025*
 * [NeurIPS: тренды, инсайты и самые интересные статьи главной ML-конференции года](https://habr.com/ru/companies/yandex/articles/888160/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=888160)
   * *Published on 7 Mar 2025*
-* [Как Яндекс запускает роботов-доставщиков в новых районах и городах](https://habr.com/ru/companies/yandex/articles/887684/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=887684)
-  * *Published on 6 Mar 2025*
