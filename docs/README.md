@@ -259,6 +259,8 @@
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Публикации по подписке](https://habr.com/ru/feed/)**
+* [[Перевод] Идеи ничего не стоят](https://habr.com/ru/companies/spring_aio/articles/891436/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=891436)
+  * *Published on 17 Mar 2025*
 * [Ansible-pull и GitLab CI/CD: когда лучше тянуть, чем толкать](https://habr.com/ru/articles/890276/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=890276)
   * *Published on 15 Mar 2025*
 * [GitHub перевёл репозитории проекта Organic Maps в архивный режим из-за санкций против одного из разработчиков проекта](https://habr.com/ru/news/891162/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=891162)
@@ -267,6 +269,8 @@
   * *Published on 14 Mar 2025*
 * [Развертывание виртуальной машины Windows 10 на Ubuntu с доступом через noVNC](https://habr.com/ru/articles/890984/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=890984)
   * *Published on 14 Mar 2025*
+* [[Перевод] Null-safety в Spring приложении с JSpecify и NullAway](https://habr.com/ru/companies/spring_aio/articles/890558/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=890558)
+  * *Published on 13 Mar 2025*
 * [История Ultimate Play the Game — легендарного разработчика игр для ZX Spectrum](https://habr.com/ru/companies/yandex/articles/889936/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=889936)
   * *Published on 13 Mar 2025*
 * [Как развернуть свой GitLab с CI/CD, используя IaC](https://habr.com/ru/companies/selectel/articles/890196/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=890196)
@@ -275,7 +279,3 @@
   * *Published on 11 Mar 2025*
 * [Доставка день в день: погружение в базовые алгоритмы поиска и назначения курьеров в Яндекс Доставке](https://habr.com/ru/companies/yandex/articles/887484/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=887484)
   * *Published on 11 Mar 2025*
-* [[Перевод] Я мучился с Git, поэтому создал про него игру](https://habr.com/ru/companies/ruvds/articles/889578/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=889578)
-  * *Published on 10 Mar 2025*
-* [NeurIPS: тренды, инсайты и самые интересные статьи главной ML-конференции года](https://habr.com/ru/companies/yandex/articles/888160/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=888160)
-  * *Published on 7 Mar 2025*
