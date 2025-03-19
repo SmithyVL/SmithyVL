@@ -259,6 +259,10 @@
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Публикации по подписке](https://habr.com/ru/feed/)**
+* [Команда ALT Linux запустила сервис хостинга Git-проектов ALT Linux Forgejo](https://habr.com/ru/news/891946/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=891946)
+  * *Published on 18 Mar 2025*
+* [Скриншотное тестирование во фронтенде: современный подход к поиску визуальных багов](https://habr.com/ru/companies/yandex/articles/890548/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=890548)
+  * *Published on 18 Mar 2025*
 * [[Перевод] Идеи ничего не стоят](https://habr.com/ru/companies/spring_aio/articles/891436/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=891436)
   * *Published on 17 Mar 2025*
 * [Ansible-pull и GitLab CI/CD: когда лучше тянуть, чем толкать](https://habr.com/ru/articles/890276/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=890276)
@@ -275,7 +279,3 @@
   * *Published on 13 Mar 2025*
 * [Как развернуть свой GitLab с CI/CD, используя IaC](https://habr.com/ru/companies/selectel/articles/890196/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=890196)
   * *Published on 12 Mar 2025*
-* [Подтвердите знание своих навыков](https://habr.com/ru/companies/habr_career/articles/889916/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=889916)
-  * *Published on 11 Mar 2025*
-* [Доставка день в день: погружение в базовые алгоритмы поиска и назначения курьеров в Яндекс Доставке](https://habr.com/ru/companies/yandex/articles/887484/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=887484)
-  * *Published on 11 Mar 2025*
