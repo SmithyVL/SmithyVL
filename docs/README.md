@@ -259,6 +259,10 @@
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Публикации по подписке](https://habr.com/ru/feed/)**
+* [Твой худший коммит в git](https://habr.com/ru/companies/softonit/articles/892386/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=892386)
+  * *Published on 19 Mar 2025*
+* [Релиз открытого моноширинного шрифта Maple Mono Font v7.0 для использования при работе с кодом](https://habr.com/ru/news/891974/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=891974)
+  * *Published on 18 Mar 2025*
 * [Команда ALT Linux запустила сервис хостинга Git-проектов ALT Linux Forgejo](https://habr.com/ru/news/891946/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=891946)
   * *Published on 18 Mar 2025*
 * [Скриншотное тестирование во фронтенде: современный подход к поиску визуальных багов](https://habr.com/ru/companies/yandex/articles/890548/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=890548)
@@ -275,7 +279,3 @@
   * *Published on 14 Mar 2025*
 * [[Перевод] Null-safety в Spring приложении с JSpecify и NullAway](https://habr.com/ru/companies/spring_aio/articles/890558/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=890558)
   * *Published on 13 Mar 2025*
-* [История Ultimate Play the Game — легендарного разработчика игр для ZX Spectrum](https://habr.com/ru/companies/yandex/articles/889936/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=889936)
-  * *Published on 13 Mar 2025*
-* [Как развернуть свой GitLab с CI/CD, используя IaC](https://habr.com/ru/companies/selectel/articles/890196/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=890196)
-  * *Published on 12 Mar 2025*
