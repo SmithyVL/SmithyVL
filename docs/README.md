@@ -259,6 +259,14 @@
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Публикации по подписке](https://habr.com/ru/feed/)**
+* [Создаём многомодульную библиотеку на Android: как же собрать fat-aar?](https://habr.com/ru/companies/sravni/articles/892416/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=892416)
+  * *Published on 20 Mar 2025*
+* [[Перевод] Эффективный подход к тестированию веб-контроллеров в Spring Boot приложениях](https://habr.com/ru/companies/spring_aio/articles/892194/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=892194)
+  * *Published on 20 Mar 2025*
+* [Яндекс представил новую линейку диффузионных моделей YandexART 2.5](https://habr.com/ru/companies/yandex/news/892532/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=892532)
+  * *Published on 20 Mar 2025*
+* [Demeter в опенсорсе: реактивное профилирование Android-приложений](https://habr.com/ru/companies/yandex/articles/891592/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=891592)
+  * *Published on 20 Mar 2025*
 * [Твой худший коммит в git](https://habr.com/ru/companies/softonit/articles/892386/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=892386)
   * *Published on 19 Mar 2025*
 * [Релиз открытого моноширинного шрифта Maple Mono Font v7.0 для использования при работе с кодом](https://habr.com/ru/news/891974/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=891974)
@@ -271,11 +279,3 @@
   * *Published on 17 Mar 2025*
 * [Ansible-pull и GitLab CI/CD: когда лучше тянуть, чем толкать](https://habr.com/ru/articles/890276/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=890276)
   * *Published on 15 Mar 2025*
-* [GitHub перевёл репозитории проекта Organic Maps в архивный режим из-за санкций против одного из разработчиков проекта](https://habr.com/ru/news/891162/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=891162)
-  * *Published on 15 Mar 2025*
-* [Git для самых маленьких. От первой команды до настройки SSH](https://habr.com/ru/articles/891050/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=891050)
-  * *Published on 14 Mar 2025*
-* [Развертывание виртуальной машины Windows 10 на Ubuntu с доступом через noVNC](https://habr.com/ru/articles/890984/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=890984)
-  * *Published on 14 Mar 2025*
-* [[Перевод] Null-safety в Spring приложении с JSpecify и NullAway](https://habr.com/ru/companies/spring_aio/articles/890558/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=890558)
-  * *Published on 13 Mar 2025*
